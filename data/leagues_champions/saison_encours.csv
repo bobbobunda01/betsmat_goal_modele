@@ -1,0 +1,246 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+champions_league,2025,2025-07-08,KuPS,Milsami Orhei,1,0,0,0,H
+champions_league,2025,2025-07-08,Saburtalo,Malmo FF,1,3,0,1,A
+champions_league,2025,2025-07-08,FC Noah,Buducnost Podgorica,1,0,0,0,H
+champions_league,2025,2025-07-08,FC Levadia Tallinn,Rīgas FS,0,1,0,0,A
+champions_league,2025,2025-07-08,Olimpija Ljubljana,Kairat Almaty,1,1,0,0,D
+champions_league,2025,2025-07-08,The New Saints,Shkendija,0,0,0,0,D
+champions_league,2025,2025-07-08,Vikingur Gota,Lincoln Red Imps FC,2,3,2,3,A
+champions_league,2025,2025-07-08,Drita,FC Differdange 03,1,0,0,0,H
+champions_league,2025,2025-07-08,Egnatia Rrogozhinë,Breidablik,1,0,0,0,H
+champions_league,2025,2025-07-08,Virtus,Zrinjski,0,2,0,1,A
+champions_league,2025,2025-07-09,FK Zalgiris Vilnius,Hamrun Spartans,2,0,0,0,H
+champions_league,2025,2025-07-09,FCSB,Inter Club d'Escaldes,3,1,2,0,H
+champions_league,2025,2025-07-09,Ludogorets,Dinamo Minsk,1,0,0,0,H
+champions_league,2025,2025-07-09,Shelbourne,Linfield,1,0,0,0,H
+champions_league,2025,2025-07-15,Kairat Almaty,Olimpija Ljubljana,2,0,2,0,H
+champions_league,2025,2025-07-15,Lincoln Red Imps FC,Vikingur Gota,1,0,0,0,H
+champions_league,2025,2025-07-15,Malmo FF,Saburtalo,3,1,0,0,H
+champions_league,2025,2025-07-15,Milsami Orhei,KuPS,0,0,0,0,D
+champions_league,2025,2025-07-15,Rīgas FS,FC Levadia Tallinn,1,0,0,0,H
+champions_league,2025,2025-07-15,FC Differdange 03,Drita,2,3,1,2,A
+champions_league,2025,2025-07-15,Inter Club d'Escaldes,FCSB,2,1,0,0,H
+champions_league,2025,2025-07-15,Breidablik,Egnatia Rrogozhinë,5,0,4,0,H
+champions_league,2025,2025-07-15,Buducnost Podgorica,FC Noah,2,2,0,2,D
+champions_league,2025,2025-07-15,Zrinjski,Virtus,2,1,1,0,H
+champions_league,2025,2025-07-16,Linfield,Shelbourne,1,1,1,1,D
+champions_league,2025,2025-07-22,KuPS,Kairat Almaty,2,0,0,0,H
+champions_league,2025,2025-07-22,Lincoln Red Imps FC,FK Crvena Zvezda,0,1,0,1,A
+champions_league,2025,2025-07-22,FC Noah,Ferencvarosi TC,1,2,1,1,A
+champions_league,2025,2025-07-22,FC Copenhagen,Drita,2,0,0,0,H
+champions_league,2025,2025-07-22,Plzen,Servette FC,0,1,0,1,A
+champions_league,2025,2025-07-22,Pafos,Maccabi Tel Aviv,1,1,0,0,D
+champions_league,2025,2025-07-22,Rīgas FS,Malmo FF,1,4,1,2,A
+champions_league,2025,2025-07-22,Hamrun Spartans,Dynamo Kyiv,0,3,0,1,A
+champions_league,2025,2025-07-22,Shkendija,FCSB,1,0,0,0,H
+champions_league,2025,2025-07-22,Slovan Bratislava,Zrinjski,4,0,2,0,H
+champions_league,2025,2025-07-22,Lech Poznan,Breidablik,7,1,5,1,H
+champions_league,2025,2025-07-22,Rangers,Panathinaikos,2,0,0,0,H
+champions_league,2025,2025-07-22,HNK Rijeka,Ludogorets,0,0,0,0,D
+champions_league,2025,2025-07-23,Brann,Red Bull Salzburg,1,4,1,0,A
+champions_league,2025,2025-07-23,Shelbourne,Qarabag,0,3,0,1,A
+champions_league,2025,2025-07-29,Kairat Almaty,KuPS,3,0,3,0,H
+champions_league,2025,2025-07-29,Dynamo Kyiv,Hamrun Spartans,3,0,2,0,H
+champions_league,2025,2025-07-29,Drita,FC Copenhagen,0,1,0,1,A
+champions_league,2025,2025-07-29,Zrinjski,Slovan Bratislava,2,2,0,0,D
+champions_league,2025,2025-07-29,FK Crvena Zvezda,Lincoln Red Imps FC,5,1,4,0,H
+champions_league,2025,2025-07-30,Qarabag,Shelbourne,1,0,1,0,H
+champions_league,2025,2025-07-30,Malmo FF,Rīgas FS,1,0,1,0,H
+champions_league,2025,2025-07-30,FCSB,Shkendija,1,2,1,1,A
+champions_league,2025,2025-07-30,Maccabi Tel Aviv,Pafos,0,1,0,1,A
+champions_league,2025,2025-07-30,Panathinaikos,Rangers,1,1,0,0,D
+champions_league,2025,2025-07-30,Ferencvarosi TC,FC Noah,4,3,2,2,H
+champions_league,2025,2025-07-30,Breidablik,Lech Poznan,0,1,0,1,A
+champions_league,2025,2025-07-30,Red Bull Salzburg,Brann,1,1,1,1,D
+champions_league,2025,2025-07-30,Servette FC,Plzen,1,3,1,2,A
+champions_league,2025,2025-08-05,Malmo FF,FC Copenhagen,0,0,0,0,D
+champions_league,2025,2025-08-05,Dynamo Kyiv,Pafos,0,1,0,0,A
+champions_league,2025,2025-08-05,Shkendija,Qarabag,0,1,0,1,A
+champions_league,2025,2025-08-05,Rangers,Plzen,3,0,2,0,H
+champions_league,2025,2025-08-06,Kairat Almaty,Slovan Bratislava,1,0,0,0,H
+champions_league,2025,2025-08-06,Red Bull Salzburg,Club Brugge KV,0,1,0,0,A
+champions_league,2025,2025-08-06,Ludogorets,Ferencvarosi TC,0,0,0,0,D
+champions_league,2025,2025-08-06,Lech Poznan,FK Crvena Zvezda,1,3,1,1,A
+champions_league,2025,2025-08-06,Nice,Benfica,0,2,0,0,A
+champions_league,2025,2025-08-06,Feyenoord,Fenerbahçe,2,1,1,0,H
+champions_league,2025,2025-08-12,Qarabag,Shkendija,5,1,4,1,H
+champions_league,2025,2025-08-12,FC Copenhagen,Malmo FF,5,0,2,0,H
+champions_league,2025,2025-08-12,Plzen,Rangers,2,1,1,0,H
+champions_league,2025,2025-08-12,Fenerbahçe,Feyenoord,5,2,2,1,H
+champions_league,2025,2025-08-12,Pafos,Dynamo Kyiv,2,0,1,0,H
+champions_league,2025,2025-08-12,Club Brugge KV,Red Bull Salzburg,3,2,0,2,H
+champions_league,2025,2025-08-12,Ferencvarosi TC,Ludogorets,3,0,1,0,H
+champions_league,2025,2025-08-12,Benfica,Nice,2,0,2,0,H
+champions_league,2025,2025-08-12,FK Crvena Zvezda,Lech Poznan,1,1,1,0,D
+champions_league,2025,2025-08-19,Rangers,Club Brugge KV,1,3,0,3,A
+champions_league,2025,2025-08-19,FK Crvena Zvezda,Pafos,1,2,0,1,A
+champions_league,2025,2025-08-19,Ferencvarosi TC,Qarabag,1,3,1,0,A
+champions_league,2025,2025-08-20,Celtic,Kairat Almaty,0,0,0,0,D
+champions_league,2025,2025-08-20,Bodo/Glimt,Sturm Graz,5,0,3,0,H
+champions_league,2025,2025-08-20,FC Basel 1893,FC Copenhagen,1,1,1,1,D
+champions_league,2025,2025-08-20,Fenerbahçe,Benfica,0,0,0,0,D
+champions_league,2025,2025-08-26,Sturm Graz,Bodo/Glimt,2,1,1,1,H
+champions_league,2025,2025-08-26,Pafos,FK Crvena Zvezda,1,1,0,0,D
+champions_league,2025,2025-08-27,Qarabag,Ferencvarosi TC,2,3,2,1,A
+champions_league,2025,2025-08-27,Benfica,Fenerbahçe,1,0,1,0,H
+champions_league,2025,2025-08-27,FC Copenhagen,FC Basel 1893,2,0,0,0,H
+champions_league,2025,2025-08-27,Club Brugge KV,Rangers,6,0,5,0,H
+champions_league,2025,2025-09-16,PSV Eindhoven,Union St. Gilloise,1,3,0,2,A
+champions_league,2025,2025-09-16,Athletic Club,Arsenal,0,2,0,0,A
+champions_league,2025,2025-09-16,Tottenham,Villarreal,1,0,1,0,H
+champions_league,2025,2025-09-16,Benfica,Qarabag,2,3,2,1,A
+champions_league,2025,2025-09-16,Juventus,Borussia Dortmund,4,4,0,0,D
+champions_league,2025,2025-09-16,Real Madrid,Marseille,2,1,1,1,H
+champions_league,2025,2025-09-17,Olympiakos Piraeus,Pafos,0,0,0,0,D
+champions_league,2025,2025-09-17,Slavia Praha,Bodo/Glimt,2,2,1,0,D
+champions_league,2025,2025-09-17,Liverpool,Atletico Madrid,3,2,2,1,H
+champions_league,2025,2025-09-17,Paris Saint Germain,Atalanta,4,0,2,0,H
+champions_league,2025,2025-09-17,Bayern München,Chelsea,3,1,2,1,H
+champions_league,2025,2025-09-17,Ajax,Inter,0,2,0,1,A
+champions_league,2025,2025-09-18,FC Copenhagen,Bayer Leverkusen,2,2,1,0,D
+champions_league,2025,2025-09-18,Club Brugge KV,Monaco,4,1,3,0,H
+champions_league,2025,2025-09-18,Newcastle,Barcelona,1,2,0,0,A
+champions_league,2025,2025-09-18,Manchester City,Napoli,2,0,0,0,H
+champions_league,2025,2025-09-18,Eintracht Frankfurt,Galatasaray,5,1,3,1,H
+champions_league,2025,2025-09-18,Sporting CP,Kairat Almaty,4,1,1,0,H
+champions_league,2025,2025-09-30,Atalanta,Club Brugge KV,2,1,0,1,H
+champions_league,2025,2025-09-30,Kairat Almaty,Real Madrid,0,5,0,1,A
+champions_league,2025,2025-09-30,Chelsea,Benfica,1,0,1,0,H
+champions_league,2025,2025-09-30,Marseille,Ajax,4,0,3,0,H
+champions_league,2025,2025-09-30,Bodo/Glimt,Tottenham,2,2,0,0,D
+champions_league,2025,2025-09-30,Inter,Slavia Praha,3,0,2,0,H
+champions_league,2025,2025-09-30,Atletico Madrid,Eintracht Frankfurt,5,1,3,0,H
+champions_league,2025,2025-09-30,Galatasaray,Liverpool,1,0,1,0,H
+champions_league,2025,2025-09-30,Pafos,Bayern München,1,5,1,4,A
+champions_league,2025,2025-10-01,Qarabag,FC Copenhagen,2,0,1,0,H
+champions_league,2025,2025-10-01,Union St. Gilloise,Newcastle,0,4,0,2,A
+champions_league,2025,2025-10-01,Arsenal,Olympiakos Piraeus,2,0,1,0,H
+champions_league,2025,2025-10-01,Monaco,Manchester City,2,2,1,2,D
+champions_league,2025,2025-10-01,Borussia Dortmund,Athletic Club,4,1,1,0,H
+champions_league,2025,2025-10-01,Bayer Leverkusen,PSV Eindhoven,1,1,0,0,D
+champions_league,2025,2025-10-01,Napoli,Sporting CP,2,1,1,0,H
+champions_league,2025,2025-10-01,Barcelona,Paris Saint Germain,1,2,1,1,A
+champions_league,2025,2025-10-01,Villarreal,Juventus,2,2,1,0,D
+champions_league,2025,2025-10-21,Barcelona,Olympiakos Piraeus,6,1,2,0,H
+champions_league,2025,2025-10-21,Kairat Almaty,Pafos,0,0,0,0,D
+champions_league,2025,2025-10-21,Newcastle,Benfica,3,0,1,0,H
+champions_league,2025,2025-10-21,Arsenal,Atletico Madrid,4,0,0,0,H
+champions_league,2025,2025-10-21,Bayer Leverkusen,Paris Saint Germain,2,7,1,4,A
+champions_league,2025,2025-10-21,PSV Eindhoven,Napoli,6,2,2,1,H
+champions_league,2025,2025-10-21,FC Copenhagen,Borussia Dortmund,2,4,1,1,A
+champions_league,2025,2025-10-21,Villarreal,Manchester City,0,2,0,2,A
+champions_league,2025,2025-10-21,Union St. Gilloise,Inter,0,4,0,2,A
+champions_league,2025,2025-10-22,Athletic Club,Qarabag,3,1,1,1,H
+champions_league,2025,2025-10-22,Galatasaray,Bodo/Glimt,3,1,2,0,H
+champions_league,2025,2025-10-22,Chelsea,Ajax,5,1,4,1,H
+champions_league,2025,2025-10-22,Monaco,Tottenham,0,0,0,0,D
+champions_league,2025,2025-10-22,Bayern München,Club Brugge KV,4,0,3,0,H
+champions_league,2025,2025-10-22,Eintracht Frankfurt,Liverpool,1,5,1,3,A
+champions_league,2025,2025-10-22,Sporting CP,Marseille,2,1,0,1,H
+champions_league,2025,2025-10-22,Atalanta,Slavia Praha,0,0,0,0,D
+champions_league,2025,2025-10-22,Real Madrid,Juventus,1,0,0,0,H
+champions_league,2025,2025-11-04,Napoli,Eintracht Frankfurt,0,0,0,0,D
+champions_league,2025,2025-11-04,Slavia Praha,Arsenal,0,3,0,1,A
+champions_league,2025,2025-11-04,Liverpool,Real Madrid,1,0,0,0,H
+champions_league,2025,2025-11-04,Tottenham,FC Copenhagen,4,0,1,0,H
+champions_league,2025,2025-11-04,Paris Saint Germain,Bayern München,1,2,0,2,A
+champions_league,2025,2025-11-04,Bodo/Glimt,Monaco,0,1,0,1,A
+champions_league,2025,2025-11-04,Juventus,Sporting CP,1,1,1,1,D
+champions_league,2025,2025-11-04,Atletico Madrid,Union St. Gilloise,3,1,1,0,H
+champions_league,2025,2025-11-04,Olympiakos Piraeus,PSV Eindhoven,1,1,1,0,D
+champions_league,2025,2025-11-05,Qarabag,Chelsea,2,2,2,1,D
+champions_league,2025,2025-11-05,Pafos,Villarreal,1,0,0,0,H
+champions_league,2025,2025-11-05,Newcastle,Athletic Club,2,0,1,0,H
+champions_league,2025,2025-11-05,Manchester City,Borussia Dortmund,4,1,2,0,H
+champions_league,2025,2025-11-05,Marseille,Atalanta,0,1,0,0,A
+champions_league,2025,2025-11-05,Ajax,Galatasaray,0,3,0,0,A
+champions_league,2025,2025-11-05,Benfica,Bayer Leverkusen,0,1,0,0,A
+champions_league,2025,2025-11-05,Inter,Kairat Almaty,2,1,1,0,H
+champions_league,2025,2025-11-05,Club Brugge KV,Barcelona,3,3,2,1,D
+champions_league,2025,2025-11-25,Ajax,Benfica,0,2,0,1,A
+champions_league,2025,2025-11-25,Galatasaray,Union St. Gilloise,0,1,0,0,A
+champions_league,2025,2025-11-25,Chelsea,Barcelona,3,0,1,0,H
+champions_league,2025,2025-11-25,Manchester City,Bayer Leverkusen,0,2,0,1,A
+champions_league,2025,2025-11-25,Marseille,Newcastle,2,1,0,1,H
+champions_league,2025,2025-11-25,Borussia Dortmund,Villarreal,4,0,1,0,H
+champions_league,2025,2025-11-25,Bodo/Glimt,Juventus,2,3,1,0,A
+champions_league,2025,2025-11-25,Napoli,Qarabag,2,0,0,0,H
+champions_league,2025,2025-11-25,Slavia Praha,Athletic Club,0,0,0,0,D
+champions_league,2025,2025-11-26,FC Copenhagen,Kairat Almaty,3,2,1,0,H
+champions_league,2025,2025-11-26,Pafos,Monaco,2,2,1,2,D
+champions_league,2025,2025-11-26,Liverpool,PSV Eindhoven,1,4,1,1,A
+champions_league,2025,2025-11-26,Arsenal,Bayern München,3,1,1,1,H
+champions_league,2025,2025-11-26,Paris Saint Germain,Tottenham,5,3,1,1,H
+champions_league,2025,2025-11-26,Eintracht Frankfurt,Atalanta,0,3,0,0,A
+champions_league,2025,2025-11-26,Sporting CP,Club Brugge KV,3,0,2,0,H
+champions_league,2025,2025-11-26,Atletico Madrid,Inter,2,1,1,0,H
+champions_league,2025,2025-11-26,Olympiakos Piraeus,Real Madrid,3,4,1,3,A
+champions_league,2025,2025-12-09,Kairat Almaty,Olympiakos Piraeus,0,1,0,0,A
+champions_league,2025,2025-12-09,Bayern München,Sporting CP,3,1,0,0,H
+champions_league,2025,2025-12-09,Tottenham,Slavia Praha,3,0,1,0,H
+champions_league,2025,2025-12-09,Monaco,Galatasaray,1,0,0,0,H
+champions_league,2025,2025-12-09,PSV Eindhoven,Atletico Madrid,2,3,1,1,A
+champions_league,2025,2025-12-09,Atalanta,Chelsea,2,1,0,1,H
+champions_league,2025,2025-12-09,Inter,Liverpool,0,1,0,0,A
+champions_league,2025,2025-12-09,Barcelona,Eintracht Frankfurt,2,1,0,1,H
+champions_league,2025,2025-12-09,Union St. Gilloise,Marseille,2,3,1,2,A
+champions_league,2025,2025-12-10,Villarreal,FC Copenhagen,2,3,0,1,A
+champions_league,2025,2025-12-10,Qarabag,Ajax,2,4,1,1,A
+champions_league,2025,2025-12-10,Borussia Dortmund,Bodo/Glimt,2,2,1,1,D
+champions_league,2025,2025-12-10,Bayer Leverkusen,Newcastle,2,2,1,0,D
+champions_league,2025,2025-12-10,Benfica,Napoli,2,0,1,0,H
+champions_league,2025,2025-12-10,Juventus,Pafos,2,0,0,0,H
+champions_league,2025,2025-12-10,Athletic Club,Paris Saint Germain,0,0,0,0,D
+champions_league,2025,2025-12-10,Real Madrid,Manchester City,1,2,1,2,A
+champions_league,2025,2025-12-10,Club Brugge KV,Arsenal,0,3,0,1,A
+champions_league,2025,2026-01-20,Kairat Almaty,Club Brugge KV,1,4,0,2,A
+champions_league,2025,2026-01-20,Bodo/Glimt,Manchester City,3,1,2,0,H
+champions_league,2025,2026-01-20,Tottenham,Borussia Dortmund,2,0,2,0,H
+champions_league,2025,2026-01-20,Sporting CP,Paris Saint Germain,2,1,0,0,H
+champions_league,2025,2026-01-20,FC Copenhagen,Napoli,1,1,0,1,D
+champions_league,2025,2026-01-20,Inter,Arsenal,1,3,1,2,A
+champions_league,2025,2026-01-20,Villarreal,Ajax,1,2,0,0,A
+champions_league,2025,2026-01-20,Real Madrid,Monaco,6,1,2,0,H
+champions_league,2025,2026-01-20,Olympiakos Piraeus,Bayer Leverkusen,2,0,2,0,H
+champions_league,2025,2026-01-21,Qarabag,Eintracht Frankfurt,3,2,1,1,H
+champions_league,2025,2026-01-21,Galatasaray,Atletico Madrid,1,1,1,1,D
+champions_league,2025,2026-01-21,Newcastle,PSV Eindhoven,3,0,2,0,H
+champions_league,2025,2026-01-21,Chelsea,Pafos,1,0,0,0,H
+champions_league,2025,2026-01-21,Marseille,Liverpool,0,3,0,1,A
+champions_league,2025,2026-01-21,Bayern München,Union St. Gilloise,2,0,0,0,H
+champions_league,2025,2026-01-21,Juventus,Benfica,2,0,0,0,H
+champions_league,2025,2026-01-21,Atalanta,Athletic Club,2,3,1,0,A
+champions_league,2025,2026-01-21,Slavia Praha,Barcelona,2,4,2,2,A
+champions_league,2025,2026-01-28,Liverpool,Qarabag,6,0,2,0,H
+champions_league,2025,2026-01-28,Arsenal,Kairat Almaty,3,2,3,1,H
+champions_league,2025,2026-01-28,Manchester City,Galatasaray,2,0,2,0,H
+champions_league,2025,2026-01-28,Paris Saint Germain,Newcastle,1,1,1,1,D
+champions_league,2025,2026-01-28,Monaco,Juventus,0,0,0,0,D
+champions_league,2025,2026-01-28,Borussia Dortmund,Inter,0,2,0,0,A
+champions_league,2025,2026-01-28,Bayer Leverkusen,Villarreal,3,0,2,0,H
+champions_league,2025,2026-01-28,Eintracht Frankfurt,Tottenham,0,2,0,0,A
+champions_league,2025,2026-01-28,Ajax,Olympiakos Piraeus,1,2,0,0,A
+champions_league,2025,2026-01-28,PSV Eindhoven,Bayern München,1,2,0,0,A
+champions_league,2025,2026-01-28,Benfica,Real Madrid,4,2,2,1,H
+champions_league,2025,2026-01-28,Napoli,Chelsea,2,3,2,1,A
+champions_league,2025,2026-01-28,Barcelona,FC Copenhagen,4,1,0,1,H
+champions_league,2025,2026-01-28,Atletico Madrid,Bodo/Glimt,1,2,1,1,A
+champions_league,2025,2026-01-28,Athletic Club,Sporting CP,2,3,2,1,A
+champions_league,2025,2026-01-28,Club Brugge KV,Marseille,3,0,2,0,H
+champions_league,2025,2026-01-28,Union St. Gilloise,Atalanta,1,0,0,0,H
+champions_league,2025,2026-01-28,Pafos,Slavia Praha,4,1,1,1,H
+champions_league,2025,2026-02-17,Galatasaray,Juventus,5,2,1,2,H
+champions_league,2025,2026-02-17,Monaco,Paris Saint Germain,2,3,2,2,A
+champions_league,2025,2026-02-17,Borussia Dortmund,Atalanta,2,0,2,0,H
+champions_league,2025,2026-02-17,Benfica,Real Madrid,0,1,0,0,A
+champions_league,2025,2026-02-18,Qarabag,Newcastle,1,6,0,5,A
+champions_league,2025,2026-02-18,Bodo/Glimt,Inter,3,1,1,1,H
+champions_league,2025,2026-02-18,Olympiakos Piraeus,Bayer Leverkusen,0,2,0,0,A
+champions_league,2025,2026-02-18,Club Brugge KV,Atletico Madrid,3,3,0,2,D
+champions_league,2025,2026-02-24,Atletico Madrid,Club Brugge KV,4,1,1,1,H
+champions_league,2025,2026-02-24,Newcastle,Qarabag,3,2,2,0,H
+champions_league,2025,2026-02-24,Bayer Leverkusen,Olympiakos Piraeus,0,0,0,0,D
+champions_league,2025,2026-02-24,Inter,Bodo/Glimt,1,2,0,0,A
+champions_league,2025,2026-02-25,Atalanta,Borussia Dortmund,4,1,2,0,H
+champions_league,2025,2026-02-25,Paris Saint Germain,Monaco,2,2,0,1,D
+champions_league,2025,2026-02-25,Real Madrid,Benfica,2,1,1,1,H

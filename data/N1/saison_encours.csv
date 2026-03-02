@@ -1,0 +1,217 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Neerdeland,2025,2025-08-08,Fortuna Sittard,GO Ahead Eagles,2,2,1,1,D
+Neerdeland,2025,2025-08-09,NEC Nijmegen,Excelsior,5,0,1,0,H
+Neerdeland,2025,2025-08-09,Feyenoord,NAC Breda,2,0,1,0,H
+Neerdeland,2025,2025-08-09,Heerenveen,FC Volendam,1,1,1,0,D
+Neerdeland,2025,2025-08-09,PSV Eindhoven,Sparta Rotterdam,6,1,3,0,H
+Neerdeland,2025,2025-08-10,PEC Zwolle,Twente,1,0,1,0,H
+Neerdeland,2025,2025-08-10,Ajax,Telstar,2,0,1,0,H
+Neerdeland,2025,2025-08-10,AZ Alkmaar,Groningen,4,1,3,1,H
+Neerdeland,2025,2025-08-10,Utrecht,Heracles,4,0,1,0,H
+Neerdeland,2025,2025-08-15,Telstar,PEC Zwolle,0,2,0,1,A
+Neerdeland,2025,2025-08-16,Excelsior,Feyenoord,1,2,1,2,A
+Neerdeland,2025,2025-08-16,Heracles,NEC Nijmegen,1,4,1,1,A
+Neerdeland,2025,2025-08-16,Groningen,Heerenveen,2,1,1,1,H
+Neerdeland,2025,2025-08-17,GO Ahead Eagles,Ajax,2,2,2,2,D
+Neerdeland,2025,2025-08-17,Twente,PSV Eindhoven,0,2,0,1,A
+Neerdeland,2025,2025-08-17,Sparta Rotterdam,Utrecht,2,1,1,0,H
+Neerdeland,2025,2025-08-17,FC Volendam,AZ Alkmaar,2,2,1,1,D
+Neerdeland,2025,2025-08-17,NAC Breda,Fortuna Sittard,2,1,1,0,H
+Neerdeland,2025,2025-08-23,GO Ahead Eagles,Sparta Rotterdam,0,3,0,1,A
+Neerdeland,2025,2025-08-23,PSV Eindhoven,Groningen,4,2,1,1,H
+Neerdeland,2025,2025-08-23,Telstar,FC Volendam,2,2,2,0,D
+Neerdeland,2025,2025-08-24,Heerenveen,Twente,1,2,0,1,A
+Neerdeland,2025,2025-08-24,Utrecht,Excelsior,4,1,2,0,H
+Neerdeland,2025,2025-08-24,NEC Nijmegen,NAC Breda,3,0,1,0,H
+Neerdeland,2025,2025-08-24,Ajax,Heracles,2,0,1,0,H
+Neerdeland,2025,2025-08-29,Groningen,Heracles,4,0,3,0,H
+Neerdeland,2025,2025-08-30,FC Volendam,Ajax,1,1,1,0,D
+Neerdeland,2025,2025-08-30,Heerenveen,GO Ahead Eagles,2,2,1,1,D
+Neerdeland,2025,2025-08-30,PSV Eindhoven,Telstar,0,2,0,1,A
+Neerdeland,2025,2025-08-30,Excelsior,Twente,1,0,0,0,H
+Neerdeland,2025,2025-08-31,Fortuna Sittard,NEC Nijmegen,3,2,2,1,H
+Neerdeland,2025,2025-08-31,PEC Zwolle,Utrecht,0,2,0,2,A
+Neerdeland,2025,2025-08-31,Sparta Rotterdam,Feyenoord,0,4,0,1,A
+Neerdeland,2025,2025-08-31,NAC Breda,AZ Alkmaar,0,1,0,0,A
+Neerdeland,2025,2025-09-13,Ajax,PEC Zwolle,3,1,2,0,H
+Neerdeland,2025,2025-09-13,GO Ahead Eagles,FC Volendam,3,0,3,0,H
+Neerdeland,2025,2025-09-13,NEC Nijmegen,PSV Eindhoven,3,5,1,3,A
+Neerdeland,2025,2025-09-13,Feyenoord,Heerenveen,1,0,1,0,H
+Neerdeland,2025,2025-09-13,Twente,NAC Breda,2,2,0,1,D
+Neerdeland,2025,2025-09-14,Excelsior,Sparta Rotterdam,0,1,0,0,A
+Neerdeland,2025,2025-09-14,Heracles,AZ Alkmaar,1,2,1,1,A
+Neerdeland,2025,2025-09-14,Utrecht,Groningen,0,1,0,0,A
+Neerdeland,2025,2025-09-14,Telstar,Fortuna Sittard,1,3,1,1,A
+Neerdeland,2025,2025-09-17,Feyenoord,Fortuna Sittard,2,0,1,0,H
+Neerdeland,2025,2025-09-19,Sparta Rotterdam,Twente,1,5,1,1,A
+Neerdeland,2025,2025-09-20,FC Volendam,Excelsior,1,2,1,1,A
+Neerdeland,2025,2025-09-20,Groningen,Telstar,2,0,1,0,H
+Neerdeland,2025,2025-09-20,Fortuna Sittard,Utrecht,1,0,1,0,H
+Neerdeland,2025,2025-09-20,NAC Breda,Heracles,2,1,0,1,H
+Neerdeland,2025,2025-09-21,PEC Zwolle,GO Ahead Eagles,0,2,0,0,A
+Neerdeland,2025,2025-09-21,PSV Eindhoven,Ajax,2,2,1,1,D
+Neerdeland,2025,2025-09-21,Heerenveen,NEC Nijmegen,3,2,1,0,H
+Neerdeland,2025,2025-09-21,AZ Alkmaar,Feyenoord,3,3,1,1,D
+Neerdeland,2025,2025-09-24,AZ Alkmaar,PEC Zwolle,2,2,2,1,D
+Neerdeland,2025,2025-09-26,Twente,Fortuna Sittard,3,2,1,0,H
+Neerdeland,2025,2025-09-27,Ajax,NAC Breda,2,1,1,1,H
+Neerdeland,2025,2025-09-27,FC Volendam,PEC Zwolle,2,1,1,1,H
+Neerdeland,2025,2025-09-27,Excelsior,PSV Eindhoven,1,2,1,1,A
+Neerdeland,2025,2025-09-27,Heracles,Sparta Rotterdam,3,0,1,0,H
+Neerdeland,2025,2025-09-28,NEC Nijmegen,AZ Alkmaar,2,1,1,0,H
+Neerdeland,2025,2025-09-28,Groningen,Feyenoord,0,1,0,0,A
+Neerdeland,2025,2025-09-28,Utrecht,Heerenveen,2,2,1,1,D
+Neerdeland,2025,2025-09-28,Telstar,GO Ahead Eagles,4,2,2,1,H
+Neerdeland,2025,2025-10-03,NAC Breda,Groningen,1,2,0,1,A
+Neerdeland,2025,2025-10-04,Sparta Rotterdam,Ajax,3,3,1,1,D
+Neerdeland,2025,2025-10-04,Fortuna Sittard,FC Volendam,1,0,1,0,H
+Neerdeland,2025,2025-10-04,PEC Zwolle,PSV Eindhoven,0,4,0,2,A
+Neerdeland,2025,2025-10-04,Heerenveen,Excelsior,2,1,0,1,H
+Neerdeland,2025,2025-10-05,Twente,Heracles,2,1,0,1,H
+Neerdeland,2025,2025-10-05,Feyenoord,Utrecht,3,2,1,0,H
+Neerdeland,2025,2025-10-05,AZ Alkmaar,Telstar,2,1,2,0,H
+Neerdeland,2025,2025-10-05,GO Ahead Eagles,NEC Nijmegen,1,1,0,1,D
+Neerdeland,2025,2025-10-18,NEC Nijmegen,Twente,3,3,1,1,D
+Neerdeland,2025,2025-10-18,PSV Eindhoven,GO Ahead Eagles,2,1,1,0,H
+Neerdeland,2025,2025-10-18,Utrecht,FC Volendam,3,1,0,1,H
+Neerdeland,2025,2025-10-18,Ajax,AZ Alkmaar,0,2,0,2,A
+Neerdeland,2025,2025-10-18,NAC Breda,PEC Zwolle,2,2,2,1,D
+Neerdeland,2025,2025-10-19,Telstar,Heerenveen,2,3,1,2,A
+Neerdeland,2025,2025-10-19,Excelsior,Fortuna Sittard,1,0,1,0,H
+Neerdeland,2025,2025-10-19,Groningen,Sparta Rotterdam,0,2,0,1,A
+Neerdeland,2025,2025-10-19,Heracles,Feyenoord,0,7,0,4,A
+Neerdeland,2025,2025-10-24,Heerenveen,NAC Breda,3,3,1,0,D
+Neerdeland,2025,2025-10-25,Fortuna Sittard,Groningen,1,2,0,1,A
+Neerdeland,2025,2025-10-25,Sparta Rotterdam,Telstar,1,0,1,0,H
+Neerdeland,2025,2025-10-25,FC Volendam,Heracles,3,0,1,0,H
+Neerdeland,2025,2025-10-25,PEC Zwolle,NEC Nijmegen,2,2,1,1,D
+Neerdeland,2025,2025-10-26,Twente,Ajax,2,3,1,0,A
+Neerdeland,2025,2025-10-26,Feyenoord,PSV Eindhoven,2,3,0,1,A
+Neerdeland,2025,2025-10-26,AZ Alkmaar,Utrecht,4,1,2,0,H
+Neerdeland,2025,2025-10-26,GO Ahead Eagles,Excelsior,2,0,0,0,H
+Neerdeland,2025,2025-10-31,PSV Eindhoven,Fortuna Sittard,5,2,3,0,H
+Neerdeland,2025,2025-11-01,Ajax,Heerenveen,1,1,1,0,D
+Neerdeland,2025,2025-11-01,NAC Breda,GO Ahead Eagles,1,0,0,0,H
+Neerdeland,2025,2025-11-01,Feyenoord,FC Volendam,3,1,2,0,H
+Neerdeland,2025,2025-11-01,Telstar,Excelsior,2,2,2,1,D
+Neerdeland,2025,2025-11-02,Heracles,PEC Zwolle,8,2,4,1,H
+Neerdeland,2025,2025-11-02,Groningen,Twente,1,1,0,0,D
+Neerdeland,2025,2025-11-02,Sparta Rotterdam,AZ Alkmaar,0,1,0,0,A
+Neerdeland,2025,2025-11-02,Utrecht,NEC Nijmegen,1,0,1,0,H
+Neerdeland,2025,2025-11-07,Twente,Telstar,0,0,0,0,D
+Neerdeland,2025,2025-11-08,Excelsior,Heracles,1,2,1,0,A
+Neerdeland,2025,2025-11-08,FC Volendam,NAC Breda,2,1,0,1,H
+Neerdeland,2025,2025-11-08,Fortuna Sittard,Heerenveen,2,0,0,0,H
+Neerdeland,2025,2025-11-08,PEC Zwolle,Sparta Rotterdam,1,0,1,0,H
+Neerdeland,2025,2025-11-09,Utrecht,Ajax,2,1,1,0,H
+Neerdeland,2025,2025-11-09,NEC Nijmegen,Groningen,2,0,0,0,H
+Neerdeland,2025,2025-11-09,AZ Alkmaar,PSV Eindhoven,1,5,1,3,A
+Neerdeland,2025,2025-11-09,GO Ahead Eagles,Feyenoord,2,1,1,0,H
+Neerdeland,2025,2025-11-22,NAC Breda,PSV Eindhoven,0,1,0,1,A
+Neerdeland,2025,2025-11-22,Ajax,Excelsior,1,2,0,1,A
+Neerdeland,2025,2025-11-22,FC Volendam,Twente,1,1,0,0,D
+Neerdeland,2025,2025-11-22,Heracles,GO Ahead Eagles,4,2,1,2,H
+Neerdeland,2025,2025-11-22,Sparta Rotterdam,Fortuna Sittard,1,1,1,0,D
+Neerdeland,2025,2025-11-23,Heerenveen,AZ Alkmaar,3,1,2,0,H
+Neerdeland,2025,2025-11-23,Feyenoord,NEC Nijmegen,2,4,1,1,A
+Neerdeland,2025,2025-11-23,Telstar,Utrecht,1,1,0,0,D
+Neerdeland,2025,2025-11-23,Groningen,PEC Zwolle,2,2,1,1,D
+Neerdeland,2025,2025-11-28,PEC Zwolle,Heerenveen,2,1,2,1,H
+Neerdeland,2025,2025-11-29,Excelsior,NAC Breda,1,0,1,0,H
+Neerdeland,2025,2025-11-29,Fortuna Sittard,Heracles,1,1,1,0,D
+Neerdeland,2025,2025-11-29,NEC Nijmegen,Sparta Rotterdam,3,1,2,0,H
+Neerdeland,2025,2025-11-30,PSV Eindhoven,FC Volendam,3,0,2,0,H
+Neerdeland,2025,2025-11-30,GO Ahead Eagles,Utrecht,2,2,0,1,D
+Neerdeland,2025,2025-11-30,Telstar,Feyenoord,1,2,0,1,A
+Neerdeland,2025,2025-11-30,Twente,AZ Alkmaar,1,0,0,0,H
+Neerdeland,2025,2025-12-02,Ajax,Groningen,2,0,1,0,H
+Neerdeland,2025,2025-12-05,Excelsior,Groningen,0,2,0,0,A
+Neerdeland,2025,2025-12-06,Heerenveen,PSV Eindhoven,0,2,0,2,A
+Neerdeland,2025,2025-12-06,Fortuna Sittard,Ajax,1,3,1,1,A
+Neerdeland,2025,2025-12-06,Heracles,Telstar,1,1,0,0,D
+Neerdeland,2025,2025-12-06,Feyenoord,PEC Zwolle,6,1,4,0,H
+Neerdeland,2025,2025-12-07,Utrecht,Twente,1,1,0,0,D
+Neerdeland,2025,2025-12-07,AZ Alkmaar,GO Ahead Eagles,2,2,2,1,D
+Neerdeland,2025,2025-12-07,FC Volendam,NEC Nijmegen,2,3,1,0,A
+Neerdeland,2025,2025-12-07,Sparta Rotterdam,NAC Breda,1,0,1,0,H
+Neerdeland,2025,2025-12-13,Telstar,NEC Nijmegen,2,2,1,1,D
+Neerdeland,2025,2025-12-13,Groningen,FC Volendam,3,0,1,0,H
+Neerdeland,2025,2025-12-13,PSV Eindhoven,Heracles,4,3,2,1,H
+Neerdeland,2025,2025-12-13,PEC Zwolle,Fortuna Sittard,1,0,1,0,H
+Neerdeland,2025,2025-12-14,Sparta Rotterdam,Heerenveen,0,3,0,1,A
+Neerdeland,2025,2025-12-14,Ajax,Feyenoord,2,0,1,0,H
+Neerdeland,2025,2025-12-14,Twente,GO Ahead Eagles,2,0,2,0,H
+Neerdeland,2025,2025-12-14,NAC Breda,Utrecht,1,1,1,1,D
+Neerdeland,2025,2025-12-20,Heracles,Heerenveen,0,3,0,0,A
+Neerdeland,2025,2025-12-20,Excelsior,PEC Zwolle,2,1,1,0,H
+Neerdeland,2025,2025-12-20,NEC Nijmegen,Ajax,2,2,1,2,D
+Neerdeland,2025,2025-12-20,NAC Breda,Telstar,0,1,0,0,A
+Neerdeland,2025,2025-12-21,Utrecht,PSV Eindhoven,1,2,1,0,A
+Neerdeland,2025,2025-12-21,Feyenoord,Twente,1,1,0,1,D
+Neerdeland,2025,2025-12-21,GO Ahead Eagles,Groningen,1,1,1,0,D
+Neerdeland,2025,2025-12-21,Fortuna Sittard,AZ Alkmaar,4,3,2,2,H
+Neerdeland,2025,2025-12-21,FC Volendam,Sparta Rotterdam,0,1,0,0,A
+Neerdeland,2025,2026-01-10,AZ Alkmaar,FC Volendam,1,0,1,0,H
+Neerdeland,2025,2026-01-10,Twente,PEC Zwolle,1,1,0,0,D
+Neerdeland,2025,2026-01-10,PSV Eindhoven,Excelsior,5,1,4,1,H
+Neerdeland,2025,2026-01-10,Groningen,NAC Breda,0,0,0,0,D
+Neerdeland,2025,2026-01-11,Heerenveen,Feyenoord,2,2,1,2,D
+Neerdeland,2025,2026-01-11,GO Ahead Eagles,Fortuna Sittard,2,2,1,1,D
+Neerdeland,2025,2026-01-11,Telstar,Ajax,2,3,0,2,A
+Neerdeland,2025,2026-01-11,Sparta Rotterdam,Heracles,2,0,1,0,H
+Neerdeland,2025,2026-01-17,Ajax,GO Ahead Eagles,2,2,2,0,D
+Neerdeland,2025,2026-01-17,PEC Zwolle,AZ Alkmaar,3,1,2,0,H
+Neerdeland,2025,2026-01-17,Excelsior,Telstar,2,2,0,0,D
+Neerdeland,2025,2026-01-17,Fortuna Sittard,PSV Eindhoven,1,2,1,1,A
+Neerdeland,2025,2026-01-17,NAC Breda,NEC Nijmegen,3,4,1,2,A
+Neerdeland,2025,2026-01-18,Heerenveen,Groningen,0,2,0,0,A
+Neerdeland,2025,2026-01-18,Heracles,Twente,0,2,0,1,A
+Neerdeland,2025,2026-01-18,FC Volendam,Utrecht,2,1,2,0,H
+Neerdeland,2025,2026-01-18,Feyenoord,Sparta Rotterdam,3,4,0,1,A
+Neerdeland,2025,2026-01-21,AZ Alkmaar,Excelsior,1,1,0,0,D
+Neerdeland,2025,2026-01-24,Ajax,FC Volendam,2,0,2,0,H
+Neerdeland,2025,2026-01-24,NEC Nijmegen,PEC Zwolle,2,1,1,1,H
+Neerdeland,2025,2026-01-24,PSV Eindhoven,NAC Breda,2,2,1,2,D
+Neerdeland,2025,2026-01-24,Twente,Excelsior,0,0,0,0,D
+Neerdeland,2025,2026-01-25,Telstar,AZ Alkmaar,0,1,0,0,A
+Neerdeland,2025,2026-01-25,Groningen,Fortuna Sittard,1,2,1,2,A
+Neerdeland,2025,2026-01-25,Utrecht,Sparta Rotterdam,0,1,0,1,A
+Neerdeland,2025,2026-01-25,Feyenoord,Heracles,4,2,2,1,H
+Neerdeland,2025,2026-01-30,NAC Breda,Twente,2,2,0,1,D
+Neerdeland,2025,2026-01-31,AZ Alkmaar,NEC Nijmegen,1,3,1,2,A
+Neerdeland,2025,2026-01-31,PEC Zwolle,Telstar,4,1,1,0,H
+Neerdeland,2025,2026-01-31,Sparta Rotterdam,Groningen,2,0,0,0,H
+Neerdeland,2025,2026-02-01,Excelsior,Ajax,2,2,0,2,D
+Neerdeland,2025,2026-02-01,PSV Eindhoven,Feyenoord,3,0,3,0,H
+Neerdeland,2025,2026-02-01,Heracles,Fortuna Sittard,2,1,2,1,H
+Neerdeland,2025,2026-02-01,Heerenveen,Utrecht,1,1,1,0,D
+Neerdeland,2025,2026-02-01,FC Volendam,GO Ahead Eagles,1,1,0,1,D
+Neerdeland,2025,2026-02-06,NAC Breda,Excelsior,0,2,0,2,A
+Neerdeland,2025,2026-02-07,NEC Nijmegen,Heracles,4,1,2,1,H
+Neerdeland,2025,2026-02-07,PEC Zwolle,FC Volendam,1,2,1,1,A
+Neerdeland,2025,2026-02-07,Twente,Heerenveen,5,0,2,0,H
+Neerdeland,2025,2026-02-07,Fortuna Sittard,Sparta Rotterdam,2,2,1,0,D
+Neerdeland,2025,2026-02-08,Utrecht,Feyenoord,0,1,0,1,A
+Neerdeland,2025,2026-02-08,AZ Alkmaar,Ajax,1,1,0,0,D
+Neerdeland,2025,2026-02-08,GO Ahead Eagles,Telstar,1,1,0,0,D
+Neerdeland,2025,2026-02-08,Groningen,PSV Eindhoven,1,2,1,0,A
+Neerdeland,2025,2026-02-11,GO Ahead Eagles,Heerenveen,1,3,0,0,A
+Neerdeland,2025,2026-02-11,NEC Nijmegen,Utrecht,1,3,0,2,A
+Neerdeland,2025,2026-02-13,FC Volendam,PSV Eindhoven,2,1,0,0,H
+Neerdeland,2025,2026-02-14,Heracles,NAC Breda,0,1,0,0,A
+Neerdeland,2025,2026-02-14,Excelsior,AZ Alkmaar,1,2,1,0,A
+Neerdeland,2025,2026-02-14,Ajax,Fortuna Sittard,4,1,3,1,H
+Neerdeland,2025,2026-02-14,Groningen,Utrecht,1,2,0,0,A
+Neerdeland,2025,2026-02-15,Feyenoord,GO Ahead Eagles,1,0,0,0,H
+Neerdeland,2025,2026-02-15,Heerenveen,PEC Zwolle,4,2,1,2,H
+Neerdeland,2025,2026-02-15,Telstar,Twente,1,1,1,0,D
+Neerdeland,2025,2026-02-17,Sparta Rotterdam,NEC Nijmegen,1,1,0,0,D
+Neerdeland,2025,2026-02-20,Fortuna Sittard,Excelsior,2,1,1,0,H
+Neerdeland,2025,2026-02-21,PSV Eindhoven,Heerenveen,3,1,1,1,H
+Neerdeland,2025,2026-02-21,NAC Breda,FC Volendam,1,0,0,0,H
+Neerdeland,2025,2026-02-21,Ajax,NEC Nijmegen,1,1,1,0,D
+Neerdeland,2025,2026-02-22,Twente,Groningen,2,1,1,1,H
+Neerdeland,2025,2026-02-22,Utrecht,PEC Zwolle,1,1,1,0,D
+Neerdeland,2025,2026-02-22,GO Ahead Eagles,Heracles,4,0,1,0,H
+Neerdeland,2025,2026-02-22,AZ Alkmaar,Sparta Rotterdam,3,1,0,0,H
+Neerdeland,2025,2026-02-22,Feyenoord,Telstar,2,1,2,1,H

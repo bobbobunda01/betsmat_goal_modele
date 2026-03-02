@@ -1,0 +1,209 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Belgique,2025,2025-07-25,Antwerp,Union St. Gilloise,1,1,1,0,D
+Belgique,2025,2025-07-26,Dender,Cercle Brugge,0,0,0,0,D
+Belgique,2025,2025-07-26,Zulte Waregem,KV Mechelen,1,1,0,1,D
+Belgique,2025,2025-07-26,RAAL La Louvière,Standard Liege,0,2,0,2,A
+Belgique,2025,2025-07-27,Anderlecht,KVC Westerlo,5,2,2,0,H
+Belgique,2025,2025-07-27,OH Leuven,Charleroi,2,2,1,0,D
+Belgique,2025,2025-07-27,Club Brugge KV,Genk,2,1,0,1,H
+Belgique,2025,2025-07-27,St. Truiden,Gent,3,1,0,0,H
+Belgique,2025,2025-08-01,KV Mechelen,Club Brugge KV,2,1,1,0,H
+Belgique,2025,2025-08-02,KVC Westerlo,Zulte Waregem,3,1,2,1,H
+Belgique,2025,2025-08-02,Standard Liege,Dender,1,1,0,0,D
+Belgique,2025,2025-08-02,Gent,RAAL La Louvière,1,0,0,0,H
+Belgique,2025,2025-08-03,Genk,Antwerp,1,1,1,1,D
+Belgique,2025,2025-08-03,Cercle Brugge,Anderlecht,0,2,0,1,A
+Belgique,2025,2025-08-03,Union St. Gilloise,OH Leuven,5,0,2,0,H
+Belgique,2025,2025-08-03,Charleroi,St. Truiden,1,1,1,1,D
+Belgique,2025,2025-08-08,St. Truiden,Dender,2,0,1,0,H
+Belgique,2025,2025-08-09,Club Brugge KV,Cercle Brugge,2,0,0,0,H
+Belgique,2025,2025-08-09,KVC Westerlo,KV Mechelen,0,1,0,0,A
+Belgique,2025,2025-08-09,Gent,Union St. Gilloise,2,3,0,1,A
+Belgique,2025,2025-08-10,RAAL La Louvière,Charleroi,1,0,1,0,H
+Belgique,2025,2025-08-10,Anderlecht,Zulte Waregem,2,3,0,1,A
+Belgique,2025,2025-08-10,Standard Liege,Genk,2,1,1,0,H
+Belgique,2025,2025-08-10,Antwerp,OH Leuven,3,1,1,0,H
+Belgique,2025,2025-08-15,OH Leuven,Genk,1,2,1,2,A
+Belgique,2025,2025-08-16,Zulte Waregem,Club Brugge KV,0,1,0,0,A
+Belgique,2025,2025-08-16,KV Mechelen,Gent,1,1,1,0,D
+Belgique,2025,2025-08-16,Union St. Gilloise,Standard Liege,3,0,1,0,H
+Belgique,2025,2025-08-17,Dender,Anderlecht,0,2,0,0,A
+Belgique,2025,2025-08-17,St. Truiden,RAAL La Louvière,2,1,1,0,H
+Belgique,2025,2025-08-17,Charleroi,Antwerp,1,1,1,1,D
+Belgique,2025,2025-08-17,Cercle Brugge,KVC Westerlo,4,1,3,0,H
+Belgique,2025,2025-08-23,Standard Liege,Cercle Brugge,0,3,0,3,A
+Belgique,2025,2025-08-23,Zulte Waregem,St. Truiden,0,2,0,0,A
+Belgique,2025,2025-08-24,Antwerp,KV Mechelen,2,1,1,1,H
+Belgique,2025,2025-08-24,RAAL La Louvière,Union St. Gilloise,0,0,0,0,D
+Belgique,2025,2025-08-24,Dender,OH Leuven,0,1,0,0,A
+Belgique,2025,2025-08-29,Cercle Brugge,St. Truiden,1,1,1,1,D
+Belgique,2025,2025-08-30,KV Mechelen,RAAL La Louvière,3,2,1,0,H
+Belgique,2025,2025-08-30,KVC Westerlo,Antwerp,2,0,1,0,H
+Belgique,2025,2025-08-30,Charleroi,Dender,3,1,1,0,H
+Belgique,2025,2025-08-31,Gent,Club Brugge KV,1,1,0,0,D
+Belgique,2025,2025-08-31,OH Leuven,Standard Liege,1,0,0,0,H
+Belgique,2025,2025-08-31,Union St. Gilloise,Anderlecht,2,0,1,0,H
+Belgique,2025,2025-08-31,Genk,Zulte Waregem,3,2,2,2,H
+Belgique,2025,2025-09-12,Standard Liege,KV Mechelen,1,1,0,0,D
+Belgique,2025,2025-09-13,Zulte Waregem,OH Leuven,2,0,2,0,H
+Belgique,2025,2025-09-13,Dender,Union St. Gilloise,0,1,0,0,A
+Belgique,2025,2025-09-13,RAAL La Louvière,Club Brugge KV,1,0,1,0,H
+Belgique,2025,2025-09-14,Antwerp,Gent,1,2,1,1,A
+Belgique,2025,2025-09-14,Cercle Brugge,Charleroi,2,3,0,2,A
+Belgique,2025,2025-09-14,Anderlecht,Genk,1,1,0,0,D
+Belgique,2025,2025-09-14,St. Truiden,KVC Westerlo,0,3,0,1,A
+Belgique,2025,2025-09-17,Genk,Charleroi,0,1,0,1,A
+Belgique,2025,2025-09-19,Gent,Dender,3,0,1,0,H
+Belgique,2025,2025-09-20,OH Leuven,RAAL La Louvière,1,2,1,2,A
+Belgique,2025,2025-09-20,Charleroi,Zulte Waregem,1,2,1,0,A
+Belgique,2025,2025-09-20,Anderlecht,Antwerp,0,0,0,0,D
+Belgique,2025,2025-09-21,Genk,Union St. Gilloise,1,2,0,1,A
+Belgique,2025,2025-09-21,KVC Westerlo,Standard Liege,0,2,0,2,A
+Belgique,2025,2025-09-21,Club Brugge KV,St. Truiden,2,0,1,0,H
+Belgique,2025,2025-09-21,KV Mechelen,Cercle Brugge,0,0,0,0,D
+Belgique,2025,2025-09-23,Anderlecht,Gent,1,0,0,0,H
+Belgique,2025,2025-09-24,Club Brugge KV,KVC Westerlo,5,5,1,2,D
+Belgique,2025,2025-09-26,OH Leuven,Anderlecht,1,1,0,0,D
+Belgique,2025,2025-09-27,Zulte Waregem,Antwerp,2,0,0,0,H
+Belgique,2025,2025-09-27,Standard Liege,Club Brugge KV,1,2,1,1,A
+Belgique,2025,2025-09-27,Union St. Gilloise,KVC Westerlo,2,0,0,0,H
+Belgique,2025,2025-09-28,St. Truiden,Genk,1,2,1,0,A
+Belgique,2025,2025-09-28,Cercle Brugge,Gent,2,4,2,2,A
+Belgique,2025,2025-09-28,Charleroi,KV Mechelen,0,2,0,2,A
+Belgique,2025,2025-09-28,Dender,RAAL La Louvière,0,0,0,0,D
+Belgique,2025,2025-10-03,Gent,Charleroi,2,1,1,1,H
+Belgique,2025,2025-10-04,KV Mechelen,St. Truiden,1,3,1,0,A
+Belgique,2025,2025-10-04,RAAL La Louvière,Zulte Waregem,0,0,0,0,D
+Belgique,2025,2025-10-04,Antwerp,Cercle Brugge,1,1,1,1,D
+Belgique,2025,2025-10-05,Anderlecht,Standard Liege,1,0,0,0,H
+Belgique,2025,2025-10-05,Genk,Dender,2,1,1,1,H
+Belgique,2025,2025-10-05,Club Brugge KV,Union St. Gilloise,1,0,0,0,H
+Belgique,2025,2025-10-05,KVC Westerlo,OH Leuven,2,0,1,0,H
+Belgique,2025,2025-10-18,RAAL La Louvière,KVC Westerlo,0,0,0,0,D
+Belgique,2025,2025-10-18,OH Leuven,Club Brugge KV,0,1,0,0,A
+Belgique,2025,2025-10-18,Union St. Gilloise,Charleroi,3,1,1,1,H
+Belgique,2025,2025-10-19,Cercle Brugge,Genk,2,2,1,1,D
+Belgique,2025,2025-10-19,Dender,KV Mechelen,1,3,0,1,A
+Belgique,2025,2025-10-19,St. Truiden,Anderlecht,2,2,1,2,D
+Belgique,2025,2025-10-19,Zulte Waregem,Gent,4,1,3,0,H
+Belgique,2025,2025-10-20,Standard Liege,Antwerp,1,0,1,0,H
+Belgique,2025,2025-10-24,Charleroi,Anderlecht,1,0,0,0,H
+Belgique,2025,2025-10-25,KVC Westerlo,Dender,1,1,0,1,D
+Belgique,2025,2025-10-25,KV Mechelen,OH Leuven,1,1,0,0,D
+Belgique,2025,2025-10-25,Gent,Standard Liege,4,0,3,0,H
+Belgique,2025,2025-10-26,Antwerp,Club Brugge KV,0,1,0,1,A
+Belgique,2025,2025-10-26,Cercle Brugge,Zulte Waregem,1,1,0,1,D
+Belgique,2025,2025-10-26,Genk,RAAL La Louvière,1,1,1,1,D
+Belgique,2025,2025-10-26,Union St. Gilloise,St. Truiden,2,0,0,0,H
+Belgique,2025,2025-10-31,Standard Liege,Charleroi,3,1,1,1,H
+Belgique,2025,2025-11-01,Zulte Waregem,Union St. Gilloise,1,4,0,2,A
+Belgique,2025,2025-11-01,Club Brugge KV,Dender,2,1,2,0,H
+Belgique,2025,2025-11-01,Anderlecht,KV Mechelen,3,1,2,1,H
+Belgique,2025,2025-11-02,KVC Westerlo,Genk,0,1,0,1,A
+Belgique,2025,2025-11-02,OH Leuven,Gent,4,0,2,0,H
+Belgique,2025,2025-11-02,St. Truiden,Antwerp,1,0,1,0,H
+Belgique,2025,2025-11-02,RAAL La Louvière,Cercle Brugge,2,1,1,0,H
+Belgique,2025,2025-11-07,Dender,Zulte Waregem,2,2,1,0,D
+Belgique,2025,2025-11-08,Cercle Brugge,OH Leuven,1,2,1,0,A
+Belgique,2025,2025-11-08,Charleroi,KVC Westerlo,2,0,1,0,H
+Belgique,2025,2025-11-08,Antwerp,RAAL La Louvière,3,1,0,0,H
+Belgique,2025,2025-11-09,Anderlecht,Club Brugge KV,1,0,1,0,H
+Belgique,2025,2025-11-09,St. Truiden,Standard Liege,1,0,0,0,H
+Belgique,2025,2025-11-09,Gent,Genk,1,1,0,1,D
+Belgique,2025,2025-11-09,KV Mechelen,Union St. Gilloise,1,1,0,0,D
+Belgique,2025,2025-11-21,Standard Liege,Zulte Waregem,0,0,0,0,D
+Belgique,2025,2025-11-22,Union St. Gilloise,Cercle Brugge,2,0,1,0,H
+Belgique,2025,2025-11-22,KVC Westerlo,Gent,0,0,0,0,D
+Belgique,2025,2025-11-22,Club Brugge KV,Charleroi,1,0,0,0,H
+Belgique,2025,2025-11-23,Genk,KV Mechelen,0,1,0,1,A
+Belgique,2025,2025-11-23,Antwerp,Dender,1,2,0,0,A
+Belgique,2025,2025-11-23,RAAL La Louvière,Anderlecht,0,1,0,0,A
+Belgique,2025,2025-11-23,OH Leuven,St. Truiden,1,2,1,2,A
+Belgique,2025,2025-11-28,KV Mechelen,Standard Liege,0,1,0,0,A
+Belgique,2025,2025-11-29,Dender,KVC Westerlo,2,2,1,0,D
+Belgique,2025,2025-11-29,Zulte Waregem,Cercle Brugge,1,1,1,0,D
+Belgique,2025,2025-11-29,Charleroi,RAAL La Louvière,0,0,0,0,D
+Belgique,2025,2025-11-30,Club Brugge KV,Antwerp,0,1,0,0,A
+Belgique,2025,2025-11-30,Genk,OH Leuven,2,1,0,0,H
+Belgique,2025,2025-11-30,Anderlecht,Union St. Gilloise,1,0,1,0,H
+Belgique,2025,2025-11-30,Gent,St. Truiden,1,2,1,0,A
+Belgique,2025,2025-12-05,RAAL La Louvière,Dender,1,2,1,1,A
+Belgique,2025,2025-12-06,Cercle Brugge,Standard Liege,1,2,0,2,A
+Belgique,2025,2025-12-06,Union St. Gilloise,Gent,1,1,0,1,D
+Belgique,2025,2025-12-06,St. Truiden,Club Brugge KV,3,2,2,1,H
+Belgique,2025,2025-12-07,KV Mechelen,Charleroi,1,0,1,0,H
+Belgique,2025,2025-12-07,KVC Westerlo,Anderlecht,4,0,3,0,H
+Belgique,2025,2025-12-07,Antwerp,Genk,3,0,2,0,H
+Belgique,2025,2025-12-07,OH Leuven,Zulte Waregem,1,1,1,1,D
+Belgique,2025,2025-12-12,Standard Liege,OH Leuven,0,1,0,0,A
+Belgique,2025,2025-12-13,Cercle Brugge,KV Mechelen,2,3,0,2,A
+Belgique,2025,2025-12-13,Zulte Waregem,RAAL La Louvière,2,2,1,1,D
+Belgique,2025,2025-12-13,Anderlecht,St. Truiden,2,1,0,0,H
+Belgique,2025,2025-12-14,Gent,Antwerp,0,2,0,1,A
+Belgique,2025,2025-12-14,Dender,Club Brugge KV,1,5,1,1,A
+Belgique,2025,2025-12-14,Charleroi,Union St. Gilloise,1,1,0,1,D
+Belgique,2025,2025-12-14,Genk,KVC Westerlo,1,1,0,1,D
+Belgique,2025,2025-12-19,Charleroi,Genk,2,2,1,1,D
+Belgique,2025,2025-12-20,Dender,Standard Liege,0,1,0,1,A
+Belgique,2025,2025-12-20,KVC Westerlo,RAAL La Louvière,2,1,1,0,H
+Belgique,2025,2025-12-20,Union St. Gilloise,Zulte Waregem,2,0,1,0,H
+Belgique,2025,2025-12-21,Club Brugge KV,Gent,2,1,1,0,H
+Belgique,2025,2025-12-21,St. Truiden,KV Mechelen,1,0,1,0,H
+Belgique,2025,2025-12-21,Antwerp,Anderlecht,2,2,2,0,D
+Belgique,2025,2025-12-21,OH Leuven,Cercle Brugge,0,2,0,2,A
+Belgique,2025,2025-12-26,Genk,Club Brugge KV,3,5,1,3,A
+Belgique,2025,2025-12-26,Cercle Brugge,Union St. Gilloise,1,1,1,1,D
+Belgique,2025,2025-12-26,Standard Liege,St. Truiden,1,2,1,1,A
+Belgique,2025,2025-12-26,Anderlecht,Charleroi,1,2,1,2,A
+Belgique,2025,2025-12-27,Antwerp,Zulte Waregem,2,1,1,1,H
+Belgique,2025,2025-12-27,RAAL La Louvière,OH Leuven,0,0,0,0,D
+Belgique,2025,2025-12-27,KV Mechelen,Dender,1,1,1,0,D
+Belgique,2025,2025-12-27,Gent,KVC Westerlo,2,0,2,0,H
+Belgique,2025,2026-01-16,Club Brugge KV,RAAL La Louvière,2,3,2,0,A
+Belgique,2025,2026-01-17,Zulte Waregem,Genk,2,1,0,0,H
+Belgique,2025,2026-01-17,KVC Westerlo,Cercle Brugge,0,2,0,2,A
+Belgique,2025,2026-01-17,Union St. Gilloise,KV Mechelen,1,0,1,0,H
+Belgique,2025,2026-01-18,Gent,Anderlecht,4,2,1,2,H
+Belgique,2025,2026-01-18,Dender,Antwerp,1,0,1,0,H
+Belgique,2025,2026-01-18,Charleroi,Standard Liege,2,0,2,0,H
+Belgique,2025,2026-01-18,St. Truiden,OH Leuven,1,0,1,0,H
+Belgique,2025,2026-01-23,Standard Liege,Gent,0,4,0,2,A
+Belgique,2025,2026-01-24,RAAL La Louvière,St. Truiden,1,2,0,0,A
+Belgique,2025,2026-01-24,Club Brugge KV,Zulte Waregem,4,3,1,2,H
+Belgique,2025,2026-01-24,OH Leuven,Union St. Gilloise,0,0,0,0,D
+Belgique,2025,2026-01-25,Antwerp,Charleroi,0,2,0,1,A
+Belgique,2025,2026-01-25,Genk,Cercle Brugge,1,1,1,0,D
+Belgique,2025,2026-01-25,Anderlecht,Dender,0,0,0,0,D
+Belgique,2025,2026-01-25,KV Mechelen,KVC Westerlo,1,1,0,1,D
+Belgique,2025,2026-01-30,RAAL La Louvière,Gent,1,1,0,0,D
+Belgique,2025,2026-01-31,Cercle Brugge,Antwerp,0,4,0,2,A
+Belgique,2025,2026-01-31,Zulte Waregem,KVC Westerlo,0,1,0,1,A
+Belgique,2025,2026-01-31,St. Truiden,Charleroi,0,2,0,0,A
+Belgique,2025,2026-02-01,Standard Liege,Anderlecht,2,0,1,0,H
+Belgique,2025,2026-02-01,Dender,Genk,1,2,0,2,A
+Belgique,2025,2026-02-01,Union St. Gilloise,Club Brugge KV,1,0,1,0,H
+Belgique,2025,2026-02-01,OH Leuven,KV Mechelen,2,2,1,0,D
+Belgique,2025,2026-02-06,KVC Westerlo,St. Truiden,0,4,0,3,A
+Belgique,2025,2026-02-07,Zulte Waregem,Dender,1,0,0,0,H
+Belgique,2025,2026-02-07,Charleroi,Cercle Brugge,3,4,1,3,A
+Belgique,2025,2026-02-07,Gent,OH Leuven,1,3,0,2,A
+Belgique,2025,2026-02-08,Genk,Anderlecht,2,0,0,0,H
+Belgique,2025,2026-02-08,Union St. Gilloise,RAAL La Louvière,2,1,1,1,H
+Belgique,2025,2026-02-08,Club Brugge KV,Standard Liege,3,0,3,0,H
+Belgique,2025,2026-02-08,KV Mechelen,Antwerp,2,0,1,0,H
+Belgique,2025,2026-02-13,KV Mechelen,Genk,2,3,1,1,A
+Belgique,2025,2026-02-14,OH Leuven,Dender,3,2,2,1,H
+Belgique,2025,2026-02-14,Charleroi,Gent,2,3,0,1,A
+Belgique,2025,2026-02-14,Standard Liege,Union St. Gilloise,1,1,1,0,D
+Belgique,2025,2026-02-15,Cercle Brugge,Club Brugge KV,1,2,0,0,A
+Belgique,2025,2026-02-15,Antwerp,KVC Westerlo,0,2,0,1,A
+Belgique,2025,2026-02-15,Anderlecht,RAAL La Louvière,0,0,0,0,D
+Belgique,2025,2026-02-15,St. Truiden,Zulte Waregem,3,2,2,2,H
+Belgique,2025,2026-02-20,Gent,Cercle Brugge,0,1,0,1,A
+Belgique,2025,2026-02-21,Dender,St. Truiden,1,4,1,2,A
+Belgique,2025,2026-02-21,Club Brugge KV,OH Leuven,2,1,0,0,H
+Belgique,2025,2026-02-21,Union St. Gilloise,Antwerp,2,1,1,0,H
+Belgique,2025,2026-02-22,Genk,Standard Liege,0,3,0,2,A
+Belgique,2025,2026-02-22,RAAL La Louvière,KV Mechelen,0,2,0,1,A
+Belgique,2025,2026-02-22,Zulte Waregem,Anderlecht,2,4,0,3,A
+Belgique,2025,2026-02-22,KVC Westerlo,Charleroi,2,1,1,1,H

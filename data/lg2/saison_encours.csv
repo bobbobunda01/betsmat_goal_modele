@@ -1,0 +1,298 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+secunda,2025,2025-08-15,Valladolid,AD Ceuta FC,3,0,2,0,H
+secunda,2025,2025-08-15,Burgos,Cultural Leonesa,5,1,3,0,H
+secunda,2025,2025-08-16,Racing Santander,Castellón,3,1,2,1,H
+secunda,2025,2025-08-16,Malaga,Eibar,1,1,0,0,D
+secunda,2025,2025-08-16,Granada CF,Deportivo La Coruna,1,3,0,1,A
+secunda,2025,2025-08-17,Real Sociedad II,Zaragoza,1,0,1,0,H
+secunda,2025,2025-08-17,Cadiz,Mirandes,1,0,1,0,H
+secunda,2025,2025-08-17,Las Palmas,FC Andorra,1,1,1,0,D
+secunda,2025,2025-08-17,Huesca,Leganes,1,1,0,0,D
+secunda,2025,2025-08-18,Sporting Gijon,Cordoba,2,1,1,1,H
+secunda,2025,2025-08-18,Almeria,Albacete,4,4,1,1,D
+secunda,2025,2025-08-22,Eibar,Granada CF,3,0,1,0,H
+secunda,2025,2025-08-22,Leganes,Cadiz,1,1,1,0,D
+secunda,2025,2025-08-22,Castellón,Valladolid,0,1,0,1,A
+secunda,2025,2025-08-23,Mirandes,Huesca,0,1,0,1,A
+secunda,2025,2025-08-23,AD Ceuta FC,Sporting Gijon,0,1,0,1,A
+secunda,2025,2025-08-23,Zaragoza,FC Andorra,1,3,0,1,A
+secunda,2025,2025-08-24,Deportivo La Coruna,Burgos,0,0,0,0,D
+secunda,2025,2025-08-24,Cultural Leonesa,Almeria,0,1,0,0,A
+secunda,2025,2025-08-24,Malaga,Real Sociedad II,1,0,0,0,H
+secunda,2025,2025-08-25,Albacete,Racing Santander,2,3,0,0,A
+secunda,2025,2025-08-25,Cordoba,Las Palmas,1,3,0,1,A
+secunda,2025,2025-08-29,Real Sociedad II,Almeria,2,2,1,1,D
+secunda,2025,2025-08-29,Sporting Gijon,Cultural Leonesa,1,0,0,0,H
+secunda,2025,2025-08-30,Racing Santander,AD Ceuta FC,4,1,2,1,H
+secunda,2025,2025-08-30,Valladolid,Cordoba,0,0,0,0,D
+secunda,2025,2025-08-30,Castellón,Zaragoza,1,1,0,0,D
+secunda,2025,2025-08-31,Cadiz,Albacete,2,1,1,0,H
+secunda,2025,2025-08-31,FC Andorra,Burgos,2,1,1,0,H
+secunda,2025,2025-08-31,Las Palmas,Malaga,0,1,0,1,A
+secunda,2025,2025-08-31,Granada CF,Mirandes,1,2,0,0,A
+secunda,2025,2025-09-01,Huesca,Eibar,2,1,1,1,H
+secunda,2025,2025-09-01,Leganes,Deportivo La Coruna,2,2,2,0,D
+secunda,2025,2025-09-05,Albacete,Mirandes,1,4,0,1,A
+secunda,2025,2025-09-05,Cordoba,Castellón,2,1,0,1,H
+secunda,2025,2025-09-06,Deportivo La Coruna,Sporting Gijon,1,0,0,0,H
+secunda,2025,2025-09-06,Zaragoza,Valladolid,1,1,0,0,D
+secunda,2025,2025-09-06,Malaga,Granada CF,2,2,2,1,D
+secunda,2025,2025-09-07,AD Ceuta FC,Huesca,2,1,1,0,H
+secunda,2025,2025-09-07,Burgos,Las Palmas,0,0,0,0,D
+secunda,2025,2025-09-07,Real Sociedad II,Cadiz,3,3,1,1,D
+secunda,2025,2025-09-07,Almeria,Racing Santander,2,3,2,0,A
+secunda,2025,2025-09-07,Cultural Leonesa,Leganes,0,0,0,0,D
+secunda,2025,2025-09-08,Eibar,FC Andorra,2,0,0,0,H
+secunda,2025,2025-09-12,Las Palmas,Real Sociedad II,2,1,1,0,H
+secunda,2025,2025-09-13,Cadiz,Eibar,1,0,0,0,H
+secunda,2025,2025-09-13,Mirandes,Deportivo La Coruna,1,5,0,2,A
+secunda,2025,2025-09-13,Huesca,Malaga,1,0,0,0,H
+secunda,2025,2025-09-13,Valladolid,Almeria,3,1,1,0,H
+secunda,2025,2025-09-14,FC Andorra,Cordoba,3,1,2,1,H
+secunda,2025,2025-09-14,Racing Santander,Cultural Leonesa,2,4,0,3,A
+secunda,2025,2025-09-14,Sporting Gijon,Burgos,2,3,0,2,A
+secunda,2025,2025-09-14,Castellón,AD Ceuta FC,3,3,2,1,D
+secunda,2025,2025-09-14,Granada CF,Leganes,0,2,0,1,A
+secunda,2025,2025-09-15,Zaragoza,Albacete,0,0,0,0,D
+secunda,2025,2025-09-19,Deportivo La Coruna,Huesca,4,0,3,0,H
+secunda,2025,2025-09-20,Cultural Leonesa,Castellón,1,3,0,2,A
+secunda,2025,2025-09-20,Leganes,Las Palmas,0,1,0,0,A
+secunda,2025,2025-09-20,FC Andorra,Mirandes,1,1,1,1,D
+secunda,2025,2025-09-20,Almeria,Sporting Gijon,2,1,0,1,H
+secunda,2025,2025-09-21,AD Ceuta FC,Zaragoza,1,0,0,0,H
+secunda,2025,2025-09-21,Albacete,Valladolid,2,0,0,0,H
+secunda,2025,2025-09-21,Malaga,Cadiz,0,1,0,1,A
+secunda,2025,2025-09-21,Eibar,Real Sociedad II,2,1,1,0,H
+secunda,2025,2025-09-21,Cordoba,Racing Santander,2,2,0,0,D
+secunda,2025,2025-09-22,Burgos,Granada CF,1,1,0,0,D
+secunda,2025,2025-09-26,Mirandes,Zaragoza,0,1,0,1,A
+secunda,2025,2025-09-27,Eibar,Deportivo La Coruna,1,1,0,1,D
+secunda,2025,2025-09-27,Racing Santander,FC Andorra,1,2,0,0,A
+secunda,2025,2025-09-27,Las Palmas,Almeria,0,1,0,1,A
+secunda,2025,2025-09-28,Real Sociedad II,Cordoba,1,1,1,0,D
+secunda,2025,2025-09-28,Cadiz,AD Ceuta FC,0,0,0,0,D
+secunda,2025,2025-09-28,Burgos,Malaga,2,1,1,1,H
+secunda,2025,2025-09-28,Valladolid,Cultural Leonesa,0,1,0,1,A
+secunda,2025,2025-09-28,Sporting Gijon,Albacete,3,4,3,1,A
+secunda,2025,2025-09-28,Huesca,Granada CF,0,1,0,1,A
+secunda,2025,2025-09-29,Leganes,Castellón,0,1,0,1,A
+secunda,2025,2025-10-03,AD Ceuta FC,Eibar,1,0,1,0,H
+secunda,2025,2025-10-04,Deportivo La Coruna,Almeria,1,1,0,1,D
+secunda,2025,2025-10-04,Huesca,Burgos,2,1,1,0,H
+secunda,2025,2025-10-04,FC Andorra,Leganes,1,2,0,0,A
+secunda,2025,2025-10-04,Granada CF,Real Sociedad II,5,2,5,1,H
+secunda,2025,2025-10-05,Zaragoza,Cordoba,0,1,0,0,A
+secunda,2025,2025-10-05,Castellón,Sporting Gijon,3,1,2,1,H
+secunda,2025,2025-10-05,Valladolid,Mirandes,1,1,0,1,D
+secunda,2025,2025-10-05,Racing Santander,Malaga,3,0,0,0,H
+secunda,2025,2025-10-05,Las Palmas,Cadiz,1,0,0,0,H
+secunda,2025,2025-10-06,Cultural Leonesa,Albacete,0,0,0,0,D
+secunda,2025,2025-10-10,Granada CF,Las Palmas,0,0,0,0,D
+secunda,2025,2025-10-11,Mirandes,Leganes,0,0,0,0,D
+secunda,2025,2025-10-11,Almeria,Zaragoza,4,2,0,0,H
+secunda,2025,2025-10-11,Real Sociedad II,FC Andorra,3,0,1,0,H
+secunda,2025,2025-10-12,Albacete,AD Ceuta FC,0,0,0,0,D
+secunda,2025,2025-10-12,Eibar,Castellón,0,0,0,0,D
+secunda,2025,2025-10-12,Sporting Gijon,Racing Santander,2,1,1,0,H
+secunda,2025,2025-10-12,Cadiz,Huesca,1,0,0,0,H
+secunda,2025,2025-10-12,Burgos,Valladolid,0,1,0,0,A
+secunda,2025,2025-10-12,Malaga,Deportivo La Coruna,3,0,2,0,H
+secunda,2025,2025-10-13,Cordoba,Cultural Leonesa,1,0,1,0,H
+secunda,2025,2025-10-17,FC Andorra,Granada CF,0,0,0,0,D
+secunda,2025,2025-10-18,AD Ceuta FC,Mirandes,2,0,2,0,H
+secunda,2025,2025-10-18,Zaragoza,Cultural Leonesa,0,5,0,2,A
+secunda,2025,2025-10-19,Leganes,Malaga,2,0,1,0,H
+secunda,2025,2025-10-19,Valladolid,Sporting Gijon,2,3,1,1,A
+secunda,2025,2025-10-19,Castellón,Albacete,0,1,0,1,A
+secunda,2025,2025-10-19,Cordoba,Almeria,1,1,1,1,D
+secunda,2025,2025-10-19,Racing Santander,Deportivo La Coruna,2,1,1,1,H
+secunda,2025,2025-10-19,Las Palmas,Eibar,3,1,1,0,H
+secunda,2025,2025-10-20,Cadiz,Burgos,1,3,1,2,A
+secunda,2025,2025-10-24,Huesca,Las Palmas,1,1,1,0,D
+secunda,2025,2025-10-25,Cultural Leonesa,AD Ceuta FC,0,1,0,1,A
+secunda,2025,2025-10-25,Eibar,Leganes,0,0,0,0,D
+secunda,2025,2025-10-25,Albacete,Cordoba,1,3,0,2,A
+secunda,2025,2025-10-25,Granada CF,Cadiz,0,0,0,0,D
+secunda,2025,2025-10-25,Burgos,Real Sociedad II,1,0,0,0,H
+secunda,2025,2025-10-25,Mirandes,Racing Santander,1,3,1,1,A
+secunda,2025,2025-10-26,Malaga,FC Andorra,4,1,1,0,H
+secunda,2025,2025-10-26,Almeria,Castellón,1,0,0,0,H
+secunda,2025,2025-10-26,Sporting Gijon,Zaragoza,1,0,1,0,H
+secunda,2025,2025-10-26,Deportivo La Coruna,Valladolid,1,1,0,1,D
+secunda,2025,2025-10-31,Racing Santander,Real Sociedad II,1,0,1,0,H
+secunda,2025,2025-11-01,Cultural Leonesa,Mirandes,3,2,1,1,H
+secunda,2025,2025-11-01,Leganes,Burgos,1,2,1,2,A
+secunda,2025,2025-11-01,Albacete,Huesca,2,1,0,1,H
+secunda,2025,2025-11-01,Almeria,Eibar,3,1,3,0,H
+secunda,2025,2025-11-02,FC Andorra,Cadiz,0,0,0,0,D
+secunda,2025,2025-11-02,Cordoba,AD Ceuta FC,2,0,2,0,H
+secunda,2025,2025-11-02,Sporting Gijon,Las Palmas,0,0,0,0,D
+secunda,2025,2025-11-02,Castellón,Malaga,2,1,0,0,H
+secunda,2025,2025-11-02,Zaragoza,Deportivo La Coruna,0,2,0,0,A
+secunda,2025,2025-11-03,Valladolid,Granada CF,2,1,0,1,H
+secunda,2025,2025-11-05,Real Sociedad II,Huesca,2,0,1,0,H
+secunda,2025,2025-11-07,Mirandes,Sporting Gijon,2,1,0,1,H
+secunda,2025,2025-11-08,Real Sociedad II,Leganes,2,1,1,1,H
+secunda,2025,2025-11-08,Eibar,Albacete,3,2,0,1,H
+secunda,2025,2025-11-08,Huesca,FC Andorra,2,2,0,2,D
+secunda,2025,2025-11-08,Deportivo La Coruna,Cultural Leonesa,3,0,2,0,H
+secunda,2025,2025-11-08,Malaga,Cordoba,2,2,0,0,D
+secunda,2025,2025-11-09,Las Palmas,Racing Santander,3,1,3,1,H
+secunda,2025,2025-11-09,Granada CF,Zaragoza,3,1,1,1,H
+secunda,2025,2025-11-09,Cadiz,Valladolid,0,0,0,0,D
+secunda,2025,2025-11-10,Burgos,Castellón,0,0,0,0,D
+secunda,2025,2025-11-14,Valladolid,Las Palmas,0,1,0,1,A
+secunda,2025,2025-11-15,Albacete,FC Andorra,1,0,0,0,H
+secunda,2025,2025-11-15,Castellón,Real Sociedad II,5,4,1,1,H
+secunda,2025,2025-11-15,Racing Santander,Granada CF,2,2,2,0,D
+secunda,2025,2025-11-16,AD Ceuta FC,Leganes,1,2,0,1,A
+secunda,2025,2025-11-16,Almeria,Cadiz,3,0,1,0,H
+secunda,2025,2025-11-16,Sporting Gijon,Eibar,1,1,0,1,D
+secunda,2025,2025-11-16,Cordoba,Deportivo La Coruna,1,3,0,0,A
+secunda,2025,2025-11-16,Mirandes,Burgos,0,2,0,0,A
+secunda,2025,2025-11-16,Zaragoza,Huesca,1,0,1,0,H
+secunda,2025,2025-11-17,Cultural Leonesa,Malaga,1,0,1,0,H
+secunda,2025,2025-11-21,Las Palmas,Albacete,2,1,2,0,H
+secunda,2025,2025-11-22,FC Andorra,Castellón,1,3,0,1,A
+secunda,2025,2025-11-22,Leganes,Almeria,0,3,0,1,A
+secunda,2025,2025-11-22,Eibar,Zaragoza,1,2,1,1,A
+secunda,2025,2025-11-22,Granada CF,Cordoba,1,1,0,0,D
+secunda,2025,2025-11-23,Deportivo La Coruna,AD Ceuta FC,2,1,1,0,H
+secunda,2025,2025-11-23,Cadiz,Cultural Leonesa,1,2,1,2,A
+secunda,2025,2025-11-23,Huesca,Sporting Gijon,2,0,1,0,H
+secunda,2025,2025-11-23,Burgos,Racing Santander,0,2,0,1,A
+secunda,2025,2025-11-23,Malaga,Mirandes,3,2,2,0,H
+secunda,2025,2025-11-24,Real Sociedad II,Valladolid,1,0,1,0,H
+secunda,2025,2025-11-26,AD Ceuta FC,Almeria,3,2,1,1,H
+secunda,2025,2025-11-28,Sporting Gijon,FC Andorra,1,1,0,0,D
+secunda,2025,2025-11-29,AD Ceuta FC,Burgos,1,0,1,0,H
+secunda,2025,2025-11-29,Cultural Leonesa,Granada CF,0,1,0,1,A
+secunda,2025,2025-11-29,Albacete,Deportivo La Coruna,0,2,0,1,A
+secunda,2025,2025-11-29,Almeria,Huesca,0,0,0,0,D
+secunda,2025,2025-11-29,Valladolid,Malaga,1,1,1,0,D
+secunda,2025,2025-11-30,Zaragoza,Leganes,3,2,1,1,H
+secunda,2025,2025-11-30,Racing Santander,Eibar,4,0,2,0,H
+secunda,2025,2025-11-30,Cordoba,Cadiz,1,2,0,0,A
+secunda,2025,2025-11-30,Mirandes,Real Sociedad II,1,0,0,0,H
+secunda,2025,2025-11-30,Castellón,Las Palmas,1,0,0,0,H
+secunda,2025,2025-12-06,FC Andorra,Almeria,1,2,0,0,A
+secunda,2025,2025-12-06,Huesca,Valladolid,1,4,0,2,A
+secunda,2025,2025-12-06,Real Sociedad II,Sporting Gijon,0,1,0,0,A
+secunda,2025,2025-12-07,Cadiz,Racing Santander,2,3,2,1,A
+secunda,2025,2025-12-07,Leganes,Cordoba,0,0,0,0,D
+secunda,2025,2025-12-07,Deportivo La Coruna,Castellón,1,3,1,0,A
+secunda,2025,2025-12-07,Eibar,Cultural Leonesa,1,2,1,1,A
+secunda,2025,2025-12-07,Granada CF,AD Ceuta FC,1,1,1,1,D
+secunda,2025,2025-12-08,Burgos,Albacete,0,1,0,0,A
+secunda,2025,2025-12-08,Las Palmas,Mirandes,0,0,0,0,D
+secunda,2025,2025-12-08,Malaga,Zaragoza,1,1,1,0,D
+secunda,2025,2025-12-12,Cultural Leonesa,Huesca,0,2,0,0,A
+secunda,2025,2025-12-13,Cordoba,Eibar,0,0,0,0,D
+secunda,2025,2025-12-13,Valladolid,FC Andorra,0,1,0,0,A
+secunda,2025,2025-12-13,Sporting Gijon,Granada CF,1,0,0,0,H
+secunda,2025,2025-12-13,Racing Santander,Leganes,1,1,0,0,D
+secunda,2025,2025-12-13,Deportivo La Coruna,Real Sociedad II,0,3,0,1,A
+secunda,2025,2025-12-13,Zaragoza,Cadiz,1,2,0,0,A
+secunda,2025,2025-12-14,Albacete,Malaga,1,3,1,0,A
+secunda,2025,2025-12-14,Almeria,Burgos,1,2,1,1,A
+secunda,2025,2025-12-14,AD Ceuta FC,Las Palmas,1,1,0,0,D
+secunda,2025,2025-12-15,Castellón,Mirandes,3,1,1,1,H
+secunda,2025,2025-12-19,Eibar,Valladolid,3,0,1,0,H
+secunda,2025,2025-12-20,FC Andorra,Deportivo La Coruna,1,0,0,0,H
+secunda,2025,2025-12-20,Huesca,Racing Santander,1,1,0,1,D
+secunda,2025,2025-12-20,Leganes,Sporting Gijon,0,1,0,0,A
+secunda,2025,2025-12-20,Las Palmas,Cultural Leonesa,4,0,4,0,H
+secunda,2025,2025-12-21,Malaga,Almeria,2,1,1,0,H
+secunda,2025,2025-12-21,Mirandes,Cordoba,1,2,1,1,A
+secunda,2025,2025-12-21,Real Sociedad II,AD Ceuta FC,1,3,1,1,A
+secunda,2025,2025-12-21,Granada CF,Albacete,1,1,1,0,D
+secunda,2025,2025-12-21,Burgos,Zaragoza,1,1,1,0,D
+secunda,2025,2025-12-21,Cadiz,Castellón,2,0,0,0,H
+secunda,2025,2026-01-02,Eibar,Mirandes,2,1,0,1,H
+secunda,2025,2026-01-03,Cultural Leonesa,Real Sociedad II,1,1,0,0,D
+secunda,2025,2026-01-03,Almeria,Granada CF,3,2,1,1,H
+secunda,2025,2026-01-03,Castellón,Huesca,4,1,3,0,H
+secunda,2025,2026-01-03,Valladolid,Racing Santander,1,1,0,0,D
+secunda,2025,2026-01-03,Cordoba,Burgos,2,0,1,0,H
+secunda,2025,2026-01-04,Sporting Gijon,Malaga,1,3,0,1,A
+secunda,2025,2026-01-04,AD Ceuta FC,FC Andorra,2,1,1,0,H
+secunda,2025,2026-01-04,Albacete,Leganes,1,3,1,1,A
+secunda,2025,2026-01-04,Zaragoza,Las Palmas,1,2,0,1,A
+secunda,2025,2026-01-04,Deportivo La Coruna,Cadiz,2,2,2,1,D
+secunda,2025,2026-01-09,Cadiz,Sporting Gijon,3,2,1,0,H
+secunda,2025,2026-01-10,Mirandes,Almeria,2,2,1,1,D
+secunda,2025,2026-01-10,Real Sociedad II,Albacete,0,0,0,0,D
+secunda,2025,2026-01-10,Las Palmas,Deportivo La Coruna,1,1,1,1,D
+secunda,2025,2026-01-10,FC Andorra,Cultural Leonesa,1,1,0,1,D
+secunda,2025,2026-01-10,Burgos,Eibar,1,0,0,0,H
+secunda,2025,2026-01-10,Racing Santander,Zaragoza,2,3,0,2,A
+secunda,2025,2026-01-11,Leganes,Valladolid,3,0,2,0,H
+secunda,2025,2026-01-11,Malaga,AD Ceuta FC,2,1,2,1,H
+secunda,2025,2026-01-11,Granada CF,Castellón,0,0,0,0,D
+secunda,2025,2026-01-12,Huesca,Cordoba,1,2,1,1,A
+secunda,2025,2026-01-16,Castellón,Leganes,2,0,1,0,H
+secunda,2025,2026-01-17,AD Ceuta FC,Valladolid,0,3,0,1,A
+secunda,2025,2026-01-17,Cultural Leonesa,Sporting Gijon,2,4,1,3,A
+secunda,2025,2026-01-17,Zaragoza,Real Sociedad II,1,1,0,0,D
+secunda,2025,2026-01-17,Almeria,Deportivo La Coruna,1,2,1,0,A
+secunda,2025,2026-01-18,Mirandes,FC Andorra,1,2,0,1,A
+secunda,2025,2026-01-18,Racing Santander,Las Palmas,4,1,2,1,H
+secunda,2025,2026-01-18,Albacete,Cadiz,1,0,0,0,H
+secunda,2025,2026-01-18,Burgos,Huesca,1,0,0,0,H
+secunda,2025,2026-01-18,Cordoba,Malaga,0,1,0,1,A
+secunda,2025,2026-01-19,Granada CF,Eibar,0,0,0,0,D
+secunda,2025,2026-01-23,Malaga,Burgos,3,0,2,0,H
+secunda,2025,2026-01-24,Valladolid,Albacete,0,1,0,0,A
+secunda,2025,2026-01-24,Leganes,Real Sociedad II,2,0,0,0,H
+secunda,2025,2026-01-24,Las Palmas,Cordoba,1,2,1,2,A
+secunda,2025,2026-01-24,Sporting Gijon,Mirandes,3,0,1,0,H
+secunda,2025,2026-01-24,Cadiz,Granada CF,1,2,0,1,A
+secunda,2025,2026-01-25,FC Andorra,Huesca,1,1,1,1,D
+secunda,2025,2026-01-25,Eibar,Almeria,1,0,0,0,H
+secunda,2025,2026-01-25,Zaragoza,Castellón,0,0,0,0,D
+secunda,2025,2026-01-25,Deportivo La Coruna,Racing Santander,0,1,0,0,A
+secunda,2025,2026-01-26,AD Ceuta FC,Cultural Leonesa,3,1,2,1,H
+secunda,2025,2026-01-30,Real Sociedad II,Las Palmas,1,1,0,0,D
+secunda,2025,2026-01-31,Albacete,Zaragoza,2,0,1,0,H
+secunda,2025,2026-01-31,Burgos,Leganes,2,1,0,0,H
+secunda,2025,2026-01-31,Cultural Leonesa,Deportivo La Coruna,0,1,0,0,A
+secunda,2025,2026-01-31,Cordoba,Valladolid,3,1,1,1,H
+secunda,2025,2026-02-01,Almeria,AD Ceuta FC,4,2,3,1,H
+secunda,2025,2026-02-01,Eibar,Sporting Gijon,1,0,0,0,H
+secunda,2025,2026-02-01,Huesca,Cadiz,1,0,1,0,H
+secunda,2025,2026-02-01,Castellón,FC Andorra,2,0,2,0,H
+secunda,2025,2026-02-01,Granada CF,Racing Santander,1,0,1,0,H
+secunda,2025,2026-02-02,Mirandes,Malaga,2,1,1,0,H
+secunda,2025,2026-02-06,Leganes,Granada CF,1,0,1,0,H
+secunda,2025,2026-02-07,FC Andorra,Real Sociedad II,1,2,1,1,A
+secunda,2025,2026-02-07,Las Palmas,Burgos,0,0,0,0,D
+secunda,2025,2026-02-07,Zaragoza,Eibar,1,1,1,0,D
+secunda,2025,2026-02-08,Valladolid,Castellón,0,4,0,3,A
+secunda,2025,2026-02-08,Deportivo La Coruna,Albacete,2,1,2,0,H
+secunda,2025,2026-02-08,Cadiz,Almeria,1,2,1,2,A
+secunda,2025,2026-02-08,Sporting Gijon,Huesca,2,1,0,0,H
+secunda,2025,2026-02-08,Malaga,Cultural Leonesa,2,1,0,1,H
+secunda,2025,2026-02-09,Racing Santander,Mirandes,1,0,0,0,H
+secunda,2025,2026-02-13,Almeria,FC Andorra,3,2,1,1,H
+secunda,2025,2026-02-14,Cordoba,Leganes,2,1,1,0,H
+secunda,2025,2026-02-14,Burgos,Cadiz,1,1,1,1,D
+secunda,2025,2026-02-14,Cultural Leonesa,Zaragoza,0,0,0,0,D
+secunda,2025,2026-02-14,Granada CF,Valladolid,5,1,4,1,H
+secunda,2025,2026-02-15,Mirandes,Las Palmas,1,1,0,0,D
+secunda,2025,2026-02-15,Eibar,Racing Santander,2,1,0,1,H
+secunda,2025,2026-02-15,Huesca,AD Ceuta FC,2,0,0,0,H
+secunda,2025,2026-02-15,Albacete,Sporting Gijon,1,1,1,0,D
+secunda,2025,2026-02-15,Castellón,Deportivo La Coruna,2,0,1,0,H
+secunda,2025,2026-02-16,Real Sociedad II,Malaga,2,1,1,1,H
+secunda,2025,2026-02-20,AD Ceuta FC,Granada CF,2,1,1,0,H
+secunda,2025,2026-02-21,Leganes,Cultural Leonesa,1,1,0,1,D
+secunda,2025,2026-02-21,Deportivo La Coruna,Eibar,1,0,1,0,H
+secunda,2025,2026-02-21,Huesca,Mirandes,1,2,0,1,A
+secunda,2025,2026-02-21,Almeria,Cordoba,2,1,2,0,H
+secunda,2025,2026-02-21,Las Palmas,Castellón,1,1,1,0,D
+secunda,2025,2026-02-22,Sporting Gijon,Valladolid,2,2,1,2,D
+secunda,2025,2026-02-22,FC Andorra,Zaragoza,2,1,2,0,H
+secunda,2025,2026-02-22,Racing Santander,Burgos,1,0,1,0,H
+secunda,2025,2026-02-22,Malaga,Albacete,1,0,0,0,H
+secunda,2025,2026-02-23,Cadiz,Real Sociedad II,0,2,0,0,A
+secunda,2025,2026-02-25,AD Ceuta FC,Cordoba,3,2,3,2,H

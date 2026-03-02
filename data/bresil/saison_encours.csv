@@ -1,0 +1,381 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+bresil,2025,2025-03-29,Sao Paulo,Sport Recife,0,0,0,0,D
+bresil,2025,2025-03-29,Gremio,Atletico-MG,2,1,2,0,H
+bresil,2025,2025-03-29,Cruzeiro,Mirassol,2,1,2,1,H
+bresil,2025,2025-03-29,Juventude,Vitoria,2,0,1,0,H
+bresil,2025,2025-03-29,Fortaleza EC,Fluminense,2,0,2,0,H
+bresil,2025,2025-03-30,Flamengo,Internacional,1,1,0,1,D
+bresil,2025,2025-03-30,Palmeiras,Botafogo,0,0,0,0,D
+bresil,2025,2025-03-30,Vasco DA Gama,Santos,2,1,0,1,H
+bresil,2025,2025-03-30,Bahia,Corinthians,1,1,1,0,D
+bresil,2025,2025-03-31,RB Bragantino,Ceara,2,2,1,2,D
+bresil,2025,2025-04-05,Ceara,Gremio,2,0,1,0,H
+bresil,2025,2025-04-05,Corinthians,Vasco DA Gama,3,0,2,0,H
+bresil,2025,2025-04-06,Botafogo,Juventude,2,0,1,0,H
+bresil,2025,2025-04-06,Fluminense,RB Bragantino,2,1,1,0,H
+bresil,2025,2025-04-06,Atletico-MG,Sao Paulo,0,0,0,0,D
+bresil,2025,2025-04-06,Internacional,Cruzeiro,3,0,2,0,H
+bresil,2025,2025-04-06,Sport Recife,Palmeiras,1,2,1,1,A
+bresil,2025,2025-04-06,Vitoria,Flamengo,1,2,0,0,A
+bresil,2025,2025-04-06,Mirassol,Fortaleza EC,1,1,0,1,D
+bresil,2025,2025-04-06,Santos,Bahia,2,2,0,1,D
+bresil,2025,2025-04-12,Juventude,Ceara,2,1,1,1,H
+bresil,2025,2025-04-12,RB Bragantino,Botafogo,1,0,1,0,H
+bresil,2025,2025-04-12,Palmeiras,Corinthians,2,0,2,0,H
+bresil,2025,2025-04-13,Vasco DA Gama,Sport Recife,3,1,2,0,H
+bresil,2025,2025-04-13,Bahia,Mirassol,1,1,1,1,D
+bresil,2025,2025-04-13,Sao Paulo,Cruzeiro,1,1,0,0,D
+bresil,2025,2025-04-13,Gremio,Flamengo,0,2,0,1,A
+bresil,2025,2025-04-13,Fluminense,Santos,1,0,0,0,H
+bresil,2025,2025-04-13,Fortaleza EC,Internacional,0,0,0,0,D
+bresil,2025,2025-04-13,Atletico-MG,Vitoria,2,2,0,0,D
+bresil,2025,2025-04-16,Ceara,Vasco DA Gama,2,1,1,0,H
+bresil,2025,2025-04-16,Botafogo,Sao Paulo,2,2,1,2,D
+bresil,2025,2025-04-16,Sport Recife,RB Bragantino,0,1,0,1,A
+bresil,2025,2025-04-16,Mirassol,Gremio,4,1,2,0,H
+bresil,2025,2025-04-16,Internacional,Palmeiras,0,1,0,0,A
+bresil,2025,2025-04-16,Corinthians,Fluminense,0,2,0,0,A
+bresil,2025,2025-04-17,Flamengo,Juventude,6,0,3,0,H
+bresil,2025,2025-04-17,Santos,Atletico-MG,2,0,2,0,H
+bresil,2025,2025-04-17,Vitoria,Fortaleza EC,2,1,1,0,H
+bresil,2025,2025-04-18,Cruzeiro,Bahia,3,0,1,0,H
+bresil,2025,2025-04-19,Corinthians,Sport Recife,2,1,0,1,H
+bresil,2025,2025-04-19,Vasco DA Gama,Flamengo,0,0,0,0,D
+bresil,2025,2025-04-20,Gremio,Internacional,1,1,1,0,D
+bresil,2025,2025-04-20,Juventude,Mirassol,2,2,2,1,D
+bresil,2025,2025-04-20,Sao Paulo,Santos,2,1,2,1,H
+bresil,2025,2025-04-20,Atletico-MG,Botafogo,1,0,0,0,H
+bresil,2025,2025-04-20,Fluminense,Vitoria,1,1,1,0,D
+bresil,2025,2025-04-20,Fortaleza EC,Palmeiras,1,2,0,1,A
+bresil,2025,2025-04-20,RB Bragantino,Cruzeiro,1,0,1,0,H
+bresil,2025,2025-04-21,Bahia,Ceara,1,0,0,0,H
+bresil,2025,2025-04-26,Internacional,Juventude,3,1,2,1,H
+bresil,2025,2025-04-26,Ceara,Sao Paulo,1,1,1,1,D
+bresil,2025,2025-04-26,Mirassol,Atletico-MG,2,2,1,0,D
+bresil,2025,2025-04-26,Sport Recife,Fortaleza EC,0,0,0,0,D
+bresil,2025,2025-04-27,Botafogo,Fluminense,2,0,1,0,H
+bresil,2025,2025-04-27,Flamengo,Corinthians,4,0,3,0,H
+bresil,2025,2025-04-27,Palmeiras,Bahia,0,1,0,0,A
+bresil,2025,2025-04-27,Cruzeiro,Vasco DA Gama,1,0,0,0,H
+bresil,2025,2025-04-27,Vitoria,Gremio,1,1,0,1,D
+bresil,2025,2025-04-27,Santos,RB Bragantino,1,2,0,0,A
+bresil,2025,2025-05-03,Sao Paulo,Fortaleza EC,0,0,0,0,D
+bresil,2025,2025-05-03,Fluminense,Sport Recife,2,1,0,1,H
+bresil,2025,2025-05-03,Ceara,Vitoria,1,0,0,0,H
+bresil,2025,2025-05-03,Corinthians,Internacional,4,2,1,2,H
+bresil,2025,2025-05-04,Bahia,Botafogo,1,0,1,0,H
+bresil,2025,2025-05-04,Gremio,Santos,1,0,0,0,H
+bresil,2025,2025-05-04,Vasco DA Gama,Palmeiras,0,1,0,0,A
+bresil,2025,2025-05-04,Cruzeiro,Flamengo,2,1,1,1,H
+bresil,2025,2025-05-05,RB Bragantino,Mirassol,1,0,0,0,H
+bresil,2025,2025-05-05,Juventude,Atletico-MG,0,1,0,1,A
+bresil,2025,2025-05-10,Fortaleza EC,Juventude,5,0,1,0,H
+bresil,2025,2025-05-10,Gremio,RB Bragantino,1,1,0,0,D
+bresil,2025,2025-05-10,Vitoria,Vasco DA Gama,2,1,0,1,H
+bresil,2025,2025-05-10,Mirassol,Corinthians,2,1,0,1,H
+bresil,2025,2025-05-11,Flamengo,Bahia,1,0,1,0,H
+bresil,2025,2025-05-11,Sport Recife,Cruzeiro,0,4,0,3,A
+bresil,2025,2025-05-11,Palmeiras,Sao Paulo,1,0,0,0,H
+bresil,2025,2025-05-11,Atletico-MG,Fluminense,3,2,0,0,H
+bresil,2025,2025-05-11,Botafogo,Internacional,4,0,2,0,H
+bresil,2025,2025-05-12,Santos,Ceara,0,0,0,0,D
+bresil,2025,2025-05-17,Ceara,Sport Recife,2,0,1,0,H
+bresil,2025,2025-05-17,Vasco DA Gama,Fortaleza EC,3,0,1,0,H
+bresil,2025,2025-05-18,Sao Paulo,Gremio,2,1,0,1,H
+bresil,2025,2025-05-18,Bahia,Vitoria,2,1,1,0,H
+bresil,2025,2025-05-18,Corinthians,Santos,1,0,0,0,H
+bresil,2025,2025-05-18,Juventude,Fluminense,1,1,0,0,D
+bresil,2025,2025-05-18,Flamengo,Botafogo,0,0,0,0,D
+bresil,2025,2025-05-18,RB Bragantino,Palmeiras,1,2,1,0,A
+bresil,2025,2025-05-18,Internacional,Mirassol,1,1,0,1,D
+bresil,2025,2025-05-18,Cruzeiro,Atletico-MG,0,0,0,0,D
+bresil,2025,2025-05-24,Fluminense,Vasco DA Gama,2,1,1,1,H
+bresil,2025,2025-05-24,Sao Paulo,Mirassol,0,2,0,0,A
+bresil,2025,2025-05-25,Atletico-MG,Corinthians,0,0,0,0,D
+bresil,2025,2025-05-25,Gremio,Bahia,1,0,0,0,H
+bresil,2025,2025-05-25,Palmeiras,Flamengo,0,2,0,0,A
+bresil,2025,2025-05-25,Sport Recife,Internacional,1,1,1,0,D
+bresil,2025,2025-05-25,Vitoria,Santos,0,1,0,1,A
+bresil,2025,2025-05-25,Fortaleza EC,Cruzeiro,0,2,0,2,A
+bresil,2025,2025-05-26,RB Bragantino,Juventude,1,0,1,0,H
+bresil,2025,2025-05-31,Bahia,Sao Paulo,2,1,0,0,H
+bresil,2025,2025-06-01,Vasco DA Gama,RB Bragantino,0,2,0,2,A
+bresil,2025,2025-06-01,Mirassol,Sport Recife,1,0,1,0,H
+bresil,2025,2025-06-01,Santos,Botafogo,0,1,0,0,A
+bresil,2025,2025-06-01,Juventude,Gremio,0,2,0,2,A
+bresil,2025,2025-06-01,Flamengo,Fortaleza EC,5,0,1,0,H
+bresil,2025,2025-06-01,Ceara,Atletico-MG,0,1,0,0,A
+bresil,2025,2025-06-01,Corinthians,Vitoria,0,0,0,0,D
+bresil,2025,2025-06-01,Cruzeiro,Palmeiras,2,1,2,0,H
+bresil,2025,2025-06-01,Internacional,Fluminense,0,2,0,1,A
+bresil,2025,2025-06-04,Botafogo,Ceara,3,2,1,0,H
+bresil,2025,2025-06-12,Vitoria,Cruzeiro,0,0,0,0,D
+bresil,2025,2025-06-12,RB Bragantino,Bahia,0,3,0,2,A
+bresil,2025,2025-06-12,Fortaleza EC,Santos,2,3,0,2,A
+bresil,2025,2025-06-12,Gremio,Corinthians,1,1,1,1,D
+bresil,2025,2025-06-13,Sao Paulo,Vasco DA Gama,1,3,0,2,A
+bresil,2025,2025-06-13,Atletico-MG,Internacional,2,0,1,0,H
+bresil,2025,2025-07-12,Internacional,Vitoria,1,0,0,0,H
+bresil,2025,2025-07-12,Flamengo,Sao Paulo,2,0,0,0,H
+bresil,2025,2025-07-12,Vasco DA Gama,Botafogo,0,2,0,0,A
+bresil,2025,2025-07-13,Bahia,Atletico-MG,2,1,0,0,H
+bresil,2025,2025-07-13,Corinthians,RB Bragantino,1,2,0,1,A
+bresil,2025,2025-07-13,Cruzeiro,Gremio,4,1,2,0,H
+bresil,2025,2025-07-13,Fortaleza EC,Ceara,0,1,0,0,A
+bresil,2025,2025-07-14,Juventude,Sport Recife,2,0,1,0,H
+bresil,2025,2025-07-16,Palmeiras,Mirassol,1,1,0,0,D
+bresil,2025,2025-07-16,Ceara,Corinthians,0,1,0,0,A
+bresil,2025,2025-07-16,Santos,Flamengo,1,0,0,0,H
+bresil,2025,2025-07-17,Botafogo,Vitoria,0,0,0,0,D
+bresil,2025,2025-07-17,RB Bragantino,Sao Paulo,2,2,1,1,D
+bresil,2025,2025-07-17,Fluminense,Cruzeiro,0,2,0,2,A
+bresil,2025,2025-07-19,Fortaleza EC,Bahia,1,1,1,0,D
+bresil,2025,2025-07-19,Vasco DA Gama,Gremio,1,1,0,0,D
+bresil,2025,2025-07-19,Mirassol,Santos,3,0,0,0,H
+bresil,2025,2025-07-20,Sao Paulo,Corinthians,2,0,2,0,H
+bresil,2025,2025-07-20,Internacional,Ceara,1,0,1,0,H
+bresil,2025,2025-07-20,Cruzeiro,Juventude,4,0,1,0,H
+bresil,2025,2025-07-20,Vitoria,RB Bragantino,1,0,1,0,H
+bresil,2025,2025-07-20,Palmeiras,Atletico-MG,3,2,1,1,H
+bresil,2025,2025-07-20,Sport Recife,Botafogo,0,1,0,0,A
+bresil,2025,2025-07-20,Flamengo,Fluminense,1,0,0,0,H
+bresil,2025,2025-07-23,Fluminense,Palmeiras,1,2,1,1,A
+bresil,2025,2025-07-23,Ceara,Mirassol,0,2,0,2,A
+bresil,2025,2025-07-23,Corinthians,Cruzeiro,0,0,0,0,D
+bresil,2025,2025-07-24,Santos,Internacional,1,2,0,1,A
+bresil,2025,2025-07-24,Vitoria,Sport Recife,2,2,0,0,D
+bresil,2025,2025-07-24,RB Bragantino,Flamengo,1,2,0,0,A
+bresil,2025,2025-07-24,Juventude,Sao Paulo,0,1,0,0,A
+bresil,2025,2025-07-26,Botafogo,Corinthians,1,1,1,0,D
+bresil,2025,2025-07-26,Sport Recife,Santos,2,2,1,0,D
+bresil,2025,2025-07-26,Fortaleza EC,RB Bragantino,3,1,2,1,H
+bresil,2025,2025-07-26,Mirassol,Vitoria,1,1,1,1,D
+bresil,2025,2025-07-27,Palmeiras,Gremio,1,0,1,0,H
+bresil,2025,2025-07-27,Sao Paulo,Fluminense,3,1,1,0,H
+bresil,2025,2025-07-27,Cruzeiro,Ceara,1,2,1,1,A
+bresil,2025,2025-07-27,Bahia,Juventude,3,0,1,0,H
+bresil,2025,2025-07-27,Internacional,Vasco DA Gama,1,1,0,1,D
+bresil,2025,2025-07-27,Flamengo,Atletico-MG,1,0,0,0,H
+bresil,2025,2025-07-29,Gremio,Fortaleza EC,2,1,2,1,H
+bresil,2025,2025-08-02,Sport Recife,Bahia,0,0,0,0,D
+bresil,2025,2025-08-02,Mirassol,Vasco DA Gama,3,2,0,0,H
+bresil,2025,2025-08-03,Fluminense,Gremio,1,0,1,0,H
+bresil,2025,2025-08-03,Botafogo,Cruzeiro,0,2,0,2,A
+bresil,2025,2025-08-03,Corinthians,Fortaleza EC,1,1,0,1,D
+bresil,2025,2025-08-03,Ceara,Flamengo,1,1,0,1,D
+bresil,2025,2025-08-03,Atletico-MG,RB Bragantino,2,1,1,0,H
+bresil,2025,2025-08-03,Vitoria,Palmeiras,2,2,1,0,D
+bresil,2025,2025-08-03,Internacional,Sao Paulo,1,2,0,1,A
+bresil,2025,2025-08-04,Santos,Juventude,3,1,2,1,H
+bresil,2025,2025-08-09,Sao Paulo,Vitoria,2,0,1,0,H
+bresil,2025,2025-08-09,Flamengo,Mirassol,2,1,1,0,H
+bresil,2025,2025-08-09,RB Bragantino,Internacional,1,3,0,2,A
+bresil,2025,2025-08-09,Fortaleza EC,Botafogo,0,5,0,2,A
+bresil,2025,2025-08-10,Bahia,Fluminense,3,3,2,1,D
+bresil,2025,2025-08-10,Palmeiras,Ceara,2,1,0,0,H
+bresil,2025,2025-08-10,Vasco DA Gama,Atletico-MG,1,1,1,1,D
+bresil,2025,2025-08-10,Cruzeiro,Santos,1,2,1,0,A
+bresil,2025,2025-08-10,Gremio,Sport Recife,0,1,0,0,A
+bresil,2025,2025-08-11,Juventude,Corinthians,2,1,1,0,H
+bresil,2025,2025-08-16,Fluminense,Fortaleza EC,2,1,1,0,H
+bresil,2025,2025-08-16,Ceara,RB Bragantino,1,0,1,0,H
+bresil,2025,2025-08-16,Sport Recife,Sao Paulo,2,2,1,0,D
+bresil,2025,2025-08-16,Vitoria,Juventude,2,2,1,0,D
+bresil,2025,2025-08-17,Corinthians,Bahia,1,2,1,2,A
+bresil,2025,2025-08-17,Santos,Vasco DA Gama,0,6,0,1,A
+bresil,2025,2025-08-17,Atletico-MG,Gremio,1,3,1,1,A
+bresil,2025,2025-08-17,Internacional,Flamengo,1,3,0,2,A
+bresil,2025,2025-08-17,Botafogo,Palmeiras,0,1,0,1,A
+bresil,2025,2025-08-18,Mirassol,Cruzeiro,1,1,0,1,D
+bresil,2025,2025-08-20,Juventude,Vasco DA Gama,2,0,2,0,H
+bresil,2025,2025-08-23,RB Bragantino,Fluminense,4,2,2,1,H
+bresil,2025,2025-08-23,Cruzeiro,Internacional,2,1,1,1,H
+bresil,2025,2025-08-24,Gremio,Ceara,0,0,0,0,D
+bresil,2025,2025-08-24,Bahia,Santos,2,0,1,0,H
+bresil,2025,2025-08-24,Vasco DA Gama,Corinthians,2,3,0,1,A
+bresil,2025,2025-08-24,Juventude,Botafogo,1,3,1,1,A
+bresil,2025,2025-08-24,Fortaleza EC,Mirassol,0,1,0,1,A
+bresil,2025,2025-08-24,Sao Paulo,Atletico-MG,2,0,1,0,H
+bresil,2025,2025-08-25,Palmeiras,Sport Recife,3,0,1,0,H
+bresil,2025,2025-08-26,Flamengo,Vitoria,8,0,3,0,H
+bresil,2025,2025-08-30,Ceara,Juventude,0,1,0,0,A
+bresil,2025,2025-08-30,Botafogo,RB Bragantino,4,1,3,1,H
+bresil,2025,2025-08-31,Cruzeiro,Sao Paulo,1,0,0,0,H
+bresil,2025,2025-08-31,Flamengo,Gremio,1,1,0,0,D
+bresil,2025,2025-08-31,Santos,Fluminense,0,0,0,0,D
+bresil,2025,2025-08-31,Corinthians,Palmeiras,1,1,1,1,D
+bresil,2025,2025-08-31,Vitoria,Atletico-MG,1,0,1,0,H
+bresil,2025,2025-08-31,Mirassol,Bahia,5,1,3,0,H
+bresil,2025,2025-08-31,Internacional,Fortaleza EC,2,1,1,1,H
+bresil,2025,2025-08-31,Sport Recife,Vasco DA Gama,2,3,1,2,A
+bresil,2025,2025-09-13,Gremio,Mirassol,0,1,0,1,A
+bresil,2025,2025-09-13,Fortaleza EC,Vitoria,2,0,1,0,H
+bresil,2025,2025-09-13,Palmeiras,Internacional,4,1,4,0,H
+bresil,2025,2025-09-14,Fluminense,Corinthians,0,1,0,0,A
+bresil,2025,2025-09-14,RB Bragantino,Sport Recife,1,1,0,0,D
+bresil,2025,2025-09-14,Juventude,Flamengo,0,2,0,1,A
+bresil,2025,2025-09-14,Atletico-MG,Santos,1,1,0,0,D
+bresil,2025,2025-09-14,Sao Paulo,Botafogo,1,0,1,0,H
+bresil,2025,2025-09-14,Vasco DA Gama,Ceara,2,2,1,1,D
+bresil,2025,2025-09-15,Bahia,Cruzeiro,1,2,0,0,A
+bresil,2025,2025-09-17,Botafogo,Mirassol,3,3,3,0,D
+bresil,2025,2025-09-20,Vitoria,Fluminense,0,1,0,1,A
+bresil,2025,2025-09-20,Botafogo,Atletico-MG,1,0,0,0,H
+bresil,2025,2025-09-20,Ceara,Bahia,1,1,1,0,D
+bresil,2025,2025-09-21,Palmeiras,Fortaleza EC,4,1,1,1,H
+bresil,2025,2025-09-21,Mirassol,Juventude,2,0,2,0,H
+bresil,2025,2025-09-21,Internacional,Gremio,2,3,2,2,A
+bresil,2025,2025-09-21,Sport Recife,Corinthians,1,0,0,0,H
+bresil,2025,2025-09-21,Flamengo,Vasco DA Gama,1,1,1,1,D
+bresil,2025,2025-09-21,Santos,Sao Paulo,1,0,0,0,H
+bresil,2025,2025-09-21,Cruzeiro,RB Bragantino,2,1,1,1,H
+bresil,2025,2025-09-24,Gremio,Botafogo,1,1,0,0,D
+bresil,2025,2025-09-24,Vasco DA Gama,Bahia,3,1,1,1,H
+bresil,2025,2025-09-27,Fortaleza EC,Sport Recife,1,0,1,0,H
+bresil,2025,2025-09-27,Vasco DA Gama,Cruzeiro,2,0,1,0,H
+bresil,2025,2025-09-27,Juventude,Internacional,1,1,0,1,D
+bresil,2025,2025-09-28,Atletico-MG,Mirassol,1,0,1,0,H
+bresil,2025,2025-09-28,Gremio,Vitoria,3,1,1,0,H
+bresil,2025,2025-09-28,Bahia,Palmeiras,1,0,0,0,H
+bresil,2025,2025-09-28,Fluminense,Botafogo,2,0,1,0,H
+bresil,2025,2025-09-28,RB Bragantino,Santos,2,2,1,0,D
+bresil,2025,2025-09-28,Corinthians,Flamengo,1,2,0,0,A
+bresil,2025,2025-09-29,Sao Paulo,Ceara,0,1,0,0,A
+bresil,2025,2025-10-01,Atletico-MG,Juventude,0,0,0,0,D
+bresil,2025,2025-10-01,Palmeiras,Vasco DA Gama,3,0,3,0,H
+bresil,2025,2025-10-01,Sport Recife,Fluminense,2,2,0,0,D
+bresil,2025,2025-10-01,Mirassol,RB Bragantino,1,1,0,1,D
+bresil,2025,2025-10-01,Internacional,Corinthians,1,1,0,1,D
+bresil,2025,2025-10-02,Botafogo,Bahia,2,1,1,0,H
+bresil,2025,2025-10-02,Santos,Gremio,1,1,0,0,D
+bresil,2025,2025-10-02,Vitoria,Ceara,1,0,1,0,H
+bresil,2025,2025-10-02,Fortaleza EC,Sao Paulo,0,2,0,1,A
+bresil,2025,2025-10-02,Flamengo,Cruzeiro,0,0,0,0,D
+bresil,2025,2025-10-04,Internacional,Botafogo,2,0,1,0,H
+bresil,2025,2025-10-04,Fluminense,Atletico-MG,3,0,1,0,H
+bresil,2025,2025-10-04,RB Bragantino,Gremio,1,0,0,0,H
+bresil,2025,2025-10-05,Corinthians,Mirassol,3,0,1,0,H
+bresil,2025,2025-10-05,Sao Paulo,Palmeiras,2,3,2,0,A
+bresil,2025,2025-10-05,Vasco DA Gama,Vitoria,4,3,1,2,H
+bresil,2025,2025-10-05,Bahia,Flamengo,1,0,1,0,H
+bresil,2025,2025-10-05,Juventude,Fortaleza EC,1,2,1,0,A
+bresil,2025,2025-10-05,Ceara,Santos,3,0,1,0,H
+bresil,2025,2025-10-05,Cruzeiro,Sport Recife,1,1,0,1,D
+bresil,2025,2025-10-08,Atletico-MG,Sport Recife,3,1,2,0,H
+bresil,2025,2025-10-09,Mirassol,Fluminense,2,1,1,0,H
+bresil,2025,2025-10-11,Palmeiras,Juventude,4,1,2,0,H
+bresil,2025,2025-10-15,Palmeiras,RB Bragantino,5,1,1,1,H
+bresil,2025,2025-10-15,Botafogo,Flamengo,0,3,0,1,A
+bresil,2025,2025-10-15,Sport Recife,Ceara,1,1,0,0,D
+bresil,2025,2025-10-15,Mirassol,Internacional,3,1,2,1,H
+bresil,2025,2025-10-16,Santos,Corinthians,3,1,2,0,H
+bresil,2025,2025-10-16,Fortaleza EC,Vasco DA Gama,0,2,0,1,A
+bresil,2025,2025-10-16,Atletico-MG,Cruzeiro,1,1,0,0,D
+bresil,2025,2025-10-16,Gremio,Sao Paulo,2,0,1,0,H
+bresil,2025,2025-10-17,Fluminense,Juventude,1,0,0,0,H
+bresil,2025,2025-10-17,Vitoria,Bahia,2,1,1,1,H
+bresil,2025,2025-10-18,Corinthians,Atletico-MG,1,0,0,0,H
+bresil,2025,2025-10-19,Cruzeiro,Fortaleza EC,1,0,1,0,H
+bresil,2025,2025-10-19,Flamengo,Palmeiras,3,2,3,1,H
+bresil,2025,2025-10-19,Internacional,Sport Recife,2,0,1,0,H
+bresil,2025,2025-10-19,Ceara,Botafogo,0,2,0,1,A
+bresil,2025,2025-10-19,Mirassol,Sao Paulo,3,0,2,0,H
+bresil,2025,2025-10-19,Bahia,Gremio,4,0,2,0,H
+bresil,2025,2025-10-20,Juventude,RB Bragantino,1,0,1,0,H
+bresil,2025,2025-10-20,Vasco DA Gama,Fluminense,2,0,1,0,H
+bresil,2025,2025-10-21,Santos,Vitoria,0,1,0,1,A
+bresil,2025,2025-10-22,Bahia,Internacional,1,0,1,0,H
+bresil,2025,2025-10-25,Vitoria,Corinthians,0,1,0,0,A
+bresil,2025,2025-10-25,Atletico-MG,Ceara,1,0,1,0,H
+bresil,2025,2025-10-25,Fluminense,Internacional,1,0,0,0,H
+bresil,2025,2025-10-25,Sport Recife,Mirassol,1,2,1,1,A
+bresil,2025,2025-10-25,Fortaleza EC,Flamengo,1,0,1,0,H
+bresil,2025,2025-10-26,Sao Paulo,Bahia,2,0,2,0,H
+bresil,2025,2025-10-26,Botafogo,Santos,2,2,2,1,D
+bresil,2025,2025-10-26,Gremio,Juventude,3,1,1,0,H
+bresil,2025,2025-10-26,RB Bragantino,Vasco DA Gama,0,3,0,1,A
+bresil,2025,2025-10-26,Palmeiras,Cruzeiro,0,0,0,0,D
+bresil,2025,2025-10-29,Fluminense,Ceara,1,0,1,0,H
+bresil,2025,2025-11-01,Santos,Fortaleza EC,1,1,0,1,D
+bresil,2025,2025-11-01,Cruzeiro,Vitoria,3,1,3,1,H
+bresil,2025,2025-11-01,Mirassol,Botafogo,0,0,0,0,D
+bresil,2025,2025-11-02,Flamengo,Sport Recife,3,0,0,0,H
+bresil,2025,2025-11-02,Bahia,RB Bragantino,2,1,0,1,H
+bresil,2025,2025-11-02,Ceara,Fluminense,2,0,1,0,H
+bresil,2025,2025-11-02,Corinthians,Gremio,2,0,1,0,H
+bresil,2025,2025-11-02,Internacional,Atletico-MG,0,0,0,0,D
+bresil,2025,2025-11-02,Juventude,Palmeiras,0,2,0,1,A
+bresil,2025,2025-11-02,Vasco DA Gama,Sao Paulo,0,2,0,1,A
+bresil,2025,2025-11-05,Sport Recife,Juventude,0,2,0,1,A
+bresil,2025,2025-11-05,Vitoria,Internacional,1,0,0,0,H
+bresil,2025,2025-11-05,RB Bragantino,Corinthians,2,1,1,0,H
+bresil,2025,2025-11-05,Botafogo,Vasco DA Gama,3,0,1,0,H
+bresil,2025,2025-11-05,Gremio,Cruzeiro,0,1,0,1,A
+bresil,2025,2025-11-05,Atletico-MG,Bahia,3,0,0,0,H
+bresil,2025,2025-11-06,Sao Paulo,Flamengo,2,2,1,1,D
+bresil,2025,2025-11-06,Fluminense,Mirassol,1,0,1,0,H
+bresil,2025,2025-11-06,Ceara,Fortaleza EC,1,1,0,1,D
+bresil,2025,2025-11-07,Palmeiras,Santos,2,0,0,0,H
+bresil,2025,2025-11-08,Sport Recife,Atletico-MG,2,4,1,0,A
+bresil,2025,2025-11-08,Vasco DA Gama,Juventude,1,3,1,2,A
+bresil,2025,2025-11-08,Internacional,Bahia,2,2,1,0,D
+bresil,2025,2025-11-09,Sao Paulo,RB Bragantino,0,1,0,0,A
+bresil,2025,2025-11-09,Corinthians,Ceara,0,1,0,1,A
+bresil,2025,2025-11-09,Cruzeiro,Fluminense,0,0,0,0,D
+bresil,2025,2025-11-09,Vitoria,Botafogo,0,0,0,0,D
+bresil,2025,2025-11-09,Flamengo,Santos,3,2,1,0,H
+bresil,2025,2025-11-09,Fortaleza EC,Gremio,2,2,1,2,D
+bresil,2025,2025-11-09,Mirassol,Palmeiras,2,1,2,1,H
+bresil,2025,2025-11-12,Atletico-MG,Fortaleza EC,3,3,2,0,D
+bresil,2025,2025-11-15,Sport Recife,Flamengo,1,5,1,1,A
+bresil,2025,2025-11-16,Santos,Palmeiras,1,0,0,0,H
+bresil,2025,2025-11-16,RB Bragantino,Atletico-MG,2,0,0,0,H
+bresil,2025,2025-11-18,Botafogo,Sport Recife,3,2,1,2,H
+bresil,2025,2025-11-19,Palmeiras,Vitoria,0,0,0,0,D
+bresil,2025,2025-11-20,Fluminense,Flamengo,2,1,2,0,H
+bresil,2025,2025-11-20,Santos,Mirassol,1,1,1,0,D
+bresil,2025,2025-11-20,Gremio,Vasco DA Gama,2,0,0,0,H
+bresil,2025,2025-11-20,Juventude,Cruzeiro,3,3,2,1,D
+bresil,2025,2025-11-20,Bahia,Fortaleza EC,2,3,0,2,A
+bresil,2025,2025-11-20,Corinthians,Sao Paulo,3,1,1,0,H
+bresil,2025,2025-11-21,Ceara,Internacional,1,2,0,0,A
+bresil,2025,2025-11-22,Botafogo,Gremio,3,2,2,0,H
+bresil,2025,2025-11-23,Palmeiras,Fluminense,0,0,0,0,D
+bresil,2025,2025-11-23,Flamengo,RB Bragantino,3,0,0,0,H
+bresil,2025,2025-11-23,Bahia,Vasco DA Gama,1,0,0,0,H
+bresil,2025,2025-11-23,Sao Paulo,Juventude,2,1,1,0,H
+bresil,2025,2025-11-23,Sport Recife,Vitoria,1,3,1,2,A
+bresil,2025,2025-11-23,Cruzeiro,Corinthians,3,0,1,0,H
+bresil,2025,2025-11-24,Mirassol,Ceara,3,0,2,0,H
+bresil,2025,2025-11-25,Internacional,Santos,1,1,1,0,D
+bresil,2025,2025-11-26,Gremio,Palmeiras,3,2,1,1,H
+bresil,2025,2025-11-26,Atletico-MG,Flamengo,1,1,1,0,D
+bresil,2025,2025-11-26,RB Bragantino,Fortaleza EC,0,1,0,0,A
+bresil,2025,2025-11-27,Fluminense,Sao Paulo,6,0,3,0,H
+bresil,2025,2025-11-28,Juventude,Bahia,1,1,1,1,D
+bresil,2025,2025-11-28,Vasco DA Gama,Internacional,5,1,2,1,H
+bresil,2025,2025-11-29,Santos,Sport Recife,3,0,2,0,H
+bresil,2025,2025-11-29,Vitoria,Mirassol,2,0,1,0,H
+bresil,2025,2025-11-30,Ceara,Cruzeiro,1,1,0,0,D
+bresil,2025,2025-11-30,Corinthians,Botafogo,2,2,1,0,D
+bresil,2025,2025-11-30,Fortaleza EC,Atletico-MG,1,0,1,0,H
+bresil,2025,2025-12-02,Vasco DA Gama,Mirassol,0,2,0,0,A
+bresil,2025,2025-12-03,Gremio,Fluminense,1,2,0,1,A
+bresil,2025,2025-12-03,Fortaleza EC,Corinthians,2,1,1,0,H
+bresil,2025,2025-12-03,RB Bragantino,Vitoria,4,0,2,0,H
+bresil,2025,2025-12-03,Juventude,Santos,0,3,0,0,A
+bresil,2025,2025-12-03,Bahia,Sport Recife,2,0,1,0,H
+bresil,2025,2025-12-03,Sao Paulo,Internacional,3,0,2,0,H
+bresil,2025,2025-12-04,Flamengo,Ceara,1,0,1,0,H
+bresil,2025,2025-12-04,Atletico-MG,Palmeiras,0,3,0,2,A
+bresil,2025,2025-12-04,Cruzeiro,Botafogo,2,2,1,0,D
+bresil,2025,2025-12-06,Mirassol,Flamengo,3,3,2,2,D
+bresil,2025,2025-12-07,Internacional,RB Bragantino,3,1,0,0,H
+bresil,2025,2025-12-07,Botafogo,Fortaleza EC,4,2,1,1,H
+bresil,2025,2025-12-07,Sport Recife,Gremio,0,4,0,3,A
+bresil,2025,2025-12-07,Fluminense,Bahia,2,0,0,0,H
+bresil,2025,2025-12-07,Santos,Cruzeiro,3,0,2,0,H
+bresil,2025,2025-12-07,Ceara,Palmeiras,1,3,1,1,A
+bresil,2025,2025-12-07,Corinthians,Juventude,1,1,1,0,D
+bresil,2025,2025-12-07,Vitoria,Sao Paulo,1,0,0,0,H
+bresil,2025,2025-12-07,Atletico-MG,Vasco DA Gama,5,0,2,0,H

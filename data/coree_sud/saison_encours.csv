@@ -1,0 +1,233 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+coree_sud,2025,2025-02-15,Pohang Steelers,Daejeon Citizen,0,3,0,1,A
+coree_sud,2025,2025-02-15,Jeju United FC,FC Seoul,2,0,1,0,H
+coree_sud,2025,2025-02-15,Gwangju FC,Suwon City FC,0,0,0,0,D
+coree_sud,2025,2025-02-16,Ulsan Hyundai FC,FC Anyang,0,1,0,0,A
+coree_sud,2025,2025-02-16,Daegu FC,Gangwon FC,2,1,0,1,H
+coree_sud,2025,2025-02-16,Jeonbuk Motors,Gimcheon Sangmu FC,2,1,1,1,H
+coree_sud,2025,2025-02-22,Jeju United FC,Gimcheon Sangmu FC,2,3,1,0,A
+coree_sud,2025,2025-02-22,Daegu FC,Suwon City FC,3,1,1,0,H
+coree_sud,2025,2025-02-22,FC Seoul,FC Anyang,2,1,0,0,H
+coree_sud,2025,2025-02-23,Daejeon Citizen,Ulsan Hyundai FC,0,2,0,1,A
+coree_sud,2025,2025-02-23,Gangwon FC,Pohang Steelers,2,1,0,1,H
+coree_sud,2025,2025-02-23,Jeonbuk Motors,Gwangju FC,2,2,1,1,D
+coree_sud,2025,2025-03-01,Ulsan Hyundai FC,Jeonbuk Motors,1,0,0,0,H
+coree_sud,2025,2025-03-01,Gwangju FC,FC Anyang,2,1,0,1,H
+coree_sud,2025,2025-03-01,Pohang Steelers,Daegu FC,0,0,0,0,D
+coree_sud,2025,2025-03-02,Daejeon Citizen,Suwon City FC,1,0,0,0,H
+coree_sud,2025,2025-03-02,Gangwon FC,Jeju United FC,0,0,0,0,D
+coree_sud,2025,2025-03-03,FC Seoul,Gimcheon Sangmu FC,0,0,0,0,D
+coree_sud,2025,2025-03-08,Suwon City FC,FC Seoul,0,0,0,0,D
+coree_sud,2025,2025-03-08,Daegu FC,Daejeon Citizen,1,2,0,2,A
+coree_sud,2025,2025-03-08,FC Anyang,Gimcheon Sangmu FC,1,3,1,3,A
+coree_sud,2025,2025-03-09,Ulsan Hyundai FC,Jeju United FC,2,0,1,0,H
+coree_sud,2025,2025-03-09,Jeonbuk Motors,Gangwon FC,0,1,0,0,A
+coree_sud,2025,2025-03-15,Jeju United FC,Daejeon Citizen,1,3,0,0,A
+coree_sud,2025,2025-03-15,Gangwon FC,FC Seoul,0,1,0,1,A
+coree_sud,2025,2025-03-15,Daegu FC,FC Anyang,0,1,0,1,A
+coree_sud,2025,2025-03-16,Suwon City FC,Ulsan Hyundai FC,1,1,1,0,D
+coree_sud,2025,2025-03-16,Jeonbuk Motors,Pohang Steelers,2,2,2,0,D
+coree_sud,2025,2025-03-16,Gimcheon Sangmu FC,Gwangju FC,0,0,0,0,D
+coree_sud,2025,2025-03-22,Gwangju FC,Pohang Steelers,2,3,1,1,A
+coree_sud,2025,2025-03-29,FC Seoul,Daegu FC,3,2,1,0,H
+coree_sud,2025,2025-03-29,Daejeon Citizen,Gwangju FC,1,1,0,1,D
+coree_sud,2025,2025-03-29,Pohang Steelers,Ulsan Hyundai FC,1,0,0,0,H
+coree_sud,2025,2025-03-30,Jeju United FC,Suwon City FC,1,0,1,0,H
+coree_sud,2025,2025-03-30,FC Anyang,Jeonbuk Motors,0,1,0,0,A
+coree_sud,2025,2025-03-30,Gimcheon Sangmu FC,Gangwon FC,1,0,0,0,H
+coree_sud,2025,2025-04-01,Ulsan Hyundai FC,Daejeon Citizen,2,3,2,2,A
+coree_sud,2025,2025-04-05,Ulsan Hyundai FC,FC Seoul,0,0,0,0,D
+coree_sud,2025,2025-04-05,Daejeon Citizen,Jeonbuk Motors,0,2,0,0,A
+coree_sud,2025,2025-04-05,Gimcheon Sangmu FC,Daegu FC,2,0,2,0,H
+coree_sud,2025,2025-04-05,Suwon City FC,Pohang Steelers,1,1,1,0,D
+coree_sud,2025,2025-04-06,FC Anyang,Gangwon FC,2,0,0,0,H
+coree_sud,2025,2025-04-06,Gwangju FC,Jeju United FC,1,0,0,0,H
+coree_sud,2025,2025-04-09,Gwangju FC,Daegu FC,2,1,2,0,H
+coree_sud,2025,2025-04-12,Suwon City FC,Gimcheon Sangmu FC,3,2,1,1,H
+coree_sud,2025,2025-04-12,Pohang Steelers,FC Anyang,2,1,0,1,H
+coree_sud,2025,2025-04-12,FC Seoul,Daejeon Citizen,2,2,0,2,D
+coree_sud,2025,2025-04-13,Gangwon FC,Gwangju FC,1,0,1,0,H
+coree_sud,2025,2025-04-13,Daegu FC,Ulsan Hyundai FC,0,1,0,0,A
+coree_sud,2025,2025-04-13,Jeonbuk Motors,Jeju United FC,1,1,0,1,D
+coree_sud,2025,2025-04-19,Ulsan Hyundai FC,Gangwon FC,1,2,1,1,A
+coree_sud,2025,2025-04-19,FC Anyang,Suwon City FC,3,1,1,1,H
+coree_sud,2025,2025-04-19,Gimcheon Sangmu FC,Daejeon Citizen,0,2,0,1,A
+coree_sud,2025,2025-04-19,FC Seoul,Gwangju FC,1,2,0,1,A
+coree_sud,2025,2025-04-20,Jeju United FC,Pohang Steelers,2,0,1,0,H
+coree_sud,2025,2025-04-20,Jeonbuk Motors,Daegu FC,3,1,3,0,H
+coree_sud,2025,2025-04-23,FC Anyang,Ulsan Hyundai FC,0,1,0,0,A
+coree_sud,2025,2025-04-26,Suwon City FC,Jeonbuk Motors,1,2,0,0,A
+coree_sud,2025,2025-04-26,FC Anyang,Jeju United FC,2,1,1,0,H
+coree_sud,2025,2025-04-27,Pohang Steelers,FC Seoul,1,0,1,0,H
+coree_sud,2025,2025-04-27,Daejeon Citizen,Gangwon FC,1,0,0,0,H
+coree_sud,2025,2025-04-27,Gimcheon Sangmu FC,Ulsan Hyundai FC,2,0,1,0,H
+coree_sud,2025,2025-05-02,Pohang Steelers,Gimcheon Sangmu FC,1,2,0,0,A
+coree_sud,2025,2025-05-02,Ulsan Hyundai FC,Gwangju FC,3,0,1,0,H
+coree_sud,2025,2025-05-03,Daegu FC,Jeju United FC,3,1,2,0,H
+coree_sud,2025,2025-05-03,Daejeon Citizen,FC Anyang,2,1,1,0,H
+coree_sud,2025,2025-05-03,Gangwon FC,Suwon City FC,0,0,0,0,D
+coree_sud,2025,2025-05-03,FC Seoul,Jeonbuk Motors,0,1,0,1,A
+coree_sud,2025,2025-05-05,Gwangju FC,Gimcheon Sangmu FC,1,0,1,0,H
+coree_sud,2025,2025-05-05,Ulsan Hyundai FC,Pohang Steelers,1,1,1,1,D
+coree_sud,2025,2025-05-06,Jeonbuk Motors,Daejeon Citizen,1,1,0,0,D
+coree_sud,2025,2025-05-06,Jeju United FC,Gangwon FC,0,3,0,1,A
+coree_sud,2025,2025-05-06,FC Anyang,FC Seoul,1,1,0,0,D
+coree_sud,2025,2025-05-06,Suwon City FC,Daegu FC,2,1,1,0,H
+coree_sud,2025,2025-05-10,Pohang Steelers,Suwon City FC,2,0,1,0,H
+coree_sud,2025,2025-05-10,FC Anyang,Daegu FC,2,2,0,1,D
+coree_sud,2025,2025-05-10,Daejeon Citizen,FC Seoul,0,0,0,0,D
+coree_sud,2025,2025-05-11,Jeju United FC,Ulsan Hyundai FC,1,2,0,1,A
+coree_sud,2025,2025-05-11,Gangwon FC,Gimcheon Sangmu FC,0,4,0,2,A
+coree_sud,2025,2025-05-11,Gwangju FC,Jeonbuk Motors,0,1,0,1,A
+coree_sud,2025,2025-05-17,Jeonbuk Motors,FC Anyang,2,0,2,0,H
+coree_sud,2025,2025-05-17,Gangwon FC,Ulsan Hyundai FC,1,1,0,0,D
+coree_sud,2025,2025-05-17,Gimcheon Sangmu FC,Jeju United FC,1,1,0,0,D
+coree_sud,2025,2025-05-18,Daegu FC,FC Seoul,0,1,0,0,A
+coree_sud,2025,2025-05-18,Pohang Steelers,Gwangju FC,0,1,0,0,A
+coree_sud,2025,2025-05-18,Suwon City FC,Daejeon Citizen,3,0,0,0,H
+coree_sud,2025,2025-05-23,FC Anyang,Pohang Steelers,0,2,0,0,A
+coree_sud,2025,2025-05-23,Jeju United FC,Jeonbuk Motors,0,0,0,0,D
+coree_sud,2025,2025-05-24,FC Seoul,Suwon City FC,1,1,1,0,D
+coree_sud,2025,2025-05-24,Daejeon Citizen,Daegu FC,2,1,1,0,H
+coree_sud,2025,2025-05-24,Ulsan Hyundai FC,Gimcheon Sangmu FC,3,2,0,1,H
+coree_sud,2025,2025-05-25,Gwangju FC,Gangwon FC,0,1,0,0,A
+coree_sud,2025,2025-05-27,Daegu FC,Jeonbuk Motors,0,4,0,2,A
+coree_sud,2025,2025-05-27,Daejeon Citizen,Pohang Steelers,1,3,1,2,A
+coree_sud,2025,2025-05-27,Suwon City FC,Jeju United FC,0,1,0,1,A
+coree_sud,2025,2025-05-28,Gangwon FC,FC Anyang,1,3,0,2,A
+coree_sud,2025,2025-05-28,Gwangju FC,Ulsan Hyundai FC,1,1,1,0,D
+coree_sud,2025,2025-05-28,Gimcheon Sangmu FC,FC Seoul,0,1,0,0,A
+coree_sud,2025,2025-05-31,FC Anyang,Daejeon Citizen,1,1,0,1,D
+coree_sud,2025,2025-05-31,Jeonbuk Motors,Ulsan Hyundai FC,3,1,1,1,H
+coree_sud,2025,2025-05-31,FC Seoul,Jeju United FC,1,3,0,1,A
+coree_sud,2025,2025-06-01,Daegu FC,Gwangju FC,1,1,0,1,D
+coree_sud,2025,2025-06-01,Pohang Steelers,Gangwon FC,2,1,1,1,H
+coree_sud,2025,2025-06-01,Gimcheon Sangmu FC,Suwon City FC,1,1,0,0,D
+coree_sud,2025,2025-06-13,Gangwon FC,Jeonbuk Motors,0,3,0,2,A
+coree_sud,2025,2025-06-13,Gwangju FC,FC Seoul,1,3,0,1,A
+coree_sud,2025,2025-06-14,Suwon City FC,FC Anyang,1,2,1,0,A
+coree_sud,2025,2025-06-14,Jeju United FC,Daegu FC,2,1,0,1,H
+coree_sud,2025,2025-06-14,Gimcheon Sangmu FC,Pohang Steelers,1,0,1,0,H
+coree_sud,2025,2025-06-17,Daegu FC,Pohang Steelers,1,1,0,1,D
+coree_sud,2025,2025-06-17,Jeonbuk Motors,Suwon City FC,3,2,0,2,H
+coree_sud,2025,2025-06-17,FC Seoul,Gangwon FC,1,1,0,1,D
+coree_sud,2025,2025-06-18,Daejeon Citizen,Gimcheon Sangmu FC,0,0,0,0,D
+coree_sud,2025,2025-06-18,Jeju United FC,Gwangju FC,0,1,0,0,A
+coree_sud,2025,2025-06-21,Gangwon FC,Daegu FC,3,0,1,0,H
+coree_sud,2025,2025-06-21,Jeonbuk Motors,FC Seoul,1,1,1,1,D
+coree_sud,2025,2025-06-21,Pohang Steelers,Jeju United FC,2,1,0,0,H
+coree_sud,2025,2025-06-22,Gwangju FC,Daejeon Citizen,2,2,0,0,D
+coree_sud,2025,2025-06-22,Gimcheon Sangmu FC,FC Anyang,1,0,0,0,H
+coree_sud,2025,2025-06-27,Daejeon Citizen,Jeju United FC,1,1,0,0,D
+coree_sud,2025,2025-06-27,Gimcheon Sangmu FC,Jeonbuk Motors,1,2,0,1,A
+coree_sud,2025,2025-06-28,FC Anyang,Gwangju FC,1,2,1,2,A
+coree_sud,2025,2025-06-28,Suwon City FC,Gangwon FC,1,2,0,1,A
+coree_sud,2025,2025-06-29,FC Seoul,Pohang Steelers,4,1,3,0,H
+coree_sud,2025,2025-07-12,Ulsan Hyundai FC,Daegu FC,2,2,0,1,D
+coree_sud,2025,2025-07-18,Daegu FC,Gimcheon Sangmu FC,2,3,2,1,A
+coree_sud,2025,2025-07-18,Suwon City FC,Gwangju FC,2,1,0,0,H
+coree_sud,2025,2025-07-19,Gangwon FC,Daejeon Citizen,2,2,0,0,D
+coree_sud,2025,2025-07-19,Jeju United FC,FC Anyang,2,0,0,0,H
+coree_sud,2025,2025-07-19,Pohang Steelers,Jeonbuk Motors,2,3,2,0,A
+coree_sud,2025,2025-07-20,FC Seoul,Ulsan Hyundai FC,1,0,1,0,H
+coree_sud,2025,2025-07-22,FC Anyang,Daegu FC,4,0,2,0,H
+coree_sud,2025,2025-07-22,Gwangju FC,Gimcheon Sangmu FC,1,1,1,0,D
+coree_sud,2025,2025-07-22,Pohang Steelers,Suwon City FC,1,5,1,2,A
+coree_sud,2025,2025-07-23,Jeju United FC,FC Seoul,3,2,1,1,H
+coree_sud,2025,2025-07-23,Jeonbuk Motors,Gangwon FC,2,0,2,0,H
+coree_sud,2025,2025-07-23,Ulsan Hyundai FC,Daejeon Citizen,1,2,1,1,A
+coree_sud,2025,2025-07-26,Suwon City FC,FC Anyang,2,1,2,1,H
+coree_sud,2025,2025-07-26,Gwangju FC,Jeonbuk Motors,1,2,0,1,A
+coree_sud,2025,2025-07-26,Gimcheon Sangmu FC,Jeju United FC,3,1,0,0,H
+coree_sud,2025,2025-07-27,Gangwon FC,Ulsan Hyundai FC,2,2,0,1,D
+coree_sud,2025,2025-07-27,Daegu FC,Pohang Steelers,0,1,0,0,A
+coree_sud,2025,2025-07-27,Daejeon Citizen,FC Seoul,0,1,0,0,A
+coree_sud,2025,2025-08-02,Ulsan Hyundai FC,Suwon City FC,2,3,0,0,A
+coree_sud,2025,2025-08-08,Jeonbuk Motors,FC Anyang,2,1,1,0,H
+coree_sud,2025,2025-08-08,FC Seoul,Daegu FC,2,2,2,1,D
+coree_sud,2025,2025-08-09,Gangwon FC,Gimcheon Sangmu FC,0,0,0,0,D
+coree_sud,2025,2025-08-09,Ulsan Hyundai FC,Jeju United FC,1,0,0,0,H
+coree_sud,2025,2025-08-10,Daejeon Citizen,Suwon City FC,3,2,1,2,H
+coree_sud,2025,2025-08-10,Pohang Steelers,Gwangju FC,1,0,1,0,H
+coree_sud,2025,2025-08-15,FC Anyang,Pohang Steelers,0,1,0,1,A
+coree_sud,2025,2025-08-15,Jeju United FC,Gangwon FC,0,0,0,0,D
+coree_sud,2025,2025-08-16,Jeonbuk Motors,Daegu FC,3,0,1,0,H
+coree_sud,2025,2025-08-16,Suwon City FC,Ulsan Hyundai FC,4,2,1,1,H
+coree_sud,2025,2025-08-17,Gwangju FC,Daejeon Citizen,2,0,1,0,H
+coree_sud,2025,2025-08-17,Gimcheon Sangmu FC,FC Seoul,6,2,3,2,H
+coree_sud,2025,2025-08-23,Daegu FC,Jeju United FC,2,2,0,0,D
+coree_sud,2025,2025-08-23,Gimcheon Sangmu FC,Suwon City FC,3,2,2,1,H
+coree_sud,2025,2025-08-23,Gwangju FC,Gangwon FC,0,1,0,1,A
+coree_sud,2025,2025-08-24,FC Anyang,Daejeon Citizen,3,2,1,1,H
+coree_sud,2025,2025-08-24,Pohang Steelers,Jeonbuk Motors,3,1,3,1,H
+coree_sud,2025,2025-08-24,FC Seoul,Ulsan Hyundai FC,3,2,3,1,H
+coree_sud,2025,2025-08-30,Daegu FC,Suwon City FC,3,1,0,1,H
+coree_sud,2025,2025-08-30,Jeju United FC,Gwangju FC,0,1,0,0,A
+coree_sud,2025,2025-08-30,Ulsan Hyundai FC,Jeonbuk Motors,0,2,0,0,A
+coree_sud,2025,2025-08-31,Gangwon FC,Pohang Steelers,1,0,1,0,H
+coree_sud,2025,2025-08-31,Daejeon Citizen,Gimcheon Sangmu FC,2,1,0,0,H
+coree_sud,2025,2025-08-31,FC Seoul,FC Anyang,1,2,0,1,A
+coree_sud,2025,2025-09-13,Gangwon FC,FC Seoul,3,2,1,0,H
+coree_sud,2025,2025-09-13,Jeonbuk Motors,Daejeon Citizen,1,0,0,0,H
+coree_sud,2025,2025-09-13,Pohang Steelers,Ulsan Hyundai FC,1,1,1,1,D
+coree_sud,2025,2025-09-14,FC Anyang,Jeju United FC,2,1,1,1,H
+coree_sud,2025,2025-09-14,Suwon City FC,Gwangju FC,2,4,2,2,A
+coree_sud,2025,2025-09-14,Gimcheon Sangmu FC,Daegu FC,1,2,0,0,A
+coree_sud,2025,2025-09-20,Jeonbuk Motors,Gimcheon Sangmu FC,1,2,0,2,A
+coree_sud,2025,2025-09-20,Daejeon Citizen,Daegu FC,3,2,2,0,H
+coree_sud,2025,2025-09-21,Suwon City FC,Gangwon FC,1,0,0,0,H
+coree_sud,2025,2025-09-21,Ulsan Hyundai FC,FC Anyang,0,0,0,0,D
+coree_sud,2025,2025-09-21,Pohang Steelers,Jeju United FC,1,0,0,0,H
+coree_sud,2025,2025-09-21,FC Seoul,Gwangju FC,3,0,0,0,H
+coree_sud,2025,2025-09-27,Gangwon FC,Daejeon Citizen,0,0,0,0,D
+coree_sud,2025,2025-09-27,Daegu FC,Ulsan Hyundai FC,1,1,1,0,D
+coree_sud,2025,2025-09-27,Gimcheon Sangmu FC,Pohang Steelers,2,0,0,0,H
+coree_sud,2025,2025-09-27,FC Seoul,Jeonbuk Motors,1,1,0,0,D
+coree_sud,2025,2025-09-28,FC Anyang,Gwangju FC,0,0,0,0,D
+coree_sud,2025,2025-09-28,Jeju United FC,Suwon City FC,3,4,2,2,A
+coree_sud,2025,2025-10-03,Jeju United FC,Jeonbuk Motors,1,1,0,1,D
+coree_sud,2025,2025-10-04,Gwangju FC,Daegu FC,2,3,1,2,A
+coree_sud,2025,2025-10-05,Pohang Steelers,Daejeon Citizen,1,3,1,1,A
+coree_sud,2025,2025-10-05,Gimcheon Sangmu FC,Ulsan Hyundai FC,3,0,1,0,H
+coree_sud,2025,2025-10-05,Gangwon FC,FC Anyang,1,1,0,0,D
+coree_sud,2025,2025-10-05,Suwon City FC,FC Seoul,1,1,1,1,D
+coree_sud,2025,2025-10-18,Daegu FC,Gangwon FC,2,2,0,2,D
+coree_sud,2025,2025-10-18,FC Anyang,Gimcheon Sangmu FC,4,1,2,0,H
+coree_sud,2025,2025-10-18,Daejeon Citizen,Jeju United FC,3,1,2,0,H
+coree_sud,2025,2025-10-18,Jeonbuk Motors,Suwon City FC,2,0,1,0,H
+coree_sud,2025,2025-10-18,FC Seoul,Pohang Steelers,1,2,0,1,A
+coree_sud,2025,2025-10-18,Ulsan Hyundai FC,Gwangju FC,2,0,1,0,H
+coree_sud,2025,2025-10-25,Gwangju FC,FC Anyang,1,0,1,0,H
+coree_sud,2025,2025-10-25,Jeonbuk Motors,Gimcheon Sangmu FC,2,3,2,1,A
+coree_sud,2025,2025-10-25,Suwon City FC,Jeju United FC,1,2,1,1,A
+coree_sud,2025,2025-10-26,FC Seoul,Gangwon FC,4,2,0,1,H
+coree_sud,2025,2025-10-26,Ulsan Hyundai FC,Daegu FC,1,1,0,1,D
+coree_sud,2025,2025-10-26,Daejeon Citizen,Pohang Steelers,2,0,2,0,H
+coree_sud,2025,2025-11-01,Gangwon FC,Jeonbuk Motors,0,0,0,0,D
+coree_sud,2025,2025-11-01,Daejeon Citizen,FC Seoul,3,1,0,0,H
+coree_sud,2025,2025-11-01,FC Anyang,Ulsan Hyundai FC,3,1,1,1,H
+coree_sud,2025,2025-11-01,Gimcheon Sangmu FC,Pohang Steelers,0,1,0,0,A
+coree_sud,2025,2025-11-02,Gwangju FC,Jeju United FC,2,0,0,0,H
+coree_sud,2025,2025-11-02,Suwon City FC,Daegu FC,1,1,0,0,D
+coree_sud,2025,2025-11-08,Daegu FC,Gwangju FC,1,0,0,0,H
+coree_sud,2025,2025-11-08,Jeju United FC,FC Anyang,1,2,0,1,A
+coree_sud,2025,2025-11-08,Jeonbuk Motors,Daejeon Citizen,3,1,0,0,H
+coree_sud,2025,2025-11-08,Gimcheon Sangmu FC,Gangwon FC,0,1,0,1,A
+coree_sud,2025,2025-11-09,Pohang Steelers,FC Seoul,0,0,0,0,D
+coree_sud,2025,2025-11-09,Ulsan Hyundai FC,Suwon City FC,1,0,0,0,H
+coree_sud,2025,2025-11-22,FC Anyang,Suwon City FC,0,1,0,1,A
+coree_sud,2025,2025-11-22,Daejeon Citizen,Gangwon FC,1,1,1,0,D
+coree_sud,2025,2025-11-22,FC Seoul,Gimcheon Sangmu FC,1,3,1,1,A
+coree_sud,2025,2025-11-22,Gwangju FC,Ulsan Hyundai FC,2,0,1,0,H
+coree_sud,2025,2025-11-22,Pohang Steelers,Jeonbuk Motors,0,0,0,0,D
+coree_sud,2025,2025-11-23,Jeju United FC,Daegu FC,1,1,1,0,D
+coree_sud,2025,2025-11-30,Daegu FC,FC Anyang,2,2,0,2,D
+coree_sud,2025,2025-11-30,Suwon City FC,Gwangju FC,0,1,0,0,A
+coree_sud,2025,2025-11-30,Ulsan Hyundai FC,Jeju United FC,0,1,0,0,A
+coree_sud,2025,2025-11-30,Gangwon FC,Pohang Steelers,1,0,0,0,H
+coree_sud,2025,2025-11-30,Jeonbuk Motors,FC Seoul,2,1,0,0,H
+coree_sud,2025,2025-11-30,Gimcheon Sangmu FC,Daejeon Citizen,0,3,0,1,A
+coree_sud,2025,2025-12-03,Suwon Bluewings,Jeju United FC,0,1,0,0,A
+coree_sud,2025,2025-12-05,Bucheon FC 1995,Suwon City FC,1,0,0,0,H
+coree_sud,2025,2025-12-07,Jeju United FC,Suwon Bluewings,2,0,2,0,H
+coree_sud,2025,2025-12-08,Suwon City FC,Bucheon FC 1995,2,3,0,2,A
