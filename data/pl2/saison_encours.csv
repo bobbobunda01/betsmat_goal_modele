@@ -1,0 +1,407 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Championship,2025,2025-08-08,Birmingham,Ipswich,1,1,0,0,D
+Championship,2025,2025-08-09,Southampton,Wrexham,2,1,0,1,H
+Championship,2025,2025-08-09,Charlton,Watford,1,0,0,0,H
+Championship,2025,2025-08-09,Coventry,Hull City,0,0,0,0,D
+Championship,2025,2025-08-09,West Brom,Blackburn,1,0,1,0,H
+Championship,2025,2025-08-09,Middlesbrough,Swansea,1,0,0,0,H
+Championship,2025,2025-08-09,Norwich,Millwall,1,2,0,0,A
+Championship,2025,2025-08-09,QPR,Preston,1,1,1,0,D
+Championship,2025,2025-08-09,Stoke City,Derby,3,1,0,0,H
+Championship,2025,2025-08-09,Oxford United,Portsmouth,0,1,0,1,A
+Championship,2025,2025-08-09,Sheffield Utd,Bristol City,1,4,1,2,A
+Championship,2025,2025-08-10,Leicester,Sheffield Wednesday,2,1,0,1,H
+Championship,2025,2025-08-16,Derby,Coventry,3,5,2,2,A
+Championship,2025,2025-08-16,Portsmouth,Norwich,1,2,0,2,A
+Championship,2025,2025-08-16,Wrexham,West Brom,2,3,1,1,A
+Championship,2025,2025-08-16,Watford,QPR,2,1,2,1,H
+Championship,2025,2025-08-16,Bristol City,Charlton,0,0,0,0,D
+Championship,2025,2025-08-16,Millwall,Middlesbrough,0,3,0,0,A
+Championship,2025,2025-08-16,Preston,Leicester,2,1,1,0,H
+Championship,2025,2025-08-16,Blackburn,Birmingham,1,2,0,0,A
+Championship,2025,2025-08-16,Sheffield Wednesday,Stoke City,0,3,0,1,A
+Championship,2025,2025-08-16,Swansea,Sheffield Utd,1,0,0,0,H
+Championship,2025,2025-08-17,Ipswich,Southampton,1,1,1,1,D
+Championship,2025,2025-08-17,Hull City,Oxford United,3,2,2,2,H
+Championship,2025,2025-08-22,Derby,Bristol City,1,1,0,1,D
+Championship,2025,2025-08-23,Hull City,Blackburn,0,3,0,1,A
+Championship,2025,2025-08-23,Swansea,Watford,1,1,0,1,D
+Championship,2025,2025-08-23,Charlton,Leicester,0,1,0,0,A
+Championship,2025,2025-08-23,Southampton,Stoke City,1,2,0,0,A
+Championship,2025,2025-08-23,Birmingham,Oxford United,1,0,1,0,H
+Championship,2025,2025-08-23,Preston,Ipswich,1,0,1,0,H
+Championship,2025,2025-08-23,West Brom,Portsmouth,1,1,1,0,D
+Championship,2025,2025-08-23,Sheffield Utd,Millwall,0,1,0,1,A
+Championship,2025,2025-08-23,Norwich,Middlesbrough,1,2,0,2,A
+Championship,2025,2025-08-23,Coventry,QPR,7,1,5,0,H
+Championship,2025,2025-08-23,Wrexham,Sheffield Wednesday,2,2,2,0,D
+Championship,2025,2025-08-29,Leicester,Birmingham,2,0,1,0,H
+Championship,2025,2025-08-30,Middlesbrough,Sheffield Utd,1,0,0,0,H
+Championship,2025,2025-08-30,QPR,Charlton,3,1,1,0,H
+Championship,2025,2025-08-30,Stoke City,West Brom,0,1,0,1,A
+Championship,2025,2025-08-30,Watford,Southampton,2,2,0,1,D
+Championship,2025,2025-08-30,Bristol City,Hull City,4,2,3,1,H
+Championship,2025,2025-08-30,Ipswich,Derby,2,2,1,0,D
+Championship,2025,2025-08-30,Millwall,Wrexham,0,2,0,0,A
+Championship,2025,2025-08-30,Blackburn,Norwich,0,2,0,1,A
+Championship,2025,2025-08-30,Sheffield Wednesday,Swansea,0,2,0,0,A
+Championship,2025,2025-08-30,Oxford United,Coventry,2,2,1,2,D
+Championship,2025,2025-08-30,Portsmouth,Preston,1,0,1,0,H
+Championship,2025,2025-09-12,Ipswich,Sheffield Utd,5,0,1,0,H
+Championship,2025,2025-09-13,Preston,Middlesbrough,2,2,1,0,D
+Championship,2025,2025-09-13,Charlton,Millwall,1,1,1,0,D
+Championship,2025,2025-09-13,Oxford United,Leicester,2,2,2,1,D
+Championship,2025,2025-09-13,Watford,Blackburn,0,1,0,0,A
+Championship,2025,2025-09-13,West Brom,Derby,0,1,0,0,A
+Championship,2025,2025-09-13,Sheffield Wednesday,Bristol City,0,3,0,3,A
+Championship,2025,2025-09-13,Stoke City,Birmingham,1,0,1,0,H
+Championship,2025,2025-09-13,Swansea,Hull City,2,2,1,1,D
+Championship,2025,2025-09-13,Coventry,Norwich,1,1,0,1,D
+Championship,2025,2025-09-13,Wrexham,QPR,1,3,0,2,A
+Championship,2025,2025-09-14,Southampton,Portsmouth,0,0,0,0,D
+Championship,2025,2025-09-19,Middlesbrough,West Brom,2,1,1,0,H
+Championship,2025,2025-09-20,Leicester,Coventry,0,0,0,0,D
+Championship,2025,2025-09-20,Birmingham,Swansea,1,0,0,0,H
+Championship,2025,2025-09-20,QPR,Stoke City,1,0,0,0,H
+Championship,2025,2025-09-20,Sheffield Utd,Charlton,0,1,0,0,A
+Championship,2025,2025-09-20,Hull City,Southampton,3,1,1,0,H
+Championship,2025,2025-09-20,Derby,Preston,0,1,0,1,A
+Championship,2025,2025-09-20,Norwich,Wrexham,2,3,1,0,A
+Championship,2025,2025-09-20,Portsmouth,Sheffield Wednesday,0,2,0,1,A
+Championship,2025,2025-09-21,Bristol City,Oxford United,1,3,0,2,A
+Championship,2025,2025-09-22,Millwall,Watford,1,0,1,0,H
+Championship,2025,2025-09-26,West Brom,Leicester,1,1,1,0,D
+Championship,2025,2025-09-27,Swansea,Millwall,1,1,1,1,D
+Championship,2025,2025-09-27,Coventry,Birmingham,3,0,1,0,H
+Championship,2025,2025-09-27,Wrexham,Derby,1,1,0,0,D
+Championship,2025,2025-09-27,Watford,Hull City,2,1,0,1,H
+Championship,2025,2025-09-27,Southampton,Middlesbrough,1,1,0,0,D
+Championship,2025,2025-09-27,Ipswich,Portsmouth,2,1,2,0,H
+Championship,2025,2025-09-27,Preston,Bristol City,0,0,0,0,D
+Championship,2025,2025-09-27,Sheffield Wednesday,QPR,1,1,1,0,D
+Championship,2025,2025-09-27,Stoke City,Norwich,1,1,0,1,D
+Championship,2025,2025-09-27,Charlton,Blackburn,3,0,1,0,H
+Championship,2025,2025-09-27,Oxford United,Sheffield Utd,0,1,0,0,A
+Championship,2025,2025-09-30,Leicester,Wrexham,1,1,1,0,D
+Championship,2025,2025-09-30,Birmingham,Sheffield Wednesday,2,2,1,1,D
+Championship,2025,2025-09-30,Bristol City,Ipswich,1,1,1,0,D
+Championship,2025,2025-09-30,Sheffield Utd,Southampton,1,2,1,0,A
+Championship,2025,2025-09-30,Hull City,Preston,2,2,0,2,D
+Championship,2025,2025-09-30,Blackburn,Swansea,1,2,1,1,A
+Championship,2025,2025-09-30,Middlesbrough,Stoke City,0,0,0,0,D
+Championship,2025,2025-09-30,Derby,Charlton,1,1,0,1,D
+Championship,2025,2025-10-01,Millwall,Coventry,0,4,0,1,A
+Championship,2025,2025-10-01,Norwich,West Brom,0,1,0,1,A
+Championship,2025,2025-10-01,Portsmouth,Watford,2,2,1,0,D
+Championship,2025,2025-10-01,QPR,Oxford United,0,0,0,0,D
+Championship,2025,2025-10-03,Wrexham,Birmingham,1,1,1,0,D
+Championship,2025,2025-10-04,Hull City,Sheffield Utd,1,0,1,0,H
+Championship,2025,2025-10-04,Blackburn,Stoke City,1,1,0,0,D
+Championship,2025,2025-10-04,Sheffield Wednesday,Coventry,0,5,0,3,A
+Championship,2025,2025-10-04,Watford,Oxford United,2,1,2,1,H
+Championship,2025,2025-10-04,Bristol City,QPR,1,2,1,0,A
+Championship,2025,2025-10-04,Millwall,West Brom,3,0,1,0,H
+Championship,2025,2025-10-04,Preston,Charlton,2,0,0,0,H
+Championship,2025,2025-10-04,Derby,Southampton,1,1,1,1,D
+Championship,2025,2025-10-04,Swansea,Leicester,1,3,0,1,A
+Championship,2025,2025-10-04,Portsmouth,Middlesbrough,1,0,1,0,H
+Championship,2025,2025-10-05,Ipswich,Norwich,3,1,2,1,H
+Championship,2025,2025-10-17,Middlesbrough,Ipswich,2,1,1,0,H
+Championship,2025,2025-10-18,Southampton,Swansea,0,0,0,0,D
+Championship,2025,2025-10-18,QPR,Millwall,1,2,0,2,A
+Championship,2025,2025-10-18,Oxford United,Derby,1,0,1,0,H
+Championship,2025,2025-10-18,Birmingham,Hull City,2,3,1,2,A
+Championship,2025,2025-10-18,West Brom,Preston,2,1,1,0,H
+Championship,2025,2025-10-18,Sheffield Utd,Watford,1,0,0,0,H
+Championship,2025,2025-10-18,Norwich,Bristol City,0,1,0,0,A
+Championship,2025,2025-10-18,Stoke City,Wrexham,1,0,1,0,H
+Championship,2025,2025-10-18,Charlton,Sheffield Wednesday,2,1,2,0,H
+Championship,2025,2025-10-18,Coventry,Blackburn,2,0,0,0,H
+Championship,2025,2025-10-18,Leicester,Portsmouth,1,1,1,0,D
+Championship,2025,2025-10-21,Ipswich,Charlton,0,3,0,0,A
+Championship,2025,2025-10-21,Millwall,Stoke City,2,0,2,0,H
+Championship,2025,2025-10-21,Preston,Birmingham,0,1,0,1,A
+Championship,2025,2025-10-21,Hull City,Leicester,2,1,2,0,H
+Championship,2025,2025-10-21,Blackburn,Sheffield Utd,1,3,1,0,A
+Championship,2025,2025-10-21,Derby,Norwich,1,0,0,0,H
+Championship,2025,2025-10-21,Portsmouth,Coventry,1,2,0,1,A
+Championship,2025,2025-10-21,Bristol City,Southampton,3,1,1,1,H
+Championship,2025,2025-10-22,Watford,West Brom,2,1,1,1,H
+Championship,2025,2025-10-22,Swansea,QPR,0,1,0,1,A
+Championship,2025,2025-10-22,Wrexham,Oxford United,1,0,1,0,H
+Championship,2025,2025-10-22,Sheffield Wednesday,Middlesbrough,0,1,0,1,A
+Championship,2025,2025-10-24,Preston,Sheffield Utd,3,2,1,2,H
+Championship,2025,2025-10-25,Ipswich,West Brom,1,0,0,0,H
+Championship,2025,2025-10-25,Coventry,Watford,3,1,3,0,H
+Championship,2025,2025-10-25,Portsmouth,Stoke City,0,1,0,0,A
+Championship,2025,2025-10-25,Bristol City,Birmingham,1,0,1,0,H
+Championship,2025,2025-10-25,Millwall,Leicester,1,0,1,0,H
+Championship,2025,2025-10-25,Hull City,Charlton,1,1,0,0,D
+Championship,2025,2025-10-25,Blackburn,Southampton,2,1,0,1,H
+Championship,2025,2025-10-25,Derby,QPR,1,0,1,0,H
+Championship,2025,2025-10-25,Middlesbrough,Wrexham,1,1,0,1,D
+Championship,2025,2025-10-25,Sheffield Wednesday,Oxford United,1,2,0,2,A
+Championship,2025,2025-10-25,Swansea,Norwich,2,1,1,1,H
+Championship,2025,2025-10-31,Wrexham,Coventry,3,2,0,1,H
+Championship,2025,2025-11-01,Leicester,Blackburn,0,2,0,1,A
+Championship,2025,2025-11-01,West Brom,Sheffield Wednesday,0,0,0,0,D
+Championship,2025,2025-11-01,Norwich,Hull City,0,2,0,0,A
+Championship,2025,2025-11-01,Watford,Middlesbrough,3,0,2,0,H
+Championship,2025,2025-11-01,Southampton,Preston,0,2,0,1,A
+Championship,2025,2025-11-01,Birmingham,Portsmouth,4,0,1,0,H
+Championship,2025,2025-11-01,Sheffield Utd,Derby,1,3,0,1,A
+Championship,2025,2025-11-01,QPR,Ipswich,1,4,1,1,A
+Championship,2025,2025-11-01,Stoke City,Bristol City,5,1,3,0,H
+Championship,2025,2025-11-01,Charlton,Swansea,1,1,0,0,D
+Championship,2025,2025-11-01,Oxford United,Millwall,2,2,1,1,D
+Championship,2025,2025-11-04,Leicester,Middlesbrough,1,1,1,0,D
+Championship,2025,2025-11-04,Birmingham,Millwall,4,0,2,0,H
+Championship,2025,2025-11-04,Bristol City,Blackburn,0,1,0,1,A
+Championship,2025,2025-11-04,Ipswich,Watford,1,1,1,1,D
+Championship,2025,2025-11-04,Derby,Hull City,2,1,1,0,H
+Championship,2025,2025-11-04,Charlton,West Brom,1,0,0,0,H
+Championship,2025,2025-11-04,Oxford United,Stoke City,0,3,0,2,A
+Championship,2025,2025-11-04,Coventry,Sheffield Utd,3,1,0,1,H
+Championship,2025,2025-11-05,Preston,Swansea,2,1,1,0,H
+Championship,2025,2025-11-05,QPR,Southampton,1,2,0,0,A
+Championship,2025,2025-11-05,Sheffield Wednesday,Norwich,1,1,1,0,D
+Championship,2025,2025-11-05,Portsmouth,Wrexham,0,0,0,0,D
+Championship,2025,2025-11-07,Watford,Bristol City,1,1,1,1,D
+Championship,2025,2025-11-08,Millwall,Preston,1,1,1,1,D
+Championship,2025,2025-11-08,Hull City,Portsmouth,3,2,2,2,H
+Championship,2025,2025-11-08,Blackburn,Derby,1,2,0,2,A
+Championship,2025,2025-11-08,Southampton,Sheffield Wednesday,3,1,2,1,H
+Championship,2025,2025-11-08,West Brom,Oxford United,2,1,0,0,H
+Championship,2025,2025-11-08,Sheffield Utd,QPR,0,0,0,0,D
+Championship,2025,2025-11-08,Middlesbrough,Birmingham,2,1,2,1,H
+Championship,2025,2025-11-08,Norwich,Leicester,1,2,0,0,A
+Championship,2025,2025-11-08,Stoke City,Coventry,0,1,0,0,A
+Championship,2025,2025-11-08,Swansea,Ipswich,1,4,0,1,A
+Championship,2025,2025-11-08,Wrexham,Charlton,1,0,0,0,H
+Championship,2025,2025-11-21,Preston,Blackburn,1,2,1,1,A
+Championship,2025,2025-11-22,Bristol City,Swansea,3,0,2,0,H
+Championship,2025,2025-11-22,Charlton,Southampton,1,5,1,5,A
+Championship,2025,2025-11-22,Coventry,West Brom,3,2,1,2,H
+Championship,2025,2025-11-22,Leicester,Stoke City,2,1,2,0,H
+Championship,2025,2025-11-22,Birmingham,Norwich,4,1,3,1,H
+Championship,2025,2025-11-22,Ipswich,Wrexham,0,0,0,0,D
+Championship,2025,2025-11-22,Derby,Watford,2,3,1,0,A
+Championship,2025,2025-11-22,QPR,Hull City,3,2,1,1,H
+Championship,2025,2025-11-22,Oxford United,Middlesbrough,1,1,1,0,D
+Championship,2025,2025-11-22,Portsmouth,Millwall,3,1,1,0,H
+Championship,2025,2025-11-23,Sheffield Wednesday,Sheffield Utd,0,3,0,1,A
+Championship,2025,2025-11-25,Watford,Preston,1,1,1,1,D
+Championship,2025,2025-11-25,Hull City,Ipswich,0,2,0,0,A
+Championship,2025,2025-11-25,Middlesbrough,Coventry,2,4,1,2,A
+Championship,2025,2025-11-25,Norwich,Oxford United,1,1,1,0,D
+Championship,2025,2025-11-25,Stoke City,Charlton,3,0,3,0,H
+Championship,2025,2025-11-25,Swansea,Derby,1,2,0,1,A
+Championship,2025,2025-11-25,Southampton,Leicester,3,0,3,0,H
+Championship,2025,2025-11-26,Millwall,Sheffield Wednesday,1,0,0,0,H
+Championship,2025,2025-11-26,Sheffield Utd,Portsmouth,3,0,1,0,H
+Championship,2025,2025-11-26,Blackburn,QPR,0,1,0,0,A
+Championship,2025,2025-11-26,Wrexham,Bristol City,2,0,1,0,H
+Championship,2025,2025-11-26,West Brom,Birmingham,1,1,1,0,D
+Championship,2025,2025-11-28,Oxford United,Ipswich,2,1,1,0,H
+Championship,2025,2025-11-29,Leicester,Sheffield Utd,2,3,0,3,A
+Championship,2025,2025-11-29,Stoke City,Hull City,1,2,1,0,A
+Championship,2025,2025-11-29,Portsmouth,Bristol City,0,1,0,1,A
+Championship,2025,2025-11-29,Millwall,Southampton,3,2,0,0,H
+Championship,2025,2025-11-29,West Brom,Swansea,3,2,0,2,H
+Championship,2025,2025-11-29,Middlesbrough,Derby,2,1,0,1,H
+Championship,2025,2025-11-29,Norwich,QPR,3,1,3,1,H
+Championship,2025,2025-11-29,Sheffield Wednesday,Preston,2,3,2,1,A
+Championship,2025,2025-11-29,Coventry,Charlton,3,1,2,1,H
+Championship,2025,2025-11-29,Wrexham,Blackburn,1,1,0,1,D
+Championship,2025,2025-12-01,Birmingham,Watford,2,1,2,0,H
+Championship,2025,2025-12-02,Blackburn,Ipswich,1,1,0,0,D
+Championship,2025,2025-12-05,Hull City,Middlesbrough,1,4,0,4,A
+Championship,2025,2025-12-06,Watford,Norwich,3,2,1,2,H
+Championship,2025,2025-12-06,Derby,Leicester,1,3,0,3,A
+Championship,2025,2025-12-06,Southampton,Birmingham,3,1,2,0,H
+Championship,2025,2025-12-06,Bristol City,Millwall,0,1,0,0,A
+Championship,2025,2025-12-06,Ipswich,Coventry,3,0,1,0,H
+Championship,2025,2025-12-06,Preston,Wrexham,1,1,0,1,D
+Championship,2025,2025-12-06,Sheffield Utd,Stoke City,4,0,3,0,H
+Championship,2025,2025-12-06,QPR,West Brom,3,1,1,0,H
+Championship,2025,2025-12-06,Swansea,Oxford United,2,0,2,0,H
+Championship,2025,2025-12-09,Watford,Sheffield Wednesday,1,1,0,1,D
+Championship,2025,2025-12-09,Southampton,West Brom,3,2,3,0,H
+Championship,2025,2025-12-09,Preston,Coventry,1,1,0,0,D
+Championship,2025,2025-12-09,Sheffield Utd,Norwich,1,1,0,0,D
+Championship,2025,2025-12-09,Blackburn,Oxford United,1,1,0,1,D
+Championship,2025,2025-12-09,Swansea,Portsmouth,1,0,0,0,H
+Championship,2025,2025-12-09,Charlton,Middlesbrough,1,2,0,2,A
+Championship,2025,2025-12-09,QPR,Birmingham,2,1,1,0,H
+Championship,2025,2025-12-10,Bristol City,Leicester,2,2,0,2,D
+Championship,2025,2025-12-10,Ipswich,Stoke City,1,0,1,0,H
+Championship,2025,2025-12-10,Derby,Millwall,1,1,0,0,D
+Championship,2025,2025-12-10,Hull City,Wrexham,2,0,1,0,H
+Championship,2025,2025-12-12,West Brom,Sheffield Utd,2,0,0,0,H
+Championship,2025,2025-12-13,Norwich,Southampton,2,1,0,0,H
+Championship,2025,2025-12-13,Stoke City,Swansea,2,1,1,0,H
+Championship,2025,2025-12-13,Oxford United,Preston,1,2,0,1,A
+Championship,2025,2025-12-13,Leicester,Ipswich,3,1,2,0,H
+Championship,2025,2025-12-13,Birmingham,Charlton,1,1,1,0,D
+Championship,2025,2025-12-13,Millwall,Hull City,1,3,0,2,A
+Championship,2025,2025-12-13,Middlesbrough,QPR,3,1,2,0,H
+Championship,2025,2025-12-13,Coventry,Bristol City,1,0,0,0,H
+Championship,2025,2025-12-13,Portsmouth,Blackburn,2,1,0,1,H
+Championship,2025,2025-12-13,Wrexham,Watford,2,2,1,2,D
+Championship,2025,2025-12-15,Sheffield Wednesday,Derby,0,3,0,1,A
+Championship,2025,2025-12-19,Swansea,Wrexham,2,1,0,1,H
+Championship,2025,2025-12-20,Southampton,Coventry,1,1,0,1,D
+Championship,2025,2025-12-20,Preston,Norwich,1,1,0,0,D
+Championship,2025,2025-12-20,Blackburn,Millwall,2,0,2,0,H
+Championship,2025,2025-12-20,Watford,Stoke City,1,0,0,0,H
+Championship,2025,2025-12-20,Bristol City,Middlesbrough,2,0,1,0,H
+Championship,2025,2025-12-20,Ipswich,Sheffield Wednesday,3,1,1,0,H
+Championship,2025,2025-12-20,Sheffield Utd,Birmingham,3,0,2,0,H
+Championship,2025,2025-12-20,Hull City,West Brom,1,0,1,0,H
+Championship,2025,2025-12-20,Derby,Portsmouth,1,1,1,1,D
+Championship,2025,2025-12-20,QPR,Leicester,4,1,4,0,H
+Championship,2025,2025-12-20,Charlton,Oxford United,1,0,0,0,H
+Championship,2025,2025-12-26,Birmingham,Derby,1,1,0,1,D
+Championship,2025,2025-12-26,Millwall,Ipswich,0,0,0,0,D
+Championship,2025,2025-12-26,Leicester,Watford,1,2,1,1,A
+Championship,2025,2025-12-26,West Brom,Bristol City,1,2,0,2,A
+Championship,2025,2025-12-26,Middlesbrough,Blackburn,0,0,0,0,D
+Championship,2025,2025-12-26,Norwich,Charlton,1,0,0,0,H
+Championship,2025,2025-12-26,Sheffield Wednesday,Hull City,2,2,1,1,D
+Championship,2025,2025-12-26,Stoke City,Preston,0,0,0,0,D
+Championship,2025,2025-12-26,Oxford United,Southampton,2,1,1,1,H
+Championship,2025,2025-12-26,Coventry,Swansea,1,0,1,0,H
+Championship,2025,2025-12-26,Portsmouth,QPR,1,1,1,0,D
+Championship,2025,2025-12-26,Wrexham,Sheffield Utd,5,3,2,3,H
+Championship,2025,2025-12-29,Coventry,Ipswich,0,2,0,0,A
+Championship,2025,2025-12-29,Leicester,Derby,2,1,2,1,H
+Championship,2025,2025-12-29,Millwall,Bristol City,2,1,1,0,H
+Championship,2025,2025-12-29,West Brom,QPR,2,1,1,1,H
+Championship,2025,2025-12-29,Middlesbrough,Hull City,0,1,0,1,A
+Championship,2025,2025-12-29,Norwich,Watford,0,1,0,0,A
+Championship,2025,2025-12-29,Sheffield Wednesday,Blackburn,0,0,0,0,D
+Championship,2025,2025-12-29,Stoke City,Sheffield Utd,1,2,0,0,A
+Championship,2025,2025-12-29,Oxford United,Swansea,0,1,0,1,A
+Championship,2025,2025-12-29,Portsmouth,Charlton,2,1,0,0,H
+Championship,2025,2025-12-29,Wrexham,Preston,2,1,1,0,H
+Championship,2025,2025-12-29,Birmingham,Southampton,1,1,0,0,D
+Championship,2025,2026-01-01,Blackburn,Wrexham,0,2,0,2,A
+Championship,2025,2026-01-01,Watford,Birmingham,3,0,2,0,H
+Championship,2025,2026-01-01,Southampton,Millwall,0,0,0,0,D
+Championship,2025,2026-01-01,Bristol City,Portsmouth,5,0,2,0,H
+Championship,2025,2026-01-01,Ipswich,Oxford United,2,1,2,1,H
+Championship,2025,2026-01-01,Preston,Sheffield Wednesday,3,0,1,0,H
+Championship,2025,2026-01-01,Hull City,Stoke City,0,1,0,1,A
+Championship,2025,2026-01-01,Derby,Middlesbrough,1,0,0,0,H
+Championship,2025,2026-01-01,QPR,Norwich,1,2,0,0,A
+Championship,2025,2026-01-01,Swansea,West Brom,1,0,0,0,H
+Championship,2025,2026-01-01,Charlton,Coventry,1,1,0,1,D
+Championship,2025,2026-01-01,Sheffield Utd,Leicester,3,1,1,0,H
+Championship,2025,2026-01-04,Birmingham,Coventry,3,2,2,1,H
+Championship,2025,2026-01-04,QPR,Sheffield Wednesday,3,0,1,0,H
+Championship,2025,2026-01-04,Bristol City,Preston,0,2,0,1,A
+Championship,2025,2026-01-04,Millwall,Swansea,2,1,1,0,H
+Championship,2025,2026-01-04,Blackburn,Charlton,2,2,1,2,D
+Championship,2025,2026-01-04,Derby,Wrexham,1,2,1,1,A
+Championship,2025,2026-01-04,Middlesbrough,Southampton,4,0,0,0,H
+Championship,2025,2026-01-04,Norwich,Stoke City,0,2,0,0,A
+Championship,2025,2026-01-05,Leicester,West Brom,2,1,1,1,H
+Championship,2025,2026-01-16,West Brom,Middlesbrough,2,3,0,1,A
+Championship,2025,2026-01-17,Watford,Millwall,0,2,0,0,A
+Championship,2025,2026-01-17,Ipswich,Blackburn,3,0,2,0,H
+Championship,2025,2026-01-17,Coventry,Leicester,2,1,0,1,H
+Championship,2025,2026-01-17,Southampton,Hull City,1,2,0,2,A
+Championship,2025,2026-01-17,Preston,Derby,0,1,0,0,A
+Championship,2025,2026-01-17,Sheffield Wednesday,Portsmouth,0,1,0,0,A
+Championship,2025,2026-01-17,Stoke City,QPR,0,0,0,0,D
+Championship,2025,2026-01-17,Charlton,Sheffield Utd,1,0,0,0,H
+Championship,2025,2026-01-17,Oxford United,Bristol City,0,0,0,0,D
+Championship,2025,2026-01-17,Wrexham,Norwich,1,2,1,1,A
+Championship,2025,2026-01-17,Swansea,Birmingham,1,1,1,0,D
+Championship,2025,2026-01-20,Ipswich,Bristol City,2,0,1,0,H
+Championship,2025,2026-01-20,Preston,Hull City,0,3,0,2,A
+Championship,2025,2026-01-20,West Brom,Norwich,0,5,0,1,A
+Championship,2025,2026-01-20,Sheffield Wednesday,Birmingham,0,2,0,0,A
+Championship,2025,2026-01-20,Swansea,Blackburn,3,1,1,1,H
+Championship,2025,2026-01-20,Charlton,Derby,1,2,0,1,A
+Championship,2025,2026-01-20,Oxford United,QPR,0,0,0,0,D
+Championship,2025,2026-01-20,Coventry,Millwall,2,1,1,1,H
+Championship,2025,2026-01-20,Wrexham,Leicester,1,1,0,0,D
+Championship,2025,2026-01-21,Watford,Portsmouth,1,1,0,0,D
+Championship,2025,2026-01-21,Southampton,Sheffield Utd,1,0,1,0,H
+Championship,2025,2026-01-21,Stoke City,Middlesbrough,1,2,1,0,A
+Championship,2025,2026-01-23,Derby,West Brom,1,1,1,0,D
+Championship,2025,2026-01-24,Millwall,Charlton,4,0,1,0,H
+Championship,2025,2026-01-24,Middlesbrough,Preston,4,0,3,0,H
+Championship,2025,2026-01-24,Leicester,Oxford United,1,2,0,1,A
+Championship,2025,2026-01-24,Birmingham,Stoke City,1,1,1,0,D
+Championship,2025,2026-01-24,Bristol City,Sheffield Wednesday,2,0,0,0,H
+Championship,2025,2026-01-24,Sheffield Utd,Ipswich,3,1,2,0,H
+Championship,2025,2026-01-24,Hull City,Swansea,2,1,2,0,H
+Championship,2025,2026-01-24,Blackburn,Watford,1,1,1,1,D
+Championship,2025,2026-01-24,QPR,Wrexham,2,3,1,0,A
+Championship,2025,2026-01-25,Portsmouth,Southampton,1,1,0,0,D
+Championship,2025,2026-01-26,Norwich,Coventry,2,1,0,1,H
+Championship,2025,2026-01-30,Bristol City,Derby,0,5,0,3,A
+Championship,2025,2026-01-31,Leicester,Charlton,0,2,0,2,A
+Championship,2025,2026-01-31,Sheffield Wednesday,Wrexham,0,1,0,0,A
+Championship,2025,2026-01-31,Stoke City,Southampton,0,2,0,1,A
+Championship,2025,2026-01-31,Watford,Swansea,0,2,0,0,A
+Championship,2025,2026-01-31,Ipswich,Preston,1,1,0,0,D
+Championship,2025,2026-01-31,Millwall,Sheffield Utd,1,1,1,1,D
+Championship,2025,2026-01-31,Blackburn,Hull City,0,1,0,0,A
+Championship,2025,2026-01-31,Middlesbrough,Norwich,1,0,1,0,H
+Championship,2025,2026-01-31,QPR,Coventry,2,1,0,0,H
+Championship,2025,2026-01-31,Oxford United,Birmingham,0,2,0,1,A
+Championship,2025,2026-01-31,Portsmouth,West Brom,3,0,2,0,H
+Championship,2025,2026-02-03,Sheffield Utd,Oxford United,3,1,1,1,H
+Championship,2025,2026-02-03,Hull City,Watford,0,0,0,0,D
+Championship,2025,2026-02-03,Blackburn,Sheffield Wednesday,1,0,1,0,H
+Championship,2025,2026-02-06,Charlton,QPR,0,0,0,0,D
+Championship,2025,2026-02-07,Southampton,Watford,1,0,0,0,H
+Championship,2025,2026-02-07,Derby,Ipswich,1,2,0,1,A
+Championship,2025,2026-02-07,Norwich,Blackburn,2,0,0,0,H
+Championship,2025,2026-02-07,Birmingham,Leicester,2,1,1,1,H
+Championship,2025,2026-02-07,Preston,Portsmouth,1,0,1,0,H
+Championship,2025,2026-02-07,West Brom,Stoke City,0,0,0,0,D
+Championship,2025,2026-02-07,Hull City,Bristol City,2,3,1,2,A
+Championship,2025,2026-02-07,Coventry,Oxford United,0,0,0,0,D
+Championship,2025,2026-02-07,Wrexham,Millwall,0,2,0,0,A
+Championship,2025,2026-02-08,Swansea,Sheffield Wednesday,4,0,1,0,H
+Championship,2025,2026-02-09,Sheffield Utd,Middlesbrough,1,2,0,2,A
+Championship,2025,2026-02-10,Leicester,Southampton,3,4,3,0,A
+Championship,2025,2026-02-10,Oxford United,Norwich,0,3,0,2,A
+Championship,2025,2026-02-10,Birmingham,West Brom,0,0,0,0,D
+Championship,2025,2026-02-11,Charlton,Stoke City,1,0,0,0,H
+Championship,2025,2026-02-14,Preston,Watford,2,2,1,0,D
+Championship,2025,2026-02-14,Derby,Swansea,2,0,0,0,H
+Championship,2025,2026-02-14,QPR,Blackburn,1,3,1,2,A
+Championship,2025,2026-02-14,Sheffield Wednesday,Millwall,1,2,0,0,A
+Championship,2025,2026-02-14,Portsmouth,Sheffield Utd,0,1,0,0,A
+Championship,2025,2026-02-16,Coventry,Middlesbrough,3,1,1,0,H
+Championship,2025,2026-02-17,Bristol City,Wrexham,2,2,0,1,D
+Championship,2025,2026-02-17,Charlton,Portsmouth,1,3,0,2,A
+Championship,2025,2026-02-20,Blackburn,Preston,1,0,0,0,H
+Championship,2025,2026-02-21,West Brom,Coventry,0,2,0,2,A
+Championship,2025,2026-02-21,Hull City,QPR,1,3,1,1,A
+Championship,2025,2026-02-21,Stoke City,Leicester,2,2,1,0,D
+Championship,2025,2026-02-21,Swansea,Bristol City,1,0,1,0,H
+Championship,2025,2026-02-21,Watford,Derby,2,0,1,0,H
+Championship,2025,2026-02-21,Southampton,Charlton,1,1,0,0,D
+Championship,2025,2026-02-21,Millwall,Portsmouth,1,3,0,0,A
+Championship,2025,2026-02-21,Middlesbrough,Oxford United,0,0,0,0,D
+Championship,2025,2026-02-21,Norwich,Birmingham,1,2,0,2,A
+Championship,2025,2026-02-21,Wrexham,Ipswich,5,3,2,2,H
+Championship,2025,2026-02-22,Sheffield Utd,Sheffield Wednesday,2,1,2,0,H
+Championship,2025,2026-02-24,Watford,Ipswich,0,2,0,1,A
+Championship,2025,2026-02-24,West Brom,Charlton,1,1,1,0,D
+Championship,2025,2026-02-24,Hull City,Derby,4,2,2,2,H
+Championship,2025,2026-02-24,Blackburn,Bristol City,1,2,1,2,A
+Championship,2025,2026-02-24,Middlesbrough,Leicester,1,1,1,1,D
+Championship,2025,2026-02-24,Swansea,Preston,1,1,0,1,D
+Championship,2025,2026-02-24,Wrexham,Portsmouth,2,1,2,0,H
+Championship,2025,2026-02-24,Southampton,QPR,5,0,2,0,H
+Championship,2025,2026-02-25,Millwall,Birmingham,3,0,2,0,H
+Championship,2025,2026-02-25,Sheffield Utd,Coventry,1,2,0,0,A
+Championship,2025,2026-02-25,Norwich,Sheffield Wednesday,2,0,2,0,H
+Championship,2025,2026-02-25,Stoke City,Oxford United,2,1,1,1,H

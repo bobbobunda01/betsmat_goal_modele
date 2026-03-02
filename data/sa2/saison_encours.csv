@@ -1,0 +1,261 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+serie_B,2025,2025-08-22,Pescara,Cesena,1,3,1,1,A
+serie_B,2025,2025-08-23,Empoli,Padova,3,1,2,1,H
+serie_B,2025,2025-08-23,Virtus Entella,Juve Stabia,1,1,0,0,D
+serie_B,2025,2025-08-23,Palermo,Reggiana,2,1,1,0,H
+serie_B,2025,2025-08-23,Monza,Mantova,1,0,0,0,H
+serie_B,2025,2025-08-24,Spezia,Carrarese,0,2,0,1,A
+serie_B,2025,2025-08-24,Venezia,Bari,2,1,2,1,H
+serie_B,2025,2025-08-24,Frosinone,Avellino,2,0,2,0,H
+serie_B,2025,2025-08-24,Catanzaro,Sudtirol,1,1,0,1,D
+serie_B,2025,2025-08-25,Sampdoria,Modena,0,2,0,0,A
+serie_B,2025,2025-08-29,Reggiana,Empoli,3,1,1,1,H
+serie_B,2025,2025-08-30,Juve Stabia,Venezia,0,0,0,0,D
+serie_B,2025,2025-08-30,Mantova,Pescara,2,1,1,0,H
+serie_B,2025,2025-08-30,Cesena,Virtus Entella,1,1,0,0,D
+serie_B,2025,2025-08-30,Spezia,Catanzaro,0,0,0,0,D
+serie_B,2025,2025-08-30,Palermo,Frosinone,0,0,0,0,D
+serie_B,2025,2025-08-31,Sudtirol,Sampdoria,3,1,3,0,H
+serie_B,2025,2025-08-31,Carrarese,Padova,0,0,0,0,D
+serie_B,2025,2025-08-31,Bari,Monza,1,1,1,1,D
+serie_B,2025,2025-08-31,Modena,Avellino,1,1,0,0,D
+serie_B,2025,2025-09-12,Avellino,Monza,2,1,1,0,H
+serie_B,2025,2025-09-13,Pescara,Venezia,2,2,0,1,D
+serie_B,2025,2025-09-13,Juve Stabia,Reggiana,0,0,0,0,D
+serie_B,2025,2025-09-13,Padova,Frosinone,0,1,0,1,A
+serie_B,2025,2025-09-13,Modena,Bari,3,0,1,0,H
+serie_B,2025,2025-09-13,Catanzaro,Carrarese,1,1,0,0,D
+serie_B,2025,2025-09-13,Sampdoria,Cesena,1,2,0,1,A
+serie_B,2025,2025-09-14,Virtus Entella,Mantova,1,0,1,0,H
+serie_B,2025,2025-09-14,Sudtirol,Palermo,0,2,0,1,A
+serie_B,2025,2025-09-14,Empoli,Spezia,1,1,0,1,D
+serie_B,2025,2025-09-19,Frosinone,Sudtirol,2,2,2,0,D
+serie_B,2025,2025-09-19,Palermo,Bari,2,0,0,0,H
+serie_B,2025,2025-09-20,Spezia,Juve Stabia,1,3,0,2,A
+serie_B,2025,2025-09-20,Venezia,Cesena,1,2,0,0,A
+serie_B,2025,2025-09-20,Reggiana,Catanzaro,2,2,1,1,D
+serie_B,2025,2025-09-20,Monza,Sampdoria,1,0,0,0,H
+serie_B,2025,2025-09-20,Mantova,Modena,1,3,1,2,A
+serie_B,2025,2025-09-21,Carrarese,Avellino,3,4,2,2,A
+serie_B,2025,2025-09-21,Pescara,Empoli,4,0,0,0,H
+serie_B,2025,2025-09-21,Padova,Virtus Entella,2,1,0,1,H
+serie_B,2025,2025-09-26,Catanzaro,Juve Stabia,2,2,0,2,D
+serie_B,2025,2025-09-27,Cesena,Palermo,1,1,1,0,D
+serie_B,2025,2025-09-27,Venezia,Spezia,2,0,1,0,H
+serie_B,2025,2025-09-27,Avellino,Virtus Entella,2,0,1,0,H
+serie_B,2025,2025-09-27,Sudtirol,Reggiana,3,1,2,0,H
+serie_B,2025,2025-09-27,Mantova,Frosinone,1,5,0,4,A
+serie_B,2025,2025-09-27,Monza,Padova,0,1,0,0,A
+serie_B,2025,2025-09-27,Bari,Sampdoria,1,1,1,1,D
+serie_B,2025,2025-09-28,Modena,Pescara,2,1,0,1,H
+serie_B,2025,2025-09-28,Empoli,Carrarese,2,2,1,1,D
+serie_B,2025,2025-09-30,Frosinone,Cesena,3,1,0,0,H
+serie_B,2025,2025-09-30,Palermo,Venezia,0,0,0,0,D
+serie_B,2025,2025-09-30,Virtus Entella,Bari,2,2,0,1,D
+serie_B,2025,2025-09-30,Juve Stabia,Mantova,2,1,2,0,H
+serie_B,2025,2025-09-30,Padova,Avellino,2,2,2,2,D
+serie_B,2025,2025-09-30,Reggiana,Spezia,1,1,0,1,D
+serie_B,2025,2025-10-01,Sampdoria,Catanzaro,0,0,0,0,D
+serie_B,2025,2025-10-01,Empoli,Monza,1,1,0,0,D
+serie_B,2025,2025-10-01,Pescara,Sudtirol,1,1,0,0,D
+serie_B,2025,2025-10-01,Carrarese,Modena,0,0,0,0,D
+serie_B,2025,2025-10-04,Bari,Padova,2,1,0,0,H
+serie_B,2025,2025-10-04,Venezia,Frosinone,3,0,2,0,H
+serie_B,2025,2025-10-04,Avellino,Mantova,0,0,0,0,D
+serie_B,2025,2025-10-04,Monza,Catanzaro,2,1,1,1,H
+serie_B,2025,2025-10-04,Spezia,Palermo,1,2,0,1,A
+serie_B,2025,2025-10-04,Cesena,Reggiana,1,2,1,2,A
+serie_B,2025,2025-10-05,Sudtirol,Empoli,1,2,1,0,A
+serie_B,2025,2025-10-05,Carrarese,Juve Stabia,3,0,1,0,H
+serie_B,2025,2025-10-05,Sampdoria,Pescara,4,1,0,1,H
+serie_B,2025,2025-10-05,Modena,Virtus Entella,2,0,0,0,H
+serie_B,2025,2025-10-17,Virtus Entella,Sampdoria,3,1,2,0,H
+serie_B,2025,2025-10-18,Frosinone,Monza,0,1,0,1,A
+serie_B,2025,2025-10-18,Pescara,Carrarese,2,2,0,1,D
+serie_B,2025,2025-10-18,Reggiana,Bari,3,1,1,1,H
+serie_B,2025,2025-10-18,Mantova,Sudtirol,1,1,0,1,D
+serie_B,2025,2025-10-18,Juve Stabia,Avellino,2,0,2,0,H
+serie_B,2025,2025-10-18,Spezia,Cesena,1,2,1,2,A
+serie_B,2025,2025-10-19,Palermo,Modena,1,1,1,0,D
+serie_B,2025,2025-10-19,Empoli,Venezia,1,1,1,1,D
+serie_B,2025,2025-10-19,Catanzaro,Padova,0,1,0,1,A
+serie_B,2025,2025-10-24,Modena,Empoli,2,1,1,1,H
+serie_B,2025,2025-10-25,Sampdoria,Frosinone,1,1,0,1,D
+serie_B,2025,2025-10-25,Virtus Entella,Pescara,1,1,0,0,D
+serie_B,2025,2025-10-25,Avellino,Spezia,0,4,0,0,A
+serie_B,2025,2025-10-25,Sudtirol,Cesena,0,1,0,1,A
+serie_B,2025,2025-10-25,Monza,Reggiana,3,1,3,1,H
+serie_B,2025,2025-10-25,Carrarese,Venezia,3,2,1,1,H
+serie_B,2025,2025-10-25,Catanzaro,Palermo,1,0,1,0,H
+serie_B,2025,2025-10-26,Padova,Juve Stabia,2,2,1,1,D
+serie_B,2025,2025-10-26,Bari,Mantova,1,0,0,0,H
+serie_B,2025,2025-10-28,Cesena,Carrarese,2,1,1,0,H
+serie_B,2025,2025-10-28,Empoli,Sampdoria,1,1,0,0,D
+serie_B,2025,2025-10-28,Frosinone,Virtus Entella,4,0,1,0,H
+serie_B,2025,2025-10-28,Palermo,Monza,0,3,0,1,A
+serie_B,2025,2025-10-28,Pescara,Avellino,1,1,1,1,D
+serie_B,2025,2025-10-28,Reggiana,Modena,1,0,1,0,H
+serie_B,2025,2025-10-29,Spezia,Padova,1,1,1,0,D
+serie_B,2025,2025-10-29,Venezia,Sudtirol,3,0,2,0,H
+serie_B,2025,2025-10-29,Mantova,Catanzaro,1,3,1,0,A
+serie_B,2025,2025-11-01,Avellino,Reggiana,4,3,1,1,H
+serie_B,2025,2025-11-01,Padova,Sudtirol,1,1,0,1,D
+serie_B,2025,2025-11-01,Carrarese,Frosinone,0,2,0,1,A
+serie_B,2025,2025-11-01,Virtus Entella,Empoli,1,0,0,0,H
+serie_B,2025,2025-11-01,Palermo,Pescara,5,0,1,0,H
+serie_B,2025,2025-11-02,Bari,Cesena,1,0,0,0,H
+serie_B,2025,2025-11-02,Modena,Juve Stabia,3,0,1,0,H
+serie_B,2025,2025-11-02,Catanzaro,Venezia,2,1,0,0,H
+serie_B,2025,2025-11-02,Monza,Spezia,1,0,0,0,H
+serie_B,2025,2025-11-02,Sampdoria,Mantova,0,1,0,0,A
+serie_B,2025,2025-11-07,Spezia,Bari,1,1,1,1,D
+serie_B,2025,2025-11-08,Empoli,Catanzaro,1,0,0,0,H
+serie_B,2025,2025-11-08,Frosinone,Modena,2,2,1,0,D
+serie_B,2025,2025-11-08,Reggiana,Virtus Entella,0,0,0,0,D
+serie_B,2025,2025-11-08,Sudtirol,Carrarese,1,1,0,0,D
+serie_B,2025,2025-11-08,Mantova,Padova,1,0,0,0,H
+serie_B,2025,2025-11-08,Juve Stabia,Palermo,1,0,1,0,H
+serie_B,2025,2025-11-08,Venezia,Sampdoria,3,1,2,0,H
+serie_B,2025,2025-11-09,Cesena,Avellino,3,0,2,0,H
+serie_B,2025,2025-11-09,Pescara,Monza,0,2,0,1,A
+serie_B,2025,2025-11-21,Catanzaro,Pescara,3,3,1,2,D
+serie_B,2025,2025-11-22,Virtus Entella,Palermo,1,1,1,0,D
+serie_B,2025,2025-11-22,Avellino,Empoli,0,3,0,2,A
+serie_B,2025,2025-11-22,Carrarese,Reggiana,0,0,0,0,D
+serie_B,2025,2025-11-22,Padova,Venezia,0,2,0,1,A
+serie_B,2025,2025-11-22,Bari,Frosinone,2,3,2,3,A
+serie_B,2025,2025-11-23,Modena,Sudtirol,0,0,0,0,D
+serie_B,2025,2025-11-23,Mantova,Spezia,4,1,1,1,H
+serie_B,2025,2025-11-23,Monza,Cesena,1,0,1,0,H
+serie_B,2025,2025-11-24,Sampdoria,Juve Stabia,1,0,0,0,H
+serie_B,2025,2025-11-28,Cesena,Modena,1,0,1,0,H
+serie_B,2025,2025-11-29,Empoli,Bari,5,0,1,0,H
+serie_B,2025,2025-11-29,Venezia,Mantova,3,0,1,0,H
+serie_B,2025,2025-11-29,Pescara,Padova,0,1,0,0,A
+serie_B,2025,2025-11-29,Reggiana,Frosinone,0,1,0,0,A
+serie_B,2025,2025-11-29,Sudtirol,Avellino,0,1,0,1,A
+serie_B,2025,2025-11-29,Catanzaro,Virtus Entella,3,2,2,2,H
+serie_B,2025,2025-11-29,Palermo,Carrarese,5,0,2,0,H
+serie_B,2025,2025-11-30,Juve Stabia,Monza,2,2,1,1,D
+serie_B,2025,2025-11-30,Spezia,Sampdoria,1,0,0,0,H
+serie_B,2025,2025-12-04,Juve Stabia,Bari,0,0,0,0,D
+serie_B,2025,2025-12-07,Empoli,Palermo,1,3,0,2,A
+serie_B,2025,2025-12-07,Sampdoria,Carrarese,3,2,2,2,H
+serie_B,2025,2025-12-08,Modena,Catanzaro,1,2,1,0,A
+serie_B,2025,2025-12-08,Frosinone,Juve Stabia,3,0,1,0,H
+serie_B,2025,2025-12-08,Avellino,Venezia,1,1,1,0,D
+serie_B,2025,2025-12-08,Padova,Cesena,1,1,0,0,D
+serie_B,2025,2025-12-08,Monza,Sudtirol,1,1,1,0,D
+serie_B,2025,2025-12-08,Mantova,Reggiana,0,1,0,0,A
+serie_B,2025,2025-12-08,Bari,Pescara,1,1,0,1,D
+serie_B,2025,2025-12-08,Virtus Entella,Spezia,0,1,0,0,A
+serie_B,2025,2025-12-12,Palermo,Sampdoria,1,0,1,0,H
+serie_B,2025,2025-12-13,Spezia,Modena,0,2,0,1,A
+serie_B,2025,2025-12-13,Venezia,Monza,2,0,0,0,H
+serie_B,2025,2025-12-13,Juve Stabia,Empoli,2,0,1,0,H
+serie_B,2025,2025-12-13,Reggiana,Padova,1,2,0,1,A
+serie_B,2025,2025-12-13,Sudtirol,Bari,0,0,0,0,D
+serie_B,2025,2025-12-13,Catanzaro,Avellino,1,0,0,0,H
+serie_B,2025,2025-12-13,Cesena,Mantova,3,2,1,2,H
+serie_B,2025,2025-12-14,Carrarese,Virtus Entella,3,1,0,0,H
+serie_B,2025,2025-12-14,Pescara,Frosinone,1,2,1,1,A
+serie_B,2025,2025-12-19,Bari,Catanzaro,1,2,0,1,A
+serie_B,2025,2025-12-20,Cesena,Juve Stabia,1,1,1,1,D
+serie_B,2025,2025-12-20,Frosinone,Spezia,2,1,1,0,H
+serie_B,2025,2025-12-20,Padova,Sampdoria,1,1,0,1,D
+serie_B,2025,2025-12-20,Modena,Venezia,1,2,0,1,A
+serie_B,2025,2025-12-20,Monza,Carrarese,4,1,2,0,H
+serie_B,2025,2025-12-20,Avellino,Palermo,2,2,1,0,D
+serie_B,2025,2025-12-20,Pescara,Reggiana,2,1,1,1,H
+serie_B,2025,2025-12-21,Virtus Entella,Sudtirol,1,1,1,0,D
+serie_B,2025,2025-12-21,Mantova,Empoli,0,1,0,0,A
+serie_B,2025,2025-12-26,Modena,Monza,1,2,1,0,A
+serie_B,2025,2025-12-27,Spezia,Pescara,2,1,1,1,H
+serie_B,2025,2025-12-27,Sampdoria,Reggiana,2,1,1,1,H
+serie_B,2025,2025-12-27,Empoli,Frosinone,1,1,1,1,D
+serie_B,2025,2025-12-27,Venezia,Virtus Entella,1,0,1,0,H
+serie_B,2025,2025-12-27,Juve Stabia,Sudtirol,1,0,1,0,H
+serie_B,2025,2025-12-27,Carrarese,Mantova,0,0,0,0,D
+serie_B,2025,2025-12-27,Catanzaro,Cesena,2,0,1,0,H
+serie_B,2025,2025-12-27,Palermo,Padova,1,0,1,0,H
+serie_B,2025,2025-12-27,Bari,Avellino,1,1,0,0,D
+serie_B,2025,2026-01-10,Frosinone,Catanzaro,2,0,0,0,H
+serie_B,2025,2026-01-10,Virtus Entella,Monza,1,0,0,0,H
+serie_B,2025,2026-01-10,Avellino,Sampdoria,2,1,1,0,H
+serie_B,2025,2026-01-10,Reggiana,Venezia,1,3,1,2,A
+serie_B,2025,2026-01-10,Sudtirol,Spezia,2,1,1,1,H
+serie_B,2025,2026-01-10,Carrarese,Bari,1,0,0,0,H
+serie_B,2025,2026-01-10,Juve Stabia,Pescara,2,2,0,1,D
+serie_B,2025,2026-01-10,Cesena,Empoli,0,1,0,0,A
+serie_B,2025,2026-01-11,Mantova,Palermo,1,1,0,1,D
+serie_B,2025,2026-01-11,Padova,Modena,2,0,1,0,H
+serie_B,2025,2026-01-16,Sampdoria,Virtus Entella,1,1,1,0,D
+serie_B,2025,2026-01-17,Empoli,Sudtirol,0,1,0,1,A
+serie_B,2025,2026-01-17,Venezia,Catanzaro,3,1,1,1,H
+serie_B,2025,2026-01-17,Avellino,Carrarese,1,2,1,1,A
+serie_B,2025,2026-01-17,Padova,Mantova,1,2,0,1,A
+serie_B,2025,2026-01-17,Monza,Frosinone,2,2,1,1,D
+serie_B,2025,2026-01-17,Reggiana,Cesena,1,2,1,1,A
+serie_B,2025,2026-01-17,Bari,Juve Stabia,0,1,0,1,A
+serie_B,2025,2026-01-18,Pescara,Modena,0,2,0,2,A
+serie_B,2025,2026-01-18,Palermo,Spezia,1,0,1,0,H
+serie_B,2025,2026-01-23,Carrarese,Empoli,3,0,1,0,H
+serie_B,2025,2026-01-24,Cesena,Bari,1,2,0,0,A
+serie_B,2025,2026-01-24,Frosinone,Reggiana,1,0,0,0,H
+serie_B,2025,2026-01-24,Juve Stabia,Virtus Entella,1,0,1,0,H
+serie_B,2025,2026-01-24,Monza,Pescara,3,0,1,0,H
+serie_B,2025,2026-01-24,Mantova,Venezia,2,5,1,2,A
+serie_B,2025,2026-01-24,Modena,Palermo,0,0,0,0,D
+serie_B,2025,2026-01-24,Spezia,Avellino,1,0,1,0,H
+serie_B,2025,2026-01-25,Sudtirol,Padova,3,0,2,0,H
+serie_B,2025,2026-01-25,Catanzaro,Sampdoria,0,0,0,0,D
+serie_B,2025,2026-01-30,Bari,Palermo,0,3,0,0,A
+serie_B,2025,2026-01-31,Empoli,Modena,0,0,0,0,D
+serie_B,2025,2026-01-31,Venezia,Carrarese,2,1,1,0,H
+serie_B,2025,2026-01-31,Virtus Entella,Frosinone,1,1,0,0,D
+serie_B,2025,2026-01-31,Avellino,Cesena,3,1,2,1,H
+serie_B,2025,2026-01-31,Sudtirol,Catanzaro,2,1,2,1,H
+serie_B,2025,2026-01-31,Pescara,Mantova,2,2,1,1,D
+serie_B,2025,2026-01-31,Sampdoria,Spezia,1,0,0,0,H
+serie_B,2025,2026-02-01,Reggiana,Juve Stabia,1,1,1,1,D
+serie_B,2025,2026-02-01,Padova,Monza,1,2,1,1,A
+serie_B,2025,2026-02-06,Cesena,Pescara,2,0,1,0,H
+serie_B,2025,2026-02-07,Frosinone,Venezia,1,2,1,0,A
+serie_B,2025,2026-02-07,Juve Stabia,Padova,3,3,1,0,D
+serie_B,2025,2026-02-07,Modena,Sampdoria,1,2,0,0,A
+serie_B,2025,2026-02-07,Carrarese,Sudtirol,0,0,0,0,D
+serie_B,2025,2026-02-07,Catanzaro,Reggiana,2,0,1,0,H
+serie_B,2025,2026-02-07,Mantova,Bari,2,1,1,1,H
+serie_B,2025,2026-02-07,Palermo,Empoli,3,2,1,1,H
+serie_B,2025,2026-02-07,Spezia,Virtus Entella,1,1,1,1,D
+serie_B,2025,2026-02-08,Monza,Avellino,2,1,0,0,H
+serie_B,2025,2026-02-10,Sampdoria,Palermo,3,3,0,1,D
+serie_B,2025,2026-02-10,Venezia,Modena,0,2,0,2,A
+serie_B,2025,2026-02-10,Pescara,Catanzaro,0,2,0,1,A
+serie_B,2025,2026-02-10,Virtus Entella,Cesena,3,1,1,0,H
+serie_B,2025,2026-02-10,Padova,Carrarese,1,0,1,0,H
+serie_B,2025,2026-02-10,Reggiana,Mantova,1,0,1,0,H
+serie_B,2025,2026-02-11,Sudtirol,Monza,0,0,0,0,D
+serie_B,2025,2026-02-11,Bari,Spezia,0,0,0,0,D
+serie_B,2025,2026-02-11,Empoli,Juve Stabia,1,2,1,0,A
+serie_B,2025,2026-02-11,Avellino,Frosinone,1,3,0,2,A
+serie_B,2025,2026-02-14,Sampdoria,Padova,1,0,1,0,H
+serie_B,2025,2026-02-14,Palermo,Virtus Entella,3,0,2,0,H
+serie_B,2025,2026-02-14,Modena,Carrarese,2,0,1,0,H
+serie_B,2025,2026-02-14,Catanzaro,Mantova,2,0,2,0,H
+serie_B,2025,2026-02-14,Cesena,Venezia,0,4,0,2,A
+serie_B,2025,2026-02-15,Bari,Sudtirol,1,2,0,0,A
+serie_B,2025,2026-02-15,Spezia,Frosinone,0,2,0,1,A
+serie_B,2025,2026-02-15,Monza,Juve Stabia,2,1,0,1,H
+serie_B,2025,2026-02-15,Empoli,Reggiana,1,1,0,1,D
+serie_B,2025,2026-02-15,Avellino,Pescara,0,1,0,0,A
+serie_B,2025,2026-02-20,Frosinone,Empoli,2,2,1,1,D
+serie_B,2025,2026-02-21,Venezia,Pescara,3,2,2,1,H
+serie_B,2025,2026-02-21,Palermo,Sudtirol,3,0,2,0,H
+serie_B,2025,2026-02-21,Virtus Entella,Catanzaro,1,3,0,1,A
+serie_B,2025,2026-02-21,Padova,Bari,1,1,1,1,D
+serie_B,2025,2026-02-21,Mantova,Sampdoria,2,1,0,1,H
+serie_B,2025,2026-02-21,Cesena,Spezia,2,3,1,1,A
+serie_B,2025,2026-02-21,Carrarese,Monza,0,1,0,0,A
+serie_B,2025,2026-02-22,Juve Stabia,Modena,1,2,0,2,A
+serie_B,2025,2026-02-22,Reggiana,Avellino,1,1,1,1,D

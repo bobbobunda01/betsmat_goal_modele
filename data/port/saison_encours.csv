@@ -1,0 +1,208 @@
+league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+Portugais,2025,2025-08-08,Casa Pia,Sporting CP,0,2,0,1,A
+Portugais,2025,2025-08-09,Nacional,GIL Vicente,0,2,0,2,A
+Portugais,2025,2025-08-09,Arouca,AVS,3,1,1,0,H
+Portugais,2025,2025-08-10,Famalicao,Santa Clara,3,0,2,0,H
+Portugais,2025,2025-08-10,Moreirense,Alverca,2,1,1,1,H
+Portugais,2025,2025-08-10,SC Braga,Tondela,3,0,2,0,H
+Portugais,2025,2025-08-11,Estoril,Estrela,1,1,1,0,D
+Portugais,2025,2025-08-11,FC Porto,Guimaraes,3,0,2,0,H
+Portugais,2025,2025-08-15,AVS,Casa Pia,0,2,0,1,A
+Portugais,2025,2025-08-16,Tondela,Famalicao,0,1,0,0,A
+Portugais,2025,2025-08-16,Guimaraes,Estoril,3,2,1,1,H
+Portugais,2025,2025-08-16,Estrela,Benfica,0,1,0,0,A
+Portugais,2025,2025-08-17,Rio Ave,Nacional,1,1,1,0,D
+Portugais,2025,2025-08-17,Santa Clara,Moreirense,0,1,0,1,A
+Portugais,2025,2025-08-17,Alverca,SC Braga,0,3,0,3,A
+Portugais,2025,2025-08-17,Sporting CP,Arouca,6,0,3,0,H
+Portugais,2025,2025-08-18,GIL Vicente,FC Porto,0,2,0,1,A
+Portugais,2025,2025-08-23,Moreirense,Guimaraes,2,0,0,0,H
+Portugais,2025,2025-08-23,Nacional,Sporting CP,1,4,1,0,A
+Portugais,2025,2025-08-23,Benfica,Tondela,3,0,2,0,H
+Portugais,2025,2025-08-23,Arouca,Rio Ave,3,3,1,0,D
+Portugais,2025,2025-08-24,Famalicao,GIL Vicente,0,0,0,0,D
+Portugais,2025,2025-08-24,FC Porto,Casa Pia,4,0,3,0,H
+Portugais,2025,2025-08-24,SC Braga,AVS,2,2,1,2,D
+Portugais,2025,2025-08-25,Estrela,Alverca,2,2,1,2,D
+Portugais,2025,2025-08-29,GIL Vicente,Moreirense,2,0,0,0,H
+Portugais,2025,2025-08-30,Casa Pia,Nacional,0,2,0,2,A
+Portugais,2025,2025-08-30,Guimaraes,Arouca,1,1,1,1,D
+Portugais,2025,2025-08-30,AVS,Famalicao,0,1,0,0,A
+Portugais,2025,2025-08-30,Sporting CP,FC Porto,1,2,0,0,A
+Portugais,2025,2025-08-31,Tondela,Estoril,2,2,0,1,D
+Portugais,2025,2025-08-31,Alverca,Benfica,1,2,0,2,A
+Portugais,2025,2025-08-31,Rio Ave,SC Braga,2,2,2,1,D
+Portugais,2025,2025-08-31,Santa Clara,Estrela,0,0,0,0,D
+Portugais,2025,2025-09-06,Estoril,Santa Clara,0,1,0,0,A
+Portugais,2025,2025-09-12,Benfica,Santa Clara,1,1,0,0,D
+Portugais,2025,2025-09-12,Alverca,Tondela,1,0,1,0,H
+Portugais,2025,2025-09-13,Moreirense,Rio Ave,3,1,0,0,H
+Portugais,2025,2025-09-13,Estoril,AVS,3,1,2,0,H
+Portugais,2025,2025-09-13,FC Porto,Nacional,1,0,1,0,H
+Portugais,2025,2025-09-13,Famalicao,Sporting CP,1,2,1,1,A
+Portugais,2025,2025-09-14,Estrela,Guimaraes,0,2,0,1,A
+Portugais,2025,2025-09-14,Arouca,Casa Pia,0,2,0,1,A
+Portugais,2025,2025-09-14,SC Braga,GIL Vicente,0,1,0,1,A
+Portugais,2025,2025-09-19,Rio Ave,FC Porto,0,3,0,2,A
+Portugais,2025,2025-09-20,Nacional,Arouca,1,2,0,0,A
+Portugais,2025,2025-09-20,Santa Clara,Alverca,2,1,1,1,H
+Portugais,2025,2025-09-20,AVS,Benfica,0,3,0,1,A
+Portugais,2025,2025-09-20,Guimaraes,SC Braga,1,1,1,1,D
+Portugais,2025,2025-09-21,Tondela,Estrela,0,0,0,0,D
+Portugais,2025,2025-09-21,GIL Vicente,Estoril,2,0,1,0,H
+Portugais,2025,2025-09-21,Casa Pia,Famalicao,1,1,0,0,D
+Portugais,2025,2025-09-22,Sporting CP,Moreirense,3,0,0,0,H
+Portugais,2025,2025-09-23,Benfica,Rio Ave,1,1,0,0,D
+Portugais,2025,2025-09-26,Benfica,GIL Vicente,2,1,2,1,H
+Portugais,2025,2025-09-27,Moreirense,Casa Pia,2,1,1,1,H
+Portugais,2025,2025-09-27,Santa Clara,Tondela,1,2,0,0,A
+Portugais,2025,2025-09-27,Estrela,AVS,3,0,3,0,H
+Portugais,2025,2025-09-27,Estoril,Sporting CP,0,1,0,1,A
+Portugais,2025,2025-09-28,Alverca,Guimaraes,2,0,1,0,H
+Portugais,2025,2025-09-28,SC Braga,Nacional,0,1,0,1,A
+Portugais,2025,2025-09-28,Famalicao,Rio Ave,0,0,0,0,D
+Portugais,2025,2025-09-29,Arouca,FC Porto,0,4,0,1,A
+Portugais,2025,2025-10-03,Casa Pia,Estoril,2,2,2,1,D
+Portugais,2025,2025-10-04,Nacional,Moreirense,3,2,1,1,H
+Portugais,2025,2025-10-04,GIL Vicente,Estrela,2,0,2,0,H
+Portugais,2025,2025-10-04,AVS,Alverca,1,3,1,1,A
+Portugais,2025,2025-10-04,Guimaraes,Santa Clara,2,1,0,1,H
+Portugais,2025,2025-10-05,Arouca,Famalicao,1,1,0,0,D
+Portugais,2025,2025-10-05,Rio Ave,Tondela,3,0,2,0,H
+Portugais,2025,2025-10-05,Sporting CP,SC Braga,1,1,1,0,D
+Portugais,2025,2025-10-05,FC Porto,Benfica,0,0,0,0,D
+Portugais,2025,2025-10-24,Alverca,GIL Vicente,0,4,0,2,A
+Portugais,2025,2025-10-25,Santa Clara,AVS,2,0,0,0,H
+Portugais,2025,2025-10-25,Benfica,Arouca,5,0,3,0,H
+Portugais,2025,2025-10-25,Estrela,Rio Ave,1,2,1,0,A
+Portugais,2025,2025-10-26,Estoril,Nacional,1,1,0,1,D
+Portugais,2025,2025-10-26,Famalicao,Guimaraes,2,0,1,0,H
+Portugais,2025,2025-10-26,Tondela,Sporting CP,0,3,0,1,A
+Portugais,2025,2025-10-26,SC Braga,Casa Pia,4,0,2,0,H
+Portugais,2025,2025-10-27,Moreirense,FC Porto,1,2,1,1,A
+Portugais,2025,2025-10-31,Sporting CP,Alverca,2,0,0,0,H
+Portugais,2025,2025-11-01,Nacional,Famalicao,0,1,0,1,A
+Portugais,2025,2025-11-01,Rio Ave,Estoril,0,4,0,2,A
+Portugais,2025,2025-11-01,Casa Pia,Estrela,3,5,1,2,A
+Portugais,2025,2025-11-01,Guimaraes,Benfica,0,3,0,0,A
+Portugais,2025,2025-11-02,AVS,Tondela,2,2,1,1,D
+Portugais,2025,2025-11-02,Arouca,Moreirense,0,2,0,2,A
+Portugais,2025,2025-11-02,FC Porto,SC Braga,2,1,1,0,H
+Portugais,2025,2025-11-03,GIL Vicente,Santa Clara,1,0,1,0,H
+Portugais,2025,2025-11-07,Estoril,Arouca,4,3,2,2,H
+Portugais,2025,2025-11-08,Alverca,Rio Ave,1,1,0,1,D
+Portugais,2025,2025-11-08,Tondela,Guimaraes,0,1,0,0,A
+Portugais,2025,2025-11-08,Santa Clara,Sporting CP,1,2,1,1,A
+Portugais,2025,2025-11-09,Estrela,Nacional,1,1,0,1,D
+Portugais,2025,2025-11-09,AVS,GIL Vicente,1,1,0,1,D
+Portugais,2025,2025-11-09,Famalicao,FC Porto,0,1,0,1,A
+Portugais,2025,2025-11-09,Benfica,Casa Pia,2,2,1,0,D
+Portugais,2025,2025-11-09,SC Braga,Moreirense,2,1,1,0,H
+Portugais,2025,2025-11-28,Guimaraes,AVS,4,0,3,0,H
+Portugais,2025,2025-11-29,Moreirense,Famalicao,2,2,0,1,D
+Portugais,2025,2025-11-29,Casa Pia,Alverca,0,2,0,0,A
+Portugais,2025,2025-11-29,Nacional,Benfica,1,2,0,0,A
+Portugais,2025,2025-11-29,GIL Vicente,Tondela,0,1,0,1,A
+Portugais,2025,2025-11-30,Rio Ave,Santa Clara,1,1,1,1,D
+Portugais,2025,2025-11-30,Sporting CP,Estrela,4,0,3,0,H
+Portugais,2025,2025-11-30,FC Porto,Estoril,1,0,1,0,H
+Portugais,2025,2025-12-01,Arouca,SC Braga,0,4,0,3,A
+Portugais,2025,2025-12-05,Benfica,Sporting CP,1,1,1,1,D
+Portugais,2025,2025-12-06,Santa Clara,Casa Pia,1,0,1,0,H
+Portugais,2025,2025-12-06,AVS,Rio Ave,1,2,0,1,A
+Portugais,2025,2025-12-06,Famalicao,SC Braga,1,2,1,1,A
+Portugais,2025,2025-12-07,Estoril,Moreirense,3,3,1,1,D
+Portugais,2025,2025-12-07,Alverca,Nacional,1,0,0,0,H
+Portugais,2025,2025-12-07,Estrela,Arouca,3,1,2,0,H
+Portugais,2025,2025-12-07,Tondela,FC Porto,0,2,0,0,A
+Portugais,2025,2025-12-08,Guimaraes,GIL Vicente,0,0,0,0,D
+Portugais,2025,2025-12-13,Casa Pia,GIL Vicente,1,1,0,1,D
+Portugais,2025,2025-12-13,Rio Ave,Guimaraes,0,1,0,1,A
+Portugais,2025,2025-12-13,Sporting CP,AVS,6,0,3,0,H
+Portugais,2025,2025-12-14,Famalicao,Estoril,4,0,2,0,H
+Portugais,2025,2025-12-14,Moreirense,Benfica,0,4,0,1,A
+Portugais,2025,2025-12-14,Arouca,Alverca,1,0,0,0,H
+Portugais,2025,2025-12-15,Nacional,Tondela,3,1,0,0,H
+Portugais,2025,2025-12-15,SC Braga,Santa Clara,1,0,1,0,H
+Portugais,2025,2025-12-15,FC Porto,Estrela,3,1,1,0,H
+Portugais,2025,2025-12-19,Estoril,SC Braga,1,0,1,0,H
+Portugais,2025,2025-12-20,GIL Vicente,Rio Ave,2,2,1,1,D
+Portugais,2025,2025-12-20,Estrela,Moreirense,0,0,0,0,D
+Portugais,2025,2025-12-21,AVS,Nacional,2,2,2,0,D
+Portugais,2025,2025-12-21,Tondela,Casa Pia,1,2,0,0,A
+Portugais,2025,2025-12-21,Santa Clara,Arouca,0,0,0,0,D
+Portugais,2025,2025-12-22,Alverca,FC Porto,0,3,0,1,A
+Portugais,2025,2025-12-22,Benfica,Famalicao,1,0,1,0,H
+Portugais,2025,2025-12-23,Guimaraes,Sporting CP,1,4,0,2,A
+Portugais,2025,2025-12-27,Famalicao,Estrela,2,3,2,2,A
+Portugais,2025,2025-12-27,Estoril,Alverca,4,1,2,0,H
+Portugais,2025,2025-12-28,Arouca,GIL Vicente,2,2,2,1,D
+Portugais,2025,2025-12-28,Casa Pia,Guimaraes,0,0,0,0,D
+Portugais,2025,2025-12-28,SC Braga,Benfica,2,2,2,1,D
+Portugais,2025,2025-12-28,Sporting CP,Rio Ave,4,0,1,0,H
+Portugais,2025,2025-12-29,FC Porto,AVS,2,0,0,0,H
+Portugais,2025,2026-01-02,GIL Vicente,Sporting CP,1,1,0,1,D
+Portugais,2025,2026-01-02,Guimaraes,Nacional,2,1,0,0,H
+Portugais,2025,2026-01-03,Tondela,Arouca,3,1,2,1,H
+Portugais,2025,2026-01-03,Benfica,Estoril,3,1,2,1,H
+Portugais,2025,2026-01-03,Estrela,SC Braga,3,3,1,1,D
+Portugais,2025,2026-01-03,AVS,Moreirense,0,2,0,1,A
+Portugais,2025,2026-01-04,Rio Ave,Casa Pia,3,1,0,0,H
+Portugais,2025,2026-01-04,Santa Clara,FC Porto,0,1,0,0,A
+Portugais,2025,2026-01-04,Alverca,Famalicao,1,0,0,0,H
+Portugais,2025,2026-01-11,Nacional,Santa Clara,3,3,2,2,D
+Portugais,2025,2026-01-11,Moreirense,Tondela,1,0,0,0,H
+Portugais,2025,2026-01-16,Sporting CP,Casa Pia,3,0,2,0,H
+Portugais,2025,2026-01-17,GIL Vicente,Nacional,2,1,1,1,H
+Portugais,2025,2026-01-17,Alverca,Moreirense,2,1,0,0,H
+Portugais,2025,2026-01-17,AVS,Arouca,0,1,0,1,A
+Portugais,2025,2026-01-17,Rio Ave,Benfica,0,2,0,2,A
+Portugais,2025,2026-01-18,Santa Clara,Famalicao,0,1,0,0,A
+Portugais,2025,2026-01-18,Tondela,SC Braga,0,1,0,0,A
+Portugais,2025,2026-01-18,Guimaraes,FC Porto,0,1,0,0,A
+Portugais,2025,2026-01-19,Estrela,Estoril,0,5,0,1,A
+Portugais,2025,2026-01-23,Casa Pia,AVS,3,3,1,0,D
+Portugais,2025,2026-01-24,Moreirense,Santa Clara,1,0,0,0,H
+Portugais,2025,2026-01-24,Arouca,Sporting CP,1,2,0,1,A
+Portugais,2025,2026-01-24,Estoril,Guimaraes,4,2,1,2,H
+Portugais,2025,2026-01-25,Nacional,Rio Ave,4,0,1,0,H
+Portugais,2025,2026-01-25,Benfica,Estrela,4,0,1,0,H
+Portugais,2025,2026-01-25,Famalicao,Tondela,3,0,1,0,H
+Portugais,2025,2026-01-25,SC Braga,Alverca,5,0,4,0,H
+Portugais,2025,2026-01-26,FC Porto,GIL Vicente,3,0,1,0,H
+Portugais,2025,2026-01-30,Guimaraes,Moreirense,1,0,0,0,H
+Portugais,2025,2026-01-31,Santa Clara,Estoril,2,4,0,2,A
+Portugais,2025,2026-01-31,Rio Ave,Arouca,0,3,0,1,A
+Portugais,2025,2026-01-31,Alverca,Estrela,1,1,0,0,D
+Portugais,2025,2026-02-01,GIL Vicente,Famalicao,5,0,1,0,H
+Portugais,2025,2026-02-01,Sporting CP,Nacional,2,1,0,0,H
+Portugais,2025,2026-02-01,Tondela,Benfica,0,0,0,0,D
+Portugais,2025,2026-02-02,AVS,SC Braga,0,4,0,2,A
+Portugais,2025,2026-02-02,Casa Pia,FC Porto,2,1,2,0,H
+Portugais,2025,2026-02-07,Moreirense,GIL Vicente,1,2,0,1,A
+Portugais,2025,2026-02-07,Estrela,Santa Clara,1,0,0,0,H
+Portugais,2025,2026-02-07,Estoril,Tondela,2,2,2,2,D
+Portugais,2025,2026-02-07,Arouca,Guimaraes,3,2,1,2,H
+Portugais,2025,2026-02-08,Nacional,Casa Pia,0,0,0,0,D
+Portugais,2025,2026-02-08,SC Braga,Rio Ave,3,0,1,0,H
+Portugais,2025,2026-02-08,Benfica,Alverca,2,1,1,1,H
+Portugais,2025,2026-02-09,Famalicao,AVS,3,1,0,0,H
+Portugais,2025,2026-02-09,FC Porto,Sporting CP,1,1,0,0,D
+Portugais,2025,2026-02-13,Santa Clara,Benfica,1,2,0,2,A
+Portugais,2025,2026-02-13,Tondela,Alverca,1,1,0,1,D
+Portugais,2025,2026-02-14,Casa Pia,Arouca,3,2,3,2,H
+Portugais,2025,2026-02-14,Guimaraes,Estrela,2,1,0,1,H
+Portugais,2025,2026-02-14,GIL Vicente,SC Braga,2,1,0,1,H
+Portugais,2025,2026-02-15,Nacional,FC Porto,0,1,0,0,A
+Portugais,2025,2026-02-15,AVS,Estoril,3,0,0,0,H
+Portugais,2025,2026-02-15,Sporting CP,Famalicao,1,0,0,0,H
+Portugais,2025,2026-02-16,Rio Ave,Moreirense,1,2,1,1,A
+Portugais,2025,2026-02-20,Estrela,Tondela,0,2,0,1,A
+Portugais,2025,2026-02-21,Arouca,Nacional,3,0,0,0,H
+Portugais,2025,2026-02-21,Alverca,Santa Clara,1,1,1,0,D
+Portugais,2025,2026-02-21,Benfica,AVS,3,0,3,0,H
+Portugais,2025,2026-02-21,Moreirense,Sporting CP,0,3,0,0,A
+Portugais,2025,2026-02-21,SC Braga,Guimaraes,3,2,2,1,H
+Portugais,2025,2026-02-22,Estoril,GIL Vicente,3,1,1,1,H
+Portugais,2025,2026-02-22,FC Porto,Rio Ave,1,0,1,0,H
+Portugais,2025,2026-02-23,Famalicao,Casa Pia,2,0,1,0,H

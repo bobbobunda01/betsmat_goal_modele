@@ -1,0 +1,10 @@
+flask
+pydantic
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+python-dotenv
+openai
+gunicorn
