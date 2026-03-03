@@ -265,38 +265,7 @@ def get_openai_client() -> OpenAI:
     return OpenAI(api_key=api_key)
 
 
-def llm_explainer(payload: dict, llm_client) -> dict:
-    """
-    llm_client(prompt:str)->str doit retourner du JSON (string).
-    """
-    prompt = build_explanation_prompt(payload)
-    raw = llm_client(prompt)
 
-    # sécurité parse JSON
-    try:
-        exp = json.loads(raw)
-    except Exception:
-        # si le provider renvoie du texte, on fallback plus haut
-        return {
-            "explanation": "Explication indisponible (réponse LLM non JSON).",
-            "key_points": [],
-            "recommended_markets": [],
-            "risk_flags": ["llm_non_json"]
-        }
-
-    return exp
-""""" 
-def llm_client(prompt: str) -> str:
-    resp = _client.chat.completions.create(
-        model="gpt-4.1-mini",  # tu peux changer
-        messages=[
-            {"role": "system", "content": "Tu réponds STRICTEMENT en JSON valide, sans texte avant/après."},
-            {"role": "user", "content": prompt},
-        ],
-        temperature=0.2,
-    )
-    return resp.choices[0].message.content
-"""
 def llm_client(prompt: str) -> str:
     _client = get_openai_client()
     resp = _client.chat.completions.create(
@@ -308,6 +277,125 @@ def llm_client(prompt: str) -> str:
         temperature=0.2,
     )
     return resp.choices[0].message.content
+
+import re
+
+ALLOWED_MARKETS = ["Over15", "Over25", "Over35", "BTTS"]
+
+def _extract_first_json_object(text: str) -> dict | None:
+    """Extrait le premier {...} et tente un json.loads."""
+    if not text:
+        return None
+    m = re.search(r"\{.*\}", text, flags=re.DOTALL)
+    if not m:
+        return None
+    try:
+        return json.loads(m.group(0))
+    except Exception:
+        return None
+
+def _action_from_rules(pred: int, low_conf: bool) -> str:
+    if low_conf:
+        return "NO_BET"
+    if pred == 0:
+        return "NO_BET"
+    return "BET"
+
+def _enforce_llm_output(exp: dict, payload: dict) -> dict:
+    """
+    Corrige le JSON du LLM si:
+    - keys manquent
+    - recommended_markets contradictoires avec pred/low_confidence
+    - risk_flags pas une liste, etc.
+    """
+    # structure minimale
+    if not isinstance(exp, dict):
+        exp = {}
+
+    exp.setdefault("explanation", "")
+    exp.setdefault("key_points", [])
+    exp.setdefault("recommended_markets", [])
+    exp.setdefault("risk_flags", [])
+
+    if not isinstance(exp["key_points"], list):
+        exp["key_points"] = []
+    if not isinstance(exp["recommended_markets"], list):
+        exp["recommended_markets"] = []
+    if not isinstance(exp["risk_flags"], list):
+        exp["risk_flags"] = []
+
+    # construire une map marché -> (pred, low_conf, proba)
+    mp = {}
+    for m in ALLOWED_MARKETS:
+        if m in payload and isinstance(payload[m], dict):
+            pred = int(payload[m].get("pred", 0))
+            low = bool(payload[m].get("low_confidence", True))
+            proba = float(payload[m].get("proba", 0.0))
+            mp[m] = (pred, low, proba)
+        else:
+            mp[m] = (0, True, 0.0)
+
+    # reconstruire recommended_markets de façon canonique (toujours 4 items)
+    rec = []
+    for m in ALLOWED_MARKETS:
+        pred, low, proba = mp[m]
+        action = _action_from_rules(pred, low)
+        # reason courte & factuelle
+        if low:
+            reason = "low_confidence=true"
+        elif pred == 0:
+            reason = "pred=0"
+        else:
+            reason = f"pred=1 & low_confidence=false (p={proba:.2f})"
+
+        rec.append({"market": m, "action": action, "reason": reason})
+
+    exp["recommended_markets"] = rec
+
+    # corrélation: Over25 & BTTS tous deux BET
+    a25 = next(x for x in rec if x["market"] == "Over25")["action"]
+    abt = next(x for x in rec if x["market"] == "BTTS")["action"]
+    if a25 == "BET" and abt == "BET":
+        if "corrélation" not in exp["risk_flags"]:
+            exp["risk_flags"].append("corrélation")
+
+    # si teams manquantes dans payload mais le LLM devait les citer
+    teams = payload.get("teams")
+    if not teams or not teams.get("home") or not teams.get("away"):
+        if "llm_missing_team_names" not in exp["risk_flags"]:
+            exp["risk_flags"].append("llm_missing_team_names")
+
+    return exp
+
+def llm_explainer(payload: dict, llm_client) -> dict:
+    """
+    llm_client(prompt:str)->str doit retourner du JSON (string).
+    Parser robuste + enforcement anti-incohérences.
+    """
+    prompt = build_explanation_prompt(payload)
+
+    raw = llm_client(prompt)
+
+    # 1) parse direct
+    try:
+        exp = json.loads(raw)
+    except Exception:
+        # 2) parse tolérant: extrait le 1er {...}
+        exp = _extract_first_json_object(raw)
+
+    if exp is None:
+        # fallback
+        return {
+            "explanation": "Explication indisponible (réponse LLM non JSON).",
+            "key_points": [],
+            "recommended_markets": [
+                {"market": m, "action": "NO_BET", "reason": "llm_non_json"} for m in ALLOWED_MARKETS
+            ],
+            "risk_flags": ["llm_non_json"],
+        }
+
+    # 3) enforce structure + décisions (anti contradictions)
+    return _enforce_llm_output(exp, payload)
 
 
 
