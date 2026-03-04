@@ -24,7 +24,7 @@ from openai import OpenAI
 from scipy.stats import poisson
 
 
-
+out_dir="betsmart_goals_out_pl"
 def add_rolling_mean(df_in: pd.DataFrame, window: int) -> pd.DataFrame:
     d = df_in.sort_values("Date").copy()
     d[f"home_gf_last{window}"] = d.groupby("HomeTeam")["FTHG"].transform(lambda x: x.shift(1).rolling(window).mean())
