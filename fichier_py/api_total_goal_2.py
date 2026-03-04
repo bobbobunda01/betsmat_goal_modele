@@ -84,7 +84,7 @@ def prediction():
                 
                 # Chargement des données historiques
                 #chemin_csv = RACINE_PROJET / "data" / "pl" / "pl_24_25.csv"
-                s_encours=RACINE_PROJET / "data" / "pl" / "saison_encours copie.csv"
+                s_encours=RACINE_PROJET / "data" / "pl" / "saison_encours.csv"
                 hi=pd.read_csv(s_encours)
                 #hi.drop('Unnamed: 0', axis=1, inplace=True)
                 hi['Date']=pd.to_datetime(hi['Date'])
