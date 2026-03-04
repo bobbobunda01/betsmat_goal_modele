@@ -5,6 +5,6 @@ numpy
 scikit-learn==1.6.1
 scipy
 joblib
-python==3.8
+python-dotenv
 openai
 gunicorn
