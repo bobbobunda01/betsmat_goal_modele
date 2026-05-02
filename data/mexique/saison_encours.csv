@@ -5,7 +5,7 @@ mexique,2025,2025-07-12,Club Tijuana,Club Queretaro,1,0,1,0,H
 mexique,2025,2025-07-13,Toluca,Necaxa,3,1,2,1,H
 mexique,2025,2025-07-13,Santos Laguna,U.N.A.M. - Pumas,3,0,1,0,H
 mexique,2025,2025-07-13,Cruz Azul,Mazatlán,0,0,0,0,D
-mexique,2025,2025-07-13,Pachuca,Monterrey,3,0,0,0,H
+mexique,2025,2025-07-13,CF Pachuca,Monterrey,3,0,0,0,H
 mexique,2025,2025-07-14,Leon,Atletico San Luis,0,1,0,0,A
 mexique,2025,2025-07-17,Club America,Club Tijuana,3,1,1,0,H
 mexique,2025,2025-07-17,Santos Laguna,Toluca,2,4,2,1,A
@@ -15,11 +15,11 @@ mexique,2025,2025-07-19,Mazatlán,Puebla,2,1,2,0,H
 mexique,2025,2025-07-20,Tigres UANL,FC Juarez,1,0,0,0,H
 mexique,2025,2025-07-20,Leon,Guadalajara Chivas,1,0,0,0,H
 mexique,2025,2025-07-20,Atlas,Cruz Azul,3,3,2,0,D
-mexique,2025,2025-07-20,U.N.A.M. - Pumas,Pachuca,2,3,2,2,A
+mexique,2025,2025-07-20,U.N.A.M. - Pumas,CF Pachuca,2,3,2,2,A
 mexique,2025,2025-07-26,Club Queretaro,U.N.A.M. - Pumas,0,2,0,1,A
 mexique,2025,2025-07-26,Puebla,Santos Laguna,1,0,0,0,H
 mexique,2025,2025-07-26,Club Tijuana,FC Juarez,1,1,0,0,D
-mexique,2025,2025-07-26,Pachuca,Mazatlán,1,0,0,0,H
+mexique,2025,2025-07-26,CF Pachuca,Mazatlán,1,0,0,0,H
 mexique,2025,2025-07-26,Guadalajara Chivas,Atletico San Luis,4,3,2,0,H
 mexique,2025,2025-07-27,Toluca,Tigres UANL,3,4,1,3,A
 mexique,2025,2025-07-27,Monterrey,Atlas,3,1,1,1,H
@@ -28,7 +28,7 @@ mexique,2025,2025-07-27,Necaxa,Club America,1,1,1,1,D
 mexique,2025,2025-08-09,Tigres UANL,Puebla,7,0,2,0,H
 mexique,2025,2025-08-10,Club America,Club Queretaro,1,0,1,0,H
 mexique,2025,2025-08-10,Mazatlán,Club Tijuana,2,2,0,1,D
-mexique,2025,2025-08-10,Atlas,Pachuca,0,3,0,3,A
+mexique,2025,2025-08-10,Atlas,CF Pachuca,0,3,0,3,A
 mexique,2025,2025-08-11,U.N.A.M. - Pumas,Necaxa,1,1,0,0,D
 mexique,2025,2025-08-11,Santos Laguna,Guadalajara Chivas,1,0,1,0,H
 mexique,2025,2025-08-12,Leon,Monterrey,1,3,0,2,A
@@ -38,7 +38,7 @@ mexique,2025,2025-08-16,Puebla,Atletico San Luis,0,2,0,1,A
 mexique,2025,2025-08-16,Necaxa,Leon,0,1,0,1,A
 mexique,2025,2025-08-16,Guadalajara Chivas,FC Juarez,1,2,0,1,A
 mexique,2025,2025-08-17,Tigres UANL,Club America,1,3,1,1,A
-mexique,2025,2025-08-17,Pachuca,Club Tijuana,0,2,0,2,A
+mexique,2025,2025-08-17,CF Pachuca,Club Tijuana,0,2,0,2,A
 mexique,2025,2025-08-17,Cruz Azul,Santos Laguna,3,2,2,1,H
 mexique,2025,2025-08-17,Toluca,U.N.A.M. - Pumas,1,1,0,1,D
 mexique,2025,2025-08-17,Club Queretaro,Atlas,3,3,0,1,D
@@ -46,7 +46,7 @@ mexique,2025,2025-08-18,Monterrey,Mazatlán,3,2,3,1,H
 mexique,2025,2025-08-23,Club Queretaro,Atletico San Luis,3,2,1,1,H
 mexique,2025,2025-08-23,FC Juarez,Santos Laguna,2,1,0,1,H
 mexique,2025,2025-08-23,Club Tijuana,Guadalajara Chivas,3,3,1,0,D
-mexique,2025,2025-08-23,Leon,Pachuca,1,1,1,1,D
+mexique,2025,2025-08-23,Leon,CF Pachuca,1,1,1,1,D
 mexique,2025,2025-08-24,Monterrey,Necaxa,3,0,2,0,H
 mexique,2025,2025-08-24,Mazatlán,Tigres UANL,2,2,1,1,D
 mexique,2025,2025-08-24,Cruz Azul,Toluca,1,0,0,0,H
@@ -58,12 +58,12 @@ mexique,2025,2025-08-30,Puebla,Monterrey,2,4,1,2,A
 mexique,2025,2025-08-30,Leon,Club Queretaro,3,0,1,0,H
 mexique,2025,2025-08-31,Santos Laguna,Tigres UANL,0,1,0,0,A
 mexique,2025,2025-08-31,Guadalajara Chivas,Cruz Azul,1,2,1,2,A
-mexique,2025,2025-08-31,Club America,Pachuca,2,0,1,0,H
+mexique,2025,2025-08-31,Club America,CF Pachuca,2,0,1,0,H
 mexique,2025,2025-08-31,U.N.A.M. - Pumas,Atlas,1,0,0,0,H
 mexique,2025,2025-09-01,Club Tijuana,Necaxa,3,0,1,0,H
 mexique,2025,2025-09-13,Necaxa,FC Juarez,1,1,0,1,D
 mexique,2025,2025-09-13,Mazatlán,U.N.A.M. - Pumas,1,4,1,2,A
-mexique,2025,2025-09-13,Pachuca,Cruz Azul,0,1,0,0,A
+mexique,2025,2025-09-13,CF Pachuca,Cruz Azul,0,1,0,0,A
 mexique,2025,2025-09-14,Tigres UANL,Leon,0,0,0,0,D
 mexique,2025,2025-09-14,Atlas,Santos Laguna,2,2,2,1,D
 mexique,2025,2025-09-14,Toluca,Puebla,3,1,1,0,H
@@ -75,12 +75,12 @@ mexique,2025,2025-09-20,Necaxa,Puebla,1,0,1,0,H
 mexique,2025,2025-09-20,Cruz Azul,FC Juarez,3,2,3,2,H
 mexique,2025,2025-09-20,Mazatlán,Atlas,1,1,0,0,D
 mexique,2025,2025-09-20,Club Tijuana,Leon,5,0,3,0,H
-mexique,2025,2025-09-20,Pachuca,Club Queretaro,0,2,0,2,A
+mexique,2025,2025-09-20,CF Pachuca,Club Queretaro,0,2,0,2,A
 mexique,2025,2025-09-21,U.N.A.M. - Pumas,Tigres UANL,1,1,0,0,D
 mexique,2025,2025-09-21,Guadalajara Chivas,Toluca,0,3,0,2,A
 mexique,2025,2025-09-21,Monterrey,Club America,2,2,2,0,D
 mexique,2025,2025-09-21,Santos Laguna,Atletico San Luis,1,4,0,1,A
-mexique,2025,2025-09-24,Puebla,Pachuca,2,2,0,1,D
+mexique,2025,2025-09-24,Puebla,CF Pachuca,2,2,0,1,D
 mexique,2025,2025-09-24,Guadalajara Chivas,Necaxa,3,1,2,0,H
 mexique,2025,2025-09-24,FC Juarez,U.N.A.M. - Pumas,3,1,1,0,H
 mexique,2025,2025-09-24,Leon,Mazatlán,2,2,2,0,D
@@ -92,13 +92,13 @@ mexique,2025,2025-09-25,Atletico San Luis,Club America,0,1,0,0,A
 mexique,2025,2025-09-27,FC Juarez,Leon,2,0,1,0,H
 mexique,2025,2025-09-27,Atlas,Necaxa,3,2,2,1,H
 mexique,2025,2025-09-27,Puebla,Guadalajara Chivas,0,2,0,2,A
-mexique,2025,2025-09-27,Pachuca,Atletico San Luis,2,1,2,1,H
+mexique,2025,2025-09-27,CF Pachuca,Atletico San Luis,2,1,2,1,H
 mexique,2025,2025-09-28,Toluca,Mazatlán,3,1,1,0,H
 mexique,2025,2025-09-28,Monterrey,Santos Laguna,1,0,1,0,H
 mexique,2025,2025-09-28,Club America,U.N.A.M. - Pumas,4,1,0,1,H
 mexique,2025,2025-09-28,Club Queretaro,Tigres UANL,0,2,0,1,A
 mexique,2025,2025-09-29,Club Tijuana,Cruz Azul,2,0,1,0,H
-mexique,2025,2025-10-04,Necaxa,Pachuca,0,1,0,1,A
+mexique,2025,2025-10-04,Necaxa,CF Pachuca,0,1,0,1,A
 mexique,2025,2025-10-04,Mazatlán,Atletico San Luis,2,1,0,1,H
 mexique,2025,2025-10-04,Atlas,FC Juarez,3,1,2,1,H
 mexique,2025,2025-10-04,Club Queretaro,Puebla,3,1,0,1,H
@@ -112,7 +112,7 @@ mexique,2025,2025-10-18,Tigres UANL,Necaxa,5,3,3,2,H
 mexique,2025,2025-10-18,Atletico San Luis,Atlas,2,0,2,0,H
 mexique,2025,2025-10-18,Toluca,Club Queretaro,4,0,3,0,H
 mexique,2025,2025-10-18,Santos Laguna,Leon,2,0,1,0,H
-mexique,2025,2025-10-18,FC Juarez,Pachuca,2,2,2,1,D
+mexique,2025,2025-10-18,FC Juarez,CF Pachuca,2,2,2,1,D
 mexique,2025,2025-10-19,Monterrey,U.N.A.M. - Pumas,1,1,1,1,D
 mexique,2025,2025-10-19,Guadalajara Chivas,Mazatlán,2,0,2,0,H
 mexique,2025,2025-10-19,Cruz Azul,Club America,2,1,1,1,H
@@ -121,7 +121,7 @@ mexique,2025,2025-10-22,Necaxa,Cruz Azul,1,1,0,0,D
 mexique,2025,2025-10-22,Mazatlán,Santos Laguna,2,2,1,0,D
 mexique,2025,2025-10-22,Monterrey,FC Juarez,4,2,2,0,H
 mexique,2025,2025-10-23,Club Queretaro,Guadalajara Chivas,1,0,1,0,H
-mexique,2025,2025-10-23,Pachuca,Tigres UANL,1,2,0,0,A
+mexique,2025,2025-10-23,CF Pachuca,Tigres UANL,1,2,0,0,A
 mexique,2025,2025-10-23,Club Tijuana,Toluca,0,0,0,0,D
 mexique,2025,2025-10-23,Atlas,Leon,2,0,1,0,H
 mexique,2025,2025-10-23,U.N.A.M. - Pumas,Atletico San Luis,0,1,0,0,A
@@ -132,7 +132,7 @@ mexique,2025,2025-10-26,Leon,U.N.A.M. - Pumas,1,1,0,0,D
 mexique,2025,2025-10-26,Guadalajara Chivas,Atlas,4,1,3,0,H
 mexique,2025,2025-10-26,Cruz Azul,Monterrey,2,0,1,0,H
 mexique,2025,2025-10-26,Santos Laguna,Club Queretaro,3,1,2,0,H
-mexique,2025,2025-10-27,Toluca,Pachuca,2,2,2,1,D
+mexique,2025,2025-10-27,Toluca,CF Pachuca,2,2,2,1,D
 mexique,2025,2025-10-27,Atletico San Luis,Necaxa,3,4,0,0,A
 mexique,2025,2025-11-01,Necaxa,Santos Laguna,4,1,3,1,H
 mexique,2025,2025-11-01,Atletico San Luis,FC Juarez,1,2,0,0,A
@@ -142,7 +142,7 @@ mexique,2025,2025-11-02,Monterrey,Tigres UANL,1,1,1,0,D
 mexique,2025,2025-11-02,Club America,Leon,2,0,0,0,H
 mexique,2025,2025-11-02,U.N.A.M. - Pumas,Club Tijuana,4,1,3,0,H
 mexique,2025,2025-11-02,Club Queretaro,Mazatlán,1,0,0,0,H
-mexique,2025,2025-11-03,Pachuca,Guadalajara Chivas,0,1,0,0,A
+mexique,2025,2025-11-03,CF Pachuca,Guadalajara Chivas,0,1,0,0,A
 mexique,2025,2025-11-08,FC Juarez,Club Queretaro,1,2,0,2,A
 mexique,2025,2025-11-08,Club Tijuana,Atlas,2,0,0,0,H
 mexique,2025,2025-11-08,Mazatlán,Necaxa,1,1,1,0,D
@@ -151,10 +151,10 @@ mexique,2025,2025-11-08,Guadalajara Chivas,Monterrey,4,2,3,0,H
 mexique,2025,2025-11-09,Toluca,Club America,2,0,1,0,H
 mexique,2025,2025-11-09,Leon,Puebla,1,2,1,2,A
 mexique,2025,2025-11-09,Cruz Azul,U.N.A.M. - Pumas,2,3,2,1,A
-mexique,2025,2025-11-09,Santos Laguna,Pachuca,1,0,0,0,H
-mexique,2025,2025-11-21,Pachuca,U.N.A.M. - Pumas,3,1,2,0,H
+mexique,2025,2025-11-09,Santos Laguna,CF Pachuca,1,0,0,0,H
+mexique,2025,2025-11-21,CF Pachuca,U.N.A.M. - Pumas,3,1,2,0,H
 mexique,2025,2025-11-21,Club Tijuana,FC Juarez,3,1,1,1,H
-mexique,2025,2025-11-24,FC Juarez,Pachuca,2,1,2,1,H
+mexique,2025,2025-11-24,FC Juarez,CF Pachuca,2,1,2,1,H
 mexique,2025,2025-11-27,FC Juarez,Toluca,1,2,1,0,A
 mexique,2025,2025-11-27,Monterrey,Club America,2,0,1,0,H
 mexique,2025,2025-11-27,Club Tijuana,Tigres UANL,3,0,1,0,H
@@ -171,7 +171,7 @@ mexique,2025,2025-12-12,Tigres UANL,Toluca,1,0,0,0,H
 mexique,2025,2026-01-10,Mazatlán,FC Juarez,1,2,1,2,A
 mexique,2025,2026-01-10,Club Tijuana,Club America,0,0,0,0,D
 mexique,2025,2026-01-10,Atlas,Puebla,1,0,1,0,H
-mexique,2025,2026-01-10,Guadalajara Chivas,Pachuca,2,0,2,0,H
+mexique,2025,2026-01-10,Guadalajara Chivas,CF Pachuca,2,0,2,0,H
 mexique,2025,2026-01-11,Santos Laguna,Necaxa,1,3,1,2,A
 mexique,2025,2026-01-11,Leon,Cruz Azul,2,1,1,0,H
 mexique,2025,2026-01-11,Monterrey,Toluca,0,1,0,0,A
@@ -179,7 +179,7 @@ mexique,2025,2026-01-11,U.N.A.M. - Pumas,Club Queretaro,1,1,0,0,D
 mexique,2025,2026-01-12,Atletico San Luis,Tigres UANL,1,2,0,0,A
 mexique,2025,2026-01-13,Puebla,Mazatlán,2,1,2,0,H
 mexique,2025,2026-01-14,Necaxa,Monterrey,0,2,0,2,A
-mexique,2025,2026-01-14,Pachuca,Leon,2,1,1,0,H
+mexique,2025,2026-01-14,CF Pachuca,Leon,2,1,1,0,H
 mexique,2025,2026-01-14,FC Juarez,Guadalajara Chivas,0,1,0,0,A
 mexique,2025,2026-01-14,Cruz Azul,Atlas,2,0,2,0,H
 mexique,2025,2026-01-15,Club Queretaro,Club Tijuana,1,2,0,0,A
@@ -194,7 +194,7 @@ mexique,2025,2026-01-18,Cruz Azul,Puebla,1,0,0,0,H
 mexique,2025,2026-01-18,Club Tijuana,Atletico San Luis,1,1,1,0,D
 mexique,2025,2026-01-18,U.N.A.M. - Pumas,Leon,1,1,0,1,D
 mexique,2025,2026-01-18,Santos Laguna,FC Juarez,2,2,1,0,D
-mexique,2025,2026-01-19,Pachuca,Club America,0,0,0,0,D
+mexique,2025,2026-01-19,CF Pachuca,Club America,0,0,0,0,D
 mexique,2025,2026-01-31,Puebla,Toluca,0,0,0,0,D
 mexique,2025,2026-01-31,U.N.A.M. - Pumas,Santos Laguna,4,0,4,0,H
 mexique,2025,2026-01-31,FC Juarez,Cruz Azul,3,4,1,3,A
@@ -203,7 +203,7 @@ mexique,2025,2026-01-31,Atlas,Mazatlán,1,0,1,0,H
 mexique,2025,2026-01-31,Atletico San Luis,Guadalajara Chivas,2,3,1,2,A
 mexique,2025,2026-02-01,Monterrey,Club Tijuana,2,2,1,1,D
 mexique,2025,2026-02-01,Leon,Tigres UANL,1,2,0,0,A
-mexique,2025,2026-02-01,Club Queretaro,Pachuca,0,0,0,0,D
+mexique,2025,2026-02-01,Club Queretaro,CF Pachuca,0,0,0,0,D
 mexique,2025,2026-02-07,Tigres UANL,Santos Laguna,5,1,2,1,H
 mexique,2025,2026-02-07,Necaxa,Atletico San Luis,4,1,1,0,H
 mexique,2025,2026-02-07,Club Tijuana,Puebla,0,0,0,0,D
@@ -211,18 +211,18 @@ mexique,2025,2026-02-07,Mazatlán,Guadalajara Chivas,1,2,0,2,A
 mexique,2025,2026-02-07,Toluca,Cruz Azul,1,1,1,0,D
 mexique,2025,2026-02-07,Club Queretaro,Leon,2,0,1,0,H
 mexique,2025,2026-02-08,Atlas,U.N.A.M. - Pumas,2,2,1,2,D
-mexique,2025,2026-02-08,Pachuca,FC Juarez,2,0,1,0,H
+mexique,2025,2026-02-08,CF Pachuca,FC Juarez,2,0,1,0,H
 mexique,2025,2026-02-08,Club America,Monterrey,1,0,0,0,H
 mexique,2025,2026-02-14,Puebla,U.N.A.M. - Pumas,2,3,2,1,A
 mexique,2025,2026-02-14,Toluca,Club Tijuana,1,0,1,0,H
-mexique,2025,2026-02-14,Pachuca,Atlas,3,1,2,0,H
+mexique,2025,2026-02-14,CF Pachuca,Atlas,3,1,2,0,H
 mexique,2025,2026-02-14,Atletico San Luis,Club Queretaro,3,0,1,0,H
 mexique,2025,2026-02-15,Monterrey,Leon,1,0,1,0,H
 mexique,2025,2026-02-15,FC Juarez,Necaxa,1,2,1,1,A
 mexique,2025,2026-02-15,Guadalajara Chivas,Club America,1,0,1,0,H
 mexique,2025,2026-02-15,Cruz Azul,Tigres UANL,2,1,0,0,H
 mexique,2025,2026-02-15,Santos Laguna,Mazatlán,1,2,1,1,A
-mexique,2025,2026-02-21,Tigres UANL,Pachuca,1,2,1,0,A
+mexique,2025,2026-02-21,Tigres UANL,CF Pachuca,1,2,1,0,A
 mexique,2025,2026-02-21,Puebla,Club America,0,4,0,1,A
 mexique,2025,2026-02-21,Atlas,Atletico San Luis,3,2,1,2,H
 mexique,2025,2026-02-22,Necaxa,Toluca,0,3,0,0,A
@@ -231,7 +231,7 @@ mexique,2025,2026-02-22,Cruz Azul,Guadalajara Chivas,2,1,1,0,H
 mexique,2025,2026-02-22,Club Tijuana,Mazatlán,1,1,1,0,D
 mexique,2025,2026-02-22,U.N.A.M. - Pumas,Monterrey,2,0,2,0,H
 mexique,2025,2026-02-28,Club Queretaro,Santos Laguna,2,2,2,2,D
-mexique,2025,2026-02-28,Mazatlán,Pachuca,1,0,1,0,H
+mexique,2025,2026-02-28,Mazatlán,CF Pachuca,1,0,1,0,H
 mexique,2025,2026-02-28,FC Juarez,Atlas,3,1,2,1,H
 mexique,2025,2026-02-28,Club Tijuana,U.N.A.M. - Pumas,1,1,1,1,D
 mexique,2025,2026-02-28,Toluca,Guadalajara Chivas,2,0,2,0,H
@@ -240,7 +240,7 @@ mexique,2025,2026-03-01,Monterrey,Cruz Azul,0,2,0,1,A
 mexique,2025,2026-03-01,Leon,Necaxa,2,1,0,1,H
 mexique,2025,2026-03-01,Club America,Tigres UANL,1,4,0,2,A
 mexique,2025,2026-03-04,Santos Laguna,Cruz Azul,1,2,0,1,A
-mexique,2025,2026-03-04,Pachuca,Necaxa,2,1,2,0,H
+mexique,2025,2026-03-04,CF Pachuca,Necaxa,2,1,2,0,H
 mexique,2025,2026-03-04,Atletico San Luis,Mazatlán,4,1,0,0,H
 mexique,2025,2026-03-04,U.N.A.M. - Pumas,Toluca,2,3,1,1,A
 mexique,2025,2026-03-05,Monterrey,Club Queretaro,4,0,1,0,H
@@ -252,13 +252,13 @@ mexique,2025,2026-03-07,Necaxa,U.N.A.M. - Pumas,0,1,0,0,A
 mexique,2025,2026-03-07,Club Queretaro,Club America,1,2,1,1,A
 mexique,2025,2026-03-07,Cruz Azul,Atletico San Luis,3,0,1,0,H
 mexique,2025,2026-03-08,Atlas,Guadalajara Chivas,1,2,1,0,A
-mexique,2025,2026-03-08,Pachuca,Puebla,2,1,0,0,H
+mexique,2025,2026-03-08,CF Pachuca,Puebla,2,1,0,0,H
 mexique,2025,2026-03-08,Tigres UANL,Monterrey,1,0,0,0,H
 mexique,2025,2026-03-08,Toluca,FC Juarez,3,1,0,0,H
 mexique,2025,2026-03-09,Club Tijuana,Santos Laguna,1,2,0,0,A
 mexique,2025,2026-03-14,Puebla,Necaxa,0,0,0,0,D
 mexique,2025,2026-03-14,FC Juarez,Monterrey,2,2,0,2,D
-mexique,2025,2026-03-14,Atletico San Luis,Pachuca,1,1,1,0,D
+mexique,2025,2026-03-14,Atletico San Luis,CF Pachuca,1,1,1,0,D
 mexique,2025,2026-03-14,Guadalajara Chivas,Santos Laguna,3,0,2,0,H
 mexique,2025,2026-03-15,Toluca,Atlas,1,1,0,0,D
 mexique,2025,2026-03-15,Leon,Club Tijuana,0,3,0,3,A
@@ -273,14 +273,14 @@ mexique,2025,2026-03-22,Atletico San Luis,Leon,1,2,1,1,A
 mexique,2025,2026-03-22,Monterrey,Guadalajara Chivas,2,3,0,1,A
 mexique,2025,2026-03-22,U.N.A.M. - Pumas,Club America,1,0,0,0,H
 mexique,2025,2026-03-22,Santos Laguna,Puebla,2,1,0,0,H
-mexique,2025,2026-03-22,Pachuca,Toluca,1,1,0,1,D
+mexique,2025,2026-03-22,CF Pachuca,Toluca,1,1,0,1,D
 mexique,2025,2026-03-23,FC Juarez,Tigres UANL,2,1,1,1,H
 mexique,2025,2026-04-04,Puebla,FC Juarez,1,1,0,0,D
 mexique,2025,2026-04-04,Necaxa,Mazatlán,2,1,1,1,H
 mexique,2025,2026-04-04,Club Tijuana,Tigres UANL,1,0,1,0,H
 mexique,2025,2026-04-04,Monterrey,Atletico San Luis,1,2,1,0,A
 mexique,2025,2026-04-04,Club Queretaro,Toluca,1,0,0,0,H
-mexique,2025,2026-04-05,Cruz Azul,Pachuca,1,2,1,1,A
+mexique,2025,2026-04-05,Cruz Azul,CF Pachuca,1,2,1,1,A
 mexique,2025,2026-04-05,Leon,Atlas,2,0,1,0,H
 mexique,2025,2026-04-05,Santos Laguna,Club America,1,1,0,0,D
 mexique,2025,2026-04-06,Guadalajara Chivas,U.N.A.M. - Pumas,2,2,0,2,D
@@ -290,7 +290,7 @@ mexique,2025,2026-04-11,FC Juarez,Club Tijuana,1,2,0,1,A
 mexique,2025,2026-04-11,Tigres UANL,Guadalajara Chivas,4,1,2,1,H
 mexique,2025,2026-04-11,Club Queretaro,Necaxa,3,1,2,0,H
 mexique,2025,2026-04-12,Atlas,Monterrey,0,0,0,0,D
-mexique,2025,2026-04-12,Pachuca,Santos Laguna,4,2,2,1,H
+mexique,2025,2026-04-12,CF Pachuca,Santos Laguna,4,2,2,1,H
 mexique,2025,2026-04-12,Club America,Cruz Azul,1,1,1,1,D
 mexique,2025,2026-04-12,U.N.A.M. - Pumas,Mazatlán,3,1,2,1,H
 mexique,2025,2026-04-13,Toluca,Atletico San Luis,1,1,0,0,D
@@ -298,7 +298,7 @@ mexique,2025,2026-04-18,Atletico San Luis,U.N.A.M. - Pumas,0,2,0,1,A
 mexique,2025,2026-04-18,Mazatlán,Club Queretaro,1,1,1,1,D
 mexique,2025,2026-04-18,Necaxa,Tigres UANL,1,1,1,0,D
 mexique,2025,2026-04-18,Cruz Azul,Club Tijuana,1,1,1,1,D
-mexique,2025,2026-04-19,Monterrey,Pachuca,1,3,1,0,A
+mexique,2025,2026-04-19,Monterrey,CF Pachuca,1,3,1,0,A
 mexique,2025,2026-04-19,Guadalajara Chivas,Puebla,5,0,2,0,H
 mexique,2025,2026-04-19,Leon,FC Juarez,3,1,2,0,H
 mexique,2025,2026-04-19,Club America,Toluca,2,1,1,0,H
@@ -307,3 +307,17 @@ mexique,2025,2026-04-22,U.N.A.M. - Pumas,FC Juarez,4,2,0,2,H
 mexique,2025,2026-04-22,Club Queretaro,Cruz Azul,1,1,1,1,D
 mexique,2025,2026-04-22,Monterrey,Puebla,2,1,2,1,H
 mexique,2025,2026-04-22,Leon,Club America,2,3,2,2,A
+mexique,2025,2026-04-23,Atlas,Tigres UANL,0,0,0,0,D
+mexique,2025,2026-04-23,Atletico San Luis,Santos Laguna,2,0,0,0,H
+mexique,2025,2026-04-23,Mazatlán,Toluca,4,3,0,1,H
+mexique,2025,2026-04-23,Club Tijuana,CF Pachuca,3,1,2,0,H
+mexique,2025,2026-04-23,Necaxa,Guadalajara Chivas,0,0,0,0,D
+mexique,2025,2026-04-25,Puebla,Club Queretaro,1,2,1,0,A
+mexique,2025,2026-04-25,Tigres UANL,Mazatlán,5,1,1,0,H
+mexique,2025,2026-04-25,CF Pachuca,U.N.A.M. - Pumas,0,2,0,2,A
+mexique,2025,2026-04-26,Toluca,Leon,4,1,1,1,H
+mexique,2025,2026-04-26,Guadalajara Chivas,Club Tijuana,0,0,0,0,D
+mexique,2025,2026-04-26,FC Juarez,Atletico San Luis,2,1,2,1,H
+mexique,2025,2026-04-26,Club America,Atlas,0,1,0,0,A
+mexique,2025,2026-04-26,Santos Laguna,Monterrey,3,0,2,0,H
+mexique,2025,2026-04-27,Cruz Azul,Necaxa,4,1,0,0,H
