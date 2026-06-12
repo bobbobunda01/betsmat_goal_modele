@@ -534,6 +534,22 @@ def prediction():
                 o25_cal = load(RACINE_PROJET / "modele" / "can" / "o25_cal.joblib")
                 btts_ml_model = load(RACINE_PROJET / "modele" / "can" / "btts_ml.joblib")
                 btts_cal_model = load(RACINE_PROJET / "modele" / "can" / "btts_cal.joblib")
+            
+             # CAN, A COMPLETER
+            elif comp==1:
+
+                s_encours=RACINE_PROJET / "data" / "mondiale" / "saison_encours.csv"
+                hi=pd.read_csv(s_encours)
+                #hi.drop('Unnamed: 0', axis=1, inplace=True)
+                hi['Date']=pd.to_datetime(hi['Date'])
+                df=hi
+                
+                config = load(RACINE_PROJET / "modele" / "mondiale" / "config.joblib")
+                lambda_home_model = load(RACINE_PROJET / "modele" / "mondiale" / "lambda_home.joblib")
+                lambda_away_model = load(RACINE_PROJET / "modele" / "mondiale" / "lambda_away.joblib")
+                o25_cal = load(RACINE_PROJET / "modele" / "mondiale" / "o25_cal.joblib")
+                btts_ml_model = load(RACINE_PROJET / "modele" / "mondiale" / "btts_ml.joblib")
+                btts_cal_model = load(RACINE_PROJET / "modele" / "mondiale" / "btts_cal.joblib")
                 
             date_match=get_valid_date(match_date)
             
