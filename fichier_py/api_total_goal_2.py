@@ -26,6 +26,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from fichier_py.fonction_totatl_goal_2 import predict_from_user_input, get_valid_date, llm_client
+import requests
 
 
 thread=0
