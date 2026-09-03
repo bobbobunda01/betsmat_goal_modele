@@ -1,245 +1,49 @@
 league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-russie,2025,2025-07-18,Dynamo,Baltika,1,1,0,1,D
-russie,2025,2025-07-19,Akron,Krylia Sovetov,1,1,1,0,D
-russie,2025,2025-07-19,Lokomotiv,FC Sochi,3,0,0,0,H
-russie,2025,2025-07-19,Spartak Moscow,Dinamo Makhachkala,1,0,1,0,H
-russie,2025,2025-07-20,Nizhny Novgorod,FC Krasnodar,0,3,0,1,A
-russie,2025,2025-07-20,Zenit,FC Rostov,2,1,0,1,H
-russie,2025,2025-07-20,Akhmat,Rubin,0,2,0,1,A
-russie,2025,2025-07-21,FC Orenburg,CSKA Moscow,0,0,0,0,D
-russie,2025,2025-07-25,Krylia Sovetov,Nizhny Novgorod,2,0,0,0,H
-russie,2025,2025-07-26,Spartak Moscow,Baltika,0,3,0,0,A
-russie,2025,2025-07-26,Dynamo,FC Rostov,1,0,1,0,H
-russie,2025,2025-07-26,FC Krasnodar,Lokomotiv,1,2,0,1,A
-russie,2025,2025-07-26,FC Sochi,Akron,0,4,0,4,A
-russie,2025,2025-07-27,CSKA Moscow,Akhmat,2,1,2,1,H
-russie,2025,2025-07-27,FC Orenburg,Dinamo Makhachkala,1,1,0,0,D
-russie,2025,2025-07-27,Rubin,Zenit,2,2,0,2,D
-russie,2025,2025-08-02,FC Rostov,Krylia Sovetov,1,4,0,1,A
-russie,2025,2025-08-02,FC Krasnodar,Dynamo,1,0,0,0,H
-russie,2025,2025-08-02,Nizhny Novgorod,Lokomotiv,2,3,0,1,A
-russie,2025,2025-08-03,Akron,Spartak Moscow,1,1,0,0,D
-russie,2025,2025-08-03,Baltika,FC Orenburg,3,2,1,0,H
-russie,2025,2025-08-03,Zenit,CSKA Moscow,1,1,0,1,D
-russie,2025,2025-08-03,Dinamo Makhachkala,Akhmat,1,0,1,0,H
-russie,2025,2025-08-04,Rubin,FC Sochi,2,1,1,0,H
-russie,2025,2025-08-08,Dinamo Makhachkala,Akron,1,1,1,0,D
-russie,2025,2025-08-09,Krylia Sovetov,Baltika,1,1,1,0,D
-russie,2025,2025-08-09,CSKA Moscow,Rubin,5,1,4,1,H
-russie,2025,2025-08-09,Lokomotiv,Spartak Moscow,4,2,1,1,H
-russie,2025,2025-08-09,Akhmat,Zenit,1,0,1,0,H
-russie,2025,2025-08-10,FC Orenburg,FC Krasnodar,0,1,0,0,A
-russie,2025,2025-08-10,FC Sochi,Dynamo,1,1,0,1,D
-russie,2025,2025-08-10,FC Rostov,Nizhny Novgorod,1,0,0,0,H
-russie,2025,2025-08-16,Baltika,Lokomotiv,1,1,1,0,D
-russie,2025,2025-08-16,Spartak Moscow,Zenit,2,2,2,1,D
-russie,2025,2025-08-16,Akhmat,Krylia Sovetov,3,1,1,0,H
-russie,2025,2025-08-17,Akron,FC Orenburg,1,2,1,0,A
-russie,2025,2025-08-17,Rubin,FC Rostov,1,0,0,0,H
-russie,2025,2025-08-17,Dynamo,CSKA Moscow,1,3,0,3,A
-russie,2025,2025-08-17,FC Krasnodar,FC Sochi,5,1,0,0,H
-russie,2025,2025-08-18,Nizhny Novgorod,Dinamo Makhachkala,2,0,2,0,H
-russie,2025,2025-08-22,FC Orenburg,Akhmat,2,2,2,0,D
-russie,2025,2025-08-23,Rubin,Spartak Moscow,0,2,0,0,A
-russie,2025,2025-08-23,Zenit,Dinamo Makhachkala,4,0,2,0,H
-russie,2025,2025-08-23,Lokomotiv,FC Rostov,3,3,2,0,D
-russie,2025,2025-08-23,Dynamo,Nizhny Novgorod,3,0,1,0,H
-russie,2025,2025-08-24,Krylia Sovetov,FC Krasnodar,0,6,0,3,A
-russie,2025,2025-08-24,CSKA Moscow,Akron,3,1,2,1,H
-russie,2025,2025-08-24,FC Sochi,Baltika,0,2,0,1,A
-russie,2025,2025-08-30,FC Orenburg,Rubin,2,2,0,2,D
-russie,2025,2025-08-30,Zenit,Nizhny Novgorod,2,0,0,0,H
-russie,2025,2025-08-30,Spartak Moscow,FC Sochi,2,1,1,1,H
-russie,2025,2025-08-30,FC Rostov,Akhmat,1,1,0,1,D
-russie,2025,2025-08-31,Akron,Baltika,0,2,0,2,A
-russie,2025,2025-08-31,Lokomotiv,Krylia Sovetov,2,2,2,0,D
-russie,2025,2025-08-31,CSKA Moscow,FC Krasnodar,1,1,1,1,D
-russie,2025,2025-08-31,Dinamo Makhachkala,Dynamo,1,0,0,0,H
-russie,2025,2025-09-12,Rubin,Dinamo Makhachkala,1,0,1,0,H
-russie,2025,2025-09-13,Nizhny Novgorod,FC Orenburg,3,1,1,1,H
-russie,2025,2025-09-13,Akhmat,Lokomotiv,1,1,0,0,D
-russie,2025,2025-09-13,Dynamo,Spartak Moscow,2,2,2,1,D
-russie,2025,2025-09-13,FC Krasnodar,Akron,2,1,1,1,H
-russie,2025,2025-09-14,Krylia Sovetov,FC Sochi,2,0,0,0,H
-russie,2025,2025-09-14,Baltika,Zenit,0,0,0,0,D
-russie,2025,2025-09-14,FC Rostov,CSKA Moscow,1,0,1,0,H
-russie,2025,2025-09-20,Nizhny Novgorod,Akhmat,1,2,0,1,A
-russie,2025,2025-09-20,Akron,Rubin,2,2,1,0,D
-russie,2025,2025-09-20,Dinamo Makhachkala,Lokomotiv,1,1,0,0,D
-russie,2025,2025-09-21,FC Orenburg,Dynamo,1,3,0,0,A
-russie,2025,2025-09-21,Spartak Moscow,Krylia Sovetov,2,1,0,1,H
-russie,2025,2025-09-21,Baltika,FC Rostov,0,0,0,0,D
-russie,2025,2025-09-21,FC Krasnodar,Zenit,0,2,0,0,A
-russie,2025,2025-09-22,FC Sochi,CSKA Moscow,1,3,1,0,A
-russie,2025,2025-09-26,Krylia Sovetov,Dynamo,2,3,0,3,A
-russie,2025,2025-09-27,Akhmat,Akron,3,0,1,0,H
-russie,2025,2025-09-27,Lokomotiv,Rubin,1,0,0,0,H
-russie,2025,2025-09-27,FC Rostov,FC Krasnodar,0,0,0,0,D
-russie,2025,2025-09-27,Zenit,FC Orenburg,5,2,2,0,H
-russie,2025,2025-09-28,CSKA Moscow,Baltika,1,0,0,0,H
-russie,2025,2025-09-28,Dinamo Makhachkala,FC Sochi,0,0,0,0,D
-russie,2025,2025-09-28,Spartak Moscow,Nizhny Novgorod,3,0,2,0,H
-russie,2025,2025-10-04,Akron,Zenit,1,1,1,1,D
-russie,2025,2025-10-04,Rubin,Krylia Sovetov,2,0,1,0,H
-russie,2025,2025-10-04,FC Krasnodar,Akhmat,2,0,2,0,H
-russie,2025,2025-10-04,Dynamo,Lokomotiv,3,5,2,2,A
-russie,2025,2025-10-05,FC Orenburg,FC Rostov,0,1,0,0,A
-russie,2025,2025-10-05,FC Sochi,Nizhny Novgorod,2,1,1,0,H
-russie,2025,2025-10-05,CSKA Moscow,Spartak Moscow,3,2,3,1,H
-russie,2025,2025-10-05,Baltika,Dinamo Makhachkala,2,0,1,0,H
-russie,2025,2025-10-18,Krylia Sovetov,FC Orenburg,1,1,0,1,D
-russie,2025,2025-10-18,Nizhny Novgorod,Akron,0,1,0,0,A
-russie,2025,2025-10-18,Spartak Moscow,FC Rostov,1,1,0,0,D
-russie,2025,2025-10-18,Dinamo Makhachkala,FC Krasnodar,0,2,0,1,A
-russie,2025,2025-10-18,Lokomotiv,CSKA Moscow,3,0,2,0,H
-russie,2025,2025-10-19,FC Sochi,Zenit,0,3,0,1,A
-russie,2025,2025-10-19,Rubin,Baltika,0,3,0,2,A
-russie,2025,2025-10-19,Dynamo,Akhmat,2,2,1,1,D
-russie,2025,2025-10-25,Spartak Moscow,FC Orenburg,1,0,0,0,H
-russie,2025,2025-10-25,FC Rostov,Dinamo Makhachkala,1,1,1,0,D
-russie,2025,2025-10-25,CSKA Moscow,Krylia Sovetov,1,0,0,0,H
-russie,2025,2025-10-26,Akron,Lokomotiv,1,1,1,0,D
-russie,2025,2025-10-26,Nizhny Novgorod,Baltika,0,0,0,0,D
-russie,2025,2025-10-26,Zenit,Dynamo,2,1,1,1,H
-russie,2025,2025-10-26,FC Krasnodar,Rubin,1,0,1,0,H
-russie,2025,2025-10-27,Akhmat,FC Sochi,2,4,0,2,A
-russie,2025,2025-10-31,CSKA Moscow,Nizhny Novgorod,2,0,1,0,H
-russie,2025,2025-11-01,Rubin,Dynamo,0,0,0,0,D
-russie,2025,2025-11-01,Dinamo Makhachkala,Krylia Sovetov,2,0,1,0,H
-russie,2025,2025-11-01,Zenit,Lokomotiv,2,0,1,0,H
-russie,2025,2025-11-01,FC Rostov,Akron,0,1,0,0,A
-russie,2025,2025-11-02,FC Orenburg,FC Sochi,3,1,2,1,H
-russie,2025,2025-11-02,Baltika,Akhmat,2,0,1,0,H
-russie,2025,2025-11-02,FC Krasnodar,Spartak Moscow,2,1,1,0,H
-russie,2025,2025-11-08,Dynamo,Akron,1,2,0,0,A
-russie,2025,2025-11-08,Nizhny Novgorod,Rubin,0,0,0,0,D
-russie,2025,2025-11-08,Dinamo Makhachkala,CSKA Moscow,0,1,0,0,A
-russie,2025,2025-11-08,FC Sochi,FC Rostov,0,1,0,1,A
-russie,2025,2025-11-09,Krylia Sovetov,Zenit,1,1,0,0,D
-russie,2025,2025-11-09,Lokomotiv,FC Orenburg,1,0,0,0,H
-russie,2025,2025-11-09,Akhmat,Spartak Moscow,1,2,0,1,A
-russie,2025,2025-11-09,Baltika,FC Krasnodar,1,1,1,1,D
-russie,2025,2025-11-21,Akron,FC Sochi,3,2,0,1,H
-russie,2025,2025-11-22,FC Orenburg,Baltika,0,0,0,0,D
-russie,2025,2025-11-22,Spartak Moscow,CSKA Moscow,1,0,1,0,H
-russie,2025,2025-11-22,Rubin,Akhmat,1,0,0,0,H
-russie,2025,2025-11-23,Krylia Sovetov,FC Rostov,2,0,1,0,H
-russie,2025,2025-11-23,Nizhny Novgorod,Zenit,0,2,0,0,A
-russie,2025,2025-11-23,Dynamo,Dinamo Makhachkala,3,0,1,0,H
-russie,2025,2025-11-23,Lokomotiv,FC Krasnodar,1,1,1,1,D
-russie,2025,2025-11-29,Akron,Nizhny Novgorod,1,2,0,2,A
-russie,2025,2025-11-29,CSKA Moscow,FC Orenburg,2,0,0,0,H
-russie,2025,2025-11-29,Baltika,Spartak Moscow,1,0,0,0,H
-russie,2025,2025-11-30,FC Krasnodar,Krylia Sovetov,5,0,2,0,H
-russie,2025,2025-11-30,FC Rostov,Lokomotiv,1,3,1,2,A
-russie,2025,2025-11-30,Akhmat,Dynamo,2,1,0,1,H
-russie,2025,2025-11-30,Zenit,Rubin,1,0,0,0,H
-russie,2025,2025-12-01,FC Sochi,Dinamo Makhachkala,0,0,0,0,D
-russie,2025,2025-12-05,Akhmat,FC Orenburg,1,0,0,0,H
-russie,2025,2025-12-06,FC Rostov,Rubin,2,0,0,0,H
-russie,2025,2025-12-06,Spartak Moscow,Dynamo,1,1,1,0,D
-russie,2025,2025-12-06,Zenit,Akron,2,0,2,0,H
-russie,2025,2025-12-07,Dinamo Makhachkala,Nizhny Novgorod,0,1,0,1,A
-russie,2025,2025-12-07,FC Sochi,Lokomotiv,2,4,1,3,A
-russie,2025,2025-12-07,FC Krasnodar,CSKA Moscow,3,2,1,1,H
-russie,2025,2025-12-07,Baltika,Krylia Sovetov,2,0,2,0,H
-russie,2025,2026-02-27,Zenit,Baltika,1,0,0,0,H
-russie,2025,2026-02-28,FC Orenburg,Akron,2,0,1,0,H
-russie,2025,2026-02-28,FC Krasnodar,FC Rostov,2,1,1,1,H
-russie,2025,2026-02-28,Lokomotiv,Nizhny Novgorod,2,1,1,0,H
-russie,2025,2026-02-28,Dinamo Makhachkala,Rubin,2,1,1,1,H
-russie,2025,2026-03-01,Dynamo,Krylia Sovetov,4,0,3,0,H
-russie,2025,2026-03-01,Akhmat,CSKA Moscow,1,0,1,0,H
-russie,2025,2026-03-02,FC Sochi,Spartak Moscow,2,3,0,1,A
-russie,2025,2026-03-07,FC Rostov,Baltika,1,1,0,1,D
-russie,2025,2026-03-07,Nizhny Novgorod,FC Sochi,2,1,1,0,H
-russie,2025,2026-03-08,FC Orenburg,Zenit,2,1,0,1,H
-russie,2025,2026-03-08,Krylia Sovetov,Dinamo Makhachkala,2,0,2,0,H
-russie,2025,2026-03-08,Rubin,FC Krasnodar,2,1,1,0,H
-russie,2025,2026-03-08,CSKA Moscow,Dynamo,1,4,0,2,A
-russie,2025,2026-03-09,Lokomotiv,Akhmat,2,2,1,2,D
-russie,2025,2026-03-09,Spartak Moscow,Akron,4,3,3,1,H
-russie,2025,2026-03-13,Dinamo Makhachkala,FC Orenburg,1,0,1,0,H
-russie,2025,2026-03-14,FC Sochi,FC Krasnodar,1,2,0,1,A
-russie,2025,2026-03-14,Zenit,Spartak Moscow,2,0,1,0,H
-russie,2025,2026-03-14,FC Rostov,Dynamo,0,1,0,1,A
-russie,2025,2026-03-14,Baltika,CSKA Moscow,1,0,0,0,H
-russie,2025,2026-03-15,Akron,Akhmat,1,1,0,1,D
-russie,2025,2026-03-15,Nizhny Novgorod,Krylia Sovetov,3,0,2,0,H
-russie,2025,2026-03-15,Rubin,Lokomotiv,3,0,1,0,H
-russie,2025,2026-03-21,Akhmat,FC Rostov,1,0,1,0,H
-russie,2025,2026-03-21,CSKA Moscow,Dinamo Makhachkala,3,1,2,1,H
-russie,2025,2026-03-21,FC Krasnodar,Nizhny Novgorod,5,0,2,0,H
-russie,2025,2026-03-21,Baltika,FC Sochi,4,0,2,0,H
-russie,2025,2026-03-22,FC Orenburg,Spartak Moscow,0,2,0,2,A
-russie,2025,2026-03-22,Dynamo,Zenit,1,3,1,2,A
-russie,2025,2026-03-22,Krylia Sovetov,Rubin,0,0,0,0,D
-russie,2025,2026-03-22,Lokomotiv,Akron,5,1,5,1,H
-russie,2025,2026-04-04,Akron,CSKA Moscow,1,2,0,1,A
-russie,2025,2026-04-04,Zenit,Krylia Sovetov,2,1,0,0,H
-russie,2025,2026-04-04,Dynamo,FC Orenburg,3,3,2,1,D
-russie,2025,2026-04-04,Akhmat,FC Krasnodar,0,1,0,0,A
-russie,2025,2026-04-05,Nizhny Novgorod,FC Rostov,0,1,0,1,A
-russie,2025,2026-04-05,Dinamo Makhachkala,Baltika,2,2,0,1,D
-russie,2025,2026-04-05,Spartak Moscow,Lokomotiv,2,1,0,1,H
-russie,2025,2026-04-06,FC Sochi,Rubin,0,1,0,1,A
-russie,2025,2026-04-11,Krylia Sovetov,Akhmat,2,2,1,2,D
-russie,2025,2026-04-11,Rubin,FC Orenburg,0,0,0,0,D
-russie,2025,2026-04-11,Baltika,Nizhny Novgorod,2,2,0,1,D
-russie,2025,2026-04-12,CSKA Moscow,FC Sochi,0,1,0,1,A
-russie,2025,2026-04-12,Lokomotiv,Dinamo Makhachkala,1,1,0,0,D
-russie,2025,2026-04-12,FC Rostov,Spartak Moscow,1,1,1,1,D
-russie,2025,2026-04-12,Zenit,FC Krasnodar,1,1,1,0,D
-russie,2025,2026-04-13,Akron,Dynamo,2,3,1,2,A
-russie,2025,2026-04-17,FC Rostov,FC Sochi,0,1,0,0,A
-russie,2025,2026-04-18,FC Orenburg,Lokomotiv,0,1,0,0,A
-russie,2025,2026-04-18,Krylia Sovetov,CSKA Moscow,1,1,0,0,D
-russie,2025,2026-04-18,Rubin,Akron,1,1,0,0,D
-russie,2025,2026-04-18,Nizhny Novgorod,Dynamo,1,1,1,1,D
-russie,2025,2026-04-19,Dinamo Makhachkala,Zenit,0,1,0,0,A
-russie,2025,2026-04-19,Spartak Moscow,Akhmat,3,1,3,1,H
-russie,2025,2026-04-19,FC Krasnodar,Baltika,2,2,0,1,D
-russie,2025,2026-04-21,FC Sochi,Krylia Sovetov,2,1,0,1,H
-russie,2025,2026-04-21,CSKA Moscow,FC Rostov,1,1,0,1,D
-russie,2025,2026-04-22,FC Orenburg,Nizhny Novgorod,2,1,0,1,H
-russie,2025,2026-04-22,Lokomotiv,Zenit,0,0,0,0,D
-russie,2025,2026-04-22,Dynamo,Rubin,0,1,0,1,A
-russie,2025,2026-04-23,Akron,Dinamo Makhachkala,1,1,1,0,D
-russie,2025,2026-04-23,Spartak Moscow,FC Krasnodar,1,2,1,1,A
-russie,2025,2026-04-23,Akhmat,Baltika,1,1,0,0,D
-russie,2025,2026-04-25,FC Rostov,FC Orenburg,0,1,0,0,A
-russie,2025,2026-04-25,Krylia Sovetov,Lokomotiv,2,0,1,0,H
-russie,2025,2026-04-25,Rubin,CSKA Moscow,0,0,0,0,D
-russie,2025,2026-04-26,Nizhny Novgorod,Spartak Moscow,1,2,1,1,A
-russie,2025,2026-04-26,FC Krasnodar,Dinamo Makhachkala,2,1,1,1,H
-russie,2025,2026-04-26,Dynamo,FC Sochi,2,0,1,0,H
-russie,2025,2026-04-26,Zenit,Akhmat,2,0,2,0,H
-russie,2025,2026-04-27,Baltika,Akron,0,1,0,0,A
-russie,2025,2026-05-01,Krylia Sovetov,Spartak Moscow,2,1,1,0,H
-russie,2025,2026-05-01,Lokomotiv,Dynamo,1,1,0,1,D
-russie,2025,2026-05-02,Dinamo Makhachkala,FC Rostov,1,2,0,1,A
-russie,2025,2026-05-02,Baltika,Rubin,0,1,0,1,A
-russie,2025,2026-05-02,CSKA Moscow,Zenit,1,3,1,1,A
-russie,2025,2026-05-03,FC Sochi,FC Orenburg,3,1,2,0,H
-russie,2025,2026-05-03,Akron,FC Krasnodar,0,1,0,0,A
-russie,2025,2026-05-03,Akhmat,Nizhny Novgorod,2,0,0,0,H
-russie,2025,2026-05-10,FC Orenburg,Krylia Sovetov,1,0,1,0,H
-russie,2025,2026-05-10,Zenit,FC Sochi,2,1,0,1,H
-russie,2025,2026-05-10,Akhmat,Dinamo Makhachkala,1,1,0,1,D
-russie,2025,2026-05-10,Lokomotiv,Baltika,1,0,1,0,H
-russie,2025,2026-05-11,Akron,FC Rostov,1,3,1,3,A
-russie,2025,2026-05-11,Nizhny Novgorod,CSKA Moscow,1,2,1,0,A
-russie,2025,2026-05-11,Spartak Moscow,Rubin,2,1,1,0,H
-russie,2025,2026-05-11,Dynamo,FC Krasnodar,2,1,0,1,H
-russie,2025,2026-05-17,CSKA Moscow,Lokomotiv,3,1,1,0,H
-russie,2025,2026-05-17,FC Krasnodar,FC Orenburg,3,0,1,0,H
-russie,2025,2026-05-17,FC Rostov,Zenit,0,1,0,1,A
-russie,2025,2026-05-17,Krylia Sovetov,Akron,4,1,4,0,H
-russie,2025,2026-05-17,Rubin,Nizhny Novgorod,2,2,1,0,D
-russie,2025,2026-05-17,Baltika,Dynamo,1,2,0,1,A
-russie,2025,2026-05-17,FC Sochi,Akhmat,1,1,0,0,D
-russie,2025,2026-05-17,Dinamo Makhachkala,Spartak Moscow,0,0,0,0,D
-russie,2025,2026-05-20,Ural,Dinamo Makhachkala,0,1,0,1,A
-russie,2025,2026-05-20,Rotor Volgograd,Akron,0,2,0,1,A
-russie,2025,2026-05-23,Dinamo Makhachkala,Ural,2,0,1,0,H
-russie,2025,2026-05-23,Akron,Rotor Volgograd,0,1,0,0,A
+russie,2026,2026-07-24,CSKA Moscow,Baltika,2,1,2,1,H
+russie,2026,2026-07-25,Dynamo,Krylia Sovetov,0,0,0,0,D
+russie,2026,2026-07-25,Akron,Zenit,0,5,0,3,A
+russie,2026,2026-07-25,Fakel,Dinamo Makhachkala,1,2,1,1,A
+russie,2026,2026-07-25,Spartak Moscow,Rodina Moskva,3,0,1,0,H
+russie,2026,2026-07-26,Lokomotiv,Akhmat,1,1,1,0,D
+russie,2026,2026-07-26,FC Orenburg,FC Rostov,2,1,0,0,H
+russie,2026,2026-07-26,Rubin,FC Krasnodar,1,3,1,1,A
+russie,2026,2026-07-31,Rodina Moskva,FC Rostov,2,4,1,1,A
+russie,2026,2026-08-01,Akron,Rubin,1,2,1,2,A
+russie,2026,2026-08-01,CSKA Moscow,Krylia Sovetov,1,1,1,0,D
+russie,2026,2026-08-01,Dinamo Makhachkala,Lokomotiv,2,1,0,1,H
+russie,2026,2026-08-01,Baltika,Dynamo,2,1,0,0,H
+russie,2026,2026-08-02,FC Orenburg,Zenit,0,3,0,1,A
+russie,2026,2026-08-02,FC Krasnodar,Fakel,3,2,2,0,H
+russie,2026,2026-08-02,Akhmat,Spartak Moscow,1,2,1,1,A
+russie,2026,2026-08-08,Krylia Sovetov,Baltika,0,2,0,1,A
+russie,2026,2026-08-08,Lokomotiv,Akron,0,0,0,0,D
+russie,2026,2026-08-08,CSKA Moscow,FC Rostov,0,0,0,0,D
+russie,2026,2026-08-09,Dynamo,Dinamo Makhachkala,3,1,0,0,H
+russie,2026,2026-08-09,Zenit,Rodina Moskva,1,2,1,0,A
+russie,2026,2026-08-09,Spartak Moscow,FC Krasnodar,1,2,1,2,A
+russie,2026,2026-08-09,Rubin,FC Orenburg,1,1,0,0,D
+russie,2026,2026-08-10,Fakel,Akhmat,0,0,0,0,D
+russie,2026,2026-08-14,FC Orenburg,Lokomotiv,1,1,0,1,D
+russie,2026,2026-08-15,Rodina Moskva,Akron,3,3,2,0,D
+russie,2026,2026-08-15,CSKA Moscow,Fakel,1,0,0,0,H
+russie,2026,2026-08-15,FC Rostov,Rubin,1,1,1,0,D
+russie,2026,2026-08-15,FC Krasnodar,Akhmat,1,0,1,0,H
+russie,2026,2026-08-16,Zenit,Dynamo,3,0,2,0,H
+russie,2026,2026-08-16,Krylia Sovetov,Dinamo Makhachkala,1,4,1,2,A
+russie,2026,2026-08-16,Baltika,Spartak Moscow,1,2,1,1,A
+russie,2026,2026-08-22,Fakel,FC Orenburg,0,0,0,0,D
+russie,2026,2026-08-22,Akhmat,FC Rostov,4,1,1,1,H
+russie,2026,2026-08-22,CSKA Moscow,Lokomotiv,3,2,1,1,H
+russie,2026,2026-08-23,Akron,Krylia Sovetov,0,3,0,1,A
+russie,2026,2026-08-23,Dynamo,Rodina Moskva,3,1,1,1,H
+russie,2026,2026-08-23,Dinamo Makhachkala,FC Krasnodar,0,1,0,0,A
+russie,2026,2026-08-23,Spartak Moscow,Zenit,2,0,2,0,H
+russie,2026,2026-08-24,Baltika,Rubin,1,1,0,1,D
+russie,2026,2026-08-28,Akron,CSKA Moscow,2,2,1,1,D
+russie,2026,2026-08-29,Fakel,Zenit,0,1,0,0,A
+russie,2026,2026-08-29,FC Krasnodar,FC Rostov,1,0,1,0,H
+russie,2026,2026-08-29,Lokomotiv,Dynamo,0,1,0,0,A
+russie,2026,2026-08-29,Akhmat,Krylia Sovetov,3,3,2,2,D
+russie,2026,2026-08-30,Rodina Moskva,Baltika,0,3,0,1,A
+russie,2026,2026-08-30,Spartak Moscow,FC Orenburg,1,1,0,0,D
+russie,2026,2026-08-30,Rubin,Dinamo Makhachkala,3,1,0,0,H

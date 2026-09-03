@@ -1,186 +1,21 @@
 league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-ecosse_div_1,2025,2025-08-01,Arbroath,Ayr Utd,1,1,0,1,D
-ecosse_div_1,2025,2025-08-02,ST Johnstone,Partick,5,1,3,1,H
-ecosse_div_1,2025,2025-08-02,Morton,Dunfermline,0,0,0,0,D
-ecosse_div_1,2025,2025-08-02,Raith Rovers,Queen's Park,1,1,0,1,D
-ecosse_div_1,2025,2025-08-02,Airdrie United,Ross County,2,2,0,1,D
-ecosse_div_1,2025,2025-08-08,Ross County,ST Johnstone,0,1,0,0,A
-ecosse_div_1,2025,2025-08-09,Partick,Morton,1,1,0,1,D
-ecosse_div_1,2025,2025-08-09,Ayr Utd,Raith Rovers,0,1,0,1,A
-ecosse_div_1,2025,2025-08-09,Dunfermline,Airdrie United,2,0,2,0,H
-ecosse_div_1,2025,2025-08-09,Queen's Park,Arbroath,1,3,0,0,A
-ecosse_div_1,2025,2025-08-22,Raith Rovers,Dunfermline,2,0,1,0,H
-ecosse_div_1,2025,2025-08-23,ST Johnstone,Arbroath,3,0,1,0,H
-ecosse_div_1,2025,2025-08-23,Ross County,Partick,1,3,0,1,A
-ecosse_div_1,2025,2025-08-23,Morton,Ayr Utd,2,2,1,0,D
-ecosse_div_1,2025,2025-08-23,Airdrie United,Queen's Park,1,1,0,0,D
-ecosse_div_1,2025,2025-08-30,ST Johnstone,Morton,1,1,0,1,D
-ecosse_div_1,2025,2025-08-30,Partick,Raith Rovers,3,2,2,2,H
-ecosse_div_1,2025,2025-08-30,Ayr Utd,Queen's Park,1,1,0,1,D
-ecosse_div_1,2025,2025-08-30,Dunfermline,Ross County,2,2,1,1,D
-ecosse_div_1,2025,2025-08-30,Arbroath,Airdrie United,1,0,0,0,H
-ecosse_div_1,2025,2025-09-06,Ross County,Arbroath,1,2,0,1,A
-ecosse_div_1,2025,2025-09-06,Morton,Raith Rovers,0,1,0,0,A
-ecosse_div_1,2025,2025-09-12,Partick,Airdrie United,2,1,0,1,H
-ecosse_div_1,2025,2025-09-13,Raith Rovers,ST Johnstone,0,2,0,1,A
-ecosse_div_1,2025,2025-09-13,Ayr Utd,Ross County,1,1,1,0,D
-ecosse_div_1,2025,2025-09-13,Arbroath,Dunfermline,0,5,0,2,A
-ecosse_div_1,2025,2025-09-13,Queen's Park,Morton,0,0,0,0,D
-ecosse_div_1,2025,2025-09-19,ST Johnstone,Dunfermline,2,1,0,1,H
-ecosse_div_1,2025,2025-09-20,Ross County,Queen's Park,1,2,1,1,A
-ecosse_div_1,2025,2025-09-20,Arbroath,Morton,1,1,0,0,D
-ecosse_div_1,2025,2025-09-20,Airdrie United,Raith Rovers,0,0,0,0,D
-ecosse_div_1,2025,2025-09-23,Dunfermline,Ayr Utd,0,1,0,1,A
-ecosse_div_1,2025,2025-09-23,Airdrie United,ST Johnstone,1,2,0,2,A
-ecosse_div_1,2025,2025-09-27,Morton,Ross County,1,1,0,1,D
-ecosse_div_1,2025,2025-09-27,Raith Rovers,Arbroath,3,0,0,0,H
-ecosse_div_1,2025,2025-09-27,Ayr Utd,Airdrie United,4,2,4,1,H
-ecosse_div_1,2025,2025-09-27,Dunfermline,Partick,0,2,0,2,A
-ecosse_div_1,2025,2025-09-27,Queen's Park,ST Johnstone,1,2,1,1,A
-ecosse_div_1,2025,2025-09-30,Queen's Park,Partick,0,1,0,1,A
-ecosse_div_1,2025,2025-10-04,ST Johnstone,Ayr Utd,0,0,0,0,D
-ecosse_div_1,2025,2025-10-04,Partick,Arbroath,1,1,1,0,D
-ecosse_div_1,2025,2025-10-04,Ross County,Raith Rovers,2,0,0,0,H
-ecosse_div_1,2025,2025-10-04,Dunfermline,Queen's Park,0,0,0,0,D
-ecosse_div_1,2025,2025-10-04,Airdrie United,Morton,1,2,0,0,A
-ecosse_div_1,2025,2025-10-11,ST Johnstone,Ross County,0,0,0,0,D
-ecosse_div_1,2025,2025-10-11,Morton,Partick,1,1,1,0,D
-ecosse_div_1,2025,2025-10-11,Raith Rovers,Ayr Utd,0,2,0,2,A
-ecosse_div_1,2025,2025-10-11,Arbroath,Queen's Park,4,1,3,0,H
-ecosse_div_1,2025,2025-10-17,Dunfermline,Raith Rovers,2,0,1,0,H
-ecosse_div_1,2025,2025-10-18,Partick,Ross County,1,0,0,0,H
-ecosse_div_1,2025,2025-10-18,Ayr Utd,Morton,2,1,1,0,H
-ecosse_div_1,2025,2025-10-18,Arbroath,ST Johnstone,3,1,0,1,H
-ecosse_div_1,2025,2025-10-18,Queen's Park,Airdrie United,0,0,0,0,D
-ecosse_div_1,2025,2025-10-21,Partick,Ayr Utd,2,1,0,1,H
-ecosse_div_1,2025,2025-10-21,Airdrie United,Dunfermline,0,4,0,2,A
-ecosse_div_1,2025,2025-10-25,Ross County,Dunfermline,3,2,2,1,H
-ecosse_div_1,2025,2025-10-25,Morton,ST Johnstone,0,4,0,4,A
-ecosse_div_1,2025,2025-10-25,Raith Rovers,Partick,2,0,0,0,H
-ecosse_div_1,2025,2025-10-25,Airdrie United,Arbroath,1,0,1,0,H
-ecosse_div_1,2025,2025-10-25,Queen's Park,Ayr Utd,0,0,0,0,D
-ecosse_div_1,2025,2025-10-31,Ayr Utd,Dunfermline,0,1,0,1,A
-ecosse_div_1,2025,2025-11-01,ST Johnstone,Airdrie United,3,0,1,0,H
-ecosse_div_1,2025,2025-11-01,Partick,Queen's Park,5,0,2,0,H
-ecosse_div_1,2025,2025-11-01,Raith Rovers,Morton,1,1,1,0,D
-ecosse_div_1,2025,2025-11-01,Arbroath,Ross County,3,0,1,0,H
-ecosse_div_1,2025,2025-11-07,Airdrie United,Partick,1,1,0,0,D
-ecosse_div_1,2025,2025-11-08,Ross County,Ayr Utd,3,3,2,1,D
-ecosse_div_1,2025,2025-11-08,Morton,Arbroath,1,0,1,0,H
-ecosse_div_1,2025,2025-11-08,Dunfermline,ST Johnstone,2,2,1,1,D
-ecosse_div_1,2025,2025-11-08,Queen's Park,Raith Rovers,2,1,1,1,H
-ecosse_div_1,2025,2025-11-15,ST Johnstone,Queen's Park,4,3,3,0,H
-ecosse_div_1,2025,2025-11-15,Ross County,Morton,0,3,0,1,A
-ecosse_div_1,2025,2025-11-15,Raith Rovers,Airdrie United,0,3,0,1,A
-ecosse_div_1,2025,2025-11-15,Ayr Utd,Arbroath,1,1,0,1,D
-ecosse_div_1,2025,2025-11-22,Partick,ST Johnstone,2,1,2,0,H
-ecosse_div_1,2025,2025-11-22,Dunfermline,Morton,1,0,1,0,H
-ecosse_div_1,2025,2025-11-22,Arbroath,Raith Rovers,0,0,0,0,D
-ecosse_div_1,2025,2025-11-22,Airdrie United,Ayr Utd,0,1,0,1,A
-ecosse_div_1,2025,2025-11-25,Partick,Dunfermline,1,0,1,0,H
-ecosse_div_1,2025,2025-12-05,Morton,Queen's Park,2,1,1,1,H
-ecosse_div_1,2025,2025-12-06,ST Johnstone,Raith Rovers,0,0,0,0,D
-ecosse_div_1,2025,2025-12-06,Ross County,Airdrie United,1,2,0,0,A
-ecosse_div_1,2025,2025-12-06,Ayr Utd,Partick,0,0,0,0,D
-ecosse_div_1,2025,2025-12-06,Dunfermline,Arbroath,1,2,0,0,A
-ecosse_div_1,2025,2025-12-12,Ayr Utd,ST Johnstone,2,4,2,0,A
-ecosse_div_1,2025,2025-12-13,Morton,Airdrie United,0,1,0,0,A
-ecosse_div_1,2025,2025-12-13,Raith Rovers,Ross County,6,0,3,0,H
-ecosse_div_1,2025,2025-12-13,Arbroath,Partick,2,1,0,0,H
-ecosse_div_1,2025,2025-12-13,Queen's Park,Dunfermline,1,1,1,0,D
-ecosse_div_1,2025,2025-12-20,ST Johnstone,Morton,5,0,3,0,H
-ecosse_div_1,2025,2025-12-20,Partick,Raith Rovers,0,0,0,0,D
-ecosse_div_1,2025,2025-12-20,Ross County,Arbroath,0,2,0,1,A
-ecosse_div_1,2025,2025-12-20,Dunfermline,Ayr Utd,2,3,0,3,A
-ecosse_div_1,2025,2025-12-20,Airdrie United,Queen's Park,0,3,0,1,A
-ecosse_div_1,2025,2025-12-27,Ross County,ST Johnstone,0,0,0,0,D
-ecosse_div_1,2025,2025-12-27,Morton,Ayr Utd,1,1,0,1,D
-ecosse_div_1,2025,2025-12-27,Raith Rovers,Dunfermline,1,2,0,2,A
-ecosse_div_1,2025,2025-12-27,Arbroath,Airdrie United,1,1,0,0,D
-ecosse_div_1,2025,2025-12-27,Queen's Park,Partick,2,2,1,2,D
-ecosse_div_1,2025,2026-01-03,ST Johnstone,Arbroath,1,0,1,0,H
-ecosse_div_1,2025,2026-01-03,Partick,Morton,3,2,0,2,H
-ecosse_div_1,2025,2026-01-03,Airdrie United,Raith Rovers,0,0,0,0,D
-ecosse_div_1,2025,2026-01-09,Ross County,Partick,2,0,2,0,H
-ecosse_div_1,2025,2026-01-10,Raith Rovers,Arbroath,2,3,0,2,A
-ecosse_div_1,2025,2026-01-10,Ayr Utd,Airdrie United,1,1,1,1,D
-ecosse_div_1,2025,2026-01-23,Arbroath,Morton,1,1,0,0,D
-ecosse_div_1,2025,2026-01-24,ST Johnstone,Dunfermline,0,1,0,0,A
-ecosse_div_1,2025,2026-01-24,Partick,Ayr Utd,2,1,2,0,H
-ecosse_div_1,2025,2026-01-24,Raith Rovers,Queen's Park,4,1,2,0,H
-ecosse_div_1,2025,2026-01-24,Airdrie United,Ross County,0,1,0,0,A
-ecosse_div_1,2025,2026-01-30,ST Johnstone,Partick,2,2,0,1,D
-ecosse_div_1,2025,2026-01-31,Morton,Ross County,2,1,1,0,H
-ecosse_div_1,2025,2026-01-31,Ayr Utd,Raith Rovers,2,1,1,0,H
-ecosse_div_1,2025,2026-01-31,Dunfermline,Airdrie United,0,2,0,1,A
-ecosse_div_1,2025,2026-01-31,Queen's Park,Arbroath,2,1,2,1,H
-ecosse_div_1,2025,2026-02-03,Queen's Park,Ross County,0,1,0,0,A
-ecosse_div_1,2025,2026-02-13,Airdrie United,ST Johnstone,0,1,0,1,A
-ecosse_div_1,2025,2026-02-14,Ross County,Queen's Park,0,1,0,1,A
-ecosse_div_1,2025,2026-02-14,Morton,Raith Rovers,0,0,0,0,D
-ecosse_div_1,2025,2026-02-17,Morton,Dunfermline,2,0,1,0,H
-ecosse_div_1,2025,2026-02-20,Raith Rovers,ST Johnstone,0,0,0,0,D
-ecosse_div_1,2025,2026-02-21,Partick,Airdrie United,1,0,1,0,H
-ecosse_div_1,2025,2026-02-21,Ayr Utd,Ross County,0,0,0,0,D
-ecosse_div_1,2025,2026-02-21,Arbroath,Dunfermline,4,2,1,1,H
-ecosse_div_1,2025,2026-02-21,Queen's Park,Morton,3,2,1,1,H
-ecosse_div_1,2025,2026-02-24,Dunfermline,Partick,2,2,0,1,D
-ecosse_div_1,2025,2026-02-24,Queen's Park,ST Johnstone,1,1,0,0,D
-ecosse_div_1,2025,2026-02-28,ST Johnstone,Ayr Utd,3,1,2,1,H
-ecosse_div_1,2025,2026-02-28,Partick,Arbroath,0,0,0,0,D
-ecosse_div_1,2025,2026-02-28,Ross County,Raith Rovers,2,0,2,0,H
-ecosse_div_1,2025,2026-02-28,Dunfermline,Queen's Park,1,0,1,0,H
-ecosse_div_1,2025,2026-02-28,Airdrie United,Morton,3,1,1,1,H
-ecosse_div_1,2025,2026-03-03,Dunfermline,Ross County,3,0,2,0,H
-ecosse_div_1,2025,2026-03-03,Arbroath,Ayr Utd,1,1,0,0,D
-ecosse_div_1,2025,2026-03-07,Queen's Park,Airdrie United,1,0,1,0,H
-ecosse_div_1,2025,2026-03-07,Morton,ST Johnstone,0,2,0,0,A
-ecosse_div_1,2025,2026-03-07,Arbroath,Ross County,0,0,0,0,D
-ecosse_div_1,2025,2026-03-10,Ayr Utd,Queen's Park,1,2,0,0,A
-ecosse_div_1,2025,2026-03-13,Morton,Partick,1,2,1,1,A
-ecosse_div_1,2025,2026-03-14,ST Johnstone,Ross County,1,0,1,0,H
-ecosse_div_1,2025,2026-03-14,Dunfermline,Raith Rovers,3,0,1,0,H
-ecosse_div_1,2025,2026-03-14,Airdrie United,Arbroath,0,0,0,0,D
-ecosse_div_1,2025,2026-03-14,Queen's Park,Ayr Utd,1,1,1,1,D
-ecosse_div_1,2025,2026-03-20,Partick,ST Johnstone,0,0,0,0,D
-ecosse_div_1,2025,2026-03-21,Ross County,Dunfermline,2,2,2,1,D
-ecosse_div_1,2025,2026-03-21,Raith Rovers,Airdrie United,3,1,0,0,H
-ecosse_div_1,2025,2026-03-21,Ayr Utd,Morton,0,1,0,1,A
-ecosse_div_1,2025,2026-03-21,Arbroath,Queen's Park,1,0,1,0,H
-ecosse_div_1,2025,2026-03-24,Raith Rovers,Partick,0,2,0,1,A
-ecosse_div_1,2025,2026-03-27,Partick,Ross County,3,1,3,1,H
-ecosse_div_1,2025,2026-03-27,Raith Rovers,Ayr Utd,3,0,1,0,H
-ecosse_div_1,2025,2026-03-28,ST Johnstone,Queen's Park,1,1,0,1,D
-ecosse_div_1,2025,2026-03-28,Morton,Arbroath,2,1,2,1,H
-ecosse_div_1,2025,2026-04-04,Ross County,Airdrie United,0,4,0,3,A
-ecosse_div_1,2025,2026-04-04,Ayr Utd,Partick,1,1,0,0,D
-ecosse_div_1,2025,2026-04-04,Dunfermline,Morton,3,1,0,1,H
-ecosse_div_1,2025,2026-04-04,Arbroath,ST Johnstone,2,4,1,1,A
-ecosse_div_1,2025,2026-04-07,Ayr Utd,Dunfermline,0,3,0,1,A
-ecosse_div_1,2025,2026-04-10,Queen's Park,Ross County,1,0,1,0,H
-ecosse_div_1,2025,2026-04-11,ST Johnstone,Airdrie United,4,0,3,0,H
-ecosse_div_1,2025,2026-04-11,Partick,Dunfermline,2,0,2,0,H
-ecosse_div_1,2025,2026-04-11,Raith Rovers,Morton,3,2,0,1,H
-ecosse_div_1,2025,2026-04-11,Ayr Utd,Arbroath,1,0,0,0,H
-ecosse_div_1,2025,2026-04-14,Airdrie United,Dunfermline,2,2,1,0,D
-ecosse_div_1,2025,2026-04-14,Queen's Park,Raith Rovers,0,2,0,1,A
-ecosse_div_1,2025,2026-04-18,Ross County,Ayr Utd,2,1,1,1,H
-ecosse_div_1,2025,2026-04-18,Morton,Queen's Park,0,0,0,0,D
-ecosse_div_1,2025,2026-04-18,Arbroath,Raith Rovers,2,1,1,0,H
-ecosse_div_1,2025,2026-04-18,Airdrie United,Partick,2,2,1,0,D
-ecosse_div_1,2025,2026-04-21,Dunfermline,ST Johnstone,0,2,0,0,A
-ecosse_div_1,2025,2026-04-24,ST Johnstone,Raith Rovers,2,0,2,0,H
-ecosse_div_1,2025,2026-04-25,Ross County,Morton,4,0,2,0,H
-ecosse_div_1,2025,2026-04-25,Arbroath,Partick,0,0,0,0,D
-ecosse_div_1,2025,2026-04-25,Airdrie United,Ayr Utd,2,1,0,1,H
-ecosse_div_1,2025,2026-04-25,Queen's Park,Dunfermline,0,2,0,1,A
-ecosse_div_1,2025,2026-05-01,Partick,Queen's Park,1,1,1,0,D
-ecosse_div_1,2025,2026-05-01,Morton,Airdrie United,1,1,0,0,D
-ecosse_div_1,2025,2026-05-01,Raith Rovers,Ross County,3,2,0,1,H
-ecosse_div_1,2025,2026-05-01,Ayr Utd,ST Johnstone,0,1,0,1,A
-ecosse_div_1,2025,2026-05-01,Dunfermline,Arbroath,0,0,0,0,D
-ecosse_div_1,2025,2026-05-05,Queen of the South,Stenhousemuir,1,1,0,1,D
-ecosse_div_1,2025,2026-05-05,Alloa Athletic,Airdrie United,1,0,1,0,H
-ecosse_div_1,2025,2026-05-09,Airdrie United,Alloa Athletic,1,2,0,1,A
-ecosse_div_1,2025,2026-05-13,Alloa Athletic,Stenhousemuir,1,3,0,2,A
-ecosse_div_1,2025,2026-05-16,Stenhousemuir,Alloa Athletic,0,1,0,0,A
+ecosse_div_1,2026,2026-08-01,Livingston,Queen's Park,2,0,0,0,H
+ecosse_div_1,2026,2026-08-01,Inverness CT,Dunfermline,0,0,0,0,D
+ecosse_div_1,2026,2026-08-01,Morton,Partick,0,1,0,0,A
+ecosse_div_1,2026,2026-08-01,Raith Rovers,Stenhousemuir,1,1,1,1,D
+ecosse_div_1,2026,2026-08-01,Ayr Utd,Arbroath,2,0,1,0,H
+ecosse_div_1,2026,2026-08-07,Partick,Livingston,2,0,2,0,H
+ecosse_div_1,2026,2026-08-08,Dunfermline,Ayr Utd,1,1,1,1,D
+ecosse_div_1,2026,2026-08-08,Arbroath,Inverness CT,0,0,0,0,D
+ecosse_div_1,2026,2026-08-08,Queen's Park,Raith Rovers,1,2,0,1,A
+ecosse_div_1,2026,2026-08-08,Stenhousemuir,Morton,2,0,0,0,H
+ecosse_div_1,2026,2026-08-21,Inverness CT,Partick,1,1,0,1,D
+ecosse_div_1,2026,2026-08-22,Livingston,Dunfermline,2,0,1,0,H
+ecosse_div_1,2026,2026-08-22,Morton,Arbroath,1,2,0,1,A
+ecosse_div_1,2026,2026-08-22,Raith Rovers,Ayr Utd,2,0,2,0,H
+ecosse_div_1,2026,2026-08-22,Queen's Park,Stenhousemuir,0,2,0,0,A
+ecosse_div_1,2026,2026-08-28,Dunfermline,Raith Rovers,1,0,0,0,H
+ecosse_div_1,2026,2026-08-29,Partick,Queen's Park,0,0,0,0,D
+ecosse_div_1,2026,2026-08-29,Ayr Utd,Morton,1,1,1,0,D
+ecosse_div_1,2026,2026-08-29,Arbroath,Livingston,1,0,0,0,H
+ecosse_div_1,2026,2026-08-29,Stenhousemuir,Inverness CT,3,1,1,0,H

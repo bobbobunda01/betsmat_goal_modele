@@ -1,308 +1,37 @@
 league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-france_league_2,2025,2025-08-09,Guingamp,Le Mans,3,3,0,2,D
-france_league_2,2025,2025-08-09,Montpellier,RED Star FC 93,1,1,1,1,D
-france_league_2,2025,2025-08-09,Estac Troyes,Grenoble,2,1,1,1,H
-france_league_2,2025,2025-08-09,Laval,Saint Etienne,3,3,2,2,D
-france_league_2,2025,2025-08-09,PAU,Annecy,2,0,1,0,H
-france_league_2,2025,2025-08-09,Rodez,Nancy,0,0,0,0,D
-france_league_2,2025,2025-08-09,Dunkerque,Clermont Foot,2,2,1,2,D
-france_league_2,2025,2025-08-11,Amiens,Reims,2,2,1,1,D
-france_league_2,2025,2025-08-15,Clermont Foot,Estac Troyes,0,0,0,0,D
-france_league_2,2025,2025-08-15,Grenoble,Laval,1,1,0,0,D
-france_league_2,2025,2025-08-15,Nancy,Boulogne,1,0,1,0,H
-france_league_2,2025,2025-08-15,RED Star FC 93,Amiens,1,3,0,1,A
-france_league_2,2025,2025-08-15,Bastia,PAU,1,1,1,0,D
-france_league_2,2025,2025-08-16,Reims,Guingamp,1,0,1,0,H
-france_league_2,2025,2025-08-16,Annecy,Dunkerque,2,2,2,1,D
-france_league_2,2025,2025-08-16,Saint Etienne,Rodez,4,0,1,0,H
-france_league_2,2025,2025-08-18,Le Mans,Montpellier,1,2,0,0,A
-france_league_2,2025,2025-08-22,Amiens,Annecy,0,1,0,1,A
-france_league_2,2025,2025-08-22,Clermont Foot,Grenoble,2,1,0,0,H
-france_league_2,2025,2025-08-22,Le Mans,Bastia,1,0,0,0,H
-france_league_2,2025,2025-08-22,Rodez,Laval,1,1,1,0,D
-france_league_2,2025,2025-08-22,Dunkerque,Nancy,1,3,1,2,A
-france_league_2,2025,2025-08-23,Guingamp,RED Star FC 93,0,4,0,1,A
-france_league_2,2025,2025-08-23,Estac Troyes,Montpellier,1,0,1,0,H
-france_league_2,2025,2025-08-23,Boulogne,Saint Etienne,0,1,0,0,A
-france_league_2,2025,2025-08-25,PAU,Reims,2,0,2,0,H
-france_league_2,2025,2025-08-29,Montpellier,Amiens,1,1,0,1,D
-france_league_2,2025,2025-08-29,Nancy,PAU,2,2,2,1,D
-france_league_2,2025,2025-08-29,RED Star FC 93,Annecy,1,0,1,0,H
-france_league_2,2025,2025-08-29,Laval,Clermont Foot,0,0,0,0,D
-france_league_2,2025,2025-08-29,Rodez,Boulogne,1,0,1,0,H
-france_league_2,2025,2025-08-29,Dunkerque,Estac Troyes,2,0,0,0,H
-france_league_2,2025,2025-08-30,Reims,Le Mans,1,0,0,0,H
-france_league_2,2025,2025-08-30,Bastia,Guingamp,1,3,0,2,A
-france_league_2,2025,2025-08-30,Saint Etienne,Grenoble,1,1,1,0,D
-france_league_2,2025,2025-09-12,Amiens,Bastia,0,0,0,0,D
-france_league_2,2025,2025-09-12,Estac Troyes,Nancy,3,0,1,0,H
-france_league_2,2025,2025-09-12,PAU,RED Star FC 93,0,3,0,2,A
-france_league_2,2025,2025-09-12,Le Mans,Rodez,0,1,0,0,A
-france_league_2,2025,2025-09-12,Boulogne,Laval,1,2,0,2,A
-france_league_2,2025,2025-09-13,Grenoble,Dunkerque,1,0,1,0,H
-france_league_2,2025,2025-09-13,Annecy,Reims,1,1,1,0,D
-france_league_2,2025,2025-09-13,Clermont Foot,Saint Etienne,1,2,1,0,A
-france_league_2,2025,2025-09-15,Guingamp,Montpellier,1,0,1,0,H
-france_league_2,2025,2025-09-16,Boulogne,Bastia,1,0,0,0,H
-france_league_2,2025,2025-09-19,Grenoble,Annecy,1,3,0,0,A
-france_league_2,2025,2025-09-19,Nancy,RED Star FC 93,0,1,0,0,A
-france_league_2,2025,2025-09-19,Laval,Amiens,0,3,0,1,A
-france_league_2,2025,2025-09-19,Boulogne,PAU,0,3,0,3,A
-france_league_2,2025,2025-09-19,Rodez,Clermont Foot,0,1,0,0,A
-france_league_2,2025,2025-09-19,Dunkerque,Le Mans,2,2,1,1,D
-france_league_2,2025,2025-09-20,Montpellier,Bastia,2,0,2,0,H
-france_league_2,2025,2025-09-20,Estac Troyes,Guingamp,5,2,3,1,H
-france_league_2,2025,2025-09-20,Saint Etienne,Reims,3,2,2,1,H
-france_league_2,2025,2025-09-23,Montpellier,Boulogne,1,3,0,1,A
-france_league_2,2025,2025-09-23,Amiens,Saint Etienne,0,1,0,0,A
-france_league_2,2025,2025-09-23,Guingamp,Dunkerque,2,1,2,1,H
-france_league_2,2025,2025-09-23,Reims,Clermont Foot,4,1,2,0,H
-france_league_2,2025,2025-09-23,RED Star FC 93,Estac Troyes,1,3,1,2,A
-france_league_2,2025,2025-09-23,PAU,Laval,1,0,0,0,H
-france_league_2,2025,2025-09-23,Le Mans,Grenoble,1,0,1,0,H
-france_league_2,2025,2025-09-23,Bastia,Rodez,2,3,1,0,A
-france_league_2,2025,2025-09-23,Annecy,Nancy,1,2,1,1,A
-france_league_2,2025,2025-09-26,Clermont Foot,Le Mans,1,1,1,0,D
-france_league_2,2025,2025-09-26,Grenoble,Bastia,0,0,0,0,D
-france_league_2,2025,2025-09-26,Nancy,Reims,0,1,0,0,A
-france_league_2,2025,2025-09-26,Estac Troyes,Annecy,3,1,1,0,H
-france_league_2,2025,2025-09-26,Rodez,PAU,1,2,1,1,A
-france_league_2,2025,2025-09-27,Laval,Montpellier,0,1,0,1,A
-france_league_2,2025,2025-09-27,Dunkerque,Amiens,6,2,4,0,H
-france_league_2,2025,2025-09-27,Saint Etienne,Guingamp,2,3,1,1,A
-france_league_2,2025,2025-09-29,Boulogne,RED Star FC 93,1,2,1,1,A
-france_league_2,2025,2025-10-03,Amiens,Boulogne,0,1,0,0,A
-france_league_2,2025,2025-10-03,Guingamp,Nancy,2,2,0,0,D
-france_league_2,2025,2025-10-03,PAU,Clermont Foot,3,1,3,0,H
-france_league_2,2025,2025-10-03,Le Mans,Estac Troyes,2,2,0,0,D
-france_league_2,2025,2025-10-03,Bastia,Dunkerque,0,0,0,0,D
-france_league_2,2025,2025-10-03,Annecy,Laval,0,0,0,0,D
-france_league_2,2025,2025-10-04,Reims,Grenoble,2,4,1,2,A
-france_league_2,2025,2025-10-04,RED Star FC 93,Rodez,1,1,0,0,D
-france_league_2,2025,2025-10-04,Montpellier,Saint Etienne,0,2,0,2,A
-france_league_2,2025,2025-10-17,Clermont Foot,Annecy,0,1,0,1,A
-france_league_2,2025,2025-10-17,Grenoble,PAU,1,1,0,0,D
-france_league_2,2025,2025-10-17,Estac Troyes,Bastia,1,0,1,0,H
-france_league_2,2025,2025-10-17,Boulogne,Guingamp,2,2,0,1,D
-france_league_2,2025,2025-10-17,Rodez,Reims,2,2,1,1,D
-france_league_2,2025,2025-10-18,Laval,RED Star FC 93,0,1,0,0,A
-france_league_2,2025,2025-10-18,Dunkerque,Montpellier,0,1,0,0,A
-france_league_2,2025,2025-10-18,Saint Etienne,Le Mans,2,3,1,1,A
-france_league_2,2025,2025-10-20,Nancy,Amiens,0,1,0,1,A
-france_league_2,2025,2025-10-24,Guingamp,Clermont Foot,0,1,0,0,A
-france_league_2,2025,2025-10-24,Reims,Estac Troyes,0,0,0,0,D
-france_league_2,2025,2025-10-24,RED Star FC 93,Grenoble,1,0,0,0,H
-france_league_2,2025,2025-10-24,PAU,Dunkerque,0,3,0,2,A
-france_league_2,2025,2025-10-24,Le Mans,Boulogne,1,0,0,0,H
-france_league_2,2025,2025-10-25,Montpellier,Nancy,4,1,1,1,H
-france_league_2,2025,2025-10-25,Amiens,Rodez,2,1,0,1,H
-france_league_2,2025,2025-10-25,Annecy,Saint Etienne,4,0,1,0,H
-france_league_2,2025,2025-10-28,Clermont Foot,Montpellier,1,1,1,1,D
-france_league_2,2025,2025-10-28,Grenoble,Guingamp,0,0,0,0,D
-france_league_2,2025,2025-10-28,Nancy,Bastia,2,0,1,0,H
-france_league_2,2025,2025-10-28,Estac Troyes,Amiens,3,1,0,1,H
-france_league_2,2025,2025-10-28,Laval,Le Mans,1,1,0,1,D
-france_league_2,2025,2025-10-28,Saint Etienne,PAU,6,0,4,0,H
-france_league_2,2025,2025-10-28,Boulogne,Reims,2,6,2,4,A
-france_league_2,2025,2025-10-28,Rodez,Annecy,2,1,0,0,H
-france_league_2,2025,2025-10-28,Dunkerque,RED Star FC 93,3,0,1,0,H
-france_league_2,2025,2025-10-31,Montpellier,Rodez,2,0,0,0,H
-france_league_2,2025,2025-10-31,Guingamp,Laval,2,0,2,0,H
-france_league_2,2025,2025-10-31,Le Mans,Nancy,1,0,0,0,H
-france_league_2,2025,2025-10-31,Bastia,Clermont Foot,1,0,0,0,H
-france_league_2,2025,2025-10-31,Annecy,Boulogne,1,1,1,0,D
-france_league_2,2025,2025-11-01,Amiens,Grenoble,2,3,0,2,A
-france_league_2,2025,2025-11-01,Reims,Dunkerque,1,2,1,1,A
-france_league_2,2025,2025-11-01,RED Star FC 93,Saint Etienne,2,1,2,0,H
-france_league_2,2025,2025-11-03,PAU,Estac Troyes,1,1,1,0,D
-france_league_2,2025,2025-11-07,Montpellier,Annecy,1,0,0,0,H
-france_league_2,2025,2025-11-07,Clermont Foot,Amiens,2,1,0,0,H
-france_league_2,2025,2025-11-07,Grenoble,Rodez,2,1,2,0,H
-france_league_2,2025,2025-11-07,Nancy,Laval,0,2,0,2,A
-france_league_2,2025,2025-11-07,Dunkerque,Boulogne,1,1,0,0,D
-france_league_2,2025,2025-11-07,Bastia,Reims,1,3,1,2,A
-france_league_2,2025,2025-11-08,Guingamp,PAU,2,2,2,1,D
-france_league_2,2025,2025-11-08,Le Mans,RED Star FC 93,0,0,0,0,D
-france_league_2,2025,2025-11-08,Estac Troyes,Saint Etienne,2,3,0,3,A
-france_league_2,2025,2025-11-21,Laval,Estac Troyes,0,1,0,0,A
-france_league_2,2025,2025-11-21,PAU,Le Mans,1,2,1,2,A
-france_league_2,2025,2025-11-21,Boulogne,Grenoble,3,1,0,1,H
-france_league_2,2025,2025-11-21,Rodez,Dunkerque,1,1,0,1,D
-france_league_2,2025,2025-11-21,Annecy,Bastia,1,0,1,0,H
-france_league_2,2025,2025-11-22,Amiens,Guingamp,1,2,1,2,A
-france_league_2,2025,2025-11-22,RED Star FC 93,Clermont Foot,2,2,1,2,D
-france_league_2,2025,2025-11-22,Saint Etienne,Nancy,2,1,1,0,H
-france_league_2,2025,2025-11-24,Reims,Montpellier,2,0,1,0,H
-france_league_2,2025,2025-11-25,Bastia,Laval,0,2,0,1,A
-france_league_2,2025,2025-12-05,Guingamp,Annecy,0,3,0,1,A
-france_league_2,2025,2025-12-05,Clermont Foot,Boulogne,1,1,0,0,D
-france_league_2,2025,2025-12-05,Grenoble,Nancy,1,0,0,0,H
-france_league_2,2025,2025-12-05,Le Mans,Amiens,1,0,1,0,H
-france_league_2,2025,2025-12-06,Montpellier,PAU,0,1,0,1,A
-france_league_2,2025,2025-12-06,Estac Troyes,Rodez,1,1,0,0,D
-france_league_2,2025,2025-12-06,Dunkerque,Saint Etienne,1,0,0,0,H
-france_league_2,2025,2025-12-08,Reims,Laval,4,0,3,0,H
-france_league_2,2025,2025-12-12,Nancy,Clermont Foot,1,0,1,0,H
-france_league_2,2025,2025-12-12,Laval,Dunkerque,1,2,1,1,A
-france_league_2,2025,2025-12-12,PAU,Amiens,1,2,0,1,A
-france_league_2,2025,2025-12-12,Rodez,Guingamp,2,1,1,0,H
-france_league_2,2025,2025-12-12,Annecy,Le Mans,1,2,0,1,A
-france_league_2,2025,2025-12-13,Grenoble,Montpellier,1,1,0,0,D
-france_league_2,2025,2025-12-13,RED Star FC 93,Reims,0,0,0,0,D
-france_league_2,2025,2025-12-13,Saint Etienne,Bastia,2,2,1,2,D
-france_league_2,2025,2025-12-15,Boulogne,Estac Troyes,1,2,1,1,A
-france_league_2,2025,2026-01-03,Estac Troyes,RED Star FC 93,1,0,1,0,H
-france_league_2,2025,2026-01-03,Amiens,Nancy,1,2,0,2,A
-france_league_2,2025,2026-01-03,Guingamp,Boulogne,3,0,2,0,H
-france_league_2,2025,2026-01-03,Reims,Annecy,2,1,2,1,H
-france_league_2,2025,2026-01-03,Clermont Foot,Laval,4,1,1,0,H
-france_league_2,2025,2026-01-03,PAU,Rodez,3,3,2,2,D
-france_league_2,2025,2026-01-03,Le Mans,Saint Etienne,0,0,0,0,D
-france_league_2,2025,2026-01-03,Bastia,Grenoble,1,0,1,0,H
-france_league_2,2025,2026-01-05,Montpellier,Dunkerque,1,3,0,1,A
-france_league_2,2025,2026-01-16,Laval,Bastia,0,2,0,0,A
-france_league_2,2025,2026-01-16,Boulogne,Montpellier,1,0,0,0,H
-france_league_2,2025,2026-01-16,Rodez,Le Mans,1,1,0,0,D
-france_league_2,2025,2026-01-16,Dunkerque,PAU,3,1,2,0,H
-france_league_2,2025,2026-01-16,Annecy,Amiens,2,0,0,0,H
-france_league_2,2025,2026-01-17,Grenoble,RED Star FC 93,0,3,0,1,A
-france_league_2,2025,2026-01-17,Estac Troyes,Reims,2,1,2,0,H
-france_league_2,2025,2026-01-17,Saint Etienne,Clermont Foot,1,0,0,0,H
-france_league_2,2025,2026-01-19,Nancy,Guingamp,0,3,0,0,A
-france_league_2,2025,2026-01-23,Amiens,Laval,0,0,0,0,D
-france_league_2,2025,2026-01-23,Nancy,Rodez,1,3,0,1,A
-france_league_2,2025,2026-01-23,PAU,Grenoble,2,2,1,0,D
-france_league_2,2025,2026-01-23,Bastia,Montpellier,0,2,0,1,A
-france_league_2,2025,2026-01-23,Annecy,Clermont Foot,2,1,1,0,H
-france_league_2,2025,2026-01-24,Guingamp,Estac Troyes,1,0,0,0,H
-france_league_2,2025,2026-01-24,RED Star FC 93,Boulogne,2,2,1,0,D
-france_league_2,2025,2026-01-24,Reims,Saint Etienne,1,0,0,0,H
-france_league_2,2025,2026-01-26,Le Mans,Dunkerque,1,0,0,0,H
-france_league_2,2025,2026-01-30,Montpellier,Guingamp,3,1,2,1,H
-france_league_2,2025,2026-01-30,Clermont Foot,Reims,0,1,0,0,A
-france_league_2,2025,2026-01-30,Grenoble,Amiens,2,1,1,0,H
-france_league_2,2025,2026-01-30,Laval,PAU,0,1,0,1,A
-france_league_2,2025,2026-01-30,Rodez,RED Star FC 93,1,1,1,1,D
-france_league_2,2025,2026-01-30,Bastia,Nancy,0,0,0,0,D
-france_league_2,2025,2026-01-31,Estac Troyes,Le Mans,0,2,0,2,A
-france_league_2,2025,2026-01-31,Dunkerque,Annecy,0,1,0,1,A
-france_league_2,2025,2026-01-31,Saint Etienne,Boulogne,0,1,0,1,A
-france_league_2,2025,2026-02-06,Reims,Bastia,0,0,0,0,D
-france_league_2,2025,2026-02-06,RED Star FC 93,PAU,0,3,0,0,A
-france_league_2,2025,2026-02-06,Boulogne,Rodez,1,2,0,1,A
-france_league_2,2025,2026-02-06,Dunkerque,Guingamp,0,0,0,0,D
-france_league_2,2025,2026-02-06,Annecy,Grenoble,1,1,1,0,D
-france_league_2,2025,2026-02-07,Nancy,Estac Troyes,2,1,1,1,H
-france_league_2,2025,2026-02-07,Le Mans,Laval,1,1,0,0,D
-france_league_2,2025,2026-02-07,Saint Etienne,Montpellier,1,0,0,0,H
-france_league_2,2025,2026-02-09,Amiens,Clermont Foot,4,3,3,2,H
-france_league_2,2025,2026-02-13,Amiens,Dunkerque,1,4,0,1,A
-france_league_2,2025,2026-02-13,Clermont Foot,Rodez,1,2,1,1,A
-france_league_2,2025,2026-02-13,RED Star FC 93,Nancy,2,1,1,0,H
-france_league_2,2025,2026-02-13,Laval,Annecy,2,2,1,0,D
-france_league_2,2025,2026-02-13,PAU,Boulogne,1,2,0,0,A
-france_league_2,2025,2026-02-14,Montpellier,Le Mans,4,2,1,1,H
-france_league_2,2025,2026-02-14,Grenoble,Reims,0,0,0,0,D
-france_league_2,2025,2026-02-14,Guingamp,Saint Etienne,1,2,0,2,A
-france_league_2,2025,2026-02-16,Bastia,Estac Troyes,0,0,0,0,D
-france_league_2,2025,2026-02-20,Nancy,Grenoble,0,0,0,0,D
-france_league_2,2025,2026-02-20,Boulogne,Clermont Foot,0,2,0,0,A
-france_league_2,2025,2026-02-20,Rodez,Montpellier,1,0,0,0,H
-france_league_2,2025,2026-02-20,Dunkerque,Bastia,1,1,1,1,D
-france_league_2,2025,2026-02-20,Annecy,RED Star FC 93,2,1,0,0,H
-france_league_2,2025,2026-02-21,Reims,Amiens,0,0,0,0,D
-france_league_2,2025,2026-02-21,Estac Troyes,PAU,4,3,2,2,H
-france_league_2,2025,2026-02-21,Saint Etienne,Laval,2,1,2,1,H
-france_league_2,2025,2026-02-23,Le Mans,Guingamp,1,1,1,0,D
-france_league_2,2025,2026-02-27,Montpellier,Reims,0,0,0,0,D
-france_league_2,2025,2026-02-27,Clermont Foot,Dunkerque,2,1,0,1,H
-france_league_2,2025,2026-02-27,Grenoble,Boulogne,0,0,0,0,D
-france_league_2,2025,2026-02-27,Laval,Nancy,1,1,1,0,D
-france_league_2,2025,2026-02-27,Bastia,Annecy,0,2,0,2,A
-france_league_2,2025,2026-02-28,Guingamp,Rodez,0,0,0,0,D
-france_league_2,2025,2026-02-28,RED Star FC 93,Le Mans,0,0,0,0,D
-france_league_2,2025,2026-02-28,PAU,Saint Etienne,0,3,0,1,A
-france_league_2,2025,2026-03-02,Amiens,Estac Troyes,0,2,0,0,A
-france_league_2,2025,2026-03-06,Nancy,Montpellier,0,3,0,1,A
-france_league_2,2025,2026-03-06,Laval,Guingamp,2,2,1,0,D
-france_league_2,2025,2026-03-06,PAU,Bastia,2,2,2,1,D
-france_league_2,2025,2026-03-06,Boulogne,Amiens,4,2,1,1,H
-france_league_2,2025,2026-03-06,Rodez,Grenoble,1,0,0,0,H
-france_league_2,2025,2026-03-07,Estac Troyes,Clermont Foot,2,1,0,0,H
-france_league_2,2025,2026-03-07,Le Mans,Annecy,3,0,2,0,H
-france_league_2,2025,2026-03-07,Saint Etienne,RED Star FC 93,2,0,0,0,H
-france_league_2,2025,2026-03-09,Dunkerque,Reims,1,1,1,0,D
-france_league_2,2025,2026-03-13,Montpellier,Laval,2,0,0,0,H
-france_league_2,2025,2026-03-13,Guingamp,Amiens,1,0,1,0,H
-france_league_2,2025,2026-03-13,Clermont Foot,PAU,0,1,0,1,A
-france_league_2,2025,2026-03-13,Nancy,Le Mans,2,4,1,1,A
-france_league_2,2025,2026-03-13,Bastia,Boulogne,0,1,0,1,A
-france_league_2,2025,2026-03-14,Reims,Rodez,1,2,1,0,A
-france_league_2,2025,2026-03-14,RED Star FC 93,Dunkerque,1,0,1,0,H
-france_league_2,2025,2026-03-14,Grenoble,Saint Etienne,0,0,0,0,D
-france_league_2,2025,2026-03-16,Annecy,Estac Troyes,1,2,1,0,A
-france_league_2,2025,2026-03-20,Amiens,Le Mans,3,4,2,3,A
-france_league_2,2025,2026-03-20,Clermont Foot,RED Star FC 93,0,1,0,0,A
-france_league_2,2025,2026-03-20,Laval,Grenoble,3,2,0,1,H
-france_league_2,2025,2026-03-20,PAU,Montpellier,0,0,0,0,D
-france_league_2,2025,2026-03-20,Boulogne,Nancy,0,0,0,0,D
-france_league_2,2025,2026-03-20,Rodez,Bastia,1,1,1,1,D
-france_league_2,2025,2026-03-21,Guingamp,Reims,0,2,0,1,A
-france_league_2,2025,2026-03-21,Estac Troyes,Dunkerque,5,1,2,1,H
-france_league_2,2025,2026-03-21,Saint Etienne,Annecy,4,0,3,0,H
-france_league_2,2025,2026-04-03,Grenoble,Clermont Foot,2,2,2,1,D
-france_league_2,2025,2026-04-03,RED Star FC 93,Laval,0,0,0,0,D
-france_league_2,2025,2026-04-03,Dunkerque,Rodez,1,1,0,1,D
-france_league_2,2025,2026-04-03,Bastia,Amiens,1,1,1,1,D
-france_league_2,2025,2026-04-03,Annecy,Guingamp,1,0,0,0,H
-france_league_2,2025,2026-04-04,Montpellier,Estac Troyes,2,2,2,1,D
-france_league_2,2025,2026-04-04,Reims,Boulogne,0,0,0,0,D
-france_league_2,2025,2026-04-04,Nancy,Saint Etienne,1,1,1,0,D
-france_league_2,2025,2026-04-06,Le Mans,PAU,4,0,2,0,H
-france_league_2,2025,2026-04-10,Amiens,PAU,0,1,0,1,A
-france_league_2,2025,2026-04-10,Guingamp,Grenoble,1,1,0,1,D
-france_league_2,2025,2026-04-10,Clermont Foot,Nancy,2,2,0,1,D
-france_league_2,2025,2026-04-10,Laval,Reims,2,2,1,0,D
-france_league_2,2025,2026-04-10,Annecy,Montpellier,0,0,0,0,D
-france_league_2,2025,2026-04-11,RED Star FC 93,Bastia,4,3,1,3,H
-france_league_2,2025,2026-04-11,Boulogne,Le Mans,0,0,0,0,D
-france_league_2,2025,2026-04-11,Saint Etienne,Dunkerque,2,1,1,1,H
-france_league_2,2025,2026-04-13,Rodez,Estac Troyes,2,1,0,1,H
-france_league_2,2025,2026-04-17,Montpellier,Grenoble,2,1,1,0,H
-france_league_2,2025,2026-04-17,Nancy,Annecy,1,5,0,2,A
-france_league_2,2025,2026-04-17,PAU,Guingamp,2,1,0,1,H
-france_league_2,2025,2026-04-17,Le Mans,Clermont Foot,1,0,0,0,H
-france_league_2,2025,2026-04-17,Rodez,Amiens,3,2,1,2,H
-france_league_2,2025,2026-04-18,Reims,RED Star FC 93,3,2,2,0,H
-france_league_2,2025,2026-04-18,Estac Troyes,Boulogne,1,0,0,0,H
-france_league_2,2025,2026-04-18,Bastia,Saint Etienne,2,0,1,0,H
-france_league_2,2025,2026-04-20,Dunkerque,Laval,0,2,0,1,A
-france_league_2,2025,2026-04-24,Amiens,Montpellier,0,2,0,1,A
-france_league_2,2025,2026-04-24,Clermont Foot,Bastia,1,1,1,0,D
-france_league_2,2025,2026-04-24,RED Star FC 93,Guingamp,3,2,3,1,H
-france_league_2,2025,2026-04-24,Laval,Rodez,0,0,0,0,D
-france_league_2,2025,2026-04-24,Annecy,PAU,5,1,3,0,H
-france_league_2,2025,2026-04-25,Reims,Nancy,1,1,1,0,D
-france_league_2,2025,2026-04-25,Grenoble,Le Mans,1,1,1,1,D
-france_league_2,2025,2026-04-25,Saint Etienne,Estac Troyes,0,3,0,0,A
-france_league_2,2025,2026-04-27,Boulogne,Dunkerque,2,6,1,2,A
-france_league_2,2025,2026-05-02,Montpellier,Clermont Foot,1,2,1,2,A
-france_league_2,2025,2026-05-02,Amiens,RED Star FC 93,1,3,0,1,A
-france_league_2,2025,2026-05-02,Guingamp,Bastia,0,1,0,0,A
-france_league_2,2025,2026-05-02,Estac Troyes,Laval,4,0,2,0,H
-france_league_2,2025,2026-05-02,PAU,Nancy,1,3,1,0,A
-france_league_2,2025,2026-05-02,Le Mans,Reims,1,1,1,1,D
-france_league_2,2025,2026-05-02,Boulogne,Annecy,1,2,0,1,A
-france_league_2,2025,2026-05-02,Rodez,Saint Etienne,2,1,1,0,H
-france_league_2,2025,2026-05-02,Dunkerque,Grenoble,0,1,0,0,A
-france_league_2,2025,2026-05-09,Reims,PAU,5,3,2,2,H
-france_league_2,2025,2026-05-09,Clermont Foot,Guingamp,1,0,0,0,H
-france_league_2,2025,2026-05-09,Grenoble,Estac Troyes,1,0,0,0,H
-france_league_2,2025,2026-05-09,Nancy,Dunkerque,3,2,2,0,H
-france_league_2,2025,2026-05-09,RED Star FC 93,Montpellier,1,1,1,0,D
-france_league_2,2025,2026-05-09,Laval,Boulogne,2,1,2,0,H
-france_league_2,2025,2026-05-09,Saint Etienne,Amiens,5,0,2,0,H
-france_league_2,2025,2026-05-09,Bastia,Le Mans,0,2,0,1,A
-france_league_2,2025,2026-05-09,Annecy,Rodez,1,2,0,2,A
-france_league_2,2025,2026-05-19,Rouen,Laval,1,1,0,1,D
-france_league_2,2025,2026-05-24,Laval,Rouen,1,0,1,0,H
+france_league_2,2026,2026-08-08,Montpellier,Dijon,1,1,0,0,D
+france_league_2,2026,2026-08-08,Nantes,RED Star FC 93,0,1,0,0,A
+france_league_2,2026,2026-08-08,Clermont Foot,Reims,0,0,0,0,D
+france_league_2,2026,2026-08-08,Metz,Guingamp,2,1,0,0,H
+france_league_2,2026,2026-08-08,Sochaux,Saint Etienne,0,3,0,3,A
+france_league_2,2026,2026-08-08,PAU,Annecy,0,1,0,1,A
+france_league_2,2026,2026-08-08,Boulogne,Nancy,0,0,0,0,D
+france_league_2,2026,2026-08-08,Rodez,Laval,3,1,0,0,H
+france_league_2,2026,2026-08-08,Dunkerque,Grenoble,4,2,1,1,H
+france_league_2,2026,2026-08-14,Dijon,PAU,0,1,0,0,A
+france_league_2,2026,2026-08-14,Guingamp,Boulogne,1,0,0,0,H
+france_league_2,2026,2026-08-14,Reims,Dunkerque,3,3,1,1,D
+france_league_2,2026,2026-08-14,Grenoble,Metz,0,0,0,0,D
+france_league_2,2026,2026-08-14,Nancy,Montpellier,0,1,0,0,A
+france_league_2,2026,2026-08-14,RED Star FC 93,Sochaux,0,0,0,0,D
+france_league_2,2026,2026-08-14,Laval,Nantes,2,1,1,1,H
+france_league_2,2026,2026-08-14,Saint Etienne,Clermont Foot,3,1,1,0,H
+france_league_2,2026,2026-08-14,Annecy,Rodez,2,0,1,0,H
+france_league_2,2026,2026-08-21,Clermont Foot,Dijon,1,1,0,0,D
+france_league_2,2026,2026-08-21,Sochaux,Guingamp,1,0,1,0,H
+france_league_2,2026,2026-08-21,PAU,Nancy,0,1,0,0,A
+france_league_2,2026,2026-08-21,Boulogne,RED Star FC 93,1,1,0,1,D
+france_league_2,2026,2026-08-21,Dunkerque,Montpellier,0,1,0,0,A
+france_league_2,2026,2026-08-22,Nantes,Rodez,2,5,2,1,A
+france_league_2,2026,2026-08-22,Metz,Laval,1,1,0,0,D
+france_league_2,2026,2026-08-22,Saint Etienne,Grenoble,4,0,3,0,H
+france_league_2,2026,2026-08-24,Reims,Annecy,3,1,0,1,H
+france_league_2,2026,2026-08-28,Montpellier,Boulogne,0,0,0,0,D
+france_league_2,2026,2026-08-28,Clermont Foot,Sochaux,0,0,0,0,D
+france_league_2,2026,2026-08-28,Nancy,Dunkerque,2,0,1,0,H
+france_league_2,2026,2026-08-28,Laval,Grenoble,0,3,0,2,A
+france_league_2,2026,2026-08-28,Rodez,PAU,2,2,1,2,D
+france_league_2,2026,2026-08-29,RED Star FC 93,Reims,1,4,1,2,A
+france_league_2,2026,2026-08-29,Annecy,Metz,1,1,1,1,D
+france_league_2,2026,2026-08-29,Guingamp,Nantes,3,3,2,1,D
+france_league_2,2026,2026-08-31,Dijon,Saint Etienne,2,3,1,1,A
