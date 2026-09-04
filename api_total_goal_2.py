@@ -1,5 +1,5 @@
 # BetSmart Goal Intelligence V1.0.8.2 PARTIAL WEB
-# API Match-by-Match - JSON REDUCED
+# API Match-by-Match - JSON FULL
 # 4 matchs en parallèle + temps par match + temps total
 
 #!/usr/bin/env python3
@@ -25,13 +25,13 @@ import logging
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
-from fichier_py.fonction_totatl_goal_2 import predict_from_user_input, get_valid_date, llm_client
+from fonction_totatl_goal_2 import predict_from_user_input, get_valid_date, llm_client
 
 
 thread=0
 app = Flask(__name__)
 GOAL_MATCH_WORKERS = int(os.getenv("BETSMART_GOAL_MATCH_WORKERS", "4"))
-GOAL_JSON_MODE = "REDUCED"
+GOAL_JSON_MODE = "FULL"
 
 
 
@@ -593,56 +593,6 @@ def _process_goal_match(match):
     }
 
 
-
-def _format_goal_very_reduced(prediction_result):
-    """
-    Format public ultra-réduit.
-    Le moteur interne reste inchangé : cette fonction ne transforme que
-    la représentation JSON renvoyée par l'API.
-    """
-    if not isinstance(prediction_result, dict):
-        return {
-            "BTTS": {},
-            "Over15": {},
-            "Over25": {},
-            "Over35": {},
-            "explanation": {
-                "explanation": "",
-                "key_points": [],
-                "recommended_markets": [],
-                "risk_flags": ["invalid_prediction_payload"]
-            },
-            "lambda_away": None,
-            "lambda_home": None,
-            "lambda_total": None
-        }
-
-    explanation = prediction_result.get("explanation", {})
-    if not isinstance(explanation, dict):
-        explanation = {
-            "explanation": str(explanation or ""),
-            "key_points": [],
-            "recommended_markets": [],
-            "risk_flags": []
-        }
-
-    return {
-        "BTTS": prediction_result.get("BTTS", {}),
-        "Over15": prediction_result.get("Over15", {}),
-        "Over25": prediction_result.get("Over25", {}),
-        "Over35": prediction_result.get("Over35", {}),
-        "explanation": {
-            "explanation": explanation.get("explanation", ""),
-            "key_points": explanation.get("key_points", []),
-            "recommended_markets": explanation.get("recommended_markets", []),
-            "risk_flags": explanation.get("risk_flags", [])
-        },
-        "lambda_away": prediction_result.get("lambda_away"),
-        "lambda_home": prediction_result.get("lambda_home"),
-        "lambda_total": prediction_result.get("lambda_total")
-    }
-
-
 @app.route('/predire/pred_goal', methods=["POST"])
 def prediction():
     # Temps total de la requête API
@@ -692,7 +642,18 @@ def prediction():
                     prediction_result = worker_result["prediction"]
                     match_runtime = worker_result["_match_runtime_seconds"]
 
-                    all_results[idx] = _format_goal_very_reduced(prediction_result)
+                    all_results[idx] = {
+                        "json_mode": GOAL_JSON_MODE,
+                        "match": {
+                            "index": idx + 1,
+                            "home": match.HomeTeam,
+                            "away": match.AwayTeam,
+                            "competition": match.comp,
+                            "date": match.match_Date
+                        },
+                        "runtime_seconds": match_runtime,
+                        "prediction": prediction_result
+                    }
 
                 except Exception as exc:
                     match_runtime = round(
@@ -701,19 +662,20 @@ def prediction():
                     )
 
                     all_results[idx] = {
-                        "BTTS": {},
-                        "Over15": {},
-                        "Over25": {},
-                        "Over35": {},
-                        "explanation": {
-                            "explanation": f"Erreur de prédiction: {type(exc).__name__}: {exc}",
-                            "key_points": [],
-                            "recommended_markets": [],
-                            "risk_flags": ["prediction_error"]
+                        "json_mode": GOAL_JSON_MODE,
+                        "match": {
+                            "index": idx + 1,
+                            "home": match.HomeTeam,
+                            "away": match.AwayTeam,
+                            "competition": match.comp,
+                            "date": match.match_Date
                         },
-                        "lambda_away": None,
-                        "lambda_home": None,
-                        "lambda_total": None
+                        "runtime_seconds": match_runtime,
+                        "prediction": {
+                            "status": "ERROR",
+                            "error": f"{type(exc).__name__}: {exc}",
+                            "_parallel_match_error": True
+                        }
                     }
 
         total_seconds = round(
@@ -747,6 +709,18 @@ def prediction():
         )
 
         return jsonify({
+            "json_mode": GOAL_JSON_MODE,
+            "nombre_matchs": len(matches),
+
+            "execution": {
+                "parallel": True,
+                "match_workers": max_workers,
+                "total_seconds": total_seconds,
+                "sum_individual_match_seconds": sum_match_seconds,
+                "slowest_match_seconds": max_match_seconds,
+                "parallel_efficiency_ratio": parallel_efficiency_ratio
+            },
+
             "Resultats": all_results
         })
 
