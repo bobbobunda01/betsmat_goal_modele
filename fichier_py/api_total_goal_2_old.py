@@ -209,116 +209,6 @@ def _process_goal_match(match):
     }
 
 
-
-# ======================================================================================
-# JSON FINAL COMPATIBILITY LAYER
-# Présentation uniquement : ne modifie ni le moteur, ni les modèles, ni les probabilités.
-# ======================================================================================
-
-_GOAL_FINAL_MARKET_ORDER = ["Over15", "Over25", "Over35", "BTTS"]
-
-
-def _goal_json_action(market_pack):
-    """Reproduit la règle historique BET / NO_BET à partir du résultat final."""
-    market_pack = market_pack if isinstance(market_pack, dict) else {}
-    pred = int(market_pack.get("pred", 0))
-    low = bool(market_pack.get("low_confidence", True))
-
-    if low:
-        return "NO_BET", "low_confidence=true"
-    if pred == 0:
-        return "NO_BET", "pred=0"
-
-    proba = float(market_pack.get("proba", 0.0))
-    return "BET", f"pred=1 & low_confidence=false (p={proba:.2f})"
-
-
-def _goal_json_key_points(explanation_text):
-    """
-    Produit exactement 3 points à partir de l'explication déjà générée par le moteur.
-    Aucun nouvel appel IA et aucune nouvelle interprétation prédictive.
-    """
-    text = str(explanation_text or "").strip()
-    if not text:
-        return ["", "", ""]
-
-    parts = [
-        p.strip()
-        for p in re.split(r"(?<=[.!?])\s+", text)
-        if p and p.strip()
-    ]
-
-    if not parts:
-        parts = [text]
-
-    parts = parts[:3]
-    while len(parts) < 3:
-        parts.append("")
-
-    return parts
-
-
-def _goal_json_explanation(prediction_result):
-    """
-    Convertit l'explication publique 8.14 (string) vers l'ancien contrat JSON objet.
-    Cette fonction ne change aucune valeur de prédiction.
-    """
-    prediction_result = prediction_result if isinstance(prediction_result, dict) else {}
-    explanation_text = str(prediction_result.get("explanation") or "")
-
-    recommended = []
-    bet_markets = set()
-
-    for market in _GOAL_FINAL_MARKET_ORDER:
-        pack = prediction_result.get(market, {})
-        action, reason = _goal_json_action(pack)
-
-        recommended.append({
-            "action": action,
-            "market": market,
-            "reason": reason
-        })
-
-        if action == "BET":
-            bet_markets.add(market)
-
-    risk_flags = []
-    if "Over25" in bet_markets and "BTTS" in bet_markets:
-        risk_flags.append("corrélation")
-
-    return {
-        "explanation": explanation_text,
-        "key_points": _goal_json_key_points(explanation_text),
-        "recommended_markets": recommended,
-        "risk_flags": risk_flags
-    }
-
-
-def _goal_json_final_view(prediction_result):
-    """
-    Contrat JSON final demandé.
-    Seuls les champs de présentation sont filtrés/réorganisés.
-    """
-    prediction_result = prediction_result if isinstance(prediction_result, dict) else {}
-
-    if prediction_result.get("status") == "ERROR":
-        return {
-            "status": "ERROR",
-            "error": prediction_result.get("error")
-        }
-
-    return {
-        "BTTS": prediction_result.get("BTTS"),
-        "Over15": prediction_result.get("Over15"),
-        "Over25": prediction_result.get("Over25"),
-        "Over35": prediction_result.get("Over35"),
-        "explanation": _goal_json_explanation(prediction_result),
-        "lambda_away": prediction_result.get("lambda_away"),
-        "lambda_home": prediction_result.get("lambda_home"),
-        "lambda_total": prediction_result.get("lambda_total")
-    }
-
-
 @app.route('/predire/pred_goal', methods=["POST"])
 def prediction():
     # Temps total de la requête API
@@ -434,17 +324,20 @@ def prediction():
             max_workers
         )
 
-        # JSON public final : compatibilité avec le contrat historique demandé.
-        # Le traitement parallèle et les mesures restent internes à l'API.
-        final_results = [
-            _goal_json_final_view(
-                item.get("prediction", {}) if isinstance(item, dict) else {}
-            )
-            for item in all_results
-        ]
-
         return jsonify({
-            "Resultats": final_results
+            "json_mode": GOAL_JSON_MODE,
+            "nombre_matchs": len(matches),
+
+            "execution": {
+                "parallel": True,
+                "match_workers": max_workers,
+                "total_seconds": total_seconds,
+                "sum_individual_match_seconds": sum_match_seconds,
+                "slowest_match_seconds": max_match_seconds,
+                "parallel_efficiency_ratio": parallel_efficiency_ratio
+            },
+
+            "Resultats": all_results
         })
 
     except Exception as exc:
