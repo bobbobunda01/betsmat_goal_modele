@@ -25,7 +25,6 @@ import sys
 import logging
 import time
 import threading
-import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from fichier_py.fonction_totatl_goal_2 import predict_from_user_input, get_valid_date, llm_client
