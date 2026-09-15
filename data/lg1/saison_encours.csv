@@ -1,42 +1,52 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-La Liga,2026,2026-08-15,Alaves,Getafe,3,0,0,0,H
-La Liga,2026,2026-08-15,Sevilla,Rayo Vallecano,2,1,0,1,H
-La Liga,2026,2026-08-16,Racing Santander,Villarreal,2,2,2,2,D
-La Liga,2026,2026-08-16,Espanyol,Levante,3,0,2,0,H
-La Liga,2026,2026-08-17,Deportivo La Coruna,Elche,1,1,1,0,D
-La Liga,2026,2026-08-19,Atletico Madrid,Malaga,2,0,0,0,H
-La Liga,2026,2026-08-20,Rayo Vallecano,Alaves,1,1,0,0,D
-La Liga,2026,2026-08-21,Real Betis,Real Sociedad,1,0,0,0,H
-La Liga,2026,2026-08-22,Athletic Club,Sevilla,1,3,0,1,A
-La Liga,2026,2026-08-22,Valencia,Celta Vigo,0,0,0,0,D
-La Liga,2026,2026-08-22,Espanyol,Real Madrid,1,2,1,1,A
-La Liga,2026,2026-08-23,Atletico Madrid,Villarreal,2,2,0,0,D
-La Liga,2026,2026-08-23,Getafe,Racing Santander,1,0,0,0,H
-La Liga,2026,2026-08-23,Elche,Barcelona,0,5,0,2,A
-La Liga,2026,2026-08-24,Osasuna,Levante,0,0,0,0,D
-La Liga,2026,2026-08-24,Malaga,Deportivo La Coruna,1,1,1,1,D
-La Liga,2026,2026-08-25,Valencia,Real Betis,0,1,0,0,A
-La Liga,2026,2026-08-26,Real Madrid,Real Sociedad,4,1,1,1,H
-La Liga,2026,2026-08-27,Celta Vigo,Osasuna,1,2,1,0,A
-La Liga,2026,2026-08-27,Barcelona,Athletic Club,2,0,1,0,H
-La Liga,2026,2026-08-28,Racing Santander,Elche,3,2,3,0,H
-La Liga,2026,2026-08-28,Alaves,Villarreal,1,0,1,0,H
-La Liga,2026,2026-08-29,Levante,Real Betis,5,2,2,2,H
-La Liga,2026,2026-08-29,Real Sociedad,Espanyol,2,1,1,1,H
-La Liga,2026,2026-08-29,Sevilla,Atletico Madrid,1,3,0,3,A
-La Liga,2026,2026-08-30,Real Madrid,Malaga,4,0,3,0,H
-La Liga,2026,2026-08-30,Deportivo La Coruna,Valencia,3,1,2,1,H
-La Liga,2026,2026-08-30,Celta Vigo,Athletic Club,0,2,0,2,A
-La Liga,2026,2026-08-31,Osasuna,Getafe,1,0,1,0,H
-La Liga,2026,2026-08-31,Barcelona,Rayo Vallecano,5,2,2,1,H
-La Liga,2026,2026-09-03,Real Sociedad,Celta Vigo,0,0,0,0,D
-La Liga,2026,2026-09-04,Real Betis,Real Madrid,1,0,0,0,H
-La Liga,2026,2026-09-05,Athletic Club,Atletico Madrid,3,0,0,0,H
-La Liga,2026,2026-09-05,Rayo Vallecano,Racing Santander,3,2,2,2,H
-La Liga,2026,2026-09-05,Villarreal,Deportivo La Coruna,2,3,1,1,A
-La Liga,2026,2026-09-06,Valencia,Barcelona,0,5,0,2,A
-La Liga,2026,2026-09-06,Malaga,Levante,0,0,0,0,D
-La Liga,2026,2026-09-06,Alaves,Osasuna,5,2,2,0,H
-La Liga,2026,2026-09-06,Espanyol,Sevilla,1,1,0,0,D
-La Liga,2026,2026-09-07,Getafe,Celta Vigo,1,1,1,0,D
-La Liga,2026,2026-09-07,Elche,Real Sociedad,2,3,0,2,A
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1570333,La Liga,2026,2026-08-15,Alaves,Getafe,3,0,0,0,H
+1570341,La Liga,2026,2026-08-15,Sevilla,Rayo Vallecano,2,1,0,1,H
+1570339,La Liga,2026,2026-08-16,Racing Santander,Villarreal,2,2,2,2,D
+1570338,La Liga,2026,2026-08-16,Espanyol,Levante,3,0,2,0,H
+1570337,La Liga,2026,2026-08-17,Deportivo La Coruna,Elche,1,1,1,0,D
+1570334,La Liga,2026,2026-08-19,Atletico Madrid,Malaga,2,0,0,0,H
+1570351,La Liga,2026,2026-08-20,Rayo Vallecano,Alaves,1,1,0,0,D
+1570345,La Liga,2026,2026-08-21,Real Betis,Real Sociedad,1,0,0,0,H
+1570343,La Liga,2026,2026-08-22,Athletic Club,Sevilla,1,3,0,1,A
+1570352,La Liga,2026,2026-08-22,Valencia,Celta Vigo,0,0,0,0,D
+1570347,La Liga,2026,2026-08-22,Espanyol,Real Madrid,1,2,1,1,A
+1570344,La Liga,2026,2026-08-23,Atletico Madrid,Villarreal,2,2,0,0,D
+1570348,La Liga,2026,2026-08-23,Getafe,Racing Santander,1,0,0,0,H
+1570346,La Liga,2026,2026-08-23,Elche,Barcelona,0,5,0,2,A
+1570350,La Liga,2026,2026-08-24,Osasuna,Levante,0,0,0,0,D
+1570349,La Liga,2026,2026-08-24,Malaga,Deportivo La Coruna,1,1,1,1,D
+1570342,La Liga,2026,2026-08-25,Valencia,Real Betis,0,1,0,0,A
+1570340,La Liga,2026,2026-08-26,Real Madrid,Real Sociedad,4,1,1,1,H
+1570336,La Liga,2026,2026-08-27,Celta Vigo,Osasuna,1,2,1,0,A
+1570335,La Liga,2026,2026-08-27,Barcelona,Athletic Club,2,0,1,0,H
+1570359,La Liga,2026,2026-08-28,Racing Santander,Elche,3,2,3,0,H
+1570353,La Liga,2026,2026-08-28,Alaves,Villarreal,1,0,1,0,H
+1570357,La Liga,2026,2026-08-29,Levante,Real Betis,5,2,2,2,H
+1570361,La Liga,2026,2026-08-29,Real Sociedad,Espanyol,2,1,1,1,H
+1570362,La Liga,2026,2026-08-29,Sevilla,Atletico Madrid,1,3,0,3,A
+1570360,La Liga,2026,2026-08-30,Real Madrid,Malaga,4,0,3,0,H
+1570356,La Liga,2026,2026-08-30,Deportivo La Coruna,Valencia,3,1,2,1,H
+1570355,La Liga,2026,2026-08-30,Celta Vigo,Athletic Club,0,2,0,2,A
+1570358,La Liga,2026,2026-08-31,Osasuna,Getafe,1,0,1,0,H
+1570354,La Liga,2026,2026-08-31,Barcelona,Rayo Vallecano,5,2,2,1,H
+1570392,La Liga,2026,2026-09-03,Real Sociedad,Celta Vigo,0,0,0,0,D
+1570365,La Liga,2026,2026-09-04,Real Betis,Real Madrid,1,0,0,0,H
+1570364,La Liga,2026,2026-09-05,Athletic Club,Atletico Madrid,3,0,0,0,H
+1570370,La Liga,2026,2026-09-05,Rayo Vallecano,Racing Santander,3,2,2,2,H
+1570372,La Liga,2026,2026-09-05,Villarreal,Deportivo La Coruna,2,3,1,1,A
+1570371,La Liga,2026,2026-09-06,Valencia,Barcelona,0,5,0,2,A
+1570369,La Liga,2026,2026-09-06,Malaga,Levante,0,0,0,0,D
+1570363,La Liga,2026,2026-09-06,Alaves,Osasuna,5,2,2,0,H
+1570367,La Liga,2026,2026-09-06,Espanyol,Sevilla,1,1,0,0,D
+1570368,La Liga,2026,2026-09-07,Getafe,Celta Vigo,1,1,1,0,D
+1570366,La Liga,2026,2026-09-07,Elche,Real Sociedad,2,3,0,2,A
+1570381,La Liga,2026,2026-09-11,Sevilla,Valencia,1,0,0,0,H
+1570378,La Liga,2026,2026-09-12,Racing Santander,Alaves,2,1,1,1,H
+1570377,La Liga,2026,2026-09-12,Osasuna,Espanyol,0,2,0,2,A
+1570373,La Liga,2026,2026-09-12,Athletic Club,Elche,1,1,0,0,D
+1570379,La Liga,2026,2026-09-12,Real Madrid,Rayo Vallecano,4,1,3,0,H
+1570374,La Liga,2026,2026-09-13,Celta Vigo,Malaga,1,1,1,0,D
+1570376,La Liga,2026,2026-09-13,Levante,Barcelona,2,4,0,2,A
+1570375,La Liga,2026,2026-09-13,Getafe,Deportivo La Coruna,1,1,0,0,D
+1570380,La Liga,2026,2026-09-13,Real Sociedad,Atletico Madrid,0,3,0,0,A
+1570382,La Liga,2026,2026-09-14,Villarreal,Real Betis,1,2,1,2,A

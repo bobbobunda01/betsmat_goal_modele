@@ -1,96 +1,96 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-World Cup,2026,2026-06-11,Mexico,South Africa,2,0,1,0,H
-World Cup,2026,2026-06-12,South Korea,Czechia,2,1,0,0,H
-World Cup,2026,2026-06-12,Canada,Bosnia & Herzegovina,1,1,0,1,D
-World Cup,2026,2026-06-13,USA,Paraguay,4,1,3,0,H
-World Cup,2026,2026-06-13,Qatar,Switzerland,1,1,0,1,D
-World Cup,2026,2026-06-13,Brazil,Morocco,1,1,1,1,D
-World Cup,2026,2026-06-14,Haiti,Scotland,0,1,0,1,A
-World Cup,2026,2026-06-14,Australia,Türkiye,2,0,1,0,H
-World Cup,2026,2026-06-14,Germany,Curaçao,7,1,3,1,H
-World Cup,2026,2026-06-14,Netherlands,Japan,2,2,0,0,D
-World Cup,2026,2026-06-14,Ivory Coast,Ecuador,1,0,0,0,H
-World Cup,2026,2026-06-15,Sweden,Tunisia,5,1,2,1,H
-World Cup,2026,2026-06-15,Spain,Cape Verde Islands,0,0,0,0,D
-World Cup,2026,2026-06-15,Belgium,Egypt,1,1,0,1,D
-World Cup,2026,2026-06-15,Saudi Arabia,Uruguay,1,1,1,0,D
-World Cup,2026,2026-06-16,Iran,New Zealand,2,2,1,1,D
-World Cup,2026,2026-06-16,France,Senegal,3,1,0,0,H
-World Cup,2026,2026-06-16,Iraq,Norway,1,4,1,2,A
-World Cup,2026,2026-06-17,Argentina,Algeria,3,0,1,0,H
-World Cup,2026,2026-06-17,Austria,Jordan,3,1,1,0,H
-World Cup,2026,2026-06-17,Portugal,Congo DR,1,1,1,1,D
-World Cup,2026,2026-06-17,England,Croatia,4,2,2,2,H
-World Cup,2026,2026-06-17,Ghana,Panama,1,0,0,0,H
-World Cup,2026,2026-06-18,Uzbekistan,Colombia,1,3,0,1,A
-World Cup,2026,2026-06-18,Czechia,South Africa,1,1,1,0,D
-World Cup,2026,2026-06-18,Switzerland,Bosnia & Herzegovina,4,1,0,0,H
-World Cup,2026,2026-06-18,Canada,Qatar,6,0,3,0,H
-World Cup,2026,2026-06-19,Mexico,South Korea,1,0,0,0,H
-World Cup,2026,2026-06-19,USA,Australia,2,0,2,0,H
-World Cup,2026,2026-06-19,Scotland,Morocco,0,1,0,1,A
-World Cup,2026,2026-06-20,Brazil,Haiti,3,0,3,0,H
-World Cup,2026,2026-06-20,Türkiye,Paraguay,0,1,0,1,A
-World Cup,2026,2026-06-20,Netherlands,Sweden,5,1,2,0,H
-World Cup,2026,2026-06-20,Germany,Ivory Coast,2,1,0,1,H
-World Cup,2026,2026-06-21,Ecuador,Curaçao,0,0,0,0,D
-World Cup,2026,2026-06-21,Tunisia,Japan,0,4,0,2,A
-World Cup,2026,2026-06-21,Spain,Saudi Arabia,4,0,3,0,H
-World Cup,2026,2026-06-21,Belgium,Iran,0,0,0,0,D
-World Cup,2026,2026-06-21,Uruguay,Cape Verde Islands,2,2,2,1,D
-World Cup,2026,2026-06-22,New Zealand,Egypt,1,3,1,0,A
-World Cup,2026,2026-06-22,Argentina,Austria,2,0,1,0,H
-World Cup,2026,2026-06-22,France,Iraq,3,0,1,0,H
-World Cup,2026,2026-06-23,Norway,Senegal,3,2,1,0,H
-World Cup,2026,2026-06-23,Jordan,Algeria,1,2,1,0,A
-World Cup,2026,2026-06-23,Portugal,Uzbekistan,5,0,3,0,H
-World Cup,2026,2026-06-23,England,Ghana,0,0,0,0,D
-World Cup,2026,2026-06-23,Panama,Croatia,0,1,0,0,A
-World Cup,2026,2026-06-24,Colombia,Congo DR,1,0,0,0,H
-World Cup,2026,2026-06-24,Switzerland,Canada,2,1,0,0,H
-World Cup,2026,2026-06-24,Bosnia & Herzegovina,Qatar,3,1,2,1,H
-World Cup,2026,2026-06-24,Morocco,Haiti,4,2,2,2,H
-World Cup,2026,2026-06-24,Scotland,Brazil,0,3,0,2,A
-World Cup,2026,2026-06-25,Czechia,Mexico,0,3,0,0,A
-World Cup,2026,2026-06-25,South Africa,South Korea,1,0,0,0,H
-World Cup,2026,2026-06-25,Ecuador,Germany,2,1,1,1,H
-World Cup,2026,2026-06-25,Curaçao,Ivory Coast,0,2,0,1,A
-World Cup,2026,2026-06-25,Japan,Sweden,1,1,0,0,D
-World Cup,2026,2026-06-25,Tunisia,Netherlands,1,3,0,2,A
-World Cup,2026,2026-06-26,Türkiye,USA,3,2,2,1,H
-World Cup,2026,2026-06-26,Paraguay,Australia,0,0,0,0,D
-World Cup,2026,2026-06-26,Senegal,Iraq,5,0,1,0,H
-World Cup,2026,2026-06-26,Norway,France,1,4,1,3,A
-World Cup,2026,2026-06-27,Uruguay,Spain,0,1,0,1,A
-World Cup,2026,2026-06-27,Cape Verde Islands,Saudi Arabia,0,0,0,0,D
-World Cup,2026,2026-06-27,Egypt,Iran,1,1,1,1,D
-World Cup,2026,2026-06-27,New Zealand,Belgium,1,5,0,1,A
-World Cup,2026,2026-06-27,Croatia,Ghana,2,1,1,0,H
-World Cup,2026,2026-06-27,Panama,England,0,2,0,0,A
-World Cup,2026,2026-06-27,Colombia,Portugal,0,0,0,0,D
-World Cup,2026,2026-06-27,Congo DR,Uzbekistan,3,1,0,1,H
-World Cup,2026,2026-06-28,Algeria,Austria,3,3,1,1,D
-World Cup,2026,2026-06-28,Jordan,Argentina,1,3,0,2,A
-World Cup,2026,2026-06-28,South Africa,Canada,0,1,0,0,A
-World Cup,2026,2026-06-29,Brazil,Japan,2,1,0,1,H
-World Cup,2026,2026-06-30,Ivory Coast,Norway,1,2,0,1,A
-World Cup,2026,2026-06-30,France,Sweden,3,0,1,0,H
-World Cup,2026,2026-07-01,Mexico,Ecuador,2,0,2,0,H
-World Cup,2026,2026-07-01,England,Congo DR,2,1,0,1,H
-World Cup,2026,2026-07-02,USA,Bosnia & Herzegovina,2,0,1,0,H
-World Cup,2026,2026-07-02,Spain,Austria,3,0,1,0,H
-World Cup,2026,2026-07-02,Portugal,Croatia,2,1,0,0,H
-World Cup,2026,2026-07-03,Switzerland,Algeria,2,0,1,0,H
-World Cup,2026,2026-07-04,Colombia,Ghana,1,0,1,0,H
-World Cup,2026,2026-07-04,Canada,Morocco,0,3,0,0,A
-World Cup,2026,2026-07-04,Paraguay,France,0,1,0,0,A
-World Cup,2026,2026-07-05,Brazil,Norway,1,2,0,0,A
-World Cup,2026,2026-07-06,Mexico,England,2,3,1,2,A
-World Cup,2026,2026-07-06,Portugal,Spain,0,1,0,0,A
-World Cup,2026,2026-07-07,USA,Belgium,1,4,1,2,A
-World Cup,2026,2026-07-07,Argentina,Egypt,3,2,0,1,H
-World Cup,2026,2026-07-09,France,Morocco,2,0,0,0,H
-World Cup,2026,2026-07-10,Spain,Belgium,2,1,1,1,H
-World Cup,2026,2026-07-14,France,Spain,0,2,0,1,A
-World Cup,2026,2026-07-15,England,Argentina,1,2,0,0,A
-World Cup,2026,2026-07-18,France,England,4,6,0,4,A
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1489369,World Cup,2026,2026-06-11,Mexico,South Africa,2,0,1,0,H
+1538999,World Cup,2026,2026-06-12,South Korea,Czechia,2,1,0,0,H
+1539000,World Cup,2026,2026-06-12,Canada,Bosnia & Herzegovina,1,1,0,1,D
+1489370,World Cup,2026,2026-06-13,USA,Paraguay,4,1,3,0,H
+1489373,World Cup,2026,2026-06-13,Qatar,Switzerland,1,1,0,1,D
+1489371,World Cup,2026,2026-06-13,Brazil,Morocco,1,1,1,1,D
+1489372,World Cup,2026,2026-06-14,Haiti,Scotland,0,1,0,1,A
+1539001,World Cup,2026,2026-06-14,Australia,Türkiye,2,0,1,0,H
+1489374,World Cup,2026,2026-06-14,Germany,Curaçao,7,1,3,1,H
+1489376,World Cup,2026,2026-06-14,Netherlands,Japan,2,2,0,0,D
+1489375,World Cup,2026,2026-06-14,Ivory Coast,Ecuador,1,0,0,0,H
+1539002,World Cup,2026,2026-06-15,Sweden,Tunisia,5,1,2,1,H
+1489380,World Cup,2026,2026-06-15,Spain,Cape Verde Islands,0,0,0,0,D
+1489377,World Cup,2026,2026-06-15,Belgium,Egypt,1,1,0,1,D
+1489379,World Cup,2026,2026-06-15,Saudi Arabia,Uruguay,1,1,1,0,D
+1489378,World Cup,2026,2026-06-16,Iran,New Zealand,2,2,1,1,D
+1489383,World Cup,2026,2026-06-16,France,Senegal,3,1,0,0,H
+1539016,World Cup,2026,2026-06-16,Iraq,Norway,1,4,1,2,A
+1489381,World Cup,2026,2026-06-17,Argentina,Algeria,3,0,1,0,H
+1489382,World Cup,2026,2026-06-17,Austria,Jordan,3,1,1,0,H
+1539003,World Cup,2026,2026-06-17,Portugal,Congo DR,1,1,1,1,D
+1489384,World Cup,2026,2026-06-17,England,Croatia,4,2,2,2,H
+1489385,World Cup,2026,2026-06-17,Ghana,Panama,1,0,0,0,H
+1489386,World Cup,2026,2026-06-18,Uzbekistan,Colombia,1,3,0,1,A
+1539004,World Cup,2026,2026-06-18,Czechia,South Africa,1,1,1,0,D
+1539005,World Cup,2026,2026-06-18,Switzerland,Bosnia & Herzegovina,4,1,0,0,H
+1489387,World Cup,2026,2026-06-18,Canada,Qatar,6,0,3,0,H
+1489388,World Cup,2026,2026-06-19,Mexico,South Korea,1,0,0,0,H
+1489391,World Cup,2026,2026-06-19,USA,Australia,2,0,2,0,H
+1489390,World Cup,2026,2026-06-19,Scotland,Morocco,0,1,0,1,A
+1489389,World Cup,2026,2026-06-20,Brazil,Haiti,3,0,3,0,H
+1539006,World Cup,2026,2026-06-20,Türkiye,Paraguay,0,1,0,1,A
+1539007,World Cup,2026,2026-06-20,Netherlands,Sweden,5,1,2,0,H
+1489393,World Cup,2026,2026-06-20,Germany,Ivory Coast,2,1,0,1,H
+1489392,World Cup,2026,2026-06-21,Ecuador,Curaçao,0,0,0,0,D
+1489394,World Cup,2026,2026-06-21,Tunisia,Japan,0,4,0,2,A
+1489397,World Cup,2026,2026-06-21,Spain,Saudi Arabia,4,0,3,0,H
+1489395,World Cup,2026,2026-06-21,Belgium,Iran,0,0,0,0,D
+1489398,World Cup,2026,2026-06-21,Uruguay,Cape Verde Islands,2,2,2,1,D
+1489396,World Cup,2026,2026-06-22,New Zealand,Egypt,1,3,1,0,A
+1489399,World Cup,2026,2026-06-22,Argentina,Austria,2,0,1,0,H
+1539017,World Cup,2026,2026-06-22,France,Iraq,3,0,1,0,H
+1489401,World Cup,2026,2026-06-23,Norway,Senegal,3,2,1,0,H
+1489400,World Cup,2026,2026-06-23,Jordan,Algeria,1,2,1,0,A
+1489404,World Cup,2026,2026-06-23,Portugal,Uzbekistan,5,0,3,0,H
+1489402,World Cup,2026,2026-06-23,England,Ghana,0,0,0,0,D
+1489403,World Cup,2026,2026-06-23,Panama,Croatia,0,1,0,0,A
+1539008,World Cup,2026,2026-06-24,Colombia,Congo DR,1,0,0,0,H
+1489408,World Cup,2026,2026-06-24,Switzerland,Canada,2,1,0,0,H
+1539009,World Cup,2026,2026-06-24,Bosnia & Herzegovina,Qatar,3,1,2,1,H
+1489405,World Cup,2026,2026-06-24,Morocco,Haiti,4,2,2,2,H
+1489406,World Cup,2026,2026-06-24,Scotland,Brazil,0,3,0,2,A
+1539010,World Cup,2026,2026-06-25,Czechia,Mexico,0,3,0,0,A
+1489407,World Cup,2026,2026-06-25,South Africa,South Korea,1,0,0,0,H
+1489410,World Cup,2026,2026-06-25,Ecuador,Germany,2,1,1,1,H
+1489409,World Cup,2026,2026-06-25,Curaçao,Ivory Coast,0,2,0,1,A
+1539011,World Cup,2026,2026-06-25,Japan,Sweden,1,1,0,0,D
+1489412,World Cup,2026,2026-06-25,Tunisia,Netherlands,1,3,0,2,A
+1539012,World Cup,2026,2026-06-26,Türkiye,USA,3,2,2,1,H
+1489411,World Cup,2026,2026-06-26,Paraguay,Australia,0,0,0,0,D
+1539074,World Cup,2026,2026-06-26,Senegal,Iraq,5,0,1,0,H
+1489416,World Cup,2026,2026-06-26,Norway,France,1,4,1,3,A
+1489417,World Cup,2026,2026-06-27,Uruguay,Spain,0,1,0,1,A
+1489413,World Cup,2026,2026-06-27,Cape Verde Islands,Saudi Arabia,0,0,0,0,D
+1489414,World Cup,2026,2026-06-27,Egypt,Iran,1,1,1,1,D
+1489415,World Cup,2026,2026-06-27,New Zealand,Belgium,1,5,0,1,A
+1489420,World Cup,2026,2026-06-27,Croatia,Ghana,2,1,1,0,H
+1489422,World Cup,2026,2026-06-27,Panama,England,0,2,0,0,A
+1489419,World Cup,2026,2026-06-27,Colombia,Portugal,0,0,0,0,D
+1539013,World Cup,2026,2026-06-27,Congo DR,Uzbekistan,3,1,0,1,H
+1489418,World Cup,2026,2026-06-28,Algeria,Austria,3,3,1,1,D
+1489421,World Cup,2026,2026-06-28,Jordan,Argentina,1,3,0,2,A
+1561329,World Cup,2026,2026-06-28,South Africa,Canada,0,1,0,0,A
+1562344,World Cup,2026,2026-06-29,Brazil,Japan,2,1,0,1,H
+1564789,World Cup,2026,2026-06-30,Ivory Coast,Norway,1,2,0,1,A
+1565177,World Cup,2026,2026-06-30,France,Sweden,3,0,1,0,H
+1567306,World Cup,2026,2026-07-01,Mexico,Ecuador,2,0,2,0,H
+1567307,World Cup,2026,2026-07-01,England,Congo DR,2,1,0,1,H
+1562586,World Cup,2026,2026-07-02,USA,Bosnia & Herzegovina,2,0,1,0,H
+1567311,World Cup,2026,2026-07-02,Spain,Austria,3,0,1,0,H
+1567309,World Cup,2026,2026-07-02,Portugal,Croatia,2,1,0,0,H
+1567312,World Cup,2026,2026-07-03,Switzerland,Algeria,2,0,1,0,H
+1567310,World Cup,2026,2026-07-04,Colombia,Ghana,1,0,1,0,H
+1567824,World Cup,2026,2026-07-04,Canada,Morocco,0,3,0,0,A
+1569870,World Cup,2026,2026-07-04,Paraguay,France,0,1,0,0,A
+1568100,World Cup,2026,2026-07-05,Brazil,Norway,1,2,0,0,A
+1570714,World Cup,2026,2026-07-06,Mexico,England,2,3,1,2,A
+1576756,World Cup,2026,2026-07-06,Portugal,Spain,0,1,0,0,A
+1570715,World Cup,2026,2026-07-07,USA,Belgium,1,4,1,2,A
+1576804,World Cup,2026,2026-07-07,Argentina,Egypt,3,2,0,1,H
+1578539,World Cup,2026,2026-07-09,France,Morocco,2,0,0,0,H
+1581821,World Cup,2026,2026-07-10,Spain,Belgium,2,1,1,1,H
+1585131,World Cup,2026,2026-07-14,France,Spain,0,2,0,1,A
+1586077,World Cup,2026,2026-07-15,England,Argentina,1,2,0,0,A
+1591865,World Cup,2026,2026-07-18,France,England,4,6,0,4,A

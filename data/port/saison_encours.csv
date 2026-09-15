@@ -1,45 +1,54 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-Portugais,2026,2026-08-07,Estoril,Famalicao,1,1,0,1,D
-Portugais,2026,2026-08-08,Maritimo,Casa Pia,1,0,0,0,H
-Portugais,2026,2026-08-08,Vitória SC,Arouca,0,1,0,0,A
-Portugais,2026,2026-08-08,Estrela,Sporting CP,2,2,0,0,D
-Portugais,2026,2026-08-09,FC Porto,Alverca,2,0,2,0,H
-Portugais,2026,2026-08-09,Benfica,Academico Viseu,2,2,1,0,D
-Portugais,2026,2026-08-09,Moreirense,SC Braga,2,2,1,1,D
-Portugais,2026,2026-08-09,GIL Vicente,Rio Ave,1,0,0,0,H
-Portugais,2026,2026-08-10,Santa Clara,Nacional,2,2,2,2,D
-Portugais,2026,2026-08-14,Sporting CP,Vitória SC,3,2,3,0,H
-Portugais,2026,2026-08-15,Alverca,Estrela,2,2,0,0,D
-Portugais,2026,2026-08-15,Academico Viseu,Santa Clara,0,1,0,1,A
-Portugais,2026,2026-08-15,Rio Ave,FC Porto,0,2,0,1,A
-Portugais,2026,2026-08-16,Nacional,Estoril,2,0,0,0,H
-Portugais,2026,2026-08-16,Arouca,Moreirense,4,0,3,0,H
-Portugais,2026,2026-08-16,Famalicao,Maritimo,1,2,1,1,A
-Portugais,2026,2026-08-17,Casa Pia,Benfica,0,7,0,2,A
-Portugais,2026,2026-08-22,Maritimo,Academico Viseu,2,2,0,2,D
-Portugais,2026,2026-08-22,Estoril,Rio Ave,0,2,0,1,A
-Portugais,2026,2026-08-22,Sporting CP,Alverca,3,1,1,0,H
-Portugais,2026,2026-08-23,Vitória SC,Nacional,1,0,1,0,H
-Portugais,2026,2026-08-23,Santa Clara,Famalicao,1,0,1,0,H
-Portugais,2026,2026-08-23,FC Porto,Arouca,2,0,0,0,H
-Portugais,2026,2026-08-24,GIL Vicente,Casa Pia,2,0,2,0,H
-Portugais,2026,2026-08-28,Rio Ave,Sporting CP,0,4,0,4,A
-Portugais,2026,2026-08-29,Arouca,Maritimo,2,1,1,1,H
-Portugais,2026,2026-08-29,Alverca,Santa Clara,1,1,0,0,D
-Portugais,2026,2026-08-29,Academico Viseu,FC Porto,0,3,0,3,A
-Portugais,2026,2026-08-30,Nacional,Estrela,2,3,1,1,A
-Portugais,2026,2026-08-30,Casa Pia,Moreirense,0,1,0,1,A
-Portugais,2026,2026-08-30,Famalicao,GIL Vicente,0,0,0,0,D
-Portugais,2026,2026-08-31,Benfica,Estoril,2,1,1,0,H
-Portugais,2026,2026-08-31,SC Braga,Vitória SC,1,0,0,0,H
-Portugais,2026,2026-09-04,FC Porto,Moreirense,2,1,1,1,H
-Portugais,2026,2026-09-05,Estrela,Famalicao,2,2,0,1,D
-Portugais,2026,2026-09-05,Maritimo,Benfica,0,3,0,1,A
-Portugais,2026,2026-09-05,Alverca,SC Braga,1,2,1,0,A
-Portugais,2026,2026-09-05,Sporting CP,Nacional,2,0,1,0,H
-Portugais,2026,2026-09-06,Santa Clara,Rio Ave,4,0,1,0,H
-Portugais,2026,2026-09-06,Vitória SC,Casa Pia,0,0,0,0,D
-Portugais,2026,2026-09-06,GIL Vicente,Academico Viseu,0,1,0,1,A
-Portugais,2026,2026-09-07,Estoril,Arouca,0,0,0,0,D
-Portugais,2026,2026-09-09,Moreirense,Benfica,0,4,0,1,A
-Portugais,2026,2026-09-10,Estrela,SC Braga,2,1,1,1,H
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1575447,Portugais,2026,2026-08-07,Estoril,Famalicao,1,1,0,1,D
+1575451,Portugais,2026,2026-08-08,Maritimo,Casa Pia,1,0,0,0,H
+1575454,Portugais,2026,2026-08-08,Vitória SC,Arouca,0,1,0,0,A
+1575448,Portugais,2026,2026-08-08,Estrela,Sporting CP,2,2,0,0,D
+1575449,Portugais,2026,2026-08-09,FC Porto,Alverca,2,0,2,0,H
+1575446,Portugais,2026,2026-08-09,Benfica,Academico Viseu,2,2,1,0,D
+1575452,Portugais,2026,2026-08-09,Moreirense,SC Braga,2,2,1,1,D
+1575450,Portugais,2026,2026-08-09,GIL Vicente,Rio Ave,1,0,0,0,H
+1575453,Portugais,2026,2026-08-10,Santa Clara,Nacional,2,2,2,2,D
+1575463,Portugais,2026,2026-08-14,Sporting CP,Vitória SC,3,2,3,0,H
+1575456,Portugais,2026,2026-08-15,Alverca,Estrela,2,2,0,0,D
+1575455,Portugais,2026,2026-08-15,Academico Viseu,Santa Clara,0,1,0,1,A
+1575462,Portugais,2026,2026-08-15,Rio Ave,FC Porto,0,2,0,1,A
+1575461,Portugais,2026,2026-08-16,Nacional,Estoril,2,0,0,0,H
+1575457,Portugais,2026,2026-08-16,Arouca,Moreirense,4,0,3,0,H
+1575460,Portugais,2026,2026-08-16,Famalicao,Maritimo,1,2,1,1,A
+1575459,Portugais,2026,2026-08-17,Casa Pia,Benfica,0,7,0,2,A
+1575468,Portugais,2026,2026-08-22,Maritimo,Academico Viseu,2,2,0,2,D
+1575464,Portugais,2026,2026-08-22,Estoril,Rio Ave,0,2,0,1,A
+1575471,Portugais,2026,2026-08-22,Sporting CP,Alverca,3,1,1,0,H
+1575472,Portugais,2026,2026-08-23,Vitória SC,Nacional,1,0,1,0,H
+1575470,Portugais,2026,2026-08-23,Santa Clara,Famalicao,1,0,1,0,H
+1575466,Portugais,2026,2026-08-23,FC Porto,Arouca,2,0,0,0,H
+1575467,Portugais,2026,2026-08-24,GIL Vicente,Casa Pia,2,0,2,0,H
+1575481,Portugais,2026,2026-08-28,Rio Ave,Sporting CP,0,4,0,4,A
+1575475,Portugais,2026,2026-08-29,Arouca,Maritimo,2,1,1,1,H
+1575474,Portugais,2026,2026-08-29,Alverca,Santa Clara,1,1,0,0,D
+1575473,Portugais,2026,2026-08-29,Academico Viseu,FC Porto,0,3,0,3,A
+1575480,Portugais,2026,2026-08-30,Nacional,Estrela,2,3,1,1,A
+1575478,Portugais,2026,2026-08-30,Casa Pia,Moreirense,0,1,0,1,A
+1575479,Portugais,2026,2026-08-30,Famalicao,GIL Vicente,0,0,0,0,D
+1575476,Portugais,2026,2026-08-31,Benfica,Estoril,2,1,1,0,H
+1575477,Portugais,2026,2026-08-31,SC Braga,Vitória SC,1,0,0,0,H
+1575485,Portugais,2026,2026-09-04,FC Porto,Moreirense,2,1,1,1,H
+1575484,Portugais,2026,2026-09-05,Estrela,Famalicao,2,2,0,1,D
+1575487,Portugais,2026,2026-09-05,Maritimo,Benfica,0,3,0,1,A
+1575482,Portugais,2026,2026-09-05,Alverca,SC Braga,1,2,1,0,A
+1575489,Portugais,2026,2026-09-05,Sporting CP,Nacional,2,0,1,0,H
+1575488,Portugais,2026,2026-09-06,Santa Clara,Rio Ave,4,0,1,0,H
+1575490,Portugais,2026,2026-09-06,Vitória SC,Casa Pia,0,0,0,0,D
+1575486,Portugais,2026,2026-09-06,GIL Vicente,Academico Viseu,0,1,0,1,A
+1575483,Portugais,2026,2026-09-07,Estoril,Arouca,0,0,0,0,D
+1575469,Portugais,2026,2026-09-09,Moreirense,Benfica,0,4,0,1,A
+1575465,Portugais,2026,2026-09-10,Estrela,SC Braga,2,1,1,1,H
+1575498,Portugais,2026,2026-09-12,Nacional,Alverca,1,3,0,3,A
+1575495,Portugais,2026,2026-09-12,Casa Pia,FC Porto,1,4,1,1,A
+1575491,Portugais,2026,2026-09-12,Academico Viseu,Vitória SC,2,1,0,0,H
+1575493,Portugais,2026,2026-09-13,Benfica,GIL Vicente,3,1,1,1,H
+1575492,Portugais,2026,2026-09-13,Arouca,Santa Clara,1,2,0,2,A
+1575496,Portugais,2026,2026-09-13,Famalicao,Sporting CP,1,1,0,0,D
+1575499,Portugais,2026,2026-09-14,Rio Ave,Estrela,3,3,1,1,D
+1575497,Portugais,2026,2026-09-14,Moreirense,Maritimo,3,1,2,0,H
+1575494,Portugais,2026,2026-09-14,SC Braga,Estoril,1,0,0,0,H

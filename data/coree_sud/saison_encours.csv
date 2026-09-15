@@ -1,168 +1,174 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-coree_sud,2026,2026-02-28,Incheon United,FC Seoul,1,2,0,0,A
-coree_sud,2026,2026-02-28,Ulsan Hyundai FC,Gangwon FC,3,1,2,0,H
-coree_sud,2026,2026-02-28,Gimcheon Sangmu FC,Pohang Steelers,1,1,1,0,D
-coree_sud,2026,2026-03-01,Jeonbuk Motors,Bucheon FC 1995,2,3,1,1,A
-coree_sud,2026,2026-03-01,Jeju United FC,Gwangju FC,0,0,0,0,D
-coree_sud,2026,2026-03-02,Daejeon Citizen,FC Anyang,1,1,0,0,D
-coree_sud,2026,2026-03-07,Bucheon FC 1995,Daejeon Citizen,1,1,0,0,D
-coree_sud,2026,2026-03-07,Gwangju FC,Incheon United,3,2,1,1,H
-coree_sud,2026,2026-03-08,Gimcheon Sangmu FC,Jeonbuk Motors,1,1,0,0,D
-coree_sud,2026,2026-03-08,FC Anyang,Jeju United FC,2,1,0,0,H
-coree_sud,2026,2026-03-14,Gwangju FC,Jeonbuk Motors,0,0,0,0,D
-coree_sud,2026,2026-03-14,Daejeon Citizen,Gimcheon Sangmu FC,1,1,0,1,D
-coree_sud,2026,2026-03-15,Bucheon FC 1995,Ulsan Hyundai FC,1,2,1,1,A
-coree_sud,2026,2026-03-15,Jeju United FC,FC Seoul,1,2,0,0,A
-coree_sud,2026,2026-03-15,Gangwon FC,FC Anyang,1,1,1,1,D
-coree_sud,2026,2026-03-15,Pohang Steelers,Incheon United,1,1,0,1,D
-coree_sud,2026,2026-03-17,Gimcheon Sangmu FC,Gwangju FC,1,1,0,0,D
-coree_sud,2026,2026-03-18,Bucheon FC 1995,Gangwon FC,0,0,0,0,D
-coree_sud,2026,2026-03-18,Jeju United FC,Ulsan Hyundai FC,0,2,0,0,A
-coree_sud,2026,2026-03-18,Jeonbuk Motors,FC Anyang,2,1,1,1,H
-coree_sud,2026,2026-03-18,Incheon United,Daejeon Citizen,1,3,1,1,A
-coree_sud,2026,2026-03-18,Pohang Steelers,FC Seoul,0,1,0,1,A
-coree_sud,2026,2026-03-21,Daejeon Citizen,Jeonbuk Motors,0,1,0,1,A
-coree_sud,2026,2026-03-22,FC Seoul,Gwangju FC,5,0,1,0,H
-coree_sud,2026,2026-03-22,Ulsan Hyundai FC,Gimcheon Sangmu FC,0,0,0,0,D
-coree_sud,2026,2026-03-22,Gangwon FC,Jeju United FC,1,1,0,1,D
-coree_sud,2026,2026-03-22,FC Anyang,Incheon United,0,1,0,0,A
-coree_sud,2026,2026-03-22,Pohang Steelers,Bucheon FC 1995,0,0,0,0,D
-coree_sud,2026,2026-03-28,Pohang Steelers,Gangwon FC,1,0,0,0,H
-coree_sud,2026,2026-04-04,Jeju United FC,Bucheon FC 1995,1,0,1,0,H
-coree_sud,2026,2026-04-04,Jeonbuk Motors,Ulsan Hyundai FC,2,0,1,0,H
-coree_sud,2026,2026-04-04,Gangwon FC,Gwangju FC,3,0,2,0,H
-coree_sud,2026,2026-04-04,Pohang Steelers,Daejeon Citizen,1,0,1,0,H
-coree_sud,2026,2026-04-05,FC Anyang,FC Seoul,1,1,0,1,D
-coree_sud,2026,2026-04-05,Incheon United,Gimcheon Sangmu FC,2,1,2,0,H
-coree_sud,2026,2026-04-11,Pohang Steelers,Jeju United FC,0,2,0,2,A
-coree_sud,2026,2026-04-11,FC Seoul,Jeonbuk Motors,1,0,0,0,H
-coree_sud,2026,2026-04-11,Gwangju FC,Bucheon FC 1995,0,1,0,0,A
-coree_sud,2026,2026-04-11,Incheon United,Ulsan Hyundai FC,1,2,0,1,A
-coree_sud,2026,2026-04-12,Daejeon Citizen,Gangwon FC,0,2,0,1,A
-coree_sud,2026,2026-04-12,Gimcheon Sangmu FC,FC Anyang,1,1,0,0,D
-coree_sud,2026,2026-04-15,Ulsan Hyundai FC,FC Seoul,1,4,0,3,A
-coree_sud,2026,2026-04-18,Gangwon FC,Jeonbuk Motors,1,1,0,1,D
-coree_sud,2026,2026-04-18,FC Seoul,Daejeon Citizen,0,1,0,1,A
-coree_sud,2026,2026-04-18,Bucheon FC 1995,Incheon United,2,2,0,2,D
-coree_sud,2026,2026-04-18,Jeju United FC,Gimcheon Sangmu FC,1,1,0,1,D
-coree_sud,2026,2026-04-19,Ulsan Hyundai FC,Gwangju FC,5,1,2,1,H
-coree_sud,2026,2026-04-19,Pohang Steelers,FC Anyang,0,1,0,0,A
-coree_sud,2026,2026-04-21,Jeonbuk Motors,Incheon United,1,2,1,1,A
-coree_sud,2026,2026-04-21,FC Seoul,Bucheon FC 1995,3,0,2,0,H
-coree_sud,2026,2026-04-21,Gimcheon Sangmu FC,Gangwon FC,0,3,0,2,A
-coree_sud,2026,2026-04-22,FC Anyang,Ulsan Hyundai FC,1,1,1,0,D
-coree_sud,2026,2026-04-22,Daejeon Citizen,Jeju United FC,0,1,0,1,A
-coree_sud,2026,2026-04-22,Pohang Steelers,Gwangju FC,1,0,1,0,H
-coree_sud,2026,2026-04-25,Gangwon FC,FC Seoul,1,2,0,1,A
-coree_sud,2026,2026-04-25,Bucheon FC 1995,Gimcheon Sangmu FC,0,2,0,1,A
-coree_sud,2026,2026-04-25,Incheon United,Jeju United FC,1,0,0,0,H
-coree_sud,2026,2026-04-26,Jeonbuk Motors,Pohang Steelers,3,2,2,1,H
-coree_sud,2026,2026-04-26,Gwangju FC,FC Anyang,2,5,0,3,A
-coree_sud,2026,2026-04-26,Ulsan Hyundai FC,Daejeon Citizen,1,4,0,3,A
-coree_sud,2026,2026-05-02,FC Seoul,Gimcheon Sangmu FC,2,3,1,1,A
-coree_sud,2026,2026-05-02,Ulsan Hyundai FC,Pohang Steelers,0,1,0,0,A
-coree_sud,2026,2026-05-02,Jeju United FC,Jeonbuk Motors,0,2,0,1,A
-coree_sud,2026,2026-05-02,Incheon United,Gangwon FC,0,1,0,1,A
-coree_sud,2026,2026-05-02,FC Anyang,Bucheon FC 1995,0,1,0,0,A
-coree_sud,2026,2026-05-02,Gwangju FC,Daejeon Citizen,0,5,0,2,A
-coree_sud,2026,2026-05-05,Bucheon FC 1995,Jeju United FC,0,1,0,0,A
-coree_sud,2026,2026-05-05,Jeonbuk Motors,Gwangju FC,4,0,1,0,H
-coree_sud,2026,2026-05-05,Gangwon FC,Pohang Steelers,1,1,0,0,D
-coree_sud,2026,2026-05-05,Daejeon Citizen,Incheon United,0,0,0,0,D
-coree_sud,2026,2026-05-05,Gimcheon Sangmu FC,Ulsan Hyundai FC,1,2,0,1,A
-coree_sud,2026,2026-05-05,FC Seoul,FC Anyang,0,0,0,0,D
-coree_sud,2026,2026-05-09,Jeju United FC,FC Seoul,2,1,1,0,H
-coree_sud,2026,2026-05-09,Gwangju FC,Gangwon FC,0,0,0,0,D
-coree_sud,2026,2026-05-09,Gimcheon Sangmu FC,Incheon United,0,3,0,2,A
-coree_sud,2026,2026-05-09,Daejeon Citizen,Pohang Steelers,0,2,0,0,A
-coree_sud,2026,2026-05-10,Ulsan Hyundai FC,Bucheon FC 1995,1,0,1,0,H
-coree_sud,2026,2026-05-10,FC Anyang,Jeonbuk Motors,1,1,0,0,D
-coree_sud,2026,2026-05-12,Gangwon FC,Daejeon Citizen,2,0,0,0,H
-coree_sud,2026,2026-05-12,Gwangju FC,FC Seoul,0,1,0,0,A
-coree_sud,2026,2026-05-12,Incheon United,Pohang Steelers,0,1,0,1,A
-coree_sud,2026,2026-05-13,Bucheon FC 1995,Jeonbuk Motors,0,0,0,0,D
-coree_sud,2026,2026-05-13,FC Anyang,Gimcheon Sangmu FC,2,2,1,0,D
-coree_sud,2026,2026-05-13,Ulsan Hyundai FC,Jeju United FC,2,1,2,0,H
-coree_sud,2026,2026-05-16,Daejeon Citizen,FC Seoul,1,2,0,1,A
-coree_sud,2026,2026-05-16,Incheon United,Gwangju FC,4,0,2,0,H
-coree_sud,2026,2026-05-17,Jeju United FC,FC Anyang,1,2,0,1,A
-coree_sud,2026,2026-05-17,Jeonbuk Motors,Gimcheon Sangmu FC,1,0,0,0,H
-coree_sud,2026,2026-05-17,Bucheon FC 1995,Pohang Steelers,2,0,0,0,H
-coree_sud,2026,2026-05-17,Gangwon FC,Ulsan Hyundai FC,2,0,2,0,H
-coree_sud,2026,2026-07-04,FC Anyang,Pohang Steelers,2,3,1,1,A
-coree_sud,2026,2026-07-04,Daejeon Citizen,Bucheon FC 1995,2,2,0,0,D
-coree_sud,2026,2026-07-04,Jeonbuk Motors,Gangwon FC,1,2,0,1,A
-coree_sud,2026,2026-07-05,Gwangju FC,Ulsan Hyundai FC,1,1,0,0,D
-coree_sud,2026,2026-07-05,FC Seoul,Incheon United,1,0,0,0,H
-coree_sud,2026,2026-07-05,Gimcheon Sangmu FC,Jeju United FC,1,1,0,0,D
-coree_sud,2026,2026-07-11,Gwangju FC,Pohang Steelers,0,3,0,1,A
-coree_sud,2026,2026-07-11,Ulsan Hyundai FC,Jeonbuk Motors,1,3,0,1,A
-coree_sud,2026,2026-07-11,Gimcheon Sangmu FC,Bucheon FC 1995,1,1,1,1,D
-coree_sud,2026,2026-07-12,Jeju United FC,Daejeon Citizen,0,0,0,0,D
-coree_sud,2026,2026-07-12,Incheon United,FC Anyang,0,1,0,1,A
-coree_sud,2026,2026-07-12,FC Seoul,Gangwon FC,0,0,0,0,D
-coree_sud,2026,2026-07-18,Gangwon FC,Gimcheon Sangmu FC,2,0,2,0,H
-coree_sud,2026,2026-07-18,Daejeon Citizen,Ulsan Hyundai FC,2,2,2,1,D
-coree_sud,2026,2026-07-18,Jeju United FC,Pohang Steelers,2,1,0,1,H
-coree_sud,2026,2026-07-18,Incheon United,Jeonbuk Motors,1,0,1,0,H
-coree_sud,2026,2026-07-19,Bucheon FC 1995,FC Seoul,1,3,0,1,A
-coree_sud,2026,2026-07-19,FC Anyang,Gwangju FC,1,1,0,0,D
-coree_sud,2026,2026-07-21,Jeju United FC,Gangwon FC,1,1,1,1,D
-coree_sud,2026,2026-07-21,Jeonbuk Motors,Daejeon Citizen,0,0,0,0,D
-coree_sud,2026,2026-07-21,Ulsan Hyundai FC,Incheon United,1,2,1,1,A
-coree_sud,2026,2026-07-22,Bucheon FC 1995,FC Anyang,2,3,1,1,A
-coree_sud,2026,2026-07-22,Gwangju FC,Gimcheon Sangmu FC,1,1,1,1,D
-coree_sud,2026,2026-07-22,FC Seoul,Pohang Steelers,3,1,1,0,H
-coree_sud,2026,2026-07-25,Pohang Steelers,Jeonbuk Motors,0,2,0,1,A
-coree_sud,2026,2026-07-25,Gimcheon Sangmu FC,Daejeon Citizen,3,2,2,1,H
-coree_sud,2026,2026-07-26,FC Anyang,Gangwon FC,2,1,2,0,H
-coree_sud,2026,2026-07-26,Gwangju FC,Jeju United FC,1,2,1,1,A
-coree_sud,2026,2026-07-26,Incheon United,Bucheon FC 1995,1,1,0,1,D
-coree_sud,2026,2026-07-26,FC Seoul,Ulsan Hyundai FC,1,3,0,2,A
-coree_sud,2026,2026-08-01,Gangwon FC,Bucheon FC 1995,0,3,0,1,A
-coree_sud,2026,2026-08-01,Jeonbuk Motors,FC Seoul,0,0,0,0,D
-coree_sud,2026,2026-08-01,Pohang Steelers,Gimcheon Sangmu FC,0,1,0,0,A
-coree_sud,2026,2026-08-02,Daejeon Citizen,Gwangju FC,2,0,0,0,H
-coree_sud,2026,2026-08-02,Jeju United FC,Incheon United,3,3,2,2,D
-coree_sud,2026,2026-08-02,Ulsan Hyundai FC,FC Anyang,3,1,0,0,H
-coree_sud,2026,2026-08-08,Bucheon FC 1995,Gwangju FC,0,0,0,0,D
-coree_sud,2026,2026-08-08,FC Anyang,Daejeon Citizen,1,2,0,2,A
-coree_sud,2026,2026-08-08,Jeonbuk Motors,Jeju United FC,1,3,0,1,A
-coree_sud,2026,2026-08-08,Pohang Steelers,Ulsan Hyundai FC,0,2,0,0,A
-coree_sud,2026,2026-08-08,Gimcheon Sangmu FC,FC Seoul,0,0,0,0,D
-coree_sud,2026,2026-08-15,Gwangju FC,Pohang Steelers,1,2,0,1,A
-coree_sud,2026,2026-08-15,Jeju United FC,FC Anyang,2,0,1,0,H
-coree_sud,2026,2026-08-15,FC Seoul,Daejeon Citizen,4,2,0,1,H
-coree_sud,2026,2026-08-16,Bucheon FC 1995,Jeonbuk Motors,3,2,2,0,H
-coree_sud,2026,2026-08-16,Incheon United,Gimcheon Sangmu FC,1,1,0,0,D
-coree_sud,2026,2026-08-16,Ulsan Hyundai FC,Gangwon FC,2,3,1,2,A
-coree_sud,2026,2026-08-22,Bucheon FC 1995,Pohang Steelers,3,0,2,0,H
-coree_sud,2026,2026-08-22,FC Anyang,FC Seoul,0,7,0,5,A
-coree_sud,2026,2026-08-22,Jeju United FC,Gimcheon Sangmu FC,0,0,0,0,D
-coree_sud,2026,2026-08-22,Jeonbuk Motors,Ulsan Hyundai FC,1,0,0,0,H
-coree_sud,2026,2026-08-23,Daejeon Citizen,Gangwon FC,3,0,0,0,H
-coree_sud,2026,2026-08-23,Gwangju FC,Incheon United,0,1,0,0,A
-coree_sud,2026,2026-08-25,Jeju United FC,Pohang Steelers,1,2,0,1,A
-coree_sud,2026,2026-08-25,FC Seoul,Bucheon FC 1995,1,0,0,0,H
-coree_sud,2026,2026-08-25,Gimcheon Sangmu FC,Jeonbuk Motors,0,0,0,0,D
-coree_sud,2026,2026-08-26,Gangwon FC,Gwangju FC,2,2,0,2,D
-coree_sud,2026,2026-08-26,FC Anyang,Incheon United,2,1,1,1,H
-coree_sud,2026,2026-08-26,Daejeon Citizen,Ulsan Hyundai FC,2,1,0,0,H
-coree_sud,2026,2026-08-29,Bucheon FC 1995,FC Anyang,1,1,0,0,D
-coree_sud,2026,2026-08-29,Ulsan Hyundai FC,Gimcheon Sangmu FC,3,1,1,1,H
-coree_sud,2026,2026-08-30,Gangwon FC,Pohang Steelers,0,0,0,0,D
-coree_sud,2026,2026-08-30,Gwangju FC,FC Seoul,2,5,1,3,A
-coree_sud,2026,2026-08-30,Jeju United FC,Daejeon Citizen,3,1,1,0,H
-coree_sud,2026,2026-08-30,Incheon United,Jeonbuk Motors,1,1,0,0,D
-coree_sud,2026,2026-09-05,Bucheon FC 1995,Daejeon Citizen,0,5,0,2,A
-coree_sud,2026,2026-09-05,Jeju United FC,Ulsan Hyundai FC,0,0,0,0,D
-coree_sud,2026,2026-09-05,Jeonbuk Motors,Pohang Steelers,2,0,0,0,H
-coree_sud,2026,2026-09-05,FC Seoul,Incheon United,1,0,0,0,H
-coree_sud,2026,2026-09-06,FC Anyang,Gangwon FC,0,3,0,1,A
-coree_sud,2026,2026-09-06,Gimcheon Sangmu FC,Gwangju FC,2,2,1,0,D
-coree_sud,2026,2026-09-08,Incheon United,Bucheon FC 1995,2,1,1,1,H
-coree_sud,2026,2026-09-08,Ulsan Hyundai FC,FC Seoul,1,0,0,0,H
-coree_sud,2026,2026-09-09,Gangwon FC,Jeonbuk Motors,1,1,0,1,D
-coree_sud,2026,2026-09-09,Daejeon Citizen,FC Anyang,3,2,0,1,H
-coree_sud,2026,2026-09-09,Gwangju FC,Jeju United FC,0,1,0,0,A
-coree_sud,2026,2026-09-09,Pohang Steelers,Gimcheon Sangmu FC,0,0,0,0,D
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1506896,coree_sud,2026,2026-02-28,Incheon United,FC Seoul,1,2,0,0,A
+1506897,coree_sud,2026,2026-02-28,Ulsan Hyundai FC,Gangwon FC,3,1,2,0,H
+1506898,coree_sud,2026,2026-02-28,Gimcheon Sangmu FC,Pohang Steelers,1,1,1,0,D
+1506899,coree_sud,2026,2026-03-01,Jeonbuk Motors,Bucheon FC 1995,2,3,1,1,A
+1506900,coree_sud,2026,2026-03-01,Jeju United FC,Gwangju FC,0,0,0,0,D
+1506901,coree_sud,2026,2026-03-02,Daejeon Citizen,FC Anyang,1,1,0,0,D
+1506904,coree_sud,2026,2026-03-07,Bucheon FC 1995,Daejeon Citizen,1,1,0,0,D
+1506905,coree_sud,2026,2026-03-07,Gwangju FC,Incheon United,3,2,1,1,H
+1506906,coree_sud,2026,2026-03-08,Gimcheon Sangmu FC,Jeonbuk Motors,1,1,0,0,D
+1506907,coree_sud,2026,2026-03-08,FC Anyang,Jeju United FC,2,1,0,0,H
+1506908,coree_sud,2026,2026-03-14,Gwangju FC,Jeonbuk Motors,0,0,0,0,D
+1506909,coree_sud,2026,2026-03-14,Daejeon Citizen,Gimcheon Sangmu FC,1,1,0,1,D
+1506910,coree_sud,2026,2026-03-15,Bucheon FC 1995,Ulsan Hyundai FC,1,2,1,1,A
+1506911,coree_sud,2026,2026-03-15,Jeju United FC,FC Seoul,1,2,0,0,A
+1506912,coree_sud,2026,2026-03-15,Gangwon FC,FC Anyang,1,1,1,1,D
+1506913,coree_sud,2026,2026-03-15,Pohang Steelers,Incheon United,1,1,0,1,D
+1506914,coree_sud,2026,2026-03-17,Gimcheon Sangmu FC,Gwangju FC,1,1,0,0,D
+1506915,coree_sud,2026,2026-03-18,Bucheon FC 1995,Gangwon FC,0,0,0,0,D
+1506917,coree_sud,2026,2026-03-18,Jeju United FC,Ulsan Hyundai FC,0,2,0,0,A
+1506918,coree_sud,2026,2026-03-18,Jeonbuk Motors,FC Anyang,2,1,1,1,H
+1506916,coree_sud,2026,2026-03-18,Incheon United,Daejeon Citizen,1,3,1,1,A
+1506919,coree_sud,2026,2026-03-18,Pohang Steelers,FC Seoul,0,1,0,1,A
+1506920,coree_sud,2026,2026-03-21,Daejeon Citizen,Jeonbuk Motors,0,1,0,1,A
+1506921,coree_sud,2026,2026-03-22,FC Seoul,Gwangju FC,5,0,1,0,H
+1506922,coree_sud,2026,2026-03-22,Ulsan Hyundai FC,Gimcheon Sangmu FC,0,0,0,0,D
+1506924,coree_sud,2026,2026-03-22,Gangwon FC,Jeju United FC,1,1,0,1,D
+1506923,coree_sud,2026,2026-03-22,FC Anyang,Incheon United,0,1,0,0,A
+1506925,coree_sud,2026,2026-03-22,Pohang Steelers,Bucheon FC 1995,0,0,0,0,D
+1506902,coree_sud,2026,2026-03-28,Pohang Steelers,Gangwon FC,1,0,0,0,H
+1506926,coree_sud,2026,2026-04-04,Jeju United FC,Bucheon FC 1995,1,0,1,0,H
+1506927,coree_sud,2026,2026-04-04,Jeonbuk Motors,Ulsan Hyundai FC,2,0,1,0,H
+1506928,coree_sud,2026,2026-04-04,Gangwon FC,Gwangju FC,3,0,2,0,H
+1506929,coree_sud,2026,2026-04-04,Pohang Steelers,Daejeon Citizen,1,0,1,0,H
+1506930,coree_sud,2026,2026-04-05,FC Anyang,FC Seoul,1,1,0,1,D
+1506931,coree_sud,2026,2026-04-05,Incheon United,Gimcheon Sangmu FC,2,1,2,0,H
+1506932,coree_sud,2026,2026-04-11,Pohang Steelers,Jeju United FC,0,2,0,2,A
+1506933,coree_sud,2026,2026-04-11,FC Seoul,Jeonbuk Motors,1,0,0,0,H
+1506934,coree_sud,2026,2026-04-11,Gwangju FC,Bucheon FC 1995,0,1,0,0,A
+1506935,coree_sud,2026,2026-04-11,Incheon United,Ulsan Hyundai FC,1,2,0,1,A
+1506936,coree_sud,2026,2026-04-12,Daejeon Citizen,Gangwon FC,0,2,0,1,A
+1506937,coree_sud,2026,2026-04-12,Gimcheon Sangmu FC,FC Anyang,1,1,0,0,D
+1506903,coree_sud,2026,2026-04-15,Ulsan Hyundai FC,FC Seoul,1,4,0,3,A
+1506938,coree_sud,2026,2026-04-18,Gangwon FC,Jeonbuk Motors,1,1,0,1,D
+1506939,coree_sud,2026,2026-04-18,FC Seoul,Daejeon Citizen,0,1,0,1,A
+1506940,coree_sud,2026,2026-04-18,Bucheon FC 1995,Incheon United,2,2,0,2,D
+1506941,coree_sud,2026,2026-04-18,Jeju United FC,Gimcheon Sangmu FC,1,1,0,1,D
+1506942,coree_sud,2026,2026-04-19,Ulsan Hyundai FC,Gwangju FC,5,1,2,1,H
+1506943,coree_sud,2026,2026-04-19,Pohang Steelers,FC Anyang,0,1,0,0,A
+1506945,coree_sud,2026,2026-04-21,Jeonbuk Motors,Incheon United,1,2,1,1,A
+1506946,coree_sud,2026,2026-04-21,FC Seoul,Bucheon FC 1995,3,0,2,0,H
+1506944,coree_sud,2026,2026-04-21,Gimcheon Sangmu FC,Gangwon FC,0,3,0,2,A
+1506947,coree_sud,2026,2026-04-22,FC Anyang,Ulsan Hyundai FC,1,1,1,0,D
+1506948,coree_sud,2026,2026-04-22,Daejeon Citizen,Jeju United FC,0,1,0,1,A
+1506949,coree_sud,2026,2026-04-22,Pohang Steelers,Gwangju FC,1,0,1,0,H
+1506950,coree_sud,2026,2026-04-25,Gangwon FC,FC Seoul,1,2,0,1,A
+1506951,coree_sud,2026,2026-04-25,Bucheon FC 1995,Gimcheon Sangmu FC,0,2,0,1,A
+1506952,coree_sud,2026,2026-04-25,Incheon United,Jeju United FC,1,0,0,0,H
+1506953,coree_sud,2026,2026-04-26,Jeonbuk Motors,Pohang Steelers,3,2,2,1,H
+1506954,coree_sud,2026,2026-04-26,Gwangju FC,FC Anyang,2,5,0,3,A
+1506955,coree_sud,2026,2026-04-26,Ulsan Hyundai FC,Daejeon Citizen,1,4,0,3,A
+1506956,coree_sud,2026,2026-05-02,FC Seoul,Gimcheon Sangmu FC,2,3,1,1,A
+1506957,coree_sud,2026,2026-05-02,Ulsan Hyundai FC,Pohang Steelers,0,1,0,0,A
+1506959,coree_sud,2026,2026-05-02,Jeju United FC,Jeonbuk Motors,0,2,0,1,A
+1506958,coree_sud,2026,2026-05-02,Incheon United,Gangwon FC,0,1,0,1,A
+1506960,coree_sud,2026,2026-05-02,FC Anyang,Bucheon FC 1995,0,1,0,0,A
+1506961,coree_sud,2026,2026-05-02,Gwangju FC,Daejeon Citizen,0,5,0,2,A
+1506962,coree_sud,2026,2026-05-05,Bucheon FC 1995,Jeju United FC,0,1,0,0,A
+1506963,coree_sud,2026,2026-05-05,Jeonbuk Motors,Gwangju FC,4,0,1,0,H
+1506965,coree_sud,2026,2026-05-05,Gangwon FC,Pohang Steelers,1,1,0,0,D
+1506964,coree_sud,2026,2026-05-05,Daejeon Citizen,Incheon United,0,0,0,0,D
+1506966,coree_sud,2026,2026-05-05,Gimcheon Sangmu FC,Ulsan Hyundai FC,1,2,0,1,A
+1506967,coree_sud,2026,2026-05-05,FC Seoul,FC Anyang,0,0,0,0,D
+1506968,coree_sud,2026,2026-05-09,Jeju United FC,FC Seoul,2,1,1,0,H
+1506970,coree_sud,2026,2026-05-09,Gwangju FC,Gangwon FC,0,0,0,0,D
+1506969,coree_sud,2026,2026-05-09,Gimcheon Sangmu FC,Incheon United,0,3,0,2,A
+1506971,coree_sud,2026,2026-05-09,Daejeon Citizen,Pohang Steelers,0,2,0,0,A
+1506972,coree_sud,2026,2026-05-10,Ulsan Hyundai FC,Bucheon FC 1995,1,0,1,0,H
+1506973,coree_sud,2026,2026-05-10,FC Anyang,Jeonbuk Motors,1,1,0,0,D
+1506974,coree_sud,2026,2026-05-12,Gangwon FC,Daejeon Citizen,2,0,0,0,H
+1506975,coree_sud,2026,2026-05-12,Gwangju FC,FC Seoul,0,1,0,0,A
+1506976,coree_sud,2026,2026-05-12,Incheon United,Pohang Steelers,0,1,0,1,A
+1506978,coree_sud,2026,2026-05-13,Bucheon FC 1995,Jeonbuk Motors,0,0,0,0,D
+1506977,coree_sud,2026,2026-05-13,FC Anyang,Gimcheon Sangmu FC,2,2,1,0,D
+1506979,coree_sud,2026,2026-05-13,Ulsan Hyundai FC,Jeju United FC,2,1,2,0,H
+1506980,coree_sud,2026,2026-05-16,Daejeon Citizen,FC Seoul,1,2,0,1,A
+1506981,coree_sud,2026,2026-05-16,Incheon United,Gwangju FC,4,0,2,0,H
+1506982,coree_sud,2026,2026-05-17,Jeju United FC,FC Anyang,1,2,0,1,A
+1506983,coree_sud,2026,2026-05-17,Jeonbuk Motors,Gimcheon Sangmu FC,1,0,0,0,H
+1506984,coree_sud,2026,2026-05-17,Bucheon FC 1995,Pohang Steelers,2,0,0,0,H
+1506985,coree_sud,2026,2026-05-17,Gangwon FC,Ulsan Hyundai FC,2,0,2,0,H
+1506986,coree_sud,2026,2026-07-04,FC Anyang,Pohang Steelers,2,3,1,1,A
+1506987,coree_sud,2026,2026-07-04,Daejeon Citizen,Bucheon FC 1995,2,2,0,0,D
+1506988,coree_sud,2026,2026-07-04,Jeonbuk Motors,Gangwon FC,1,2,0,1,A
+1506990,coree_sud,2026,2026-07-05,Gwangju FC,Ulsan Hyundai FC,1,1,0,0,D
+1506991,coree_sud,2026,2026-07-05,FC Seoul,Incheon United,1,0,0,0,H
+1506989,coree_sud,2026,2026-07-05,Gimcheon Sangmu FC,Jeju United FC,1,1,0,0,D
+1506993,coree_sud,2026,2026-07-11,Gwangju FC,Pohang Steelers,0,3,0,1,A
+1506994,coree_sud,2026,2026-07-11,Ulsan Hyundai FC,Jeonbuk Motors,1,3,0,1,A
+1506992,coree_sud,2026,2026-07-11,Gimcheon Sangmu FC,Bucheon FC 1995,1,1,1,1,D
+1506996,coree_sud,2026,2026-07-12,Jeju United FC,Daejeon Citizen,0,0,0,0,D
+1506995,coree_sud,2026,2026-07-12,Incheon United,FC Anyang,0,1,0,1,A
+1506997,coree_sud,2026,2026-07-12,FC Seoul,Gangwon FC,0,0,0,0,D
+1506999,coree_sud,2026,2026-07-18,Gangwon FC,Gimcheon Sangmu FC,2,0,2,0,H
+1506998,coree_sud,2026,2026-07-18,Daejeon Citizen,Ulsan Hyundai FC,2,2,2,1,D
+1507001,coree_sud,2026,2026-07-18,Jeju United FC,Pohang Steelers,2,1,0,1,H
+1507000,coree_sud,2026,2026-07-18,Incheon United,Jeonbuk Motors,1,0,1,0,H
+1507003,coree_sud,2026,2026-07-19,Bucheon FC 1995,FC Seoul,1,3,0,1,A
+1507002,coree_sud,2026,2026-07-19,FC Anyang,Gwangju FC,1,1,0,0,D
+1507004,coree_sud,2026,2026-07-21,Jeju United FC,Gangwon FC,1,1,1,1,D
+1507005,coree_sud,2026,2026-07-21,Jeonbuk Motors,Daejeon Citizen,0,0,0,0,D
+1507006,coree_sud,2026,2026-07-21,Ulsan Hyundai FC,Incheon United,1,2,1,1,A
+1507007,coree_sud,2026,2026-07-22,Bucheon FC 1995,FC Anyang,2,3,1,1,A
+1507008,coree_sud,2026,2026-07-22,Gwangju FC,Gimcheon Sangmu FC,1,1,1,1,D
+1507009,coree_sud,2026,2026-07-22,FC Seoul,Pohang Steelers,3,1,1,0,H
+1507011,coree_sud,2026,2026-07-25,Pohang Steelers,Jeonbuk Motors,0,2,0,1,A
+1507010,coree_sud,2026,2026-07-25,Gimcheon Sangmu FC,Daejeon Citizen,3,2,2,1,H
+1507012,coree_sud,2026,2026-07-26,FC Anyang,Gangwon FC,2,1,2,0,H
+1507013,coree_sud,2026,2026-07-26,Gwangju FC,Jeju United FC,1,2,1,1,A
+1507014,coree_sud,2026,2026-07-26,Incheon United,Bucheon FC 1995,1,1,0,1,D
+1507015,coree_sud,2026,2026-07-26,FC Seoul,Ulsan Hyundai FC,1,3,0,2,A
+1507016,coree_sud,2026,2026-08-01,Gangwon FC,Bucheon FC 1995,0,3,0,1,A
+1507017,coree_sud,2026,2026-08-01,Jeonbuk Motors,FC Seoul,0,0,0,0,D
+1507018,coree_sud,2026,2026-08-01,Pohang Steelers,Gimcheon Sangmu FC,0,1,0,0,A
+1507019,coree_sud,2026,2026-08-02,Daejeon Citizen,Gwangju FC,2,0,0,0,H
+1507020,coree_sud,2026,2026-08-02,Jeju United FC,Incheon United,3,3,2,2,D
+1507021,coree_sud,2026,2026-08-02,Ulsan Hyundai FC,FC Anyang,3,1,0,0,H
+1507023,coree_sud,2026,2026-08-08,Bucheon FC 1995,Gwangju FC,0,0,0,0,D
+1507022,coree_sud,2026,2026-08-08,FC Anyang,Daejeon Citizen,1,2,0,2,A
+1507026,coree_sud,2026,2026-08-08,Jeonbuk Motors,Jeju United FC,1,3,0,1,A
+1507027,coree_sud,2026,2026-08-08,Pohang Steelers,Ulsan Hyundai FC,0,2,0,0,A
+1507025,coree_sud,2026,2026-08-08,Gimcheon Sangmu FC,FC Seoul,0,0,0,0,D
+1507028,coree_sud,2026,2026-08-15,Gwangju FC,Pohang Steelers,1,2,0,1,A
+1507029,coree_sud,2026,2026-08-15,Jeju United FC,FC Anyang,2,0,1,0,H
+1507030,coree_sud,2026,2026-08-15,FC Seoul,Daejeon Citizen,4,2,0,1,H
+1507031,coree_sud,2026,2026-08-16,Bucheon FC 1995,Jeonbuk Motors,3,2,2,0,H
+1507032,coree_sud,2026,2026-08-16,Incheon United,Gimcheon Sangmu FC,1,1,0,0,D
+1507033,coree_sud,2026,2026-08-16,Ulsan Hyundai FC,Gangwon FC,2,3,1,2,A
+1507037,coree_sud,2026,2026-08-22,Bucheon FC 1995,Pohang Steelers,3,0,2,0,H
+1507034,coree_sud,2026,2026-08-22,FC Anyang,FC Seoul,0,7,0,5,A
+1507035,coree_sud,2026,2026-08-22,Jeju United FC,Gimcheon Sangmu FC,0,0,0,0,D
+1507036,coree_sud,2026,2026-08-22,Jeonbuk Motors,Ulsan Hyundai FC,1,0,0,0,H
+1507038,coree_sud,2026,2026-08-23,Daejeon Citizen,Gangwon FC,3,0,0,0,H
+1507039,coree_sud,2026,2026-08-23,Gwangju FC,Incheon United,0,1,0,0,A
+1507041,coree_sud,2026,2026-08-25,Jeju United FC,Pohang Steelers,1,2,0,1,A
+1507042,coree_sud,2026,2026-08-25,FC Seoul,Bucheon FC 1995,1,0,0,0,H
+1507040,coree_sud,2026,2026-08-25,Gimcheon Sangmu FC,Jeonbuk Motors,0,0,0,0,D
+1507045,coree_sud,2026,2026-08-26,Gangwon FC,Gwangju FC,2,2,0,2,D
+1507043,coree_sud,2026,2026-08-26,FC Anyang,Incheon United,2,1,1,1,H
+1507044,coree_sud,2026,2026-08-26,Daejeon Citizen,Ulsan Hyundai FC,2,1,0,0,H
+1507046,coree_sud,2026,2026-08-29,Bucheon FC 1995,FC Anyang,1,1,0,0,D
+1507047,coree_sud,2026,2026-08-29,Ulsan Hyundai FC,Gimcheon Sangmu FC,3,1,1,1,H
+1507051,coree_sud,2026,2026-08-30,Gangwon FC,Pohang Steelers,0,0,0,0,D
+1507048,coree_sud,2026,2026-08-30,Gwangju FC,FC Seoul,2,5,1,3,A
+1507050,coree_sud,2026,2026-08-30,Jeju United FC,Daejeon Citizen,3,1,1,0,H
+1507049,coree_sud,2026,2026-08-30,Incheon United,Jeonbuk Motors,1,1,0,0,D
+1507052,coree_sud,2026,2026-09-05,Bucheon FC 1995,Daejeon Citizen,0,5,0,2,A
+1507053,coree_sud,2026,2026-09-05,Jeju United FC,Ulsan Hyundai FC,0,0,0,0,D
+1507054,coree_sud,2026,2026-09-05,Jeonbuk Motors,Pohang Steelers,2,0,0,0,H
+1507055,coree_sud,2026,2026-09-05,FC Seoul,Incheon United,1,0,0,0,H
+1507056,coree_sud,2026,2026-09-06,FC Anyang,Gangwon FC,0,3,0,1,A
+1507057,coree_sud,2026,2026-09-06,Gimcheon Sangmu FC,Gwangju FC,2,2,1,0,D
+1507058,coree_sud,2026,2026-09-08,Incheon United,Bucheon FC 1995,2,1,1,1,H
+1507059,coree_sud,2026,2026-09-08,Ulsan Hyundai FC,FC Seoul,1,0,0,0,H
+1507061,coree_sud,2026,2026-09-09,Gangwon FC,Jeonbuk Motors,1,1,0,1,D
+1507060,coree_sud,2026,2026-09-09,Daejeon Citizen,FC Anyang,3,2,0,1,H
+1507062,coree_sud,2026,2026-09-09,Gwangju FC,Jeju United FC,0,1,0,0,A
+1507063,coree_sud,2026,2026-09-09,Pohang Steelers,Gimcheon Sangmu FC,0,0,0,0,D
+1507064,coree_sud,2026,2026-09-12,Bucheon FC 1995,Jeju United FC,2,2,1,2,D
+1507065,coree_sud,2026,2026-09-12,Jeonbuk Motors,FC Seoul,1,2,1,1,A
+1507066,coree_sud,2026,2026-09-12,Ulsan Hyundai FC,Incheon United,2,1,0,0,H
+1507067,coree_sud,2026,2026-09-12,Daejeon Citizen,Pohang Steelers,2,2,0,0,D
+1507068,coree_sud,2026,2026-09-13,Gimcheon Sangmu FC,Gangwon FC,2,2,2,0,D
+1507069,coree_sud,2026,2026-09-13,Gwangju FC,FC Anyang,1,1,1,1,D

@@ -1,257 +1,267 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-bresil,2026,2026-01-28,Internacional,Atletico Paranaense,0,1,0,1,A
-bresil,2026,2026-01-28,Vitoria,Remo,2,0,0,0,H
-bresil,2026,2026-01-28,Coritiba,RB Bragantino,0,1,0,0,A
-bresil,2026,2026-01-28,Atletico-MG,Palmeiras,2,2,1,1,D
-bresil,2026,2026-01-28,Fluminense,Gremio,2,1,0,0,H
-bresil,2026,2026-01-28,Corinthians,Bahia,1,2,1,2,A
-bresil,2026,2026-01-28,Chapecoense-sc,Santos,4,2,1,1,H
-bresil,2026,2026-01-29,Sao Paulo,Flamengo,2,1,0,0,H
-bresil,2026,2026-01-29,Mirassol,Vasco DA Gama,2,1,1,1,H
-bresil,2026,2026-01-30,Botafogo,Cruzeiro,4,0,0,0,H
-bresil,2026,2026-02-04,Flamengo,Internacional,1,1,0,1,D
-bresil,2026,2026-02-04,RB Bragantino,Atletico-MG,1,0,1,0,H
-bresil,2026,2026-02-04,Santos,Sao Paulo,1,1,1,0,D
-bresil,2026,2026-02-04,Remo,Mirassol,2,2,2,0,D
-bresil,2026,2026-02-05,Palmeiras,Vitoria,5,1,3,0,H
-bresil,2026,2026-02-05,Gremio,Botafogo,5,3,1,2,H
-bresil,2026,2026-02-05,Bahia,Fluminense,1,1,0,1,D
-bresil,2026,2026-02-05,Vasco DA Gama,Chapecoense-sc,1,1,0,0,D
-bresil,2026,2026-02-06,Cruzeiro,Coritiba,1,2,1,1,A
-bresil,2026,2026-02-11,Vitoria,Flamengo,1,2,0,2,A
-bresil,2026,2026-02-11,Chapecoense-sc,Coritiba,3,3,1,1,D
-bresil,2026,2026-02-11,Mirassol,Cruzeiro,2,2,1,1,D
-bresil,2026,2026-02-11,Atletico-MG,Remo,3,3,1,1,D
-bresil,2026,2026-02-12,Sao Paulo,Gremio,2,0,1,0,H
-bresil,2026,2026-02-12,Vasco DA Gama,Bahia,0,1,0,1,A
-bresil,2026,2026-02-12,Atletico Paranaense,Santos,2,1,1,1,H
-bresil,2026,2026-02-12,Fluminense,Botafogo,1,0,0,0,H
-bresil,2026,2026-02-12,Corinthians,RB Bragantino,2,0,0,0,H
-bresil,2026,2026-02-13,Internacional,Palmeiras,1,3,1,1,A
-bresil,2026,2026-02-19,Atletico Paranaense,Corinthians,0,1,0,1,A
-bresil,2026,2026-02-25,RB Bragantino,Atletico Paranaense,1,1,1,0,D
-bresil,2026,2026-02-25,Remo,Internacional,1,1,1,1,D
-bresil,2026,2026-02-25,Coritiba,Sao Paulo,0,1,0,0,A
-bresil,2026,2026-02-25,Cruzeiro,Corinthians,1,1,1,0,D
-bresil,2026,2026-02-26,Palmeiras,Fluminense,2,1,2,1,H
-bresil,2026,2026-02-26,Gremio,Atletico-MG,2,1,0,0,H
-bresil,2026,2026-02-26,Santos,Vasco DA Gama,2,1,1,1,H
-bresil,2026,2026-03-11,Mirassol,Santos,2,2,1,0,D
-bresil,2026,2026-03-11,Atletico-MG,Internacional,1,0,1,0,H
-bresil,2026,2026-03-11,Bahia,Vitoria,1,1,1,1,D
-bresil,2026,2026-03-12,Flamengo,Cruzeiro,2,0,1,0,H
-bresil,2026,2026-03-12,Corinthians,Coritiba,0,2,0,1,A
-bresil,2026,2026-03-12,Remo,Fluminense,0,2,0,1,A
-bresil,2026,2026-03-12,Vasco DA Gama,Palmeiras,2,1,0,1,H
-bresil,2026,2026-03-12,Sao Paulo,Chapecoense-sc,2,0,0,0,H
-bresil,2026,2026-03-13,Gremio,RB Bragantino,1,1,1,0,D
-bresil,2026,2026-03-14,Vitoria,Atletico-MG,2,0,1,0,H
-bresil,2026,2026-03-14,Botafogo,Flamengo,0,3,0,2,A
-bresil,2026,2026-03-15,Internacional,Bahia,0,1,0,1,A
-bresil,2026,2026-03-15,Fluminense,Atletico Paranaense,3,2,2,1,H
-bresil,2026,2026-03-15,Santos,Corinthians,1,1,1,1,D
-bresil,2026,2026-03-15,Palmeiras,Mirassol,1,0,1,0,H
-bresil,2026,2026-03-15,Coritiba,Remo,1,0,1,0,H
-bresil,2026,2026-03-15,Cruzeiro,Vasco DA Gama,3,3,1,0,D
-bresil,2026,2026-03-15,RB Bragantino,Sao Paulo,1,2,1,0,A
-bresil,2026,2026-03-16,Chapecoense-sc,Gremio,1,1,1,1,D
-bresil,2026,2026-03-18,Bahia,RB Bragantino,2,0,2,0,H
-bresil,2026,2026-03-18,Palmeiras,Botafogo,2,1,1,0,H
-bresil,2026,2026-03-18,Atletico Paranaense,Cruzeiro,2,1,2,0,H
-bresil,2026,2026-03-18,Atletico-MG,Sao Paulo,1,0,0,0,H
-bresil,2026,2026-03-18,Mirassol,Coritiba,0,1,0,0,A
-bresil,2026,2026-03-19,Santos,Internacional,1,2,0,0,A
-bresil,2026,2026-03-19,Vasco DA Gama,Fluminense,3,2,0,1,H
-bresil,2026,2026-03-19,Gremio,Vitoria,2,0,1,0,H
-bresil,2026,2026-03-19,Flamengo,Remo,3,0,1,0,H
-bresil,2026,2026-03-20,Chapecoense-sc,Corinthians,0,0,0,0,D
-bresil,2026,2026-03-21,RB Bragantino,Botafogo,1,2,1,1,A
-bresil,2026,2026-03-21,Fluminense,Atletico-MG,1,0,1,0,H
-bresil,2026,2026-03-22,Sao Paulo,Palmeiras,0,1,0,1,A
-bresil,2026,2026-03-22,Vasco DA Gama,Gremio,2,1,2,1,H
-bresil,2026,2026-03-22,Atletico Paranaense,Coritiba,2,0,1,0,H
-bresil,2026,2026-03-22,Cruzeiro,Santos,0,0,0,0,D
-bresil,2026,2026-03-22,Remo,Bahia,4,1,1,1,H
-bresil,2026,2026-03-22,Internacional,Chapecoense-sc,2,0,1,0,H
-bresil,2026,2026-03-22,Vitoria,Mirassol,1,0,1,0,H
-bresil,2026,2026-03-22,Corinthians,Flamengo,1,1,1,1,D
-bresil,2026,2026-03-29,Atletico Paranaense,Botafogo,4,1,2,1,H
-bresil,2026,2026-04-01,Internacional,Sao Paulo,1,1,1,0,D
-bresil,2026,2026-04-01,Botafogo,Mirassol,3,2,2,1,H
-bresil,2026,2026-04-01,Bahia,Atletico Paranaense,3,0,2,0,H
-bresil,2026,2026-04-01,Cruzeiro,Vitoria,3,0,3,0,H
-bresil,2026,2026-04-01,Coritiba,Vasco DA Gama,1,1,0,1,D
-bresil,2026,2026-04-02,Fluminense,Corinthians,3,1,2,0,H
-bresil,2026,2026-04-02,Santos,Remo,2,0,1,0,H
-bresil,2026,2026-04-02,Chapecoense-sc,Atletico-MG,0,4,0,3,A
-bresil,2026,2026-04-03,Palmeiras,Gremio,2,1,1,0,H
-bresil,2026,2026-04-03,RB Bragantino,Flamengo,3,0,2,0,H
-bresil,2026,2026-04-04,Sao Paulo,Cruzeiro,4,1,2,0,H
-bresil,2026,2026-04-04,Coritiba,Fluminense,1,1,0,0,D
-bresil,2026,2026-04-05,Vasco DA Gama,Botafogo,1,2,0,0,A
-bresil,2026,2026-04-05,Chapecoense-sc,Vitoria,1,1,0,0,D
-bresil,2026,2026-04-05,Flamengo,Santos,3,1,0,0,H
-bresil,2026,2026-04-05,Atletico-MG,Atletico Paranaense,2,1,1,0,H
-bresil,2026,2026-04-05,Bahia,Palmeiras,1,2,0,1,A
-bresil,2026,2026-04-05,Corinthians,Internacional,0,1,0,0,A
-bresil,2026,2026-04-05,Mirassol,RB Bragantino,0,1,0,0,A
-bresil,2026,2026-04-05,Gremio,Remo,0,0,0,0,D
-bresil,2026,2026-04-11,Vitoria,Sao Paulo,2,0,1,0,H
-bresil,2026,2026-04-11,Remo,Vasco DA Gama,1,1,0,0,D
-bresil,2026,2026-04-11,Mirassol,Bahia,1,2,1,0,A
-bresil,2026,2026-04-11,Santos,Atletico-MG,1,0,0,0,H
-bresil,2026,2026-04-11,Internacional,Gremio,0,0,0,0,D
-bresil,2026,2026-04-12,Atletico Paranaense,Chapecoense-sc,2,0,0,0,H
-bresil,2026,2026-04-12,Botafogo,Coritiba,2,2,0,1,D
-bresil,2026,2026-04-12,Fluminense,Flamengo,1,2,0,1,A
-bresil,2026,2026-04-12,Corinthians,Palmeiras,0,0,0,0,D
-bresil,2026,2026-04-12,Cruzeiro,RB Bragantino,2,1,1,1,H
-bresil,2026,2026-04-18,Chapecoense-sc,Botafogo,1,4,1,3,A
-bresil,2026,2026-04-18,Vasco DA Gama,Sao Paulo,2,1,0,1,H
-bresil,2026,2026-04-18,Vitoria,Corinthians,0,0,0,0,D
-bresil,2026,2026-04-18,Cruzeiro,Gremio,2,0,0,0,H
-bresil,2026,2026-04-19,Internacional,Mirassol,1,2,0,2,A
-bresil,2026,2026-04-19,Santos,Fluminense,2,3,1,1,A
-bresil,2026,2026-04-19,Coritiba,Atletico-MG,2,0,1,0,H
-bresil,2026,2026-04-19,Palmeiras,Atletico Paranaense,1,0,1,0,H
-bresil,2026,2026-04-19,RB Bragantino,Remo,4,2,2,2,H
-bresil,2026,2026-04-19,Flamengo,Bahia,2,0,1,0,H
-bresil,2026,2026-04-25,Bahia,Santos,2,2,0,2,D
-bresil,2026,2026-04-25,Botafogo,Internacional,2,2,0,0,D
-bresil,2026,2026-04-25,Remo,Cruzeiro,0,1,0,1,A
-bresil,2026,2026-04-26,Sao Paulo,Mirassol,1,0,0,0,H
-bresil,2026,2026-04-26,Gremio,Coritiba,1,0,1,0,H
-bresil,2026,2026-04-26,Corinthians,Vasco DA Gama,1,0,1,0,H
-bresil,2026,2026-04-26,Atletico Paranaense,Vitoria,3,1,1,1,H
-bresil,2026,2026-04-26,RB Bragantino,Palmeiras,0,1,0,1,A
-bresil,2026,2026-04-26,Fluminense,Chapecoense-sc,2,1,0,0,H
-bresil,2026,2026-04-26,Atletico-MG,Flamengo,0,4,0,3,A
-bresil,2026,2026-05-02,Botafogo,Remo,1,2,1,0,A
-bresil,2026,2026-05-02,Palmeiras,Santos,1,1,0,1,D
-bresil,2026,2026-05-02,Vitoria,Coritiba,4,1,2,1,H
-bresil,2026,2026-05-02,Atletico Paranaense,Gremio,0,0,0,0,D
-bresil,2026,2026-05-03,Cruzeiro,Atletico-MG,1,3,0,2,A
-bresil,2026,2026-05-03,Sao Paulo,Bahia,2,2,1,0,D
-bresil,2026,2026-05-03,Flamengo,Vasco DA Gama,2,2,1,0,D
-bresil,2026,2026-05-03,Internacional,Fluminense,2,0,1,0,H
-bresil,2026,2026-05-03,Chapecoense-sc,RB Bragantino,1,2,1,1,A
-bresil,2026,2026-05-03,Mirassol,Corinthians,2,1,2,0,H
-bresil,2026,2026-05-09,Coritiba,Internacional,2,2,1,0,D
-bresil,2026,2026-05-09,Fluminense,Vitoria,2,2,1,0,D
-bresil,2026,2026-05-10,Bahia,Cruzeiro,1,2,1,1,A
-bresil,2026,2026-05-10,Atletico-MG,Botafogo,1,1,1,0,D
-bresil,2026,2026-05-10,Remo,Palmeiras,1,1,1,1,D
-bresil,2026,2026-05-10,Santos,RB Bragantino,2,0,1,0,H
-bresil,2026,2026-05-10,Corinthians,Sao Paulo,3,2,1,1,H
-bresil,2026,2026-05-10,Mirassol,Chapecoense-sc,1,1,0,0,D
-bresil,2026,2026-05-10,Gremio,Flamengo,0,1,0,0,A
-bresil,2026,2026-05-10,Vasco DA Gama,Atletico Paranaense,1,0,1,0,H
-bresil,2026,2026-05-16,Internacional,Vasco DA Gama,4,1,2,0,H
-bresil,2026,2026-05-16,Atletico-MG,Mirassol,3,1,1,1,H
-bresil,2026,2026-05-16,Fluminense,Sao Paulo,2,1,2,0,H
-bresil,2026,2026-05-17,Palmeiras,Cruzeiro,1,1,1,1,D
-bresil,2026,2026-05-17,Santos,Coritiba,0,3,0,3,A
-bresil,2026,2026-05-17,Bahia,Gremio,1,1,0,0,D
-bresil,2026,2026-05-17,Botafogo,Corinthians,3,1,2,1,H
-bresil,2026,2026-05-17,Chapecoense-sc,Remo,2,3,1,1,A
-bresil,2026,2026-05-17,RB Bragantino,Vitoria,2,0,1,0,H
-bresil,2026,2026-05-17,Atletico Paranaense,Flamengo,1,1,1,0,D
-bresil,2026,2026-05-23,Sao Paulo,Botafogo,1,1,1,0,D
-bresil,2026,2026-05-23,Vitoria,Internacional,2,0,1,0,H
-bresil,2026,2026-05-23,Gremio,Santos,3,2,1,1,H
-bresil,2026,2026-05-23,Mirassol,Fluminense,1,0,1,0,H
-bresil,2026,2026-05-24,Flamengo,Palmeiras,0,3,0,1,A
-bresil,2026,2026-05-24,Cruzeiro,Chapecoense-sc,2,1,1,0,H
-bresil,2026,2026-05-24,Remo,Atletico Paranaense,1,2,1,1,A
-bresil,2026,2026-05-24,Corinthians,Atletico-MG,1,0,0,0,H
-bresil,2026,2026-05-24,Vasco DA Gama,RB Bragantino,0,3,0,1,A
-bresil,2026,2026-05-25,Coritiba,Bahia,3,2,0,1,H
-bresil,2026,2026-05-30,Flamengo,Coritiba,3,0,1,0,H
-bresil,2026,2026-05-30,Atletico Paranaense,Mirassol,1,0,0,0,H
-bresil,2026,2026-05-30,Bahia,Botafogo,2,1,0,1,H
-bresil,2026,2026-05-30,Gremio,Corinthians,1,3,1,1,A
-bresil,2026,2026-05-30,Santos,Vitoria,3,1,1,0,H
-bresil,2026,2026-05-31,RB Bragantino,Internacional,3,1,2,0,H
-bresil,2026,2026-05-31,Palmeiras,Chapecoense-sc,1,0,0,0,H
-bresil,2026,2026-05-31,Vasco DA Gama,Atletico-MG,0,1,0,1,A
-bresil,2026,2026-05-31,Cruzeiro,Fluminense,1,1,0,1,D
-bresil,2026,2026-05-31,Remo,Sao Paulo,1,0,0,0,H
-bresil,2026,2026-07-16,Botafogo,Santos,2,1,1,0,H
-bresil,2026,2026-07-16,Vitoria,Vasco DA Gama,1,0,0,0,H
-bresil,2026,2026-07-17,Bahia,Chapecoense-sc,2,0,2,0,H
-bresil,2026,2026-07-17,Fluminense,RB Bragantino,1,1,0,1,D
-bresil,2026,2026-07-17,Mirassol,Gremio,2,1,2,0,H
-bresil,2026,2026-07-21,Atletico-MG,Bahia,1,1,1,0,D
-bresil,2026,2026-07-22,Coritiba,Palmeiras,1,3,0,2,A
-bresil,2026,2026-07-23,Internacional,Cruzeiro,1,2,0,1,A
-bresil,2026,2026-07-23,Sao Paulo,Atletico Paranaense,1,2,1,0,A
-bresil,2026,2026-07-23,Chapecoense-sc,Flamengo,0,4,0,2,A
-bresil,2026,2026-07-23,Botafogo,Vitoria,0,0,0,0,D
-bresil,2026,2026-07-23,Corinthians,Remo,3,0,3,0,H
-bresil,2026,2026-07-25,Santos,Chapecoense-sc,2,2,1,0,D
-bresil,2026,2026-07-25,Atletico Paranaense,Internacional,2,0,1,0,H
-bresil,2026,2026-07-25,Vasco DA Gama,Mirassol,1,1,0,1,D
-bresil,2026,2026-07-26,Bahia,Corinthians,1,1,1,1,D
-bresil,2026,2026-07-26,Cruzeiro,Botafogo,0,1,0,1,A
-bresil,2026,2026-07-26,Flamengo,Sao Paulo,1,1,0,0,D
-bresil,2026,2026-07-26,Gremio,Fluminense,1,1,0,0,D
-bresil,2026,2026-07-26,RB Bragantino,Coritiba,0,0,0,0,D
-bresil,2026,2026-07-26,Palmeiras,Atletico-MG,1,2,0,0,A
-bresil,2026,2026-07-26,Remo,Vitoria,2,0,1,0,H
-bresil,2026,2026-07-29,Internacional,Flamengo,1,1,1,0,D
-bresil,2026,2026-07-29,Mirassol,Remo,2,1,1,1,H
-bresil,2026,2026-07-30,Fluminense,Bahia,0,0,0,0,D
-bresil,2026,2026-07-30,Vitoria,Palmeiras,0,4,0,2,A
-bresil,2026,2026-07-30,Corinthians,Atletico Paranaense,0,0,0,0,D
-bresil,2026,2026-07-31,Coritiba,Cruzeiro,0,1,0,0,A
-bresil,2026,2026-08-08,Gremio,Sao Paulo,2,1,0,1,H
-bresil,2026,2026-08-08,Remo,Atletico-MG,2,2,1,2,D
-bresil,2026,2026-08-08,Coritiba,Chapecoense-sc,2,1,1,0,H
-bresil,2026,2026-08-09,Botafogo,Fluminense,1,1,1,0,D
-bresil,2026,2026-08-09,Cruzeiro,Mirassol,3,1,1,1,H
-bresil,2026,2026-08-09,Bahia,Vasco DA Gama,0,0,0,0,D
-bresil,2026,2026-08-09,Palmeiras,Internacional,0,0,0,0,D
-bresil,2026,2026-08-09,Santos,Atletico Paranaense,0,2,0,2,A
-bresil,2026,2026-08-09,RB Bragantino,Corinthians,0,2,0,0,A
-bresil,2026,2026-08-09,Flamengo,Vitoria,2,0,1,0,H
-bresil,2026,2026-08-15,Fluminense,Palmeiras,3,2,1,1,H
-bresil,2026,2026-08-15,Atletico Paranaense,RB Bragantino,1,1,0,0,D
-bresil,2026,2026-08-16,Sao Paulo,Coritiba,1,1,1,0,D
-bresil,2026,2026-08-16,Chapecoense-sc,Bahia,3,3,1,2,D
-bresil,2026,2026-08-16,Vasco DA Gama,Santos,0,3,0,0,A
-bresil,2026,2026-08-16,Atletico-MG,Gremio,3,0,1,0,H
-bresil,2026,2026-08-16,Vitoria,Botafogo,1,0,1,0,H
-bresil,2026,2026-08-16,Mirassol,Flamengo,1,5,0,1,A
-bresil,2026,2026-08-16,Corinthians,Cruzeiro,1,2,0,1,A
-bresil,2026,2026-08-17,Internacional,Remo,1,1,1,0,D
-bresil,2026,2026-08-22,Fluminense,Remo,2,1,0,1,H
-bresil,2026,2026-08-22,Internacional,Atletico-MG,0,0,0,0,D
-bresil,2026,2026-08-22,Cruzeiro,Flamengo,2,1,0,1,H
-bresil,2026,2026-08-23,Palmeiras,Vasco DA Gama,4,1,0,0,H
-bresil,2026,2026-08-23,Vitoria,Bahia,0,2,0,0,A
-bresil,2026,2026-08-23,RB Bragantino,Gremio,1,0,0,0,H
-bresil,2026,2026-08-23,Santos,Mirassol,1,1,0,1,D
-bresil,2026,2026-08-23,Chapecoense-sc,Sao Paulo,1,0,1,0,H
-bresil,2026,2026-08-23,Coritiba,Corinthians,2,1,1,0,H
-bresil,2026,2026-08-24,Botafogo,Atletico Paranaense,2,3,0,2,A
-bresil,2026,2026-08-29,Atletico-MG,Vitoria,2,1,1,0,H
-bresil,2026,2026-08-29,Sao Paulo,RB Bragantino,2,1,2,0,H
-bresil,2026,2026-08-30,Vasco DA Gama,Cruzeiro,3,1,1,0,H
-bresil,2026,2026-08-30,Atletico Paranaense,Fluminense,3,3,1,1,D
-bresil,2026,2026-08-30,Flamengo,Botafogo,3,0,1,0,H
-bresil,2026,2026-08-30,Corinthians,Santos,0,1,0,1,A
-bresil,2026,2026-08-30,Gremio,Chapecoense-sc,3,1,2,1,H
-bresil,2026,2026-08-30,Mirassol,Palmeiras,1,1,0,0,D
-bresil,2026,2026-08-30,Bahia,Internacional,3,2,3,1,H
-bresil,2026,2026-08-31,Remo,Coritiba,2,3,0,0,A
-bresil,2026,2026-09-02,Flamengo,Mirassol,2,0,2,0,H
-bresil,2026,2026-09-05,RB Bragantino,Bahia,2,3,2,2,A
-bresil,2026,2026-09-05,Sao Paulo,Atletico-MG,2,0,0,0,H
-bresil,2026,2026-09-06,Fluminense,Vasco DA Gama,1,0,0,0,H
-bresil,2026,2026-09-06,Coritiba,Mirassol,1,2,0,0,A
-bresil,2026,2026-09-06,Internacional,Santos,2,3,0,3,A
-bresil,2026,2026-09-06,Cruzeiro,Atletico Paranaense,3,1,1,1,H
-bresil,2026,2026-09-06,Remo,Flamengo,0,1,0,0,A
-bresil,2026,2026-09-06,Botafogo,Palmeiras,0,0,0,0,D
-bresil,2026,2026-09-06,Corinthians,Chapecoense-sc,1,2,1,1,A
-bresil,2026,2026-09-07,Vitoria,Gremio,1,0,0,0,H
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1492116,bresil,2026,2026-01-28,Internacional,Atletico Paranaense,0,1,0,1,A
+1492119,bresil,2026,2026-01-28,Vitoria,Remo,2,0,0,0,H
+1492114,bresil,2026,2026-01-28,Coritiba,RB Bragantino,0,1,0,0,A
+1492110,bresil,2026,2026-01-28,Atletico-MG,Palmeiras,2,2,1,1,D
+1492115,bresil,2026,2026-01-28,Fluminense,Gremio,2,1,0,0,H
+1492113,bresil,2026,2026-01-28,Corinthians,Bahia,1,2,1,2,A
+1492112,bresil,2026,2026-01-28,Chapecoense-sc,Santos,4,2,1,1,H
+1492118,bresil,2026,2026-01-29,Sao Paulo,Flamengo,2,1,0,0,H
+1492117,bresil,2026,2026-01-29,Mirassol,Vasco DA Gama,2,1,1,1,H
+1492111,bresil,2026,2026-01-30,Botafogo,Cruzeiro,4,0,0,0,H
+1492124,bresil,2026,2026-02-04,Flamengo,Internacional,1,1,0,1,D
+1492122,bresil,2026,2026-02-04,RB Bragantino,Atletico-MG,1,0,1,0,H
+1492128,bresil,2026,2026-02-04,Santos,Sao Paulo,1,1,1,0,D
+1492127,bresil,2026,2026-02-04,Remo,Mirassol,2,2,2,0,D
+1492126,bresil,2026,2026-02-05,Palmeiras,Vitoria,5,1,3,0,H
+1492125,bresil,2026,2026-02-05,Gremio,Botafogo,5,3,1,2,H
+1492121,bresil,2026,2026-02-05,Bahia,Fluminense,1,1,0,1,D
+1492129,bresil,2026,2026-02-05,Vasco DA Gama,Chapecoense-sc,1,1,0,0,D
+1492123,bresil,2026,2026-02-06,Cruzeiro,Coritiba,1,2,1,1,A
+1492139,bresil,2026,2026-02-11,Vitoria,Flamengo,1,2,0,2,A
+1492132,bresil,2026,2026-02-11,Chapecoense-sc,Coritiba,3,3,1,1,D
+1492136,bresil,2026,2026-02-11,Mirassol,Cruzeiro,2,2,1,1,D
+1492131,bresil,2026,2026-02-11,Atletico-MG,Remo,3,3,1,1,D
+1492137,bresil,2026,2026-02-12,Sao Paulo,Gremio,2,0,1,0,H
+1492138,bresil,2026,2026-02-12,Vasco DA Gama,Bahia,0,1,0,1,A
+1492130,bresil,2026,2026-02-12,Atletico Paranaense,Santos,2,1,1,1,H
+1492134,bresil,2026,2026-02-12,Fluminense,Botafogo,1,0,0,0,H
+1492133,bresil,2026,2026-02-12,Corinthians,RB Bragantino,2,0,0,0,H
+1492135,bresil,2026,2026-02-13,Internacional,Palmeiras,1,3,1,1,A
+1492120,bresil,2026,2026-02-19,Atletico Paranaense,Corinthians,0,1,0,1,A
+1492142,bresil,2026,2026-02-25,RB Bragantino,Atletico Paranaense,1,1,1,0,D
+1492148,bresil,2026,2026-02-25,Remo,Internacional,1,1,1,1,D
+1492143,bresil,2026,2026-02-25,Coritiba,Sao Paulo,0,1,0,0,A
+1492144,bresil,2026,2026-02-25,Cruzeiro,Corinthians,1,1,1,0,D
+1492147,bresil,2026,2026-02-26,Palmeiras,Fluminense,2,1,2,1,H
+1492146,bresil,2026,2026-02-26,Gremio,Atletico-MG,2,1,0,0,H
+1492149,bresil,2026,2026-02-26,Santos,Vasco DA Gama,2,1,1,1,H
+1492156,bresil,2026,2026-03-11,Mirassol,Santos,2,2,1,0,D
+1492151,bresil,2026,2026-03-11,Atletico-MG,Internacional,1,0,1,0,H
+1492152,bresil,2026,2026-03-11,Bahia,Vitoria,1,1,1,1,D
+1492154,bresil,2026,2026-03-12,Flamengo,Cruzeiro,2,0,1,0,H
+1492153,bresil,2026,2026-03-12,Corinthians,Coritiba,0,2,0,1,A
+1492157,bresil,2026,2026-03-12,Remo,Fluminense,0,2,0,1,A
+1492159,bresil,2026,2026-03-12,Vasco DA Gama,Palmeiras,2,1,0,1,H
+1492158,bresil,2026,2026-03-12,Sao Paulo,Chapecoense-sc,2,0,0,0,H
+1492155,bresil,2026,2026-03-13,Gremio,RB Bragantino,1,1,1,0,D
+1492169,bresil,2026,2026-03-14,Vitoria,Atletico-MG,2,0,1,0,H
+1492160,bresil,2026,2026-03-14,Botafogo,Flamengo,0,3,0,2,A
+1492166,bresil,2026,2026-03-15,Internacional,Bahia,0,1,0,1,A
+1492165,bresil,2026,2026-03-15,Fluminense,Atletico Paranaense,3,2,2,1,H
+1492168,bresil,2026,2026-03-15,Santos,Corinthians,1,1,1,1,D
+1492167,bresil,2026,2026-03-15,Palmeiras,Mirassol,1,0,1,0,H
+1492163,bresil,2026,2026-03-15,Coritiba,Remo,1,0,1,0,H
+1492164,bresil,2026,2026-03-15,Cruzeiro,Vasco DA Gama,3,3,1,0,D
+1492161,bresil,2026,2026-03-15,RB Bragantino,Sao Paulo,1,2,1,0,A
+1492162,bresil,2026,2026-03-16,Chapecoense-sc,Gremio,1,1,1,1,D
+1492172,bresil,2026,2026-03-18,Bahia,RB Bragantino,2,0,2,0,H
+1492177,bresil,2026,2026-03-18,Palmeiras,Botafogo,2,1,1,0,H
+1492170,bresil,2026,2026-03-18,Atletico Paranaense,Cruzeiro,2,1,2,0,H
+1492171,bresil,2026,2026-03-18,Atletico-MG,Sao Paulo,1,0,0,0,H
+1492176,bresil,2026,2026-03-18,Mirassol,Coritiba,0,1,0,0,A
+1492178,bresil,2026,2026-03-19,Santos,Internacional,1,2,0,0,A
+1492179,bresil,2026,2026-03-19,Vasco DA Gama,Fluminense,3,2,0,1,H
+1492175,bresil,2026,2026-03-19,Gremio,Vitoria,2,0,1,0,H
+1492174,bresil,2026,2026-03-19,Flamengo,Remo,3,0,1,0,H
+1492173,bresil,2026,2026-03-20,Chapecoense-sc,Corinthians,0,0,0,0,D
+1492181,bresil,2026,2026-03-21,RB Bragantino,Botafogo,1,2,1,1,A
+1492184,bresil,2026,2026-03-21,Fluminense,Atletico-MG,1,0,1,0,H
+1492187,bresil,2026,2026-03-22,Sao Paulo,Palmeiras,0,1,0,1,A
+1492188,bresil,2026,2026-03-22,Vasco DA Gama,Gremio,2,1,2,1,H
+1492180,bresil,2026,2026-03-22,Atletico Paranaense,Coritiba,2,0,1,0,H
+1492183,bresil,2026,2026-03-22,Cruzeiro,Santos,0,0,0,0,D
+1492186,bresil,2026,2026-03-22,Remo,Bahia,4,1,1,1,H
+1492185,bresil,2026,2026-03-22,Internacional,Chapecoense-sc,2,0,1,0,H
+1492189,bresil,2026,2026-03-22,Vitoria,Mirassol,1,0,1,0,H
+1492182,bresil,2026,2026-03-22,Corinthians,Flamengo,1,1,1,1,D
+1492150,bresil,2026,2026-03-29,Atletico Paranaense,Botafogo,4,1,2,1,H
+1492197,bresil,2026,2026-04-01,Internacional,Sao Paulo,1,1,1,0,D
+1492191,bresil,2026,2026-04-01,Botafogo,Mirassol,3,2,2,1,H
+1492190,bresil,2026,2026-04-01,Bahia,Atletico Paranaense,3,0,2,0,H
+1492195,bresil,2026,2026-04-01,Cruzeiro,Vitoria,3,0,3,0,H
+1492194,bresil,2026,2026-04-01,Coritiba,Vasco DA Gama,1,1,0,1,D
+1492196,bresil,2026,2026-04-02,Fluminense,Corinthians,3,1,2,0,H
+1492199,bresil,2026,2026-04-02,Santos,Remo,2,0,1,0,H
+1492193,bresil,2026,2026-04-02,Chapecoense-sc,Atletico-MG,0,4,0,3,A
+1492198,bresil,2026,2026-04-03,Palmeiras,Gremio,2,1,1,0,H
+1492192,bresil,2026,2026-04-03,RB Bragantino,Flamengo,3,0,2,0,H
+1492208,bresil,2026,2026-04-04,Sao Paulo,Cruzeiro,4,1,2,0,H
+1492204,bresil,2026,2026-04-04,Coritiba,Fluminense,1,1,0,0,D
+1492209,bresil,2026,2026-04-05,Vasco DA Gama,Botafogo,1,2,0,0,A
+1492202,bresil,2026,2026-04-05,Chapecoense-sc,Vitoria,1,1,0,0,D
+1492205,bresil,2026,2026-04-05,Flamengo,Santos,3,1,0,0,H
+1492200,bresil,2026,2026-04-05,Atletico-MG,Atletico Paranaense,2,1,1,0,H
+1492201,bresil,2026,2026-04-05,Bahia,Palmeiras,1,2,0,1,A
+1492203,bresil,2026,2026-04-05,Corinthians,Internacional,0,1,0,0,A
+1492207,bresil,2026,2026-04-05,Mirassol,RB Bragantino,0,1,0,0,A
+1492206,bresil,2026,2026-04-05,Gremio,Remo,0,0,0,0,D
+1492219,bresil,2026,2026-04-11,Vitoria,Sao Paulo,2,0,1,0,H
+1492217,bresil,2026,2026-04-11,Remo,Vasco DA Gama,1,1,0,0,D
+1492216,bresil,2026,2026-04-11,Mirassol,Bahia,1,2,1,0,A
+1492218,bresil,2026,2026-04-11,Santos,Atletico-MG,1,0,0,0,H
+1492215,bresil,2026,2026-04-11,Internacional,Gremio,0,0,0,0,D
+1492210,bresil,2026,2026-04-12,Atletico Paranaense,Chapecoense-sc,2,0,0,0,H
+1492211,bresil,2026,2026-04-12,Botafogo,Coritiba,2,2,0,1,D
+1492214,bresil,2026,2026-04-12,Fluminense,Flamengo,1,2,0,1,A
+1492212,bresil,2026,2026-04-12,Corinthians,Palmeiras,0,0,0,0,D
+1492213,bresil,2026,2026-04-12,Cruzeiro,RB Bragantino,2,1,1,1,H
+1492221,bresil,2026,2026-04-18,Chapecoense-sc,Botafogo,1,4,1,3,A
+1492228,bresil,2026,2026-04-18,Vasco DA Gama,Sao Paulo,2,1,0,1,H
+1492229,bresil,2026,2026-04-18,Vitoria,Corinthians,0,0,0,0,D
+1492223,bresil,2026,2026-04-18,Cruzeiro,Gremio,2,0,0,0,H
+1492225,bresil,2026,2026-04-19,Internacional,Mirassol,1,2,0,2,A
+1492227,bresil,2026,2026-04-19,Santos,Fluminense,2,3,1,1,A
+1492222,bresil,2026,2026-04-19,Coritiba,Atletico-MG,2,0,1,0,H
+1492226,bresil,2026,2026-04-19,Palmeiras,Atletico Paranaense,1,0,1,0,H
+1492220,bresil,2026,2026-04-19,RB Bragantino,Remo,4,2,2,2,H
+1492224,bresil,2026,2026-04-19,Flamengo,Bahia,2,0,1,0,H
+1492232,bresil,2026,2026-04-25,Bahia,Santos,2,2,0,2,D
+1492233,bresil,2026,2026-04-25,Botafogo,Internacional,2,2,0,0,D
+1492238,bresil,2026,2026-04-25,Remo,Cruzeiro,0,1,0,1,A
+1492239,bresil,2026,2026-04-26,Sao Paulo,Mirassol,1,0,0,0,H
+1492237,bresil,2026,2026-04-26,Gremio,Coritiba,1,0,1,0,H
+1492235,bresil,2026,2026-04-26,Corinthians,Vasco DA Gama,1,0,1,0,H
+1492230,bresil,2026,2026-04-26,Atletico Paranaense,Vitoria,3,1,1,1,H
+1492234,bresil,2026,2026-04-26,RB Bragantino,Palmeiras,0,1,0,1,A
+1492236,bresil,2026,2026-04-26,Fluminense,Chapecoense-sc,2,1,0,0,H
+1492231,bresil,2026,2026-04-26,Atletico-MG,Flamengo,0,4,0,3,A
+1492241,bresil,2026,2026-05-02,Botafogo,Remo,1,2,1,0,A
+1492247,bresil,2026,2026-05-02,Palmeiras,Santos,1,1,0,1,D
+1492249,bresil,2026,2026-05-02,Vitoria,Coritiba,4,1,2,1,H
+1492240,bresil,2026,2026-05-02,Atletico Paranaense,Gremio,0,0,0,0,D
+1492243,bresil,2026,2026-05-03,Cruzeiro,Atletico-MG,1,3,0,2,A
+1492248,bresil,2026,2026-05-03,Sao Paulo,Bahia,2,2,1,0,D
+1492244,bresil,2026,2026-05-03,Flamengo,Vasco DA Gama,2,2,1,0,D
+1492245,bresil,2026,2026-05-03,Internacional,Fluminense,2,0,1,0,H
+1492242,bresil,2026,2026-05-03,Chapecoense-sc,RB Bragantino,1,2,1,1,A
+1492246,bresil,2026,2026-05-03,Mirassol,Corinthians,2,1,2,0,H
+1492253,bresil,2026,2026-05-09,Coritiba,Internacional,2,2,1,0,D
+1492254,bresil,2026,2026-05-09,Fluminense,Vitoria,2,2,1,0,D
+1492251,bresil,2026,2026-05-10,Bahia,Cruzeiro,1,2,1,1,A
+1492250,bresil,2026,2026-05-10,Atletico-MG,Botafogo,1,1,1,0,D
+1492257,bresil,2026,2026-05-10,Remo,Palmeiras,1,1,1,1,D
+1492258,bresil,2026,2026-05-10,Santos,RB Bragantino,2,0,1,0,H
+1492252,bresil,2026,2026-05-10,Corinthians,Sao Paulo,3,2,1,1,H
+1492256,bresil,2026,2026-05-10,Mirassol,Chapecoense-sc,1,1,0,0,D
+1492255,bresil,2026,2026-05-10,Gremio,Flamengo,0,1,0,0,A
+1492259,bresil,2026,2026-05-10,Vasco DA Gama,Atletico Paranaense,1,0,1,0,H
+1492267,bresil,2026,2026-05-16,Internacional,Vasco DA Gama,4,1,2,0,H
+1492261,bresil,2026,2026-05-16,Atletico-MG,Mirassol,3,1,1,1,H
+1492266,bresil,2026,2026-05-16,Fluminense,Sao Paulo,2,1,2,0,H
+1492268,bresil,2026,2026-05-17,Palmeiras,Cruzeiro,1,1,1,1,D
+1492269,bresil,2026,2026-05-17,Santos,Coritiba,0,3,0,3,A
+1492262,bresil,2026,2026-05-17,Bahia,Gremio,1,1,0,0,D
+1492263,bresil,2026,2026-05-17,Botafogo,Corinthians,3,1,2,1,H
+1492265,bresil,2026,2026-05-17,Chapecoense-sc,Remo,2,3,1,1,A
+1492264,bresil,2026,2026-05-17,RB Bragantino,Vitoria,2,0,1,0,H
+1492260,bresil,2026,2026-05-17,Atletico Paranaense,Flamengo,1,1,1,0,D
+1492277,bresil,2026,2026-05-23,Sao Paulo,Botafogo,1,1,1,0,D
+1492279,bresil,2026,2026-05-23,Vitoria,Internacional,2,0,1,0,H
+1492274,bresil,2026,2026-05-23,Gremio,Santos,3,2,1,1,H
+1492275,bresil,2026,2026-05-23,Mirassol,Fluminense,1,0,1,0,H
+1492273,bresil,2026,2026-05-24,Flamengo,Palmeiras,0,3,0,1,A
+1492272,bresil,2026,2026-05-24,Cruzeiro,Chapecoense-sc,2,1,1,0,H
+1492276,bresil,2026,2026-05-24,Remo,Atletico Paranaense,1,2,1,1,A
+1492270,bresil,2026,2026-05-24,Corinthians,Atletico-MG,1,0,0,0,H
+1492278,bresil,2026,2026-05-24,Vasco DA Gama,RB Bragantino,0,3,0,1,A
+1492271,bresil,2026,2026-05-25,Coritiba,Bahia,3,2,0,1,H
+1492284,bresil,2026,2026-05-30,Flamengo,Coritiba,3,0,1,0,H
+1492280,bresil,2026,2026-05-30,Atletico Paranaense,Mirassol,1,0,0,0,H
+1492281,bresil,2026,2026-05-30,Bahia,Botafogo,2,1,0,1,H
+1492285,bresil,2026,2026-05-30,Gremio,Corinthians,1,3,1,1,A
+1492288,bresil,2026,2026-05-30,Santos,Vitoria,3,1,1,0,H
+1492282,bresil,2026,2026-05-31,RB Bragantino,Internacional,3,1,2,0,H
+1492286,bresil,2026,2026-05-31,Palmeiras,Chapecoense-sc,1,0,0,0,H
+1492289,bresil,2026,2026-05-31,Vasco DA Gama,Atletico-MG,0,1,0,1,A
+1492283,bresil,2026,2026-05-31,Cruzeiro,Fluminense,1,1,0,1,D
+1492287,bresil,2026,2026-05-31,Remo,Sao Paulo,1,0,0,0,H
+1492291,bresil,2026,2026-07-16,Botafogo,Santos,2,1,1,0,H
+1492299,bresil,2026,2026-07-16,Vitoria,Vasco DA Gama,1,0,0,0,H
+1492140,bresil,2026,2026-07-17,Bahia,Chapecoense-sc,2,0,2,0,H
+1492295,bresil,2026,2026-07-17,Fluminense,RB Bragantino,1,1,0,1,D
+1492297,bresil,2026,2026-07-17,Mirassol,Gremio,2,1,2,0,H
+1492290,bresil,2026,2026-07-21,Atletico-MG,Bahia,1,1,1,0,D
+1492294,bresil,2026,2026-07-22,Coritiba,Palmeiras,1,3,0,2,A
+1492296,bresil,2026,2026-07-23,Internacional,Cruzeiro,1,2,0,1,A
+1492298,bresil,2026,2026-07-23,Sao Paulo,Atletico Paranaense,1,2,1,0,A
+1492292,bresil,2026,2026-07-23,Chapecoense-sc,Flamengo,0,4,0,2,A
+1492141,bresil,2026,2026-07-23,Botafogo,Vitoria,0,0,0,0,D
+1492293,bresil,2026,2026-07-23,Corinthians,Remo,3,0,3,0,H
+1492308,bresil,2026,2026-07-25,Santos,Chapecoense-sc,2,2,1,0,D
+1492300,bresil,2026,2026-07-25,Atletico Paranaense,Internacional,2,0,1,0,H
+1492309,bresil,2026,2026-07-25,Vasco DA Gama,Mirassol,1,1,0,1,D
+1492301,bresil,2026,2026-07-26,Bahia,Corinthians,1,1,1,1,D
+1492303,bresil,2026,2026-07-26,Cruzeiro,Botafogo,0,1,0,1,A
+1492304,bresil,2026,2026-07-26,Flamengo,Sao Paulo,1,1,0,0,D
+1492305,bresil,2026,2026-07-26,Gremio,Fluminense,1,1,0,0,D
+1492302,bresil,2026,2026-07-26,RB Bragantino,Coritiba,0,0,0,0,D
+1492306,bresil,2026,2026-07-26,Palmeiras,Atletico-MG,1,2,0,0,A
+1492307,bresil,2026,2026-07-26,Remo,Vitoria,2,0,1,0,H
+1492316,bresil,2026,2026-07-29,Internacional,Flamengo,1,1,1,0,D
+1492317,bresil,2026,2026-07-29,Mirassol,Remo,2,1,1,1,H
+1492315,bresil,2026,2026-07-30,Fluminense,Bahia,0,0,0,0,D
+1492319,bresil,2026,2026-07-30,Vitoria,Palmeiras,0,4,0,2,A
+1492313,bresil,2026,2026-07-30,Corinthians,Atletico Paranaense,0,0,0,0,D
+1492314,bresil,2026,2026-07-31,Coritiba,Cruzeiro,0,1,0,0,A
+1492326,bresil,2026,2026-08-08,Gremio,Sao Paulo,2,1,0,1,H
+1492328,bresil,2026,2026-08-08,Remo,Atletico-MG,2,2,1,2,D
+1492323,bresil,2026,2026-08-08,Coritiba,Chapecoense-sc,2,1,1,0,H
+1492321,bresil,2026,2026-08-09,Botafogo,Fluminense,1,1,1,0,D
+1492324,bresil,2026,2026-08-09,Cruzeiro,Mirassol,3,1,1,1,H
+1492320,bresil,2026,2026-08-09,Bahia,Vasco DA Gama,0,0,0,0,D
+1492327,bresil,2026,2026-08-09,Palmeiras,Internacional,0,0,0,0,D
+1492329,bresil,2026,2026-08-09,Santos,Atletico Paranaense,0,2,0,2,A
+1492322,bresil,2026,2026-08-09,RB Bragantino,Corinthians,0,2,0,0,A
+1492325,bresil,2026,2026-08-09,Flamengo,Vitoria,2,0,1,0,H
+1492334,bresil,2026,2026-08-15,Fluminense,Palmeiras,3,2,1,1,H
+1492330,bresil,2026,2026-08-15,Atletico Paranaense,RB Bragantino,1,1,0,0,D
+1492337,bresil,2026,2026-08-16,Sao Paulo,Coritiba,1,1,1,0,D
+1492332,bresil,2026,2026-08-16,Chapecoense-sc,Bahia,3,3,1,2,D
+1492338,bresil,2026,2026-08-16,Vasco DA Gama,Santos,0,3,0,0,A
+1492331,bresil,2026,2026-08-16,Atletico-MG,Gremio,3,0,1,0,H
+1492339,bresil,2026,2026-08-16,Vitoria,Botafogo,1,0,1,0,H
+1492336,bresil,2026,2026-08-16,Mirassol,Flamengo,1,5,0,1,A
+1492333,bresil,2026,2026-08-16,Corinthians,Cruzeiro,1,2,0,1,A
+1492335,bresil,2026,2026-08-17,Internacional,Remo,1,1,1,0,D
+1492345,bresil,2026,2026-08-22,Fluminense,Remo,2,1,0,1,H
+1492346,bresil,2026,2026-08-22,Internacional,Atletico-MG,0,0,0,0,D
+1492344,bresil,2026,2026-08-22,Cruzeiro,Flamengo,2,1,0,1,H
+1492347,bresil,2026,2026-08-23,Palmeiras,Vasco DA Gama,4,1,0,0,H
+1492349,bresil,2026,2026-08-23,Vitoria,Bahia,0,2,0,0,A
+1492341,bresil,2026,2026-08-23,RB Bragantino,Gremio,1,0,0,0,H
+1492348,bresil,2026,2026-08-23,Santos,Mirassol,1,1,0,1,D
+1492342,bresil,2026,2026-08-23,Chapecoense-sc,Sao Paulo,1,0,1,0,H
+1492343,bresil,2026,2026-08-23,Coritiba,Corinthians,2,1,1,0,H
+1492340,bresil,2026,2026-08-24,Botafogo,Atletico Paranaense,2,3,0,2,A
+1492351,bresil,2026,2026-08-29,Atletico-MG,Vitoria,2,1,1,0,H
+1492358,bresil,2026,2026-08-29,Sao Paulo,RB Bragantino,2,1,2,0,H
+1492359,bresil,2026,2026-08-30,Vasco DA Gama,Cruzeiro,3,1,1,0,H
+1492350,bresil,2026,2026-08-30,Atletico Paranaense,Fluminense,3,3,1,1,D
+1492354,bresil,2026,2026-08-30,Flamengo,Botafogo,3,0,1,0,H
+1492353,bresil,2026,2026-08-30,Corinthians,Santos,0,1,0,1,A
+1492355,bresil,2026,2026-08-30,Gremio,Chapecoense-sc,3,1,2,1,H
+1492356,bresil,2026,2026-08-30,Mirassol,Palmeiras,1,1,0,0,D
+1492352,bresil,2026,2026-08-30,Bahia,Internacional,3,2,3,1,H
+1492357,bresil,2026,2026-08-31,Remo,Coritiba,2,3,0,0,A
+1492145,bresil,2026,2026-09-02,Flamengo,Mirassol,2,0,2,0,H
+1492361,bresil,2026,2026-09-05,RB Bragantino,Bahia,2,3,2,2,A
+1492368,bresil,2026,2026-09-05,Sao Paulo,Atletico-MG,2,0,0,0,H
+1492365,bresil,2026,2026-09-06,Fluminense,Vasco DA Gama,1,0,0,0,H
+1492363,bresil,2026,2026-09-06,Coritiba,Mirassol,1,2,0,0,A
+1492366,bresil,2026,2026-09-06,Internacional,Santos,2,3,0,3,A
+1492364,bresil,2026,2026-09-06,Cruzeiro,Atletico Paranaense,3,1,1,1,H
+1492367,bresil,2026,2026-09-06,Remo,Flamengo,0,1,0,0,A
+1492360,bresil,2026,2026-09-06,Botafogo,Palmeiras,0,0,0,0,D
+1492362,bresil,2026,2026-09-06,Corinthians,Chapecoense-sc,1,2,1,1,A
+1492369,bresil,2026,2026-09-07,Vitoria,Gremio,1,0,0,0,H
+1492374,bresil,2026,2026-09-12,Coritiba,Atletico Paranaense,3,3,1,2,D
+1492376,bresil,2026,2026-09-12,Gremio,Vasco DA Gama,1,2,1,0,A
+1492370,bresil,2026,2026-09-12,Atletico-MG,Fluminense,3,1,0,0,H
+1492373,bresil,2026,2026-09-12,Chapecoense-sc,Internacional,1,2,1,1,A
+1492378,bresil,2026,2026-09-12,Palmeiras,Sao Paulo,2,0,1,0,H
+1492372,bresil,2026,2026-09-12,Botafogo,RB Bragantino,1,1,0,1,D
+1492379,bresil,2026,2026-09-13,Santos,Cruzeiro,2,1,2,0,H
+1492377,bresil,2026,2026-09-13,Mirassol,Vitoria,2,2,0,2,D
+1492375,bresil,2026,2026-09-13,Flamengo,Corinthians,2,1,0,0,H
+1492371,bresil,2026,2026-09-14,Bahia,Remo,2,1,1,0,H

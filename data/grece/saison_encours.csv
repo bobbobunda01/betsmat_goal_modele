@@ -1,22 +1,29 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-Grece,2026,2026-08-22,AEK Athens FC,Iraklis 1908,4,0,2,0,H
-Grece,2026,2026-08-22,Kalamata,Aris Thessalonikis,2,3,1,1,A
-Grece,2026,2026-08-22,Olympiakos Piraeus,Atromitos,1,0,0,0,H
-Grece,2026,2026-08-23,OFI,Volos NFC,2,0,2,0,H
-Grece,2026,2026-08-23,PAOK,Levadiakos,4,0,2,0,H
-Grece,2026,2026-08-23,Panetolikos,Asteras Tripolis,3,1,1,0,H
-Grece,2026,2026-08-29,Volos NFC,Iraklis 1908,1,1,0,1,D
-Grece,2026,2026-08-29,Panetolikos,Kalamata,2,0,1,0,H
-Grece,2026,2026-08-30,Aris Thessalonikis,OFI,2,1,1,0,H
-Grece,2026,2026-08-30,Atromitos,PAOK,1,2,1,1,A
-Grece,2026,2026-08-30,Asteras Tripolis,Olympiakos Piraeus,0,1,0,1,A
-Grece,2026,2026-08-30,Kifisia,AEK Athens FC,1,1,0,0,D
-Grece,2026,2026-08-31,Levadiakos,Panathinaikos,0,2,0,1,A
-Grece,2026,2026-09-05,Volos NFC,Olympiakos Piraeus,1,1,0,1,D
-Grece,2026,2026-09-05,AEK Athens FC,Aris Thessalonikis,5,0,1,0,H
-Grece,2026,2026-09-06,Atromitos,Kalamata,1,1,1,0,D
-Grece,2026,2026-09-06,OFI,Kifisia,2,0,2,0,H
-Grece,2026,2026-09-06,Levadiakos,Panetolikos,0,2,0,0,A
-Grece,2026,2026-09-06,Panathinaikos,PAOK,3,1,2,0,H
-Grece,2026,2026-09-07,Asteras Tripolis,Iraklis 1908,0,2,0,1,A
-Grece,2026,2026-09-10,Panathinaikos,Kifisia,3,1,0,0,H
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1593289,Grece,2026,2026-08-22,AEK Athens FC,Iraklis 1908,4,0,2,0,H
+1593290,Grece,2026,2026-08-22,Kalamata,Aris Thessalonikis,2,3,1,1,A
+1593292,Grece,2026,2026-08-22,Olympiakos Piraeus,Atromitos,1,0,0,0,H
+1593291,Grece,2026,2026-08-23,OFI,Volos NFC,2,0,2,0,H
+1593295,Grece,2026,2026-08-23,PAOK,Levadiakos,4,0,2,0,H
+1593294,Grece,2026,2026-08-23,Panetolikos,Asteras Tripolis,3,1,1,0,H
+1593302,Grece,2026,2026-08-29,Volos NFC,Iraklis 1908,1,1,0,1,D
+1593301,Grece,2026,2026-08-29,Panetolikos,Kalamata,2,0,1,0,H
+1593296,Grece,2026,2026-08-30,Aris Thessalonikis,OFI,2,1,1,0,H
+1593298,Grece,2026,2026-08-30,Atromitos,PAOK,1,2,1,1,A
+1593297,Grece,2026,2026-08-30,Asteras Tripolis,Olympiakos Piraeus,0,1,0,1,A
+1593299,Grece,2026,2026-08-30,Kifisia,AEK Athens FC,1,1,0,0,D
+1593300,Grece,2026,2026-08-31,Levadiakos,Panathinaikos,0,2,0,1,A
+1593309,Grece,2026,2026-09-05,Volos NFC,Olympiakos Piraeus,1,1,0,1,D
+1593303,Grece,2026,2026-09-05,AEK Athens FC,Aris Thessalonikis,5,0,1,0,H
+1593304,Grece,2026,2026-09-06,Atromitos,Kalamata,1,1,1,0,D
+1593307,Grece,2026,2026-09-06,OFI,Kifisia,2,0,2,0,H
+1593306,Grece,2026,2026-09-06,Levadiakos,Panetolikos,0,2,0,0,A
+1593308,Grece,2026,2026-09-06,Panathinaikos,PAOK,3,1,2,0,H
+1593305,Grece,2026,2026-09-07,Asteras Tripolis,Iraklis 1908,0,2,0,1,A
+1593293,Grece,2026,2026-09-10,Panathinaikos,Kifisia,3,1,0,0,H
+1593314,Grece,2026,2026-09-12,Olympiakos Piraeus,OFI,0,1,0,0,A
+1593311,Grece,2026,2026-09-12,Iraklis 1908,Atromitos,1,1,0,1,D
+1593312,Grece,2026,2026-09-13,Kalamata,Volos NFC,3,1,0,1,H
+1593310,Grece,2026,2026-09-13,Asteras Tripolis,AEK Athens FC,1,1,1,1,D
+1593316,Grece,2026,2026-09-13,PAOK,Aris Thessalonikis,2,0,2,0,H
+1593313,Grece,2026,2026-09-13,Kifisia,Levadiakos,0,0,0,0,D
+1593315,Grece,2026,2026-09-13,Panathinaikos,Panetolikos,3,0,2,0,H

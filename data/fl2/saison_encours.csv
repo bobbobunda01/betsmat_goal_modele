@@ -1,46 +1,55 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-france_league_2,2026,2026-08-08,Montpellier,Dijon,1,1,0,0,D
-france_league_2,2026,2026-08-08,Nantes,RED Star FC 93,0,1,0,0,A
-france_league_2,2026,2026-08-08,Clermont Foot,Reims,0,0,0,0,D
-france_league_2,2026,2026-08-08,Metz,Guingamp,2,1,0,0,H
-france_league_2,2026,2026-08-08,Sochaux,Saint Etienne,0,3,0,3,A
-france_league_2,2026,2026-08-08,PAU,Annecy,0,1,0,1,A
-france_league_2,2026,2026-08-08,Boulogne,Nancy,0,0,0,0,D
-france_league_2,2026,2026-08-08,Rodez,Laval,3,1,0,0,H
-france_league_2,2026,2026-08-08,Dunkerque,Grenoble,4,2,1,1,H
-france_league_2,2026,2026-08-14,Dijon,PAU,0,1,0,0,A
-france_league_2,2026,2026-08-14,Guingamp,Boulogne,1,0,0,0,H
-france_league_2,2026,2026-08-14,Reims,Dunkerque,3,3,1,1,D
-france_league_2,2026,2026-08-14,Grenoble,Metz,0,0,0,0,D
-france_league_2,2026,2026-08-14,Nancy,Montpellier,0,1,0,0,A
-france_league_2,2026,2026-08-14,RED Star FC 93,Sochaux,0,0,0,0,D
-france_league_2,2026,2026-08-14,Laval,Nantes,2,1,1,1,H
-france_league_2,2026,2026-08-14,Saint Etienne,Clermont Foot,3,1,1,0,H
-france_league_2,2026,2026-08-14,Annecy,Rodez,2,0,1,0,H
-france_league_2,2026,2026-08-21,Clermont Foot,Dijon,1,1,0,0,D
-france_league_2,2026,2026-08-21,Sochaux,Guingamp,1,0,1,0,H
-france_league_2,2026,2026-08-21,PAU,Nancy,0,1,0,0,A
-france_league_2,2026,2026-08-21,Boulogne,RED Star FC 93,1,1,0,1,D
-france_league_2,2026,2026-08-21,Dunkerque,Montpellier,0,1,0,0,A
-france_league_2,2026,2026-08-22,Nantes,Rodez,2,5,2,1,A
-france_league_2,2026,2026-08-22,Metz,Laval,1,1,0,0,D
-france_league_2,2026,2026-08-22,Saint Etienne,Grenoble,4,0,3,0,H
-france_league_2,2026,2026-08-24,Reims,Annecy,3,1,0,1,H
-france_league_2,2026,2026-08-28,Montpellier,Boulogne,0,0,0,0,D
-france_league_2,2026,2026-08-28,Clermont Foot,Sochaux,0,0,0,0,D
-france_league_2,2026,2026-08-28,Nancy,Dunkerque,2,0,1,0,H
-france_league_2,2026,2026-08-28,Laval,Grenoble,0,3,0,2,A
-france_league_2,2026,2026-08-28,Rodez,PAU,2,2,1,2,D
-france_league_2,2026,2026-08-29,RED Star FC 93,Reims,1,4,1,2,A
-france_league_2,2026,2026-08-29,Annecy,Metz,1,1,1,1,D
-france_league_2,2026,2026-08-29,Guingamp,Nantes,3,3,2,1,D
-france_league_2,2026,2026-08-31,Dijon,Saint Etienne,2,3,1,1,A
-france_league_2,2026,2026-09-04,Grenoble,Annecy,1,2,0,0,A
-france_league_2,2026,2026-09-04,Laval,RED Star FC 93,1,2,0,2,A
-france_league_2,2026,2026-09-04,PAU,Sochaux,1,1,1,0,D
-france_league_2,2026,2026-09-04,Boulogne,Dijon,1,1,1,0,D
-france_league_2,2026,2026-09-04,Dunkerque,Clermont Foot,1,1,1,0,D
-france_league_2,2026,2026-09-05,Reims,Guingamp,2,2,0,1,D
-france_league_2,2026,2026-09-05,Metz,Rodez,4,1,3,1,H
-france_league_2,2026,2026-09-05,Saint Etienne,Montpellier,3,1,1,1,H
-france_league_2,2026,2026-09-07,Nantes,Nancy,1,0,0,0,H
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1552427,france_league_2,2026,2026-08-08,Montpellier,Dijon,1,1,0,0,D
+1552428,france_league_2,2026,2026-08-08,Nantes,RED Star FC 93,0,1,0,0,A
+1552424,france_league_2,2026,2026-08-08,Clermont Foot,Reims,0,0,0,0,D
+1552426,france_league_2,2026,2026-08-08,Metz,Guingamp,2,1,0,0,H
+1552431,france_league_2,2026,2026-08-08,Sochaux,Saint Etienne,0,3,0,3,A
+1552429,france_league_2,2026,2026-08-08,PAU,Annecy,0,1,0,1,A
+1552423,france_league_2,2026,2026-08-08,Boulogne,Nancy,0,0,0,0,D
+1552430,france_league_2,2026,2026-08-08,Rodez,Laval,3,1,0,0,H
+1552425,france_league_2,2026,2026-08-08,Dunkerque,Grenoble,4,2,1,1,H
+1552433,france_league_2,2026,2026-08-14,Dijon,PAU,0,1,0,0,A
+1552435,france_league_2,2026,2026-08-14,Guingamp,Boulogne,1,0,0,0,H
+1552439,france_league_2,2026,2026-08-14,Reims,Dunkerque,3,3,1,1,D
+1552434,france_league_2,2026,2026-08-14,Grenoble,Metz,0,0,0,0,D
+1552437,france_league_2,2026,2026-08-14,Nancy,Montpellier,0,1,0,0,A
+1552438,france_league_2,2026,2026-08-14,RED Star FC 93,Sochaux,0,0,0,0,D
+1552436,france_league_2,2026,2026-08-14,Laval,Nantes,2,1,1,1,H
+1552440,france_league_2,2026,2026-08-14,Saint Etienne,Clermont Foot,3,1,1,0,H
+1552432,france_league_2,2026,2026-08-14,Annecy,Rodez,2,0,1,0,H
+1552442,france_league_2,2026,2026-08-21,Clermont Foot,Dijon,1,1,0,0,D
+1552448,france_league_2,2026,2026-08-21,Sochaux,Guingamp,1,0,1,0,H
+1552446,france_league_2,2026,2026-08-21,PAU,Nancy,0,1,0,0,A
+1552441,france_league_2,2026,2026-08-21,Boulogne,RED Star FC 93,1,1,0,1,D
+1552443,france_league_2,2026,2026-08-21,Dunkerque,Montpellier,0,1,0,0,A
+1552445,france_league_2,2026,2026-08-22,Nantes,Rodez,2,5,2,1,A
+1552444,france_league_2,2026,2026-08-22,Metz,Laval,1,1,0,0,D
+1552449,france_league_2,2026,2026-08-22,Saint Etienne,Grenoble,4,0,3,0,H
+1552447,france_league_2,2026,2026-08-24,Reims,Annecy,3,1,0,1,H
+1552455,france_league_2,2026,2026-08-28,Montpellier,Boulogne,0,0,0,0,D
+1552451,france_league_2,2026,2026-08-28,Clermont Foot,Sochaux,0,0,0,0,D
+1552456,france_league_2,2026,2026-08-28,Nancy,Dunkerque,2,0,1,0,H
+1552454,france_league_2,2026,2026-08-28,Laval,Grenoble,0,3,0,2,A
+1552458,france_league_2,2026,2026-08-28,Rodez,PAU,2,2,1,2,D
+1552457,france_league_2,2026,2026-08-29,RED Star FC 93,Reims,1,4,1,2,A
+1552450,france_league_2,2026,2026-08-29,Annecy,Metz,1,1,1,1,D
+1552453,france_league_2,2026,2026-08-29,Guingamp,Nantes,3,3,2,1,D
+1552452,france_league_2,2026,2026-08-31,Dijon,Saint Etienne,2,3,1,1,A
+1552461,france_league_2,2026,2026-09-04,Grenoble,Annecy,1,2,0,0,A
+1552462,france_league_2,2026,2026-09-04,Laval,RED Star FC 93,1,2,0,2,A
+1552465,france_league_2,2026,2026-09-04,PAU,Sochaux,1,1,1,0,D
+1552459,france_league_2,2026,2026-09-04,Boulogne,Dijon,1,1,1,0,D
+1552460,france_league_2,2026,2026-09-04,Dunkerque,Clermont Foot,1,1,1,0,D
+1552466,france_league_2,2026,2026-09-05,Reims,Guingamp,2,2,0,1,D
+1552463,france_league_2,2026,2026-09-05,Metz,Rodez,4,1,3,1,H
+1552467,france_league_2,2026,2026-09-05,Saint Etienne,Montpellier,3,1,1,1,H
+1552464,france_league_2,2026,2026-09-07,Nantes,Nancy,1,0,0,0,H
+1552472,france_league_2,2026,2026-09-11,Montpellier,PAU,1,0,0,0,H
+1552469,france_league_2,2026,2026-09-11,Dijon,Laval,3,2,2,1,H
+1552468,france_league_2,2026,2026-09-11,Clermont Foot,Boulogne,0,0,0,0,D
+1552473,france_league_2,2026,2026-09-11,Nancy,Reims,1,2,0,2,A
+1552475,france_league_2,2026,2026-09-11,Rodez,Grenoble,0,1,0,1,A
+1552471,france_league_2,2026,2026-09-12,Guingamp,Annecy,2,1,0,1,H
+1552476,france_league_2,2026,2026-09-12,Sochaux,Nantes,1,0,0,0,H
+1552470,france_league_2,2026,2026-09-12,Dunkerque,Saint Etienne,2,1,0,1,H
+1552474,france_league_2,2026,2026-09-14,RED Star FC 93,Metz,1,0,0,0,H

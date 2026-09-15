@@ -1,37 +1,46 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-Turquie,2026,2026-08-14,Galatasaray,Çorum FK,2,2,0,0,D
-Turquie,2026,2026-08-15,Konyaspor,Rizespor,0,1,0,0,A
-Turquie,2026,2026-08-15,Kasımpaşa,Trabzonspor,1,1,0,1,D
-Turquie,2026,2026-08-15,Gençlerbirliği S.K.,Fenerbahçe,2,1,1,1,H
-Turquie,2026,2026-08-15,Gaziantep FK,Alanyaspor,1,1,0,1,D
-Turquie,2026,2026-08-16,Başakşehir,Kocaelispor,2,0,1,0,H
-Turquie,2026,2026-08-16,Beşiktaş,Eyüpspor,1,0,1,0,H
-Turquie,2026,2026-08-16,Amed,Erzurumspor FK,3,0,0,0,H
-Turquie,2026,2026-08-17,Samsunspor,Göztepe,3,3,2,1,D
-Turquie,2026,2026-08-21,Erzurumspor FK,Galatasaray,0,4,0,3,A
-Turquie,2026,2026-08-22,Rizespor,Samsunspor,0,2,0,1,A
-Turquie,2026,2026-08-22,Çorum FK,Kasımpaşa,0,1,0,1,A
-Turquie,2026,2026-08-22,Fenerbahçe,Konyaspor,4,2,3,1,H
-Turquie,2026,2026-08-23,Trabzonspor,Başakşehir,2,1,1,1,H
-Turquie,2026,2026-08-23,Eyüpspor,Gaziantep FK,0,1,0,0,A
-Turquie,2026,2026-08-23,Göztepe,Gençlerbirliği S.K.,0,1,0,0,A
-Turquie,2026,2026-08-23,Alanyaspor,Beşiktaş,1,0,0,0,H
-Turquie,2026,2026-08-24,Kocaelispor,Amed,2,0,1,0,H
-Turquie,2026,2026-08-28,Gençlerbirliği S.K.,Erzurumspor FK,1,1,0,0,D
-Turquie,2026,2026-08-29,Konyaspor,Kocaelispor,1,2,1,0,A
-Turquie,2026,2026-08-29,Galatasaray,Göztepe,3,2,1,1,H
-Turquie,2026,2026-08-29,Gaziantep FK,Rizespor,1,2,0,2,A
-Turquie,2026,2026-08-30,Eyüpspor,Alanyaspor,2,1,1,1,H
-Turquie,2026,2026-08-30,Başakşehir,Kasımpaşa,1,1,1,0,D
-Turquie,2026,2026-08-30,Samsunspor,Fenerbahçe,0,2,0,1,A
-Turquie,2026,2026-08-31,Beşiktaş,Çorum FK,6,2,2,0,H
-Turquie,2026,2026-08-31,Amed,Trabzonspor,2,1,1,1,H
-Turquie,2026,2026-09-04,Başakşehir,Galatasaray,2,3,0,1,A
-Turquie,2026,2026-09-05,Erzurumspor FK,Konyaspor,1,0,1,0,H
-Turquie,2026,2026-09-05,Fenerbahçe,Beşiktaş,1,2,1,1,A
-Turquie,2026,2026-09-06,Kasımpaşa,Amed,2,2,1,0,D
-Turquie,2026,2026-09-06,Çorum FK,Eyüpspor,3,0,2,0,H
-Turquie,2026,2026-09-06,Trabzonspor,Gençlerbirliği S.K.,5,0,3,0,H
-Turquie,2026,2026-09-06,Kocaelispor,Samsunspor,1,0,1,0,H
-Turquie,2026,2026-09-07,Göztepe,Gaziantep FK,2,4,0,4,A
-Turquie,2026,2026-09-07,Rizespor,Alanyaspor,0,1,0,0,A
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1584370,Turquie,2026,2026-08-14,Galatasaray,Çorum FK,2,2,0,0,D
+1584374,Turquie,2026,2026-08-15,Konyaspor,Rizespor,0,1,0,0,A
+1584373,Turquie,2026,2026-08-15,Kasımpaşa,Trabzonspor,1,1,0,1,D
+1584372,Turquie,2026,2026-08-15,Gençlerbirliği S.K.,Fenerbahçe,2,1,1,1,H
+1584371,Turquie,2026,2026-08-15,Gaziantep FK,Alanyaspor,1,1,0,1,D
+1584368,Turquie,2026,2026-08-16,Başakşehir,Kocaelispor,2,0,1,0,H
+1584369,Turquie,2026,2026-08-16,Beşiktaş,Eyüpspor,1,0,1,0,H
+1584367,Turquie,2026,2026-08-16,Amed,Erzurumspor FK,3,0,0,0,H
+1584375,Turquie,2026,2026-08-17,Samsunspor,Göztepe,3,3,2,1,D
+1584378,Turquie,2026,2026-08-21,Erzurumspor FK,Galatasaray,0,4,0,3,A
+1584383,Turquie,2026,2026-08-22,Rizespor,Samsunspor,0,2,0,1,A
+1584377,Turquie,2026,2026-08-22,Çorum FK,Kasımpaşa,0,1,0,1,A
+1584380,Turquie,2026,2026-08-22,Fenerbahçe,Konyaspor,4,2,3,1,H
+1584384,Turquie,2026,2026-08-23,Trabzonspor,Başakşehir,2,1,1,1,H
+1584379,Turquie,2026,2026-08-23,Eyüpspor,Gaziantep FK,0,1,0,0,A
+1584381,Turquie,2026,2026-08-23,Göztepe,Gençlerbirliği S.K.,0,1,0,0,A
+1584376,Turquie,2026,2026-08-23,Alanyaspor,Beşiktaş,1,0,0,0,H
+1584382,Turquie,2026,2026-08-24,Kocaelispor,Amed,2,0,1,0,H
+1584391,Turquie,2026,2026-08-28,Gençlerbirliği S.K.,Erzurumspor FK,1,1,0,0,D
+1584392,Turquie,2026,2026-08-29,Konyaspor,Kocaelispor,1,2,1,0,A
+1584389,Turquie,2026,2026-08-29,Galatasaray,Göztepe,3,2,1,1,H
+1584390,Turquie,2026,2026-08-29,Gaziantep FK,Rizespor,1,2,0,2,A
+1584388,Turquie,2026,2026-08-30,Eyüpspor,Alanyaspor,2,1,1,1,H
+1584386,Turquie,2026,2026-08-30,Başakşehir,Kasımpaşa,1,1,1,0,D
+1584393,Turquie,2026,2026-08-30,Samsunspor,Fenerbahçe,0,2,0,1,A
+1584387,Turquie,2026,2026-08-31,Beşiktaş,Çorum FK,6,2,2,0,H
+1584385,Turquie,2026,2026-08-31,Amed,Trabzonspor,2,1,1,1,H
+1584394,Turquie,2026,2026-09-04,Başakşehir,Galatasaray,2,3,0,1,A
+1584396,Turquie,2026,2026-09-05,Erzurumspor FK,Konyaspor,1,0,1,0,H
+1584397,Turquie,2026,2026-09-05,Fenerbahçe,Beşiktaş,1,2,1,1,A
+1584399,Turquie,2026,2026-09-06,Kasımpaşa,Amed,2,2,1,0,D
+1584395,Turquie,2026,2026-09-06,Çorum FK,Eyüpspor,3,0,2,0,H
+1584402,Turquie,2026,2026-09-06,Trabzonspor,Gençlerbirliği S.K.,5,0,3,0,H
+1584400,Turquie,2026,2026-09-06,Kocaelispor,Samsunspor,1,0,1,0,H
+1584398,Turquie,2026,2026-09-07,Göztepe,Gaziantep FK,2,4,0,4,A
+1584401,Turquie,2026,2026-09-07,Rizespor,Alanyaspor,0,1,0,0,A
+1584405,Turquie,2026,2026-09-11,Beşiktaş,Erzurumspor FK,3,0,2,0,H
+1584406,Turquie,2026,2026-09-12,Eyüpspor,Rizespor,0,2,0,1,A
+1584411,Turquie,2026,2026-09-12,Samsunspor,Çorum FK,1,5,1,3,A
+1584410,Turquie,2026,2026-09-12,Konyaspor,Trabzonspor,1,0,1,0,H
+1584403,Turquie,2026,2026-09-12,Alanyaspor,Göztepe,2,2,0,1,D
+1584409,Turquie,2026,2026-09-13,Gençlerbirliği S.K.,Kasımpaşa,1,2,1,0,A
+1584407,Turquie,2026,2026-09-13,Galatasaray,Kocaelispor,1,0,0,0,H
+1584404,Turquie,2026,2026-09-13,Amed,Başakşehir,5,0,1,0,H
+1584408,Turquie,2026,2026-09-14,Gaziantep FK,Fenerbahçe,0,0,0,0,D

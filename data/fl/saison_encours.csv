@@ -1,28 +1,37 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-Ligue 1,2026,2026-08-21,Marseille,Strasbourg,4,0,0,0,H
-Ligue 1,2026,2026-08-22,Lens,Auxerre,5,2,1,0,H
-Ligue 1,2026,2026-08-22,Nice,Lorient,0,0,0,0,D
-Ligue 1,2026,2026-08-22,Toulouse,Lyon,0,2,0,0,A
-Ligue 1,2026,2026-08-22,Estac Troyes,Paris FC,0,0,0,0,D
-Ligue 1,2026,2026-08-22,Le Mans,Stade Brestois 29,2,2,1,1,D
-Ligue 1,2026,2026-08-23,Angers,Lille,0,2,0,2,A
-Ligue 1,2026,2026-08-23,Le Havre,Monaco,0,1,0,1,A
-Ligue 1,2026,2026-08-23,Rennes,Paris Saint Germain,2,2,2,0,D
-Ligue 1,2026,2026-08-28,Lille,Paris Saint Germain,2,2,1,0,D
-Ligue 1,2026,2026-08-29,Strasbourg,Lens,2,1,0,1,H
-Ligue 1,2026,2026-08-29,Lyon,Le Havre,1,1,0,0,D
-Ligue 1,2026,2026-08-29,Lorient,Estac Troyes,1,2,0,2,A
-Ligue 1,2026,2026-08-29,Stade Brestois 29,Toulouse,2,2,1,1,D
-Ligue 1,2026,2026-08-29,Auxerre,Angers,1,3,1,1,A
-Ligue 1,2026,2026-08-30,Paris FC,Nice,3,0,1,0,H
-Ligue 1,2026,2026-08-30,Rennes,Le Mans,3,2,2,1,H
-Ligue 1,2026,2026-08-30,Monaco,Marseille,2,0,1,0,H
-Ligue 1,2026,2026-09-03,Toulouse,Lille,0,1,0,0,A
-Ligue 1,2026,2026-09-04,Lyon,Auxerre,3,1,2,1,H
-Ligue 1,2026,2026-09-04,Paris Saint Germain,Monaco,1,2,1,0,A
-Ligue 1,2026,2026-09-05,Lens,Lorient,0,1,0,0,A
-Ligue 1,2026,2026-09-05,Nice,Le Mans,1,1,1,1,D
-Ligue 1,2026,2026-09-05,Le Havre,Stade Brestois 29,1,2,0,1,A
-Ligue 1,2026,2026-09-06,Estac Troyes,Strasbourg,2,6,1,2,A
-Ligue 1,2026,2026-09-06,Angers,Rennes,1,2,1,2,A
-Ligue 1,2026,2026-09-06,Marseille,Paris FC,2,3,1,2,A
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1552733,Ligue 1,2026,2026-08-21,Marseille,Strasbourg,4,0,0,0,H
+1552732,Ligue 1,2026,2026-08-22,Lens,Auxerre,5,2,1,0,H
+1552734,Ligue 1,2026,2026-08-22,Nice,Lorient,0,0,0,0,D
+1552736,Ligue 1,2026,2026-08-22,Toulouse,Lyon,0,2,0,0,A
+1552737,Ligue 1,2026,2026-08-22,Estac Troyes,Paris FC,0,0,0,0,D
+1552731,Ligue 1,2026,2026-08-22,Le Mans,Stade Brestois 29,2,2,1,1,D
+1552729,Ligue 1,2026,2026-08-23,Angers,Lille,0,2,0,2,A
+1552730,Ligue 1,2026,2026-08-23,Le Havre,Monaco,0,1,0,1,A
+1552735,Ligue 1,2026,2026-08-23,Rennes,Paris Saint Germain,2,2,2,0,D
+1552746,Ligue 1,2026,2026-08-28,Lille,Paris Saint Germain,2,2,1,0,D
+1552745,Ligue 1,2026,2026-08-29,Strasbourg,Lens,2,1,0,1,H
+1552741,Ligue 1,2026,2026-08-29,Lyon,Le Havre,1,1,0,0,D
+1552740,Ligue 1,2026,2026-08-29,Lorient,Estac Troyes,1,2,0,2,A
+1552739,Ligue 1,2026,2026-08-29,Stade Brestois 29,Toulouse,2,2,1,1,D
+1552738,Ligue 1,2026,2026-08-29,Auxerre,Angers,1,3,1,1,A
+1552743,Ligue 1,2026,2026-08-30,Paris FC,Nice,3,0,1,0,H
+1552744,Ligue 1,2026,2026-08-30,Rennes,Le Mans,3,2,2,1,H
+1552742,Ligue 1,2026,2026-08-30,Monaco,Marseille,2,0,1,0,H
+1552754,Ligue 1,2026,2026-09-03,Toulouse,Lille,0,1,0,0,A
+1552750,Ligue 1,2026,2026-09-04,Lyon,Auxerre,3,1,2,1,H
+1552753,Ligue 1,2026,2026-09-04,Paris Saint Germain,Monaco,1,2,1,0,A
+1552749,Ligue 1,2026,2026-09-05,Lens,Lorient,0,1,0,0,A
+1552752,Ligue 1,2026,2026-09-05,Nice,Le Mans,1,1,1,1,D
+1552748,Ligue 1,2026,2026-09-05,Le Havre,Stade Brestois 29,1,2,0,1,A
+1552755,Ligue 1,2026,2026-09-06,Estac Troyes,Strasbourg,2,6,1,2,A
+1552747,Ligue 1,2026,2026-09-06,Angers,Rennes,1,2,1,2,A
+1552751,Ligue 1,2026,2026-09-06,Marseille,Paris FC,2,3,1,2,A
+1552763,Ligue 1,2026,2026-09-11,Rennes,Marseille,1,0,0,0,H
+1552764,Ligue 1,2026,2026-09-12,Strasbourg,Monaco,1,1,0,0,D
+1552761,Ligue 1,2026,2026-09-12,Lorient,Toulouse,2,2,2,0,D
+1552756,Ligue 1,2026,2026-09-12,Auxerre,Nice,1,0,0,0,H
+1552758,Ligue 1,2026,2026-09-12,Le Havre,Angers,0,0,0,0,D
+1552762,Ligue 1,2026,2026-09-12,Paris FC,Lyon,0,0,0,0,D
+1552760,Ligue 1,2026,2026-09-13,Lille,Estac Troyes,2,0,1,0,H
+1552759,Ligue 1,2026,2026-09-13,Le Mans,Lens,2,2,2,1,D
+1552757,Ligue 1,2026,2026-09-13,Stade Brestois 29,Paris Saint Germain,0,1,0,1,A
