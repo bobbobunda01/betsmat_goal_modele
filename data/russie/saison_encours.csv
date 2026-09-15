@@ -1,57 +1,65 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-russie,2026,2026-07-24,CSKA Moscow,Baltika,2,1,2,1,H
-russie,2026,2026-07-25,Dynamo,Krylia Sovetov,0,0,0,0,D
-russie,2026,2026-07-25,Akron,Zenit,0,5,0,3,A
-russie,2026,2026-07-25,Fakel,Dinamo Makhachkala,1,2,1,1,A
-russie,2026,2026-07-25,Spartak Moscow,Rodina Moskva,3,0,1,0,H
-russie,2026,2026-07-26,Lokomotiv,Akhmat,1,1,1,0,D
-russie,2026,2026-07-26,FC Orenburg,FC Rostov,2,1,0,0,H
-russie,2026,2026-07-26,Rubin,FC Krasnodar,1,3,1,1,A
-russie,2026,2026-07-31,Rodina Moskva,FC Rostov,2,4,1,1,A
-russie,2026,2026-08-01,Akron,Rubin,1,2,1,2,A
-russie,2026,2026-08-01,CSKA Moscow,Krylia Sovetov,1,1,1,0,D
-russie,2026,2026-08-01,Dinamo Makhachkala,Lokomotiv,2,1,0,1,H
-russie,2026,2026-08-01,Baltika,Dynamo,2,1,0,0,H
-russie,2026,2026-08-02,FC Orenburg,Zenit,0,3,0,1,A
-russie,2026,2026-08-02,FC Krasnodar,Fakel,3,2,2,0,H
-russie,2026,2026-08-02,Akhmat,Spartak Moscow,1,2,1,1,A
-russie,2026,2026-08-08,Krylia Sovetov,Baltika,0,2,0,1,A
-russie,2026,2026-08-08,Lokomotiv,Akron,0,0,0,0,D
-russie,2026,2026-08-08,CSKA Moscow,FC Rostov,0,0,0,0,D
-russie,2026,2026-08-09,Dynamo,Dinamo Makhachkala,3,1,0,0,H
-russie,2026,2026-08-09,Zenit,Rodina Moskva,1,2,1,0,A
-russie,2026,2026-08-09,Spartak Moscow,FC Krasnodar,1,2,1,2,A
-russie,2026,2026-08-09,Rubin,FC Orenburg,1,1,0,0,D
-russie,2026,2026-08-10,Fakel,Akhmat,0,0,0,0,D
-russie,2026,2026-08-14,FC Orenburg,Lokomotiv,1,1,0,1,D
-russie,2026,2026-08-15,Rodina Moskva,Akron,3,3,2,0,D
-russie,2026,2026-08-15,CSKA Moscow,Fakel,1,0,0,0,H
-russie,2026,2026-08-15,FC Rostov,Rubin,1,1,1,0,D
-russie,2026,2026-08-15,FC Krasnodar,Akhmat,1,0,1,0,H
-russie,2026,2026-08-16,Zenit,Dynamo,3,0,2,0,H
-russie,2026,2026-08-16,Krylia Sovetov,Dinamo Makhachkala,1,4,1,2,A
-russie,2026,2026-08-16,Baltika,Spartak Moscow,1,2,1,1,A
-russie,2026,2026-08-22,Fakel,FC Orenburg,0,0,0,0,D
-russie,2026,2026-08-22,Akhmat,FC Rostov,4,1,1,1,H
-russie,2026,2026-08-22,CSKA Moscow,Lokomotiv,3,2,1,1,H
-russie,2026,2026-08-23,Akron,Krylia Sovetov,0,3,0,1,A
-russie,2026,2026-08-23,Dynamo,Rodina Moskva,3,1,1,1,H
-russie,2026,2026-08-23,Dinamo Makhachkala,FC Krasnodar,0,1,0,0,A
-russie,2026,2026-08-23,Spartak Moscow,Zenit,2,0,2,0,H
-russie,2026,2026-08-24,Baltika,Rubin,1,1,0,1,D
-russie,2026,2026-08-28,Akron,CSKA Moscow,2,2,1,1,D
-russie,2026,2026-08-29,Fakel,Zenit,0,1,0,0,A
-russie,2026,2026-08-29,FC Krasnodar,FC Rostov,1,0,1,0,H
-russie,2026,2026-08-29,Lokomotiv,Dynamo,0,1,0,0,A
-russie,2026,2026-08-29,Akhmat,Krylia Sovetov,3,3,2,2,D
-russie,2026,2026-08-30,Rodina Moskva,Baltika,0,3,0,1,A
-russie,2026,2026-08-30,Spartak Moscow,FC Orenburg,1,1,0,0,D
-russie,2026,2026-08-30,Rubin,Dinamo Makhachkala,3,1,0,0,H
-russie,2026,2026-09-05,Krylia Sovetov,FC Krasnodar,2,2,0,2,D
-russie,2026,2026-09-05,Zenit,CSKA Moscow,1,2,0,1,A
-russie,2026,2026-09-05,FC Rostov,Fakel,3,1,0,0,H
-russie,2026,2026-09-06,FC Orenburg,Akron,2,2,1,0,D
-russie,2026,2026-09-06,Dinamo Makhachkala,Rodina Moskva,2,0,0,0,H
-russie,2026,2026-09-06,Dynamo,Spartak Moscow,2,1,2,1,H
-russie,2026,2026-09-06,Baltika,Lokomotiv,0,1,0,0,A
-russie,2026,2026-09-07,Rubin,Akhmat,1,1,1,0,D
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1561332,russie,2026,2026-07-24,CSKA Moscow,Baltika,2,1,2,1,H
+1561333,russie,2026,2026-07-25,Dynamo,Krylia Sovetov,0,0,0,0,D
+1561331,russie,2026,2026-07-25,Akron,Zenit,0,5,0,3,A
+1561334,russie,2026,2026-07-25,Fakel,Dinamo Makhachkala,1,2,1,1,A
+1561338,russie,2026,2026-07-25,Spartak Moscow,Rodina Moskva,3,0,1,0,H
+1561335,russie,2026,2026-07-26,Lokomotiv,Akhmat,1,1,1,0,D
+1561336,russie,2026,2026-07-26,FC Orenburg,FC Rostov,2,1,0,0,H
+1561337,russie,2026,2026-07-26,Rubin,FC Krasnodar,1,3,1,1,A
+1561346,russie,2026,2026-07-31,Rodina Moskva,FC Rostov,2,4,1,1,A
+1561340,russie,2026,2026-08-01,Akron,Rubin,1,2,1,2,A
+1561342,russie,2026,2026-08-01,CSKA Moscow,Krylia Sovetov,1,1,1,0,D
+1561343,russie,2026,2026-08-01,Dinamo Makhachkala,Lokomotiv,2,1,0,1,H
+1561341,russie,2026,2026-08-01,Baltika,Dynamo,2,1,0,0,H
+1561345,russie,2026,2026-08-02,FC Orenburg,Zenit,0,3,0,1,A
+1561344,russie,2026,2026-08-02,FC Krasnodar,Fakel,3,2,2,0,H
+1561339,russie,2026,2026-08-02,Akhmat,Spartak Moscow,1,2,1,1,A
+1561350,russie,2026,2026-08-08,Krylia Sovetov,Baltika,0,2,0,1,A
+1561351,russie,2026,2026-08-08,Lokomotiv,Akron,0,0,0,0,D
+1561349,russie,2026,2026-08-08,CSKA Moscow,FC Rostov,0,0,0,0,D
+1561347,russie,2026,2026-08-09,Dynamo,Dinamo Makhachkala,3,1,0,0,H
+1561354,russie,2026,2026-08-09,Zenit,Rodina Moskva,1,2,1,0,A
+1561353,russie,2026,2026-08-09,Spartak Moscow,FC Krasnodar,1,2,1,2,A
+1561352,russie,2026,2026-08-09,Rubin,FC Orenburg,1,1,0,0,D
+1561348,russie,2026,2026-08-10,Fakel,Akhmat,0,0,0,0,D
+1561360,russie,2026,2026-08-14,FC Orenburg,Lokomotiv,1,1,0,1,D
+1561361,russie,2026,2026-08-15,Rodina Moskva,Akron,3,3,2,0,D
+1561356,russie,2026,2026-08-15,CSKA Moscow,Fakel,1,0,0,0,H
+1561357,russie,2026,2026-08-15,FC Rostov,Rubin,1,1,1,0,D
+1561358,russie,2026,2026-08-15,FC Krasnodar,Akhmat,1,0,1,0,H
+1561362,russie,2026,2026-08-16,Zenit,Dynamo,3,0,2,0,H
+1561359,russie,2026,2026-08-16,Krylia Sovetov,Dinamo Makhachkala,1,4,1,2,A
+1561355,russie,2026,2026-08-16,Baltika,Spartak Moscow,1,2,1,1,A
+1561369,russie,2026,2026-08-22,Fakel,FC Orenburg,0,0,0,0,D
+1561363,russie,2026,2026-08-22,Akhmat,FC Rostov,4,1,1,1,H
+1561366,russie,2026,2026-08-22,CSKA Moscow,Lokomotiv,3,2,1,1,H
+1561364,russie,2026,2026-08-23,Akron,Krylia Sovetov,0,3,0,1,A
+1561368,russie,2026,2026-08-23,Dynamo,Rodina Moskva,3,1,1,1,H
+1561367,russie,2026,2026-08-23,Dinamo Makhachkala,FC Krasnodar,0,1,0,0,A
+1561370,russie,2026,2026-08-23,Spartak Moscow,Zenit,2,0,2,0,H
+1561365,russie,2026,2026-08-24,Baltika,Rubin,1,1,0,1,D
+1561372,russie,2026,2026-08-28,Akron,CSKA Moscow,2,2,1,1,D
+1561373,russie,2026,2026-08-29,Fakel,Zenit,0,1,0,0,A
+1561374,russie,2026,2026-08-29,FC Krasnodar,FC Rostov,1,0,1,0,H
+1561375,russie,2026,2026-08-29,Lokomotiv,Dynamo,0,1,0,0,A
+1561371,russie,2026,2026-08-29,Akhmat,Krylia Sovetov,3,3,2,2,D
+1561376,russie,2026,2026-08-30,Rodina Moskva,Baltika,0,3,0,1,A
+1561378,russie,2026,2026-08-30,Spartak Moscow,FC Orenburg,1,1,0,0,D
+1561377,russie,2026,2026-08-30,Rubin,Dinamo Makhachkala,3,1,0,0,H
+1561383,russie,2026,2026-09-05,Krylia Sovetov,FC Krasnodar,2,2,0,2,D
+1561386,russie,2026,2026-09-05,Zenit,CSKA Moscow,1,2,0,1,A
+1561382,russie,2026,2026-09-05,FC Rostov,Fakel,3,1,0,0,H
+1561384,russie,2026,2026-09-06,FC Orenburg,Akron,2,2,1,0,D
+1561380,russie,2026,2026-09-06,Dinamo Makhachkala,Rodina Moskva,2,0,0,0,H
+1561381,russie,2026,2026-09-06,Dynamo,Spartak Moscow,2,1,2,1,H
+1561379,russie,2026,2026-09-06,Baltika,Lokomotiv,0,1,0,0,A
+1561385,russie,2026,2026-09-07,Rubin,Akhmat,1,1,1,0,D
+1561392,russie,2026,2026-09-11,Krylia Sovetov,Rodina Moskva,2,1,0,0,H
+1561390,russie,2026,2026-09-12,Fakel,Baltika,2,2,1,0,D
+1561394,russie,2026,2026-09-12,Zenit,Lokomotiv,2,1,0,1,H
+1561389,russie,2026,2026-09-12,Dynamo,FC Orenburg,1,0,0,0,H
+1561388,russie,2026,2026-09-12,CSKA Moscow,Rubin,1,1,1,0,D
+1561387,russie,2026,2026-09-13,Akhmat,Dinamo Makhachkala,3,2,0,0,H
+1561393,russie,2026,2026-09-13,Spartak Moscow,FC Rostov,3,0,1,0,H
+1561391,russie,2026,2026-09-13,FC Krasnodar,Akron,1,1,0,1,D

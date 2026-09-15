@@ -1,45 +1,56 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-secunda,2026,2026-08-14,Real Sociedad II,Castellón,0,1,0,1,A
-secunda,2026,2026-08-15,FC Andorra,AD Ceuta FC,5,1,1,0,H
-secunda,2026,2026-08-15,Oviedo,Granada CF,0,0,0,0,D
-secunda,2026,2026-08-15,Cadiz,Celta de Vigo II,0,0,0,0,D
-secunda,2026,2026-08-15,Mallorca,Valladolid,2,0,0,0,H
-secunda,2026,2026-08-16,Eibar,Tenerife,1,3,1,2,A
-secunda,2026,2026-08-16,Girona,Leganes,1,1,0,0,D
-secunda,2026,2026-08-16,Burgos,Cordoba,3,2,2,2,H
-secunda,2026,2026-08-16,Las Palmas,Albacete,2,1,1,0,H
-secunda,2026,2026-08-17,Sporting Gijon,Sabadell,0,0,0,0,D
-secunda,2026,2026-08-17,Almeria,Eldense,3,0,3,0,H
-secunda,2026,2026-08-21,Cordoba,Girona,2,1,2,0,H
-secunda,2026,2026-08-22,Oviedo,Leganes,0,1,0,1,A
-secunda,2026,2026-08-22,Albacete,Real Sociedad II,1,2,0,2,A
-secunda,2026,2026-08-22,AD Ceuta FC,Las Palmas,0,2,0,1,A
-secunda,2026,2026-08-22,Eldense,Cadiz,2,2,0,0,D
-secunda,2026,2026-08-23,Eibar,Valladolid,1,0,0,0,H
-secunda,2026,2026-08-23,Sporting Gijon,Burgos,1,0,1,0,H
-secunda,2026,2026-08-23,Castellón,Sabadell,0,0,0,0,D
-secunda,2026,2026-08-23,Tenerife,Almeria,1,0,1,0,H
-secunda,2026,2026-08-24,Celta de Vigo II,FC Andorra,4,2,0,0,H
-secunda,2026,2026-08-24,Granada CF,Mallorca,2,0,1,0,H
-secunda,2026,2026-08-28,Tenerife,Sporting Gijon,0,1,0,0,A
-secunda,2026,2026-08-29,Sabadell,Almeria,1,0,0,0,H
-secunda,2026,2026-08-29,Leganes,Eldense,1,0,0,0,H
-secunda,2026,2026-08-29,Albacete,Oviedo,0,1,0,1,A
-secunda,2026,2026-08-29,Girona,Las Palmas,5,2,1,0,H
-secunda,2026,2026-08-30,FC Andorra,Eibar,0,1,0,0,A
-secunda,2026,2026-08-30,Cadiz,Valladolid,1,1,1,1,D
-secunda,2026,2026-08-30,Mallorca,AD Ceuta FC,3,0,1,0,H
-secunda,2026,2026-08-30,Cordoba,Granada CF,1,3,1,0,A
-secunda,2026,2026-08-31,Burgos,Real Sociedad II,2,2,1,1,D
-secunda,2026,2026-08-31,Celta de Vigo II,Castellón,1,2,0,1,A
-secunda,2026,2026-09-04,Las Palmas,Leganes,0,0,0,0,D
-secunda,2026,2026-09-05,Real Sociedad II,Tenerife,1,1,0,0,D
-secunda,2026,2026-09-05,Sporting Gijon,Girona,0,2,0,1,A
-secunda,2026,2026-09-05,Valladolid,FC Andorra,1,0,1,0,H
-secunda,2026,2026-09-05,AD Ceuta FC,Celta de Vigo II,0,2,0,1,A
-secunda,2026,2026-09-05,Eldense,Mallorca,0,0,0,0,D
-secunda,2026,2026-09-06,Eibar,Granada CF,3,0,2,0,H
-secunda,2026,2026-09-06,Oviedo,Burgos,0,0,0,0,D
-secunda,2026,2026-09-06,Castellón,Albacete,2,0,0,0,H
-secunda,2026,2026-09-06,Almeria,Cadiz,3,2,3,1,H
-secunda,2026,2026-09-07,Sabadell,Cordoba,3,2,2,1,H
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1569881,secunda,2026,2026-08-14,Real Sociedad II,Castellón,0,1,0,1,A
+1569872,secunda,2026,2026-08-15,FC Andorra,AD Ceuta FC,5,1,1,0,H
+1569880,secunda,2026,2026-08-15,Oviedo,Granada CF,0,0,0,0,D
+1569874,secunda,2026,2026-08-15,Cadiz,Celta de Vigo II,0,0,0,0,D
+1569879,secunda,2026,2026-08-15,Mallorca,Valladolid,2,0,0,0,H
+1569875,secunda,2026,2026-08-16,Eibar,Tenerife,1,3,1,2,A
+1569877,secunda,2026,2026-08-16,Girona,Leganes,1,1,0,0,D
+1569873,secunda,2026,2026-08-16,Burgos,Cordoba,3,2,2,2,H
+1569878,secunda,2026,2026-08-16,Las Palmas,Albacete,2,1,1,0,H
+1569876,secunda,2026,2026-08-17,Sporting Gijon,Sabadell,0,0,0,0,D
+1569871,secunda,2026,2026-08-17,Almeria,Eldense,3,0,3,0,H
+1569886,secunda,2026,2026-08-21,Cordoba,Girona,2,1,2,0,H
+1569891,secunda,2026,2026-08-22,Oviedo,Leganes,0,1,0,1,A
+1569882,secunda,2026,2026-08-22,Albacete,Real Sociedad II,1,2,0,2,A
+1569885,secunda,2026,2026-08-22,AD Ceuta FC,Las Palmas,0,2,0,1,A
+1569888,secunda,2026,2026-08-22,Eldense,Cadiz,2,2,0,0,D
+1569887,secunda,2026,2026-08-23,Eibar,Valladolid,1,0,0,0,H
+1569889,secunda,2026,2026-08-23,Sporting Gijon,Burgos,1,0,1,0,H
+1569883,secunda,2026,2026-08-23,Castellón,Sabadell,0,0,0,0,D
+1569892,secunda,2026,2026-08-23,Tenerife,Almeria,1,0,1,0,H
+1569884,secunda,2026,2026-08-24,Celta de Vigo II,FC Andorra,4,2,0,0,H
+1569890,secunda,2026,2026-08-24,Granada CF,Mallorca,2,0,1,0,H
+1569903,secunda,2026,2026-08-28,Tenerife,Sporting Gijon,0,1,0,0,A
+1569902,secunda,2026,2026-08-29,Sabadell,Almeria,1,0,0,0,H
+1569900,secunda,2026,2026-08-29,Leganes,Eldense,1,0,0,0,H
+1569893,secunda,2026,2026-08-29,Albacete,Oviedo,0,1,0,1,A
+1569899,secunda,2026,2026-08-29,Girona,Las Palmas,5,2,1,0,H
+1569894,secunda,2026,2026-08-30,FC Andorra,Eibar,0,1,0,0,A
+1569896,secunda,2026,2026-08-30,Cadiz,Valladolid,1,1,1,1,D
+1569901,secunda,2026,2026-08-30,Mallorca,AD Ceuta FC,3,0,1,0,H
+1569898,secunda,2026,2026-08-30,Cordoba,Granada CF,1,3,1,0,A
+1569895,secunda,2026,2026-08-31,Burgos,Real Sociedad II,2,2,1,1,D
+1569897,secunda,2026,2026-08-31,Celta de Vigo II,Castellón,1,2,0,1,A
+1569910,secunda,2026,2026-09-04,Las Palmas,Leganes,0,0,0,0,D
+1569912,secunda,2026,2026-09-05,Real Sociedad II,Tenerife,1,1,0,0,D
+1569909,secunda,2026,2026-09-05,Sporting Gijon,Girona,0,2,0,1,A
+1569914,secunda,2026,2026-09-05,Valladolid,FC Andorra,1,0,1,0,H
+1569906,secunda,2026,2026-09-05,AD Ceuta FC,Celta de Vigo II,0,2,0,1,A
+1569908,secunda,2026,2026-09-05,Eldense,Mallorca,0,0,0,0,D
+1569907,secunda,2026,2026-09-06,Eibar,Granada CF,3,0,2,0,H
+1569911,secunda,2026,2026-09-06,Oviedo,Burgos,0,0,0,0,D
+1569905,secunda,2026,2026-09-06,Castellón,Albacete,2,0,0,0,H
+1569904,secunda,2026,2026-09-06,Almeria,Cadiz,3,2,3,1,H
+1569913,secunda,2026,2026-09-07,Sabadell,Cordoba,3,2,2,1,H
+1569916,secunda,2026,2026-09-11,Burgos,AD Ceuta FC,3,1,1,1,H
+1569915,secunda,2026,2026-09-12,FC Andorra,Real Sociedad II,1,3,0,3,A
+1569917,secunda,2026,2026-09-12,Cadiz,Las Palmas,0,1,0,0,A
+1569921,secunda,2026,2026-09-12,Girona,Castellón,1,2,1,0,A
+1569922,secunda,2026,2026-09-12,Granada CF,Albacete,1,1,0,0,D
+1569919,secunda,2026,2026-09-12,Cordoba,Almeria,0,2,0,0,A
+1569920,secunda,2026,2026-09-13,Sporting Gijon,Eldense,0,1,0,0,A
+1569925,secunda,2026,2026-09-13,Valladolid,Oviedo,0,3,0,1,A
+1569923,secunda,2026,2026-09-13,Mallorca,Sabadell,2,0,2,0,H
+1569924,secunda,2026,2026-09-13,Tenerife,Leganes,2,0,1,0,H
+1569918,secunda,2026,2026-09-14,Celta de Vigo II,Eibar,0,4,0,4,A

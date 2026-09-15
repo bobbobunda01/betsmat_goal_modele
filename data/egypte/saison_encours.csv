@@ -1,41 +1,43 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-egypte,2026,2026-08-21,Wadi Degla,Masr,0,0,0,0,D
-egypte,2026,2026-08-21,Zamalek SC,Al Ittihad,0,0,0,0,D
-egypte,2026,2026-08-21,Abu Qair Semad,National Bank of Egypt,1,0,0,0,H
-egypte,2026,2026-08-22,El Geish,El Mokawloon,1,0,0,0,H
-egypte,2026,2026-08-22,Asyut Petrol,Petrojet,1,1,0,0,D
-egypte,2026,2026-08-22,AL Masry,Smouha SC,1,0,0,0,H
-egypte,2026,2026-08-22,Ghazl El Mehalla,Pyramids FC,0,3,0,1,A
-egypte,2026,2026-08-23,El Gouna FC,Future FC,1,1,0,0,D
-egypte,2026,2026-08-23,Al Ahly,Enppi,3,2,1,2,H
-egypte,2026,2026-08-23,Ceramica Cleopatra,Olympic El Qanah,1,2,1,0,A
-egypte,2026,2026-08-26,Smouha SC,Asyut Petrol,0,0,0,0,D
-egypte,2026,2026-08-26,Petrojet,El Geish,2,3,0,2,A
-egypte,2026,2026-08-26,National Bank of Egypt,Zamalek SC,0,3,0,0,A
-egypte,2026,2026-08-27,Future FC,Ghazl El Mehalla,2,0,0,0,H
-egypte,2026,2026-08-27,Pyramids FC,Abu Qair Semad,2,0,1,0,H
-egypte,2026,2026-08-27,El Mokawloon,AL Masry,2,3,1,1,A
-egypte,2026,2026-08-28,Enppi,Wadi Degla,1,3,1,1,A
-egypte,2026,2026-08-28,Olympic El Qanah,El Gouna FC,1,1,1,1,D
-egypte,2026,2026-08-28,Al Ittihad,Ceramica Cleopatra,1,3,0,1,A
-egypte,2026,2026-08-28,Masr,Al Ahly,0,2,0,1,A
-egypte,2026,2026-08-31,Asyut Petrol,National Bank of Egypt,0,1,0,0,A
-egypte,2026,2026-08-31,AL Masry,Pyramids FC,0,1,0,1,A
-egypte,2026,2026-08-31,Zamalek SC,Petrojet,2,1,1,0,H
-egypte,2026,2026-09-01,El Geish,Masr,0,1,0,0,A
-egypte,2026,2026-09-01,Ghazl El Mehalla,Enppi,0,0,0,0,D
-egypte,2026,2026-09-01,Wadi Degla,Olympic El Qanah,0,0,0,0,D
-egypte,2026,2026-09-02,El Gouna FC,El Mokawloon,0,1,0,1,A
-egypte,2026,2026-09-02,Ceramica Cleopatra,Future FC,2,0,1,0,H
-egypte,2026,2026-09-02,Abu Qair Semad,Al Ittihad,0,2,0,0,A
-egypte,2026,2026-09-03,Al Ahly,Smouha SC,1,0,0,0,H
-egypte,2026,2026-09-07,Al Ittihad,Asyut Petrol,1,0,0,0,H
-egypte,2026,2026-09-07,Olympic El Qanah,El Geish,1,1,1,0,D
-egypte,2026,2026-09-07,Petrojet,AL Masry,2,1,1,0,H
-egypte,2026,2026-09-07,National Bank of Egypt,Ghazl El Mehalla,3,1,2,1,H
-egypte,2026,2026-09-08,Zamalek SC,Abu Qair Semad,2,0,1,0,H
-egypte,2026,2026-09-08,Smouha SC,Ceramica Cleopatra,0,2,0,0,A
-egypte,2026,2026-09-09,Pyramids FC,El Gouna FC,1,0,0,0,H
-egypte,2026,2026-09-09,Future FC,Wadi Degla,2,1,0,0,H
-egypte,2026,2026-09-09,Enppi,Masr,2,1,2,0,H
-egypte,2026,2026-09-09,El Mokawloon,Al Ahly,1,1,1,0,D
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1612199,egypte,2026,2026-08-21,Wadi Degla,Masr,0,0,0,0,D
+1612201,egypte,2026,2026-08-21,Zamalek SC,Al Ittihad,0,0,0,0,D
+1612200,egypte,2026,2026-08-21,Abu Qair Semad,National Bank of Egypt,1,0,0,0,H
+1612203,egypte,2026,2026-08-22,El Geish,El Mokawloon,1,0,0,0,H
+1612202,egypte,2026,2026-08-22,Asyut Petrol,Petrojet,1,1,0,0,D
+1612204,egypte,2026,2026-08-22,AL Masry,Smouha SC,1,0,0,0,H
+1612205,egypte,2026,2026-08-22,Ghazl El Mehalla,Pyramids FC,0,3,0,1,A
+1612206,egypte,2026,2026-08-23,El Gouna FC,Future FC,1,1,0,0,D
+1612207,egypte,2026,2026-08-23,Al Ahly,Enppi,3,2,1,2,H
+1612208,egypte,2026,2026-08-23,Ceramica Cleopatra,Olympic El Qanah,1,2,1,0,A
+1612209,egypte,2026,2026-08-26,Smouha SC,Asyut Petrol,0,0,0,0,D
+1612211,egypte,2026,2026-08-26,Petrojet,El Geish,2,3,0,2,A
+1612210,egypte,2026,2026-08-26,National Bank of Egypt,Zamalek SC,0,3,0,0,A
+1612212,egypte,2026,2026-08-27,Future FC,Ghazl El Mehalla,2,0,0,0,H
+1612214,egypte,2026,2026-08-27,Pyramids FC,Abu Qair Semad,2,0,1,0,H
+1612213,egypte,2026,2026-08-27,El Mokawloon,AL Masry,2,3,1,1,A
+1612216,egypte,2026,2026-08-28,Enppi,Wadi Degla,1,3,1,1,A
+1612215,egypte,2026,2026-08-28,Olympic El Qanah,El Gouna FC,1,1,1,1,D
+1612217,egypte,2026,2026-08-28,Al Ittihad,Ceramica Cleopatra,1,3,0,1,A
+1612218,egypte,2026,2026-08-28,Masr,Al Ahly,0,2,0,1,A
+1612219,egypte,2026,2026-08-31,Asyut Petrol,National Bank of Egypt,0,1,0,0,A
+1612220,egypte,2026,2026-08-31,AL Masry,Pyramids FC,0,1,0,1,A
+1612221,egypte,2026,2026-08-31,Zamalek SC,Petrojet,2,1,1,0,H
+1612222,egypte,2026,2026-09-01,El Geish,Masr,0,1,0,0,A
+1612223,egypte,2026,2026-09-01,Ghazl El Mehalla,Enppi,0,0,0,0,D
+1612225,egypte,2026,2026-09-01,Wadi Degla,Olympic El Qanah,0,0,0,0,D
+1612226,egypte,2026,2026-09-02,El Gouna FC,El Mokawloon,0,1,0,1,A
+1612228,egypte,2026,2026-09-02,Ceramica Cleopatra,Future FC,2,0,1,0,H
+1612227,egypte,2026,2026-09-02,Abu Qair Semad,Al Ittihad,0,2,0,0,A
+1612224,egypte,2026,2026-09-03,Al Ahly,Smouha SC,1,0,0,0,H
+1612229,egypte,2026,2026-09-07,Al Ittihad,Asyut Petrol,1,0,0,0,H
+1612230,egypte,2026,2026-09-07,Olympic El Qanah,El Geish,1,1,1,0,D
+1612232,egypte,2026,2026-09-07,Petrojet,AL Masry,2,1,1,0,H
+1612231,egypte,2026,2026-09-07,National Bank of Egypt,Ghazl El Mehalla,3,1,2,1,H
+1612235,egypte,2026,2026-09-08,Zamalek SC,Abu Qair Semad,2,0,1,0,H
+1612234,egypte,2026,2026-09-08,Smouha SC,Ceramica Cleopatra,0,2,0,0,A
+1612233,egypte,2026,2026-09-09,Pyramids FC,El Gouna FC,1,0,0,0,H
+1612236,egypte,2026,2026-09-09,Future FC,Wadi Degla,2,1,0,0,H
+1612238,egypte,2026,2026-09-09,Enppi,Masr,2,1,2,0,H
+1612237,egypte,2026,2026-09-09,El Mokawloon,Al Ahly,1,1,1,0,D
+1612239,egypte,2026,2026-09-14,El Geish,Smouha SC,0,1,0,0,A
+1612240,egypte,2026,2026-09-14,Ceramica Cleopatra,National Bank of Egypt,2,0,0,0,H

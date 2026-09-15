@@ -1,75 +1,75 @@
-league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-League_europa,2026,2026-07-09,Qarabag,Vestri,3,0,2,0,H
-League_europa,2026,2026-07-09,Sheriff Tiraspol,Aluminij,0,0,0,0,D
-League_europa,2026,2026-07-09,Dynamo Kyiv,Universitatea Cluj,0,0,0,0,D
-League_europa,2026,2026-07-09,HNK Hajduk Split,Žilina,2,0,1,0,H
-League_europa,2026,2026-07-09,Vojvodina,Ferencvarosi TC,1,2,1,1,A
-League_europa,2026,2026-07-09,CSKA Sofia,Derry City,3,2,2,1,H
-League_europa,2026,2026-07-16,Derry City,CSKA Sofia,1,2,0,0,A
-League_europa,2026,2026-07-16,Aluminij,Sheriff Tiraspol,0,1,0,1,A
-League_europa,2026,2026-07-16,Ferencvarosi TC,Vojvodina,3,0,2,0,H
-League_europa,2026,2026-07-16,Žilina,HNK Hajduk Split,2,1,0,1,H
-League_europa,2026,2026-07-16,Vestri,Qarabag,0,3,0,2,A
-League_europa,2026,2026-07-23,Qarabag,CSKA Sofia,0,0,0,0,D
-League_europa,2026,2026-07-23,Tromso,Hradec Králové,0,1,0,0,A
-League_europa,2026,2026-07-23,Hammarby FF,Anderlecht,1,1,0,1,D
-League_europa,2026,2026-07-23,Sheriff Tiraspol,Maccabi Tel Aviv,0,5,0,2,A
-League_europa,2026,2026-07-23,Dynamo Kyiv,PAOK,2,3,1,2,A
-League_europa,2026,2026-07-23,Twente,Ferencvarosi TC,1,2,1,1,A
-League_europa,2026,2026-07-23,Beşiktaş,FC Midtjylland,1,0,1,0,H
-League_europa,2026,2026-07-23,FC ST. Gallen,Benfica,2,1,1,1,H
-League_europa,2026,2026-07-23,HNK Hajduk Split,Pafos,2,0,0,0,H
-League_europa,2026,2026-07-30,Maccabi Tel Aviv,Sheriff Tiraspol,1,0,1,0,H
-League_europa,2026,2026-07-30,FC Midtjylland,Beşiktaş,0,2,0,0,A
-League_europa,2026,2026-07-30,Hradec Králové,Tromso,3,1,1,1,H
-League_europa,2026,2026-07-30,PAOK,Dynamo Kyiv,2,0,1,0,H
-League_europa,2026,2026-07-30,Anderlecht,Hammarby FF,3,1,0,1,H
-League_europa,2026,2026-07-30,Ferencvarosi TC,Twente,2,2,1,0,D
-League_europa,2026,2026-07-30,Benfica,FC ST. Gallen,5,0,1,0,H
-League_europa,2026,2026-08-04,Shamrock Rovers,Egnatia Rrogozhinë,3,1,1,1,H
-League_europa,2026,2026-08-04,Larne,FC Iberia 1999,0,0,0,0,D
-League_europa,2026,2026-08-05,Ferencvarosi TC,Gornik Zabrze,1,0,0,0,H
-League_europa,2026,2026-08-06,KuPS,Universitatea Craiova,1,1,0,1,D
-League_europa,2026,2026-08-06,Jagiellonia,Rangers,2,1,2,1,H
-League_europa,2026,2026-08-06,Maccabi Tel Aviv,CSKA Sofia,0,3,0,2,A
-League_europa,2026,2026-08-06,Lech Poznan,KI Klaksvik,1,0,0,0,H
-League_europa,2026,2026-08-06,Red Bull Salzburg,Pafos,1,0,0,0,H
-League_europa,2026,2026-08-06,Lincoln Red Imps FC,Omonia Nicosia,1,1,0,0,D
-League_europa,2026,2026-08-06,Hradec Králové,Beşiktaş,0,1,0,0,A
-League_europa,2026,2026-08-06,PAOK,Anderlecht,0,1,0,1,A
-League_europa,2026,2026-08-06,FC Thun,Vikingur Reykjavik,3,0,2,0,H
-League_europa,2026,2026-08-06,Benfica,Heart Of Midlothian,6,1,3,0,H
-League_europa,2026,2026-08-13,Gornik Zabrze,Ferencvarosi TC,1,1,1,0,D
-League_europa,2026,2026-08-13,Beşiktaş,Hradec Králové,1,0,1,0,H
-League_europa,2026,2026-08-13,Universitatea Craiova,KuPS,2,1,1,1,H
-League_europa,2026,2026-08-13,Omonia Nicosia,Lincoln Red Imps FC,1,0,1,0,H
-League_europa,2026,2026-08-13,Pafos,Red Bull Salzburg,3,3,2,0,D
-League_europa,2026,2026-08-13,Vikingur Reykjavik,FC Thun,3,2,2,2,H
-League_europa,2026,2026-08-13,CSKA Sofia,Maccabi Tel Aviv,1,3,0,1,A
-League_europa,2026,2026-08-13,Rangers,Jagiellonia,1,1,1,0,D
-League_europa,2026,2026-08-13,Anderlecht,PAOK,3,2,1,1,H
-League_europa,2026,2026-08-13,Heart Of Midlothian,Benfica,1,1,0,0,D
-League_europa,2026,2026-08-13,Egnatia Rrogozhinë,Shamrock Rovers,5,1,4,0,H
-League_europa,2026,2026-08-14,KI Klaksvik,Lech Poznan,0,5,0,1,A
-League_europa,2026,2026-08-20,Kairat Almaty,Anderlecht,0,3,0,3,A
-League_europa,2026,2026-08-20,Jagiellonia,FC Iberia 1999,4,0,2,0,H
-League_europa,2026,2026-08-20,Mjallby AIF,Red Bull Salzburg,0,1,0,0,A
-League_europa,2026,2026-08-20,Lech Poznan,FC Thun,7,0,5,0,H
-League_europa,2026,2026-08-20,Beşiktaş,Kauno Žalgiris,3,0,2,0,H
-League_europa,2026,2026-08-20,Universitatea Craiova,Ararat-Armenia,1,1,1,1,D
-League_europa,2026,2026-08-20,Trabzonspor,Ferencvarosi TC,0,1,0,1,A
-League_europa,2026,2026-08-20,Egnatia Rrogozhinë,Lillestrom,0,0,0,0,D
-League_europa,2026,2026-08-20,FK Crvena Zvezda,Plzen,3,0,1,0,H
-League_europa,2026,2026-08-20,St. Truiden,Omonia Nicosia,1,0,0,0,H
-League_europa,2026,2026-08-20,OFI,CSKA Sofia,3,0,1,0,H
-League_europa,2026,2026-08-20,Benfica,Aarhus,3,1,3,1,H
-League_europa,2026,2026-08-27,FC Iberia 1999,Jagiellonia,1,2,1,1,A
-League_europa,2026,2026-08-27,Ararat-Armenia,Universitatea Craiova,1,0,0,0,H
-League_europa,2026,2026-08-27,Red Bull Salzburg,Mjallby AIF,3,0,0,0,H
-League_europa,2026,2026-08-27,Omonia Nicosia,St. Truiden,4,2,2,1,H
-League_europa,2026,2026-08-27,Kauno Žalgiris,Beşiktaş,1,0,0,0,H
-League_europa,2026,2026-08-27,Aarhus,Benfica,1,3,0,1,A
-League_europa,2026,2026-08-27,CSKA Sofia,OFI,0,2,0,1,A
-League_europa,2026,2026-08-27,FC Thun,Lech Poznan,2,2,2,1,D
-League_europa,2026,2026-08-27,Anderlecht,Kairat Almaty,3,0,1,0,H
-League_europa,2026,2026-08-27,Ferencvarosi TC,Trabzonspor,4,0,1,0,H
+fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
+1554444,League_europa,2026,2026-07-09,Qarabag,Vestri,3,0,2,0,H
+1554445,League_europa,2026,2026-07-09,Sheriff Tiraspol,Aluminij,0,0,0,0,D
+1554442,League_europa,2026,2026-07-09,Dynamo Kyiv,Universitatea Cluj,0,0,0,0,D
+1554443,League_europa,2026,2026-07-09,HNK Hajduk Split,Žilina,2,0,1,0,H
+1554446,League_europa,2026,2026-07-09,Vojvodina,Ferencvarosi TC,1,2,1,1,A
+1554441,League_europa,2026,2026-07-09,CSKA Sofia,Derry City,3,2,2,1,H
+1554448,League_europa,2026,2026-07-16,Derry City,CSKA Sofia,1,2,0,0,A
+1554447,League_europa,2026,2026-07-16,Aluminij,Sheriff Tiraspol,0,1,0,1,A
+1554449,League_europa,2026,2026-07-16,Ferencvarosi TC,Vojvodina,3,0,2,0,H
+1554452,League_europa,2026,2026-07-16,Žilina,HNK Hajduk Split,2,1,0,1,H
+1554451,League_europa,2026,2026-07-16,Vestri,Qarabag,0,3,0,2,A
+1593521,League_europa,2026,2026-07-23,Qarabag,CSKA Sofia,0,0,0,0,D
+1556546,League_europa,2026,2026-07-23,Tromso,Hradec Králové,0,1,0,0,A
+1556544,League_europa,2026,2026-07-23,Hammarby FF,Anderlecht,1,1,0,1,D
+1593522,League_europa,2026,2026-07-23,Sheriff Tiraspol,Maccabi Tel Aviv,0,5,0,2,A
+1593519,League_europa,2026,2026-07-23,Dynamo Kyiv,PAOK,2,3,1,2,A
+1593523,League_europa,2026,2026-07-23,Twente,Ferencvarosi TC,1,2,1,1,A
+1556543,League_europa,2026,2026-07-23,Beşiktaş,FC Midtjylland,1,0,1,0,H
+1556545,League_europa,2026,2026-07-23,FC ST. Gallen,Benfica,2,1,1,1,H
+1593520,League_europa,2026,2026-07-23,HNK Hajduk Split,Pafos,2,0,0,0,H
+1593526,League_europa,2026,2026-07-30,Maccabi Tel Aviv,Sheriff Tiraspol,1,0,1,0,H
+1556549,League_europa,2026,2026-07-30,FC Midtjylland,Beşiktaş,0,2,0,0,A
+1556550,League_europa,2026,2026-07-30,Hradec Králové,Tromso,3,1,1,1,H
+1593528,League_europa,2026,2026-07-30,PAOK,Dynamo Kyiv,2,0,1,0,H
+1556547,League_europa,2026,2026-07-30,Anderlecht,Hammarby FF,3,1,0,1,H
+1593525,League_europa,2026,2026-07-30,Ferencvarosi TC,Twente,2,2,1,0,D
+1556548,League_europa,2026,2026-07-30,Benfica,FC ST. Gallen,5,0,1,0,H
+1606352,League_europa,2026,2026-08-04,Shamrock Rovers,Egnatia Rrogozhinë,3,1,1,1,H
+1607176,League_europa,2026,2026-08-04,Larne,FC Iberia 1999,0,0,0,0,D
+1607561,League_europa,2026,2026-08-05,Ferencvarosi TC,Gornik Zabrze,1,0,0,0,H
+1607175,League_europa,2026,2026-08-06,KuPS,Universitatea Craiova,1,1,0,1,D
+1598830,League_europa,2026,2026-08-06,Jagiellonia,Rangers,2,1,2,1,H
+1607563,League_europa,2026,2026-08-06,Maccabi Tel Aviv,CSKA Sofia,0,3,0,2,A
+1607177,League_europa,2026,2026-08-06,Lech Poznan,KI Klaksvik,1,0,0,0,H
+1607564,League_europa,2026,2026-08-06,Red Bull Salzburg,Pafos,1,0,0,0,H
+1607178,League_europa,2026,2026-08-06,Lincoln Red Imps FC,Omonia Nicosia,1,1,0,0,D
+1607562,League_europa,2026,2026-08-06,Hradec Králové,Beşiktaş,0,1,0,0,A
+1607565,League_europa,2026,2026-08-06,PAOK,Anderlecht,0,1,0,1,A
+1607179,League_europa,2026,2026-08-06,FC Thun,Vikingur Reykjavik,3,0,2,0,H
+1607560,League_europa,2026,2026-08-06,Benfica,Heart Of Midlothian,6,1,3,0,H
+1607569,League_europa,2026,2026-08-13,Gornik Zabrze,Ferencvarosi TC,1,1,1,0,D
+1607567,League_europa,2026,2026-08-13,Beşiktaş,Hradec Králové,1,0,1,0,H
+1607183,League_europa,2026,2026-08-13,Universitatea Craiova,KuPS,2,1,1,1,H
+1607182,League_europa,2026,2026-08-13,Omonia Nicosia,Lincoln Red Imps FC,1,0,1,0,H
+1607571,League_europa,2026,2026-08-13,Pafos,Red Bull Salzburg,3,3,2,0,D
+1607184,League_europa,2026,2026-08-13,Vikingur Reykjavik,FC Thun,3,2,2,2,H
+1607568,League_europa,2026,2026-08-13,CSKA Sofia,Maccabi Tel Aviv,1,3,0,1,A
+1598831,League_europa,2026,2026-08-13,Rangers,Jagiellonia,1,1,1,0,D
+1607566,League_europa,2026,2026-08-13,Anderlecht,PAOK,3,2,1,1,H
+1607570,League_europa,2026,2026-08-13,Heart Of Midlothian,Benfica,1,1,0,0,D
+1606353,League_europa,2026,2026-08-13,Egnatia Rrogozhinë,Shamrock Rovers,5,1,4,0,H
+1607181,League_europa,2026,2026-08-14,KI Klaksvik,Lech Poznan,0,5,0,1,A
+1623435,League_europa,2026,2026-08-20,Kairat Almaty,Anderlecht,0,3,0,3,A
+1623434,League_europa,2026,2026-08-20,Jagiellonia,FC Iberia 1999,4,0,2,0,H
+1623436,League_europa,2026,2026-08-20,Mjallby AIF,Red Bull Salzburg,0,1,0,0,A
+1627595,League_europa,2026,2026-08-20,Lech Poznan,FC Thun,7,0,5,0,H
+1623432,League_europa,2026,2026-08-20,Beşiktaş,Kauno Žalgiris,3,0,2,0,H
+1623440,League_europa,2026,2026-08-20,Universitatea Craiova,Ararat-Armenia,1,1,1,1,D
+1623439,League_europa,2026,2026-08-20,Trabzonspor,Ferencvarosi TC,0,1,0,1,A
+1623433,League_europa,2026,2026-08-20,Egnatia Rrogozhinë,Lillestrom,0,0,0,0,D
+1622632,League_europa,2026,2026-08-20,FK Crvena Zvezda,Plzen,3,0,1,0,H
+1623438,League_europa,2026,2026-08-20,St. Truiden,Omonia Nicosia,1,0,0,0,H
+1623437,League_europa,2026,2026-08-20,OFI,CSKA Sofia,3,0,1,0,H
+1623431,League_europa,2026,2026-08-20,Benfica,Aarhus,3,1,3,1,H
+1623446,League_europa,2026,2026-08-27,FC Iberia 1999,Jagiellonia,1,2,1,1,A
+1623443,League_europa,2026,2026-08-27,Ararat-Armenia,Universitatea Craiova,1,0,0,0,H
+1623450,League_europa,2026,2026-08-27,Red Bull Salzburg,Mjallby AIF,3,0,0,0,H
+1623449,League_europa,2026,2026-08-27,Omonia Nicosia,St. Truiden,4,2,2,1,H
+1623447,League_europa,2026,2026-08-27,Kauno Žalgiris,Beşiktaş,1,0,0,0,H
+1623441,League_europa,2026,2026-08-27,Aarhus,Benfica,1,3,0,1,A
+1623444,League_europa,2026,2026-08-27,CSKA Sofia,OFI,0,2,0,1,A
+1627596,League_europa,2026,2026-08-27,FC Thun,Lech Poznan,2,2,2,1,D
+1623442,League_europa,2026,2026-08-27,Anderlecht,Kairat Almaty,3,0,1,0,H
+1623445,League_europa,2026,2026-08-27,Ferencvarosi TC,Trabzonspor,4,0,1,0,H
