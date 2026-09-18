@@ -63,3 +63,7 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1561387,russie,2026,2026-09-13,Akhmat,Dinamo Makhachkala,3,2,0,0,H
 1561393,russie,2026,2026-09-13,Spartak Moscow,FC Rostov,3,0,1,0,H
 1561391,russie,2026,2026-09-13,FC Krasnodar,Akron,1,1,0,1,D
+1561402,russie,2026,2026-09-16,Spartak Moscow,Fakel,1,0,0,0,H
+1561401,russie,2026,2026-09-16,Rodina Moskva,Rubin,1,1,0,0,D
+1561399,russie,2026,2026-09-16,Lokomotiv,Krylia Sovetov,1,1,0,0,D
+1561396,russie,2026,2026-09-16,Baltika,Zenit,2,3,1,2,A

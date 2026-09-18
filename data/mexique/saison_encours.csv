@@ -13,13 +13,13 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1550906,mexique,2026,2026-07-25,Club Tijuana,Leon,1,0,0,0,H
 1550907,mexique,2026,2026-07-25,Atlante FC,Club America,1,1,0,1,D
 1550908,mexique,2026,2026-07-25,Guadalajara Chivas,FC Juarez,1,0,0,0,H
-1550909,mexique,2026,2026-07-26,Santos Laguna,Atlas,0,1,0,0,A
 1550905,mexique,2026,2026-07-26,Tigres UANL,Atletico San Luis,2,2,1,1,D
+1550909,mexique,2026,2026-07-26,Santos Laguna,Atlas,0,1,0,0,A
 1550910,mexique,2026,2026-07-26,Necaxa,Monterrey,2,1,0,0,H
 1550911,mexique,2026,2026-07-27,CF Pachuca,Club Queretaro,1,2,1,0,A
 1550912,mexique,2026,2026-08-01,Puebla,Guadalajara Chivas,1,1,1,0,D
-1550913,mexique,2026,2026-08-01,Atletico San Luis,Club Tijuana,0,0,0,0,D
 1550914,mexique,2026,2026-08-01,FC Juarez,U.N.A.M. - Pumas,1,5,1,3,A
+1550913,mexique,2026,2026-08-01,Atletico San Luis,Club Tijuana,0,0,0,0,D
 1550915,mexique,2026,2026-08-01,Club Queretaro,Tigres UANL,3,2,2,1,H
 1550917,mexique,2026,2026-08-02,Leon,CF Pachuca,1,0,1,0,H
 1550916,mexique,2026,2026-08-02,Atlas,Monterrey,0,2,0,1,A
@@ -39,8 +39,8 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1550934,mexique,2026,2026-08-22,Leon,Monterrey,2,0,1,0,H
 1550933,mexique,2026,2026-08-22,Club Queretaro,Toluca,1,2,0,0,A
 1550931,mexique,2026,2026-08-22,FC Juarez,Club America,1,2,1,1,A
+1550932,mexique,2026,2026-08-22,Guadalajara Chivas,Club Tijuana,5,2,3,0,H
 1550930,mexique,2026,2026-08-23,Puebla,Santos Laguna,3,2,1,1,H
-1550932,mexique,2026,2026-08-23,Guadalajara Chivas,Club Tijuana,5,2,3,0,H
 1550935,mexique,2026,2026-08-23,Cruz Azul,Atlas,0,2,0,2,A
 1550937,mexique,2026,2026-08-23,Atletico San Luis,CF Pachuca,1,1,0,0,D
 1550938,mexique,2026,2026-08-24,U.N.A.M. - Pumas,Necaxa,1,1,0,0,D
@@ -68,3 +68,4 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1550964,mexique,2026,2026-09-14,Santos Laguna,FC Juarez,2,1,0,0,H
 1550963,mexique,2026,2026-09-14,Guadalajara Chivas,U.N.A.M. - Pumas,3,0,1,0,H
 1550960,mexique,2026,2026-09-15,Leon,Atletico San Luis,2,0,0,0,H
+1550948,mexique,2026,2026-09-16,Puebla,Toluca,0,1,0,0,A
