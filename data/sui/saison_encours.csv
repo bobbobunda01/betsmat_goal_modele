@@ -44,3 +44,6 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1555392,Suisse,2026,2026-09-13,FC Zurich,FC Vaduz,2,1,0,1,H
 1555394,Suisse,2026,2026-09-13,FC Luzern,FC Basel 1893,2,4,1,2,A
 1555393,Suisse,2026,2026-09-13,Lausanne,Servette FC,0,1,0,0,A
+1555368,Suisse,2026,2026-09-15,Grasshoppers,FC Sion,2,5,1,1,A
+1555369,Suisse,2026,2026-09-16,FC Lugano,FC ST. Gallen,4,1,4,0,H
+1555370,Suisse,2026,2026-09-16,FC Thun,Servette FC,2,4,1,2,A
