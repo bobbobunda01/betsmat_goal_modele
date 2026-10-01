@@ -52,3 +52,12 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1575499,Portugais,2026,2026-09-14,Rio Ave,Estrela,3,3,1,1,D
 1575497,Portugais,2026,2026-09-14,Moreirense,Maritimo,3,1,2,0,H
 1575494,Portugais,2026,2026-09-14,SC Braga,Estoril,1,0,0,0,H
+1575505,Portugais,2026,2026-09-19,Nacional,Famalicao,0,4,0,3,A
+1575504,Portugais,2026,2026-09-19,GIL Vicente,Maritimo,1,1,1,0,D
+1575500,Portugais,2026,2026-09-19,Alverca,Rio Ave,1,0,1,0,H
+1575507,Portugais,2026,2026-09-19,Sporting CP,Arouca,2,2,2,0,D
+1575508,Portugais,2026,2026-09-20,Vitória SC,Moreirense,1,1,0,0,D
+1575502,Portugais,2026,2026-09-20,Estrela,Academico Viseu,0,2,0,2,A
+1575506,Portugais,2026,2026-09-20,Santa Clara,SC Braga,0,0,0,0,D
+1575501,Portugais,2026,2026-09-20,Estoril,Casa Pia,1,2,0,0,A
+1575503,Portugais,2026,2026-09-20,FC Porto,Benfica,3,1,1,0,H

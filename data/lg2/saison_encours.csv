@@ -54,3 +54,25 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1569923,secunda,2026,2026-09-13,Mallorca,Sabadell,2,0,2,0,H
 1569924,secunda,2026,2026-09-13,Tenerife,Leganes,2,0,1,0,H
 1569918,secunda,2026,2026-09-14,Celta de Vigo II,Eibar,0,4,0,4,A
+1569926,secunda,2026,2026-09-18,Albacete,Cordoba,1,2,1,0,A
+1569935,secunda,2026,2026-09-19,Real Sociedad II,Mallorca,0,1,0,0,A
+1569928,secunda,2026,2026-09-19,FC Andorra,Sporting Gijon,1,3,0,1,A
+1569930,secunda,2026,2026-09-19,Castellón,Tenerife,5,0,3,0,H
+1569932,secunda,2026,2026-09-19,Eldense,Eibar,1,2,0,1,A
+1569929,secunda,2026,2026-09-19,Cadiz,Girona,1,2,0,2,A
+1569936,secunda,2026,2026-09-20,Sabadell,Oviedo,3,1,2,0,H
+1569931,secunda,2026,2026-09-20,AD Ceuta FC,Valladolid,1,1,0,0,D
+1569933,secunda,2026,2026-09-20,Las Palmas,Burgos,1,2,1,0,A
+1569927,secunda,2026,2026-09-20,Almeria,Celta de Vigo II,2,0,2,0,H
+1569934,secunda,2026,2026-09-20,Leganes,Granada CF,3,2,2,1,H
+1569941,secunda,2026,2026-09-25,Girona,Albacete,2,0,2,0,H
+1569939,secunda,2026,2026-09-26,AD Ceuta FC,Real Sociedad II,3,1,0,0,H
+1569942,secunda,2026,2026-09-26,Granada CF,FC Andorra,2,3,0,2,A
+1569946,secunda,2026,2026-09-26,Tenerife,Cadiz,1,1,1,0,D
+1569938,secunda,2026,2026-09-26,Celta de Vigo II,Sabadell,1,1,1,1,D
+1569947,secunda,2026,2026-09-27,Valladolid,Cordoba,3,1,1,1,H
+1569944,secunda,2026,2026-09-27,Mallorca,Almeria,0,1,0,1,A
+1569940,secunda,2026,2026-09-27,Eibar,Las Palmas,3,2,2,1,H
+1569937,secunda,2026,2026-09-27,Burgos,Eldense,1,0,1,0,H
+1569945,secunda,2026,2026-09-27,Oviedo,Sporting Gijon,2,0,1,0,H
+1569943,secunda,2026,2026-09-28,Leganes,Castellón,0,2,0,1,A

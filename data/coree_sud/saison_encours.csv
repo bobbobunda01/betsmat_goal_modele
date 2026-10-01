@@ -172,3 +172,10 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1507067,coree_sud,2026,2026-09-12,Daejeon Citizen,Pohang Steelers,2,2,0,0,D
 1507068,coree_sud,2026,2026-09-13,Gimcheon Sangmu FC,Gangwon FC,2,2,2,0,D
 1507069,coree_sud,2026,2026-09-13,Gwangju FC,FC Anyang,1,1,1,1,D
+1507070,coree_sud,2026,2026-09-19,Bucheon FC 1995,Gimcheon Sangmu FC,0,2,0,0,A
+1507071,coree_sud,2026,2026-09-19,FC Anyang,Ulsan Hyundai FC,2,1,1,0,H
+1507072,coree_sud,2026,2026-09-20,Gangwon FC,Jeju United FC,0,1,0,1,A
+1507073,coree_sud,2026,2026-09-20,Jeonbuk Motors,Gwangju FC,2,2,1,1,D
+1507074,coree_sud,2026,2026-09-20,Incheon United,Daejeon Citizen,1,1,1,0,D
+1507075,coree_sud,2026,2026-09-20,Pohang Steelers,FC Seoul,2,1,2,0,H
+1507024,coree_sud,2026,2026-09-27,Gangwon FC,Incheon United,0,0,0,0,D

@@ -47,3 +47,5 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1612244,egypte,2026,2026-09-15,Al Ahly,Abu Qair Semad,2,0,1,0,H
 1612246,egypte,2026,2026-09-16,El Gouna FC,Petrojet,1,2,0,2,A
 1612248,egypte,2026,2026-09-16,Ghazl El Mehalla,Zamalek SC,0,1,0,0,A
+1612241,egypte,2026,2026-09-17,Masr,Olympic El Qanah,2,1,0,0,H
+1612247,egypte,2026,2026-09-17,Enppi,Pyramids FC,1,2,0,0,A
