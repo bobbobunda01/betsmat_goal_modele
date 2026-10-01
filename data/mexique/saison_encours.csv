@@ -69,3 +69,21 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1550963,mexique,2026,2026-09-14,Guadalajara Chivas,U.N.A.M. - Pumas,3,0,1,0,H
 1550960,mexique,2026,2026-09-15,Leon,Atletico San Luis,2,0,0,0,H
 1550948,mexique,2026,2026-09-16,Puebla,Toluca,0,1,0,0,A
+1550966,mexique,2026,2026-09-19,Puebla,Atlante FC,1,1,0,1,D
+1550967,mexique,2026,2026-09-19,FC Juarez,Tigres UANL,2,0,0,0,H
+1550968,mexique,2026,2026-09-19,Atlas,U.N.A.M. - Pumas,1,1,1,1,D
+1550969,mexique,2026,2026-09-19,Atletico San Luis,Necaxa,3,1,1,1,H
+1550970,mexique,2026,2026-09-20,Monterrey,Cruz Azul,1,0,1,0,H
+1550971,mexique,2026,2026-09-20,Club America,Guadalajara Chivas,2,2,0,2,D
+1550973,mexique,2026,2026-09-21,Toluca,Santos Laguna,2,3,2,1,A
+1550972,mexique,2026,2026-09-21,CF Pachuca,Club Tijuana,2,2,0,2,D
+1550974,mexique,2026,2026-09-21,Club Queretaro,Leon,1,1,0,0,D
+1550975,mexique,2026,2026-09-26,Atlante FC,Monterrey,4,2,1,1,H
+1550976,mexique,2026,2026-09-26,Club Tijuana,Atlas,2,3,2,1,A
+1550980,mexique,2026,2026-09-26,Cruz Azul,Toluca,3,3,2,0,D
+1550977,mexique,2026,2026-09-26,Guadalajara Chivas,Club Queretaro,0,2,0,1,A
+1550978,mexique,2026,2026-09-27,Santos Laguna,CF Pachuca,1,0,1,0,H
+1550979,mexique,2026,2026-09-27,Tigres UANL,Puebla,1,0,0,0,H
+1550981,mexique,2026,2026-09-27,U.N.A.M. - Pumas,Atletico San Luis,2,3,0,1,A
+1550982,mexique,2026,2026-09-28,Leon,FC Juarez,2,1,0,0,H
+1550983,mexique,2026,2026-09-28,Necaxa,Club America,2,4,2,2,A
