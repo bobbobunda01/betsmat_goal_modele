@@ -49,3 +49,13 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1612248,egypte,2026,2026-09-16,Ghazl El Mehalla,Zamalek SC,0,1,0,0,A
 1612241,egypte,2026,2026-09-17,Masr,Olympic El Qanah,2,1,0,0,H
 1612247,egypte,2026,2026-09-17,Enppi,Pyramids FC,1,2,0,0,A
+1612249,egypte,2026,2026-10-11,Olympic El Qanah,AL Masry,1,1,1,0,D
+1612250,egypte,2026,2026-10-11,Zamalek SC,Al Ahly,0,2,0,1,A
+1612251,egypte,2026,2026-10-12,El Mokawloon,Masr,1,1,0,0,D
+1612252,egypte,2026,2026-10-12,Future FC,Enppi,3,2,3,2,H
+1612253,egypte,2026,2026-10-12,Pyramids FC,Ceramica Cleopatra,4,1,3,1,H
+1612254,egypte,2026,2026-10-12,Smouha SC,Ghazl El Mehalla,1,0,1,0,H
+1612256,egypte,2026,2026-10-13,National Bank of Egypt,El Geish,3,0,1,0,H
+1612255,egypte,2026,2026-10-13,Abu Qair Semad,Asyut Petrol,1,2,0,0,A
+1612258,egypte,2026,2026-10-13,Petrojet,Wadi Degla,2,2,0,2,D
+1612257,egypte,2026,2026-10-13,Al Ittihad,El Gouna FC,2,1,1,1,H

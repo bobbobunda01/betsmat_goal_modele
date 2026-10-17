@@ -76,3 +76,26 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1569937,secunda,2026,2026-09-27,Burgos,Eldense,1,0,1,0,H
 1569945,secunda,2026,2026-09-27,Oviedo,Sporting Gijon,2,0,1,0,H
 1569943,secunda,2026,2026-09-28,Leganes,Castellón,0,2,0,1,A
+1569953,secunda,2026,2026-10-02,Eldense,Oviedo,4,1,0,1,H
+1569948,secunda,2026,2026-10-03,Albacete,Eibar,1,3,1,0,A
+1569949,secunda,2026,2026-10-03,Almeria,Burgos,2,1,0,1,H
+1569950,secunda,2026,2026-10-03,Cadiz,Leganes,4,0,1,0,H
+1569957,secunda,2026,2026-10-04,Real Sociedad II,Granada CF,2,3,2,0,A
+1569954,secunda,2026,2026-10-04,Sporting Gijon,Celta de Vigo II,3,2,2,1,H
+1569956,secunda,2026,2026-10-04,Las Palmas,Valladolid,2,2,1,2,D
+1569951,secunda,2026,2026-10-04,Castellón,AD Ceuta FC,1,1,1,0,D
+1569955,secunda,2026,2026-10-04,Girona,Mallorca,0,0,0,0,D
+1569958,secunda,2026,2026-10-04,Sabadell,FC Andorra,0,0,0,0,D
+1569952,secunda,2026,2026-10-05,Cordoba,Tenerife,3,2,2,1,H
+1569964,secunda,2026,2026-10-10,AD Ceuta FC,Sabadell,1,2,1,1,A
+1569965,secunda,2026,2026-10-10,Eldense,Cordoba,2,1,0,1,H
+1569963,secunda,2026,2026-10-10,Celta de Vigo II,Real Sociedad II,4,1,3,0,H
+1569960,secunda,2026,2026-10-11,FC Andorra,Castellón,1,0,1,0,H
+1569959,secunda,2026,2026-10-11,Almeria,Leganes,3,0,0,0,H
+1569966,secunda,2026,2026-10-11,Mallorca,Las Palmas,3,1,1,0,H
+1569962,secunda,2026,2026-10-11,Cadiz,Sporting Gijon,0,1,0,0,A
+1569969,secunda,2026,2026-10-12,Valladolid,Albacete,5,0,4,0,H
+1569961,secunda,2026,2026-10-12,Burgos,Granada CF,0,1,0,1,A
+1569967,secunda,2026,2026-10-12,Oviedo,Eibar,3,1,2,0,H
+1569968,secunda,2026,2026-10-12,Tenerife,Girona,1,1,1,1,D
+1569978,secunda,2026,2026-10-16,Leganes,Cordoba,0,1,0,0,A

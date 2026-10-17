@@ -94,3 +94,28 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1563178,Championship,2026,2026-09-19,Wrexham,Southampton,2,1,1,0,H
 1563177,Championship,2026,2026-09-20,Wolves,West Brom,1,0,0,0,H
 1563173,Championship,2026,2026-09-20,Norwich,Bolton,3,4,2,2,A
+1563190,Championship,2026,2026-10-09,West Ham,QPR,1,1,0,1,D
+1563189,Championship,2026,2026-10-10,West Brom,Birmingham,0,1,0,1,A
+1563187,Championship,2026,2026-10-10,Swansea,Norwich,2,1,0,1,H
+1563181,Championship,2026,2026-10-10,Charlton,Bristol City,1,1,1,1,D
+1563188,Championship,2026,2026-10-10,Watford,Burnley,0,4,0,3,A
+1563184,Championship,2026,2026-10-10,Preston,Millwall,0,1,0,0,A
+1563185,Championship,2026,2026-10-10,Sheffield Utd,Lincoln,3,0,1,0,H
+1563179,Championship,2026,2026-10-10,Blackburn,Cardiff,2,1,2,0,H
+1563180,Championship,2026,2026-10-10,Bolton,Stoke City,1,2,0,1,A
+1563182,Championship,2026,2026-10-10,Derby,Wrexham,1,1,1,0,D
+1563183,Championship,2026,2026-10-10,Middlesbrough,Wolves,1,0,0,0,H
+1563186,Championship,2026,2026-10-11,Southampton,Portsmouth,1,0,1,0,H
+1563197,Championship,2026,2026-10-13,Wolves,Bolton,1,3,0,1,A
+1563194,Championship,2026,2026-10-13,Cardiff,Watford,5,1,4,0,H
+1563193,Championship,2026,2026-10-13,Burnley,Charlton,2,2,1,0,D
+1563192,Championship,2026,2026-10-13,Bristol City,Blackburn,0,1,0,1,A
+1563195,Championship,2026,2026-10-13,Millwall,Swansea,0,1,0,0,A
+1563198,Championship,2026,2026-10-13,Wrexham,West Brom,1,2,0,0,A
+1563191,Championship,2026,2026-10-13,Birmingham,Preston,4,0,3,0,H
+1563196,Championship,2026,2026-10-13,Stoke City,Middlesbrough,2,3,0,0,A
+1563200,Championship,2026,2026-10-14,Norwich,Southampton,0,1,0,0,A
+1563202,Championship,2026,2026-10-14,QPR,Derby,4,1,3,0,H
+1563201,Championship,2026,2026-10-14,Portsmouth,Sheffield Utd,3,2,1,0,H
+1563199,Championship,2026,2026-10-14,Lincoln,West Ham,0,6,0,1,A
+1563205,Championship,2026,2026-10-16,Burnley,Wolves,1,2,1,1,A

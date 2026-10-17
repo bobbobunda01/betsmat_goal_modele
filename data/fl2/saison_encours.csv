@@ -62,3 +62,17 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1552480,france_league_2,2026,2026-09-19,Guingamp,RED Star FC 93,1,3,0,2,A
 1552478,france_league_2,2026,2026-09-19,Boulogne,Nantes,1,2,0,0,A
 1552482,france_league_2,2026,2026-09-19,Metz,Saint Etienne,2,2,0,0,D
+1552489,france_league_2,2026,2026-10-09,Montpellier,Grenoble,2,0,1,0,H
+1552490,france_league_2,2026,2026-10-09,Nancy,Guingamp,1,0,0,0,H
+1552493,france_league_2,2026,2026-10-09,Sochaux,Boulogne,1,1,1,0,D
+1552492,france_league_2,2026,2026-10-09,PAU,Laval,3,2,1,1,H
+1552488,france_league_2,2026,2026-10-09,Dunkerque,Annecy,0,1,0,1,A
+1552491,france_league_2,2026,2026-10-10,Nantes,Reims,0,0,0,0,D
+1552486,france_league_2,2026,2026-10-10,Clermont Foot,RED Star FC 93,2,3,1,1,A
+1552494,france_league_2,2026,2026-10-10,Saint Etienne,Rodez,2,0,1,0,H
+1552487,france_league_2,2026,2026-10-12,Dijon,Metz,4,2,3,1,H
+1552497,france_league_2,2026,2026-10-16,Guingamp,PAU,1,2,0,2,A
+1552502,france_league_2,2026,2026-10-16,Reims,Dijon,4,2,3,1,H
+1552496,france_league_2,2026,2026-10-16,Grenoble,Boulogne,0,2,0,0,A
+1552498,france_league_2,2026,2026-10-16,Laval,Clermont Foot,3,3,0,2,D
+1552495,france_league_2,2026,2026-10-16,Annecy,Nancy,1,2,0,1,A
