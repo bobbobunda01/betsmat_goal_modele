@@ -399,3 +399,36 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1493137,Argentine_league_1,2026,2026-09-21,Aldosivi,Atletico Tucuman,1,0,0,0,H
 1493138,Argentine_league_1,2026,2026-09-21,Barracas Central,Independ. Rivadavia,0,1,0,1,A
 1493144,Argentine_league_1,2026,2026-09-22,Lanus,Estudiantes L.P.,2,1,1,0,H
+1493161,Argentine_league_1,2026,2026-10-02,Independiente,Instituto Cordoba,1,4,1,1,A
+1493155,Argentine_league_1,2026,2026-10-03,Boca Juniors,Union Santa Fe,3,0,1,0,H
+1493162,Argentine_league_1,2026,2026-10-03,Independ. Rivadavia,Gimnasia L.P.,1,1,1,0,D
+1493156,Argentine_league_1,2026,2026-10-03,Defensa Y Justicia,San Lorenzo,3,0,3,0,H
+1493153,Argentine_league_1,2026,2026-10-03,Atletico Tucuman,Barracas Central,2,3,1,0,A
+1493163,Argentine_league_1,2026,2026-10-03,Newells Old Boys,Lanus,0,0,0,0,D
+1493160,Argentine_league_1,2026,2026-10-04,Huracan,Aldosivi,1,0,1,0,H
+1493165,Argentine_league_1,2026,2026-10-04,Talleres Cordoba,Belgrano Cordoba,0,1,0,0,A
+1493152,Argentine_league_1,2026,2026-10-04,Argentinos JRS,Tigre,2,1,2,0,H
+1493159,Argentine_league_1,2026,2026-10-05,Estudiantes de Rio Cuarto,Racing Club,1,2,0,2,A
+1493157,Argentine_league_1,2026,2026-10-05,Deportivo Riestra,Central Cordoba de Santiago,1,1,1,1,D
+1493166,Argentine_league_1,2026,2026-10-05,Velez Sarsfield,Platense,2,2,1,1,D
+1493158,Argentine_league_1,2026,2026-10-05,Estudiantes L.P.,Gimnasia M.,3,0,0,0,H
+1493154,Argentine_league_1,2026,2026-10-06,Banfield,Rosario Central,1,1,1,0,D
+1493167,Argentine_league_1,2026,2026-10-09,Aldosivi,Sarmiento Junin,1,3,1,1,A
+1493170,Argentine_league_1,2026,2026-10-09,Gimnasia L.P.,Atletico Tucuman,1,1,0,0,D
+1493172,Argentine_league_1,2026,2026-10-09,Instituto Cordoba,Boca Juniors,2,2,1,1,D
+1493181,Argentine_league_1,2026,2026-10-10,Union Santa Fe,Defensa Y Justicia,0,2,0,2,A
+1493168,Argentine_league_1,2026,2026-10-10,Barracas Central,Huracan,2,0,1,0,H
+1493169,Argentine_league_1,2026,2026-10-10,Central Cordoba de Santiago,Estudiantes L.P.,2,2,2,2,D
+1493180,Argentine_league_1,2026,2026-10-10,Tigre,Banfield,1,2,1,2,A
+1493176,Argentine_league_1,2026,2026-10-11,River Plate,Estudiantes de Rio Cuarto,1,0,1,0,H
+1493178,Argentine_league_1,2026,2026-10-11,San Lorenzo,Deportivo Riestra,1,0,0,0,H
+1493177,Argentine_league_1,2026,2026-10-11,Rosario Central,Independ. Rivadavia,5,0,1,0,H
+1493174,Argentine_league_1,2026,2026-10-11,Platense,Argentinos JRS,1,1,0,1,D
+1493175,Argentine_league_1,2026,2026-10-11,Racing Club,Belgrano Cordoba,0,2,0,1,A
+1493179,Argentine_league_1,2026,2026-10-12,Talleres Cordoba,Independiente,0,0,0,0,D
+1493173,Argentine_league_1,2026,2026-10-12,Lanus,Velez Sarsfield,2,0,0,0,H
+1493171,Argentine_league_1,2026,2026-10-12,Gimnasia M.,Newells Old Boys,1,0,0,0,H
+1493164,Argentine_league_1,2026,2026-10-14,Sarmiento Junin,River Plate,1,1,1,0,D
+1493190,Argentine_league_1,2026,2026-10-15,Huracan,Gimnasia L.P.,1,2,0,1,A
+1493186,Argentine_league_1,2026,2026-10-16,Defensa Y Justicia,Instituto Cordoba,0,1,0,1,A
+1493185,Argentine_league_1,2026,2026-10-17,Boca Juniors,Talleres Cordoba,2,1,1,1,H

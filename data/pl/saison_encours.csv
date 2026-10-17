@@ -49,3 +49,13 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1557413,Premier League,2026,2026-09-20,Manchester City,Sunderland,5,3,3,2,H
 1557412,Premier League,2026,2026-09-20,Leeds,Crystal Palace,0,0,0,0,D
 1557411,Premier League,2026,2026-09-20,Fulham,Manchester United,1,1,0,0,D
+1557417,Premier League,2026,2026-10-10,Arsenal,Leeds,2,1,0,0,H
+1557419,Premier League,2026,2026-10-10,Chelsea,Bournemouth,5,1,2,0,H
+1557423,Premier League,2026,2026-10-10,Ipswich,Fulham,2,1,0,0,H
+1557418,Premier League,2026,2026-10-10,Aston Villa,Brentford,2,2,1,1,D
+1557426,Premier League,2026,2026-10-10,Sunderland,Brighton,0,2,0,0,A
+1557425,Premier League,2026,2026-10-10,Manchester United,Tottenham,1,1,0,0,D
+1557421,Premier League,2026,2026-10-11,Crystal Palace,Nottingham Forest,3,1,2,1,H
+1557422,Premier League,2026,2026-10-11,Hull City,Everton,2,2,0,0,D
+1557424,Premier League,2026,2026-10-11,Liverpool,Manchester City,0,3,0,0,A
+1557420,Premier League,2026,2026-10-12,Coventry,Newcastle,4,1,1,0,H

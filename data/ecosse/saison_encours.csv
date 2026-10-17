@@ -41,3 +41,9 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1556667,ecosse,2026,2026-09-19,ST Johnstone,Falkirk,1,1,0,0,D
 1556666,ecosse,2026,2026-09-19,Kilmarnock,Heart Of Midlothian,1,1,1,0,D
 1556669,ecosse,2026,2026-09-20,Celtic,Rangers,0,1,0,1,A
+1556673,ecosse,2026,2026-10-10,Heart Of Midlothian,ST Mirren,5,0,2,0,H
+1556675,ecosse,2026,2026-10-10,Rangers,Kilmarnock,3,1,3,0,H
+1556671,ecosse,2026,2026-10-10,Dundee Utd,Hibernian,1,0,1,0,H
+1556672,ecosse,2026,2026-10-10,Falkirk,Dundee,1,2,1,0,A
+1556674,ecosse,2026,2026-10-11,Motherwell,Celtic,0,2,0,1,A
+1556670,ecosse,2026,2026-10-11,Aberdeen,ST Johnstone,0,1,0,1,A
