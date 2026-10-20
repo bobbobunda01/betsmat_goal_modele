@@ -76,3 +76,7 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1552496,france_league_2,2026,2026-10-16,Grenoble,Boulogne,0,2,0,0,A
 1552498,france_league_2,2026,2026-10-16,Laval,Clermont Foot,3,3,0,2,D
 1552495,france_league_2,2026,2026-10-16,Annecy,Nancy,1,2,0,1,A
+1552500,france_league_2,2026,2026-10-17,Nantes,Dunkerque,2,3,1,2,A
+1552499,france_league_2,2026,2026-10-17,Metz,Sochaux,3,2,2,0,H
+1552501,france_league_2,2026,2026-10-17,RED Star FC 93,Saint Etienne,0,1,0,1,A
+1552503,france_league_2,2026,2026-10-19,Rodez,Montpellier,0,3,0,0,A
