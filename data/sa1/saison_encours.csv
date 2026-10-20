@@ -60,3 +60,12 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1550137,Serie A,2026,2026-10-12,Atalanta,Venezia,3,1,3,1,H
 1550146,Serie A,2026,2026-10-12,Torino,Udinese,2,1,1,1,H
 1550151,Serie A,2026,2026-10-16,Frosinone,Sassuolo,4,2,3,2,H
+1550156,Serie A,2026,2026-10-17,Venezia,Napoli,1,0,0,0,H
+1550149,Serie A,2026,2026-10-17,Bologna,Inter,1,3,1,1,A
+1550148,Serie A,2026,2026-10-17,AS Roma,Genoa,2,0,0,0,H
+1550155,Serie A,2026,2026-10-18,Udinese,Lecce,0,3,0,2,A
+1550150,Serie A,2026,2026-10-18,Fiorentina,Como,1,3,1,2,A
+1550147,Serie A,2026,2026-10-18,AC Milan,Atalanta,3,2,2,0,H
+1550152,Serie A,2026,2026-10-18,Juventus,Lazio,0,3,0,1,A
+1550153,Serie A,2026,2026-10-19,Monza,Cagliari,4,0,1,0,H
+1550154,Serie A,2026,2026-10-19,Parma,Torino,0,3,0,2,A

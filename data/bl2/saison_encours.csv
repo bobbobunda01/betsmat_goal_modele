@@ -64,3 +64,10 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1576195,bundesliga_2,2026,2026-10-11,FC St. Pauli,Karlsruher SC,2,0,1,0,H
 1576201,bundesliga_2,2026,2026-10-16,Holstein Kiel,Hertha BSC,0,0,0,0,D
 1576198,bundesliga_2,2026,2026-10-16,Energie Cottbus,1. FC Nürnberg,1,1,0,0,D
+1576205,bundesliga_2,2026,2026-10-17,VfL Wolfsburg,1. FC Heidenheim,3,1,2,1,H
+1576199,bundesliga_2,2026,2026-10-17,SpVgg Greuther Fürth,Eintracht Braunschweig,2,0,1,0,H
+1576202,bundesliga_2,2026,2026-10-17,1. FC Kaiserslautern,VfL Bochum,2,0,1,0,H
+1576200,bundesliga_2,2026,2026-10-17,Hannover 96,FC St. Pauli,1,1,0,1,D
+1576204,bundesliga_2,2026,2026-10-18,Dynamo Dresden,1. FC Magdeburg,2,0,1,0,H
+1576197,bundesliga_2,2026,2026-10-18,Arminia Bielefeld,VfL Osnabrück,2,1,1,1,H
+1576203,bundesliga_2,2026,2026-10-18,Karlsruher SC,SV Darmstadt 98,4,0,2,0,H
