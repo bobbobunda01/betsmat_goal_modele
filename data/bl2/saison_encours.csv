@@ -71,3 +71,12 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1576204,bundesliga_2,2026,2026-10-18,Dynamo Dresden,1. FC Magdeburg,2,0,1,0,H
 1576197,bundesliga_2,2026,2026-10-18,Arminia Bielefeld,VfL Osnabrück,2,1,1,1,H
 1576203,bundesliga_2,2026,2026-10-18,Karlsruher SC,SV Darmstadt 98,4,0,2,0,H
+1576206,bundesliga_2,2026,2026-10-23,VfL Bochum,VfL Wolfsburg,1,1,0,1,D
+1576208,bundesliga_2,2026,2026-10-23,SV Darmstadt 98,FC St. Pauli,0,0,0,0,D
+1576210,bundesliga_2,2026,2026-10-24,Hertha BSC,Arminia Bielefeld,1,0,0,0,H
+1576212,bundesliga_2,2026,2026-10-24,1. FC Magdeburg,Karlsruher SC,6,1,1,0,H
+1576209,bundesliga_2,2026,2026-10-24,1. FC Heidenheim,Energie Cottbus,1,1,0,1,D
+1576213,bundesliga_2,2026,2026-10-24,1. FC Nürnberg,1. FC Kaiserslautern,0,1,0,0,A
+1576211,bundesliga_2,2026,2026-10-25,Holstein Kiel,Dynamo Dresden,3,0,1,0,H
+1576207,bundesliga_2,2026,2026-10-25,Eintracht Braunschweig,Hannover 96,2,0,1,0,H
+1576214,bundesliga_2,2026,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,3,0,2,0,H

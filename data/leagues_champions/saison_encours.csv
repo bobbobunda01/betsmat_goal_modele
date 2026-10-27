@@ -115,3 +115,21 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1635635,champions_league,2026,2026-10-14,Real Betis,FC Porto,3,2,0,0,H
 1635725,champions_league,2026,2026-10-14,Shakhtar Donetsk,AEK Athens FC,3,1,1,1,H
 1635733,champions_league,2026,2026-10-14,Slovan Bratislava,VfB Stuttgart,0,3,0,1,A
+1635661,champions_league,2026,2026-10-20,Fenerbahçe,Slavia Praha,2,2,2,1,D
+1635719,champions_league,2026,2026-10-20,Sabah FA,Borussia Dortmund,1,2,1,1,A
+1635688,champions_league,2026,2026-10-20,Liverpool,Villarreal,4,3,2,2,H
+1635693,champions_league,2026,2026-10-20,Manchester City,AEK Athens FC,5,1,2,0,H
+1635702,champions_league,2026,2026-10-20,Paris Saint Germain,Barcelona,4,2,1,0,H
+1635738,champions_league,2026,2026-10-20,VfB Stuttgart,Atletico Madrid,1,1,1,0,D
+1635655,champions_league,2026,2026-10-20,FC Porto,PSV Eindhoven,0,1,0,0,A
+1635700,champions_league,2026,2026-10-20,Napoli,Bodo/Glimt,4,3,2,1,H
+1635617,champions_league,2026,2026-10-20,AS Roma,Slovan Bratislava,4,0,2,0,H
+1635684,champions_league,2026,2026-10-21,Lille,Galatasaray,2,4,2,2,A
+1635647,champions_league,2026,2026-10-21,Como,Manchester United,4,1,1,0,H
+1635621,champions_league,2026,2026-10-21,Aston Villa,Viking,3,1,2,0,H
+1635630,champions_league,2026,2026-10-21,Bayern München,Arsenal,2,2,1,1,D
+1635737,champions_league,2026,2026-10-21,Sporting CP,Lask Linz,2,3,1,1,A
+1635672,champions_league,2026,2026-10-21,Inter,Shakhtar Donetsk,1,0,0,0,H
+1635716,champions_league,2026,2026-10-21,Real Madrid,RB Leipzig,4,1,1,0,H
+1635636,champions_league,2026,2026-10-21,Real Betis,Feyenoord,1,0,0,0,H
+1635645,champions_league,2026,2026-10-21,Club Brugge KV,Lens,3,0,1,0,H
