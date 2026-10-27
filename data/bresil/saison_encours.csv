@@ -308,3 +308,13 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1492412,bresil,2026,2026-10-18,Bahia,Flamengo,0,3,0,0,A
 1492418,bresil,2026,2026-10-18,Remo,RB Bragantino,1,1,0,1,D
 1492414,bresil,2026,2026-10-19,Corinthians,Vitoria,1,1,0,1,D
+1492422,bresil,2026,2026-10-23,Cruzeiro,Remo,1,0,1,0,H
+1492424,bresil,2026,2026-10-24,Internacional,Botafogo,3,0,2,0,H
+1492429,bresil,2026,2026-10-24,Vitoria,Atletico Paranaense,1,1,1,1,D
+1492425,bresil,2026,2026-10-24,Mirassol,Sao Paulo,1,1,1,1,D
+1492426,bresil,2026,2026-10-24,Palmeiras,RB Bragantino,2,0,1,0,H
+1492428,bresil,2026,2026-10-24,Vasco DA Gama,Corinthians,3,2,1,0,H
+1492420,bresil,2026,2026-10-24,Chapecoense-sc,Fluminense,2,1,1,1,H
+1492427,bresil,2026,2026-10-25,Santos,Bahia,1,1,0,1,D
+1492421,bresil,2026,2026-10-26,Coritiba,Gremio,0,1,0,0,A
+1492423,bresil,2026,2026-10-26,Flamengo,Atletico-MG,3,2,2,1,H

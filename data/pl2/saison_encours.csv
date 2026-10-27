@@ -130,3 +130,16 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1563209,Championship,2026,2026-10-17,Norwich,Portsmouth,0,1,0,0,A
 1563211,Championship,2026,2026-10-17,Swansea,West Ham,0,1,0,1,A
 1563214,Championship,2026,2026-10-17,Wrexham,Preston,4,1,2,1,H
+1563150,Championship,2026,2026-10-20,Wolves,Portsmouth,1,1,0,0,D
+1563216,Championship,2026,2026-10-23,Bolton,Middlesbrough,1,5,1,3,A
+1563223,Championship,2026,2026-10-24,Sheffield Utd,Derby,1,1,0,1,D
+1563218,Championship,2026,2026-10-24,Charlton,Norwich,1,3,1,1,A
+1563220,Championship,2026,2026-10-24,Portsmouth,Millwall,2,1,1,1,H
+1563226,Championship,2026,2026-10-24,Wolves,Watford,1,0,1,0,H
+1563217,Championship,2026,2026-10-24,Cardiff,Birmingham,1,0,1,0,H
+1563225,Championship,2026,2026-10-24,West Ham,Southampton,2,3,1,3,A
+1563221,Championship,2026,2026-10-24,Preston,West Brom,1,1,0,0,D
+1563215,Championship,2026,2026-10-24,Blackburn,Wrexham,2,0,1,0,H
+1563222,Championship,2026,2026-10-24,QPR,Swansea,5,0,4,0,H
+1563224,Championship,2026,2026-10-24,Stoke City,Bristol City,0,0,0,0,D
+1563219,Championship,2026,2026-10-24,Lincoln,Burnley,4,1,1,1,H

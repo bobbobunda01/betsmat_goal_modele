@@ -105,3 +105,21 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1550998,mexique,2026,2026-10-18,Leon,Club America,3,5,0,2,A
 1551000,mexique,2026,2026-10-18,Cruz Azul,FC Juarez,5,0,3,0,H
 1551001,mexique,2026,2026-10-19,Monterrey,CF Pachuca,2,1,2,0,H
+1551004,mexique,2026,2026-10-21,Guadalajara Chivas,Necaxa,1,0,0,0,H
+1551003,mexique,2026,2026-10-21,FC Juarez,Atlante FC,0,1,0,0,A
+1551002,mexique,2026,2026-10-21,Atletico San Luis,Club Queretaro,2,1,0,0,H
+1551005,mexique,2026,2026-10-21,Tigres UANL,Leon,0,2,0,1,A
+1551008,mexique,2026,2026-10-22,Toluca,Club Tijuana,2,2,0,1,D
+1551006,mexique,2026,2026-10-22,Atlas,Club America,2,5,0,2,A
+1551007,mexique,2026,2026-10-22,Puebla,Monterrey,1,4,0,3,A
+1551010,mexique,2026,2026-10-22,Santos Laguna,U.N.A.M. - Pumas,2,0,1,0,H
+1551009,mexique,2026,2026-10-22,CF Pachuca,Cruz Azul,1,2,1,1,A
+1551011,mexique,2026,2026-10-24,Necaxa,FC Juarez,1,1,1,0,D
+1551012,mexique,2026,2026-10-24,Atlante FC,Atletico San Luis,0,1,0,0,A
+1551013,mexique,2026,2026-10-24,Leon,Toluca,1,1,1,1,D
+1551014,mexique,2026,2026-10-25,Monterrey,Guadalajara Chivas,0,1,0,1,A
+1551015,mexique,2026,2026-10-25,U.N.A.M. - Pumas,Tigres UANL,1,1,0,0,D
+1551016,mexique,2026,2026-10-25,Atlas,Puebla,4,3,1,1,H
+1551018,mexique,2026,2026-10-26,Club Queretaro,Cruz Azul,1,3,1,3,A
+1551017,mexique,2026,2026-10-26,Club America,CF Pachuca,1,2,0,1,A
+1551019,mexique,2026,2026-10-26,Club Tijuana,Santos Laguna,4,1,2,0,H

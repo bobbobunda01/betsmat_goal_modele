@@ -71,3 +71,11 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1558649,Belgique,2026,2026-10-11,Union St. Gilloise,OH Leuven,1,1,0,1,D
 1558652,Belgique,2026,2026-10-11,KVC Westerlo,Antwerp,5,1,1,1,H
 1558647,Belgique,2026,2026-10-11,KV Mechelen,St. Truiden,4,3,3,1,H
+1558653,Belgique,2026,2026-10-24,Antwerp,Charleroi,3,0,2,0,H
+1558658,Belgique,2026,2026-10-24,OH Leuven,Lommel United,2,2,0,1,D
+1558661,Belgique,2026,2026-10-24,KVC Westerlo,SK Beveren,4,4,2,1,D
+1558659,Belgique,2026,2026-10-24,RAAL La Louvière,Zulte Waregem,3,0,1,0,H
+1558655,Belgique,2026,2026-10-25,Genk,Standard Liege,2,1,1,0,H
+1558654,Belgique,2026,2026-10-25,Club Brugge KV,St. Truiden,3,2,2,0,H
+1558656,Belgique,2026,2026-10-25,Gent,Anderlecht,4,0,1,0,H
+1558660,Belgique,2026,2026-10-25,Union St. Gilloise,Cercle Brugge,5,2,0,1,H
