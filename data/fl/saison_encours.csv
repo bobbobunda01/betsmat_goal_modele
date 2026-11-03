@@ -71,3 +71,12 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1552799,Ligue 1,2026,2026-10-25,Toulouse,Estac Troyes,0,0,0,0,D
 1552793,Ligue 1,2026,2026-10-25,Auxerre,Le Mans,1,1,0,0,D
 1552800,Ligue 1,2026,2026-10-26,Paris Saint Germain,Lyon,2,0,0,0,H
+1552806,Ligue 1,2026,2026-10-30,Nice,Rennes,5,2,3,1,H
+1552801,Ligue 1,2026,2026-10-30,Le Havre,Paris Saint Germain,1,5,1,2,A
+1552802,Ligue 1,2026,2026-10-30,Lille,Lens,1,0,0,0,H
+1552809,Ligue 1,2026,2026-10-31,Estac Troyes,Le Mans,2,0,1,0,H
+1552808,Ligue 1,2026,2026-11-01,Strasbourg,Auxerre,5,1,1,0,H
+1552804,Ligue 1,2026,2026-11-01,Lyon,Angers,2,0,1,0,H
+1552807,Ligue 1,2026,2026-11-01,Paris FC,Monaco,3,1,2,0,H
+1552805,Ligue 1,2026,2026-11-01,Marseille,Toulouse,2,0,2,0,H
+1552803,Ligue 1,2026,2026-11-02,Lorient,Stade Brestois 29,0,2,0,0,A

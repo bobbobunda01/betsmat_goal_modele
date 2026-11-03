@@ -79,3 +79,23 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1601563,serie_B,2026,2026-10-24,Arezzo,Benevento,0,3,0,0,A
 1601570,serie_B,2026,2026-10-25,Palermo,Carrarese,2,1,1,0,H
 1601572,serie_B,2026,2026-10-25,Hellas Verona,Pisa,1,1,0,0,D
+1601574,serie_B,2026,2026-10-27,Benevento,Catanzaro,1,1,0,0,D
+1601573,serie_B,2026,2026-10-27,Ascoli,Sampdoria,2,0,0,0,H
+1601576,serie_B,2026,2026-10-27,Cesena,Empoli,2,1,1,0,H
+1601577,serie_B,2026,2026-10-27,Virtus Entella,Avellino,1,1,1,0,D
+1601581,serie_B,2026,2026-10-27,Padova,Sudtirol,2,0,1,0,H
+1601579,serie_B,2026,2026-10-27,Vicenza Virtus,Modena,1,2,1,1,A
+1601580,serie_B,2026,2026-10-27,Mantova,Cremonese,0,2,0,1,A
+1601582,serie_B,2026,2026-10-28,Pisa,Palermo,3,3,2,0,D
+1601578,serie_B,2026,2026-10-28,Juve Stabia,Hellas Verona,0,1,0,0,A
+1601575,serie_B,2026,2026-10-28,Carrarese,Arezzo,2,1,0,0,H
+1601586,serie_B,2026,2026-10-31,Cremonese,Benevento,2,0,1,0,H
+1601588,serie_B,2026,2026-10-31,Modena,Mantova,1,1,0,0,D
+1601591,serie_B,2026,2026-10-31,Sudtirol,Cesena,1,1,1,0,D
+1601585,serie_B,2026,2026-10-31,Catanzaro,Padova,1,1,1,0,D
+1601590,serie_B,2026,2026-10-31,Sampdoria,Virtus Entella,2,0,2,0,H
+1601587,serie_B,2026,2026-11-01,Empoli,Juve Stabia,2,2,2,1,D
+1601584,serie_B,2026,2026-11-01,Avellino,Pisa,2,0,1,0,H
+1601583,serie_B,2026,2026-11-01,Arezzo,Ascoli,0,0,0,0,D
+1601592,serie_B,2026,2026-11-01,Hellas Verona,Carrarese,3,0,3,0,H
+1601589,serie_B,2026,2026-11-01,Palermo,Vicenza Virtus,3,1,1,1,H
