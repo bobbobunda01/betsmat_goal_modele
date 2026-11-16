@@ -63,3 +63,12 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1556887,ecosse_div_1,2026,2026-10-31,Ayr Utd,Queen's Park,3,2,1,0,H
 1556888,ecosse_div_1,2026,2026-10-31,Dunfermline,Inverness CT,5,1,0,1,H
 1556886,ecosse_div_1,2026,2026-10-31,Arbroath,Raith Rovers,0,4,0,3,A
+1556895,ecosse_div_1,2026,2026-11-06,Raith Rovers,Dunfermline,0,0,0,0,D
+1556892,ecosse_div_1,2026,2026-11-07,Inverness CT,Livingston,1,1,0,0,D
+1556893,ecosse_div_1,2026,2026-11-07,Morton,Stenhousemuir,4,3,2,2,H
+1556891,ecosse_div_1,2026,2026-11-07,Arbroath,Ayr Utd,4,1,2,0,H
+1556894,ecosse_div_1,2026,2026-11-07,Queen's Park,Partick,0,1,0,0,A
+1556898,ecosse_div_1,2026,2026-11-14,Livingston,Morton,2,0,2,0,H
+1556899,ecosse_div_1,2026,2026-11-14,Partick,Inverness CT,3,2,2,0,H
+1556896,ecosse_div_1,2026,2026-11-14,Ayr Utd,Raith Rovers,3,1,2,0,H
+1556900,ecosse_div_1,2026,2026-11-14,Stenhousemuir,Queen's Park,2,0,1,0,H

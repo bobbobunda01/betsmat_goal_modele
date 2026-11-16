@@ -99,3 +99,13 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1601583,serie_B,2026,2026-11-01,Arezzo,Ascoli,0,0,0,0,D
 1601592,serie_B,2026,2026-11-01,Hellas Verona,Carrarese,3,0,3,0,H
 1601589,serie_B,2026,2026-11-01,Palermo,Vicenza Virtus,3,1,1,1,H
+1601593,serie_B,2026,2026-11-06,Ascoli,Palermo,1,1,1,0,D
+1601596,serie_B,2026,2026-11-07,Cesena,Catanzaro,1,0,0,0,H
+1601602,serie_B,2026,2026-11-07,Pisa,Sudtirol,2,2,1,1,D
+1601598,serie_B,2026,2026-11-07,Juve Stabia,Arezzo,1,0,1,0,H
+1601601,serie_B,2026,2026-11-07,Padova,Empoli,2,2,2,1,D
+1601600,serie_B,2026,2026-11-07,Mantova,Hellas Verona,0,0,0,0,D
+1601594,serie_B,2026,2026-11-07,Benevento,Avellino,1,1,0,0,D
+1601597,serie_B,2026,2026-11-08,Virtus Entella,Modena,0,2,0,2,A
+1601595,serie_B,2026,2026-11-08,Carrarese,Sampdoria,0,1,0,1,A
+1601599,serie_B,2026,2026-11-08,Vicenza Virtus,Cremonese,1,4,1,1,A
