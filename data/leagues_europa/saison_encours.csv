@@ -127,3 +127,21 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1636318,League_europa,2026,2026-10-22,Plzen,Levski Sofia,1,2,0,1,A
 1636311,League_europa,2026,2026-10-22,Omonia Nicosia,Benfica,1,4,1,1,A
 1636241,League_europa,2026,2026-10-22,Celje,Red Bull Salzburg,2,2,0,1,D
+1636324,League_europa,2026,2026-11-04,Rennes,Olympiakos Piraeus,0,0,0,0,D
+1636254,League_europa,2026,2026-11-05,Crystal Palace,1899 Hoffenheim,1,1,0,1,D
+1636289,League_europa,2026,2026-11-05,Lillestrom,Plzen,0,1,0,1,A
+1636302,League_europa,2026,2026-11-05,NEC Nijmegen,Omonia Nicosia,3,1,0,1,H
+1636208,League_europa,2026,2026-11-05,AC Milan,Ferencvarosi TC,0,2,0,0,A
+1636319,League_europa,2026,2026-11-05,Real Sociedad,Lyon,1,1,1,0,D
+1636211,League_europa,2026,2026-11-05,Anderlecht,Red Bull Salzburg,2,0,1,0,H
+1636337,League_europa,2026,2026-11-05,Sparta Praha,Bournemouth,1,3,1,0,A
+1636286,League_europa,2026,2026-11-05,Levski Sofia,Jagiellonia,1,0,0,0,H
+1636223,League_europa,2026,2026-11-05,Bayer Leverkusen,Marseille,0,1,0,0,A
+1636219,League_europa,2026,2026-11-05,AZ Alkmaar,Juventus,1,2,0,2,A
+1636229,League_europa,2026,2026-11-05,Benfica,Lech Poznan,3,1,1,0,H
+1636250,League_europa,2026,2026-11-05,Celtic,Beşiktaş,3,2,0,0,H
+1636245,League_europa,2026,2026-11-05,Celta Vigo,Union St. Gilloise,1,2,1,1,A
+1636264,League_europa,2026,2026-11-05,Hapoel Beer Sheva,OFI,0,2,0,1,A
+1636339,League_europa,2026,2026-11-05,Sturm Graz,Celje,2,3,1,2,A
+1636345,League_europa,2026,2026-11-05,Sunderland,Dinamo Zagreb,0,2,0,2,A
+1636347,League_europa,2026,2026-11-05,Torreense,Ararat-Armenia,3,2,1,1,H

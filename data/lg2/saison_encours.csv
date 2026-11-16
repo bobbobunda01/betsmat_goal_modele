@@ -131,3 +131,21 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1569999,secunda,2026,2026-11-02,Oviedo,Las Palmas,2,3,0,2,A
 1570002,secunda,2026,2026-11-02,Valladolid,Leganes,4,3,3,1,H
 1569998,secunda,2026,2026-11-02,Mallorca,Cadiz,2,1,0,0,H
+1570004,secunda,2026,2026-11-07,Burgos,Celta de Vigo II,2,1,0,1,H
+1570005,secunda,2026,2026-11-07,Cadiz,Oviedo,1,2,0,2,A
+1570012,secunda,2026,2026-11-07,Leganes,Albacete,1,3,0,2,A
+1570007,secunda,2026,2026-11-07,Cordoba,AD Ceuta FC,3,0,2,0,H
+1570009,secunda,2026,2026-11-08,Girona,Almeria,0,1,0,0,A
+1570008,secunda,2026,2026-11-08,Sporting Gijon,Valladolid,1,2,0,2,A
+1570011,secunda,2026,2026-11-09,Las Palmas,Eldense,2,0,0,0,H
+1570013,secunda,2026,2026-11-09,Sabadell,Real Sociedad II,0,0,0,0,D
+1570019,secunda,2026,2026-11-13,Leganes,Burgos,3,1,3,0,H
+1570024,secunda,2026,2026-11-14,Valladolid,Castellón,0,1,0,0,A
+1570022,secunda,2026,2026-11-14,Real Sociedad II,Sporting Gijon,2,2,0,1,D
+1570015,secunda,2026,2026-11-14,Almeria,FC Andorra,2,1,2,0,H
+1570020,secunda,2026,2026-11-14,Mallorca,Cordoba,3,3,0,1,D
+1570021,secunda,2026,2026-11-14,Oviedo,Girona,1,2,0,0,A
+1570023,secunda,2026,2026-11-15,Tenerife,AD Ceuta FC,2,0,1,0,H
+1570018,secunda,2026,2026-11-15,Granada CF,Las Palmas,1,0,0,0,H
+1570016,secunda,2026,2026-11-15,Eibar,Cadiz,1,1,0,0,D
+1570017,secunda,2026,2026-11-15,Eldense,Sabadell,2,0,2,0,H
