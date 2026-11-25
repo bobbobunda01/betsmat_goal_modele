@@ -98,3 +98,12 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1576224,bundesliga_2,2026,2026-11-08,VfL Bochum,Karlsruher SC,3,2,1,1,H
 1576229,bundesliga_2,2026,2026-11-08,1. FC Magdeburg,FC St. Pauli,4,1,1,0,H
 1576226,bundesliga_2,2026,2026-11-08,1. FC Heidenheim,Hannover 96,2,2,1,0,D
+1576235,bundesliga_2,2026,2026-11-20,SV Darmstadt 98,1. FC Heidenheim,3,1,2,1,H
+1576233,bundesliga_2,2026,2026-11-20,Arminia Bielefeld,1. FC Magdeburg,1,2,0,2,A
+1576241,bundesliga_2,2026,2026-11-21,VfL Wolfsburg,Holstein Kiel,3,0,0,0,H
+1576236,bundesliga_2,2026,2026-11-21,Hannover 96,SpVgg Greuther Fürth,2,1,0,1,H
+1576239,bundesliga_2,2026,2026-11-21,1. FC Nürnberg,Eintracht Braunschweig,1,2,1,0,A
+1576240,bundesliga_2,2026,2026-11-21,FC St. Pauli,VfL Bochum,2,0,1,0,H
+1576237,bundesliga_2,2026,2026-11-22,1. FC Kaiserslautern,Dynamo Dresden,2,2,1,2,D
+1576238,bundesliga_2,2026,2026-11-22,Karlsruher SC,VfL Osnabrück,0,0,0,0,D
+1576234,bundesliga_2,2026,2026-11-22,Energie Cottbus,Hertha BSC,0,4,0,1,A

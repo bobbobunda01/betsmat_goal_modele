@@ -1,120 +1,121 @@
 fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
-1570333,La Liga,2026,2026-08-15,Alaves,Getafe,3,0,0,0,H
-1570341,La Liga,2026,2026-08-15,Sevilla,Rayo Vallecano,2,1,0,1,H
-1570339,La Liga,2026,2026-08-16,Racing Santander,Villarreal,2,2,2,2,D
-1570338,La Liga,2026,2026-08-16,Espanyol,Levante,3,0,2,0,H
-1570337,La Liga,2026,2026-08-17,Deportivo La Coruna,Elche,1,1,1,0,D
-1570334,La Liga,2026,2026-08-19,Atletico Madrid,Malaga,2,0,0,0,H
-1570351,La Liga,2026,2026-08-20,Rayo Vallecano,Alaves,1,1,0,0,D
-1570345,La Liga,2026,2026-08-21,Real Betis,Real Sociedad,1,0,0,0,H
-1570343,La Liga,2026,2026-08-22,Athletic Club,Sevilla,1,3,0,1,A
-1570352,La Liga,2026,2026-08-22,Valencia,Celta Vigo,0,0,0,0,D
-1570347,La Liga,2026,2026-08-22,Espanyol,Real Madrid,1,2,1,1,A
-1570344,La Liga,2026,2026-08-23,Atletico Madrid,Villarreal,2,2,0,0,D
-1570348,La Liga,2026,2026-08-23,Getafe,Racing Santander,1,0,0,0,H
-1570346,La Liga,2026,2026-08-23,Elche,Barcelona,0,5,0,2,A
-1570350,La Liga,2026,2026-08-24,Osasuna,Levante,0,0,0,0,D
-1570349,La Liga,2026,2026-08-24,Malaga,Deportivo La Coruna,1,1,1,1,D
-1570342,La Liga,2026,2026-08-25,Valencia,Real Betis,0,1,0,0,A
-1570340,La Liga,2026,2026-08-26,Real Madrid,Real Sociedad,4,1,1,1,H
-1570336,La Liga,2026,2026-08-27,Celta Vigo,Osasuna,1,2,1,0,A
-1570335,La Liga,2026,2026-08-27,Barcelona,Athletic Club,2,0,1,0,H
-1570359,La Liga,2026,2026-08-28,Racing Santander,Elche,3,2,3,0,H
-1570353,La Liga,2026,2026-08-28,Alaves,Villarreal,1,0,1,0,H
-1570357,La Liga,2026,2026-08-29,Levante,Real Betis,5,2,2,2,H
-1570361,La Liga,2026,2026-08-29,Real Sociedad,Espanyol,2,1,1,1,H
-1570362,La Liga,2026,2026-08-29,Sevilla,Atletico Madrid,1,3,0,3,A
-1570360,La Liga,2026,2026-08-30,Real Madrid,Malaga,4,0,3,0,H
-1570356,La Liga,2026,2026-08-30,Deportivo La Coruna,Valencia,3,1,2,1,H
-1570355,La Liga,2026,2026-08-30,Celta Vigo,Athletic Club,0,2,0,2,A
-1570358,La Liga,2026,2026-08-31,Osasuna,Getafe,1,0,1,0,H
-1570354,La Liga,2026,2026-08-31,Barcelona,Rayo Vallecano,5,2,2,1,H
-1570392,La Liga,2026,2026-09-03,Real Sociedad,Celta Vigo,0,0,0,0,D
-1570365,La Liga,2026,2026-09-04,Real Betis,Real Madrid,1,0,0,0,H
-1570364,La Liga,2026,2026-09-05,Athletic Club,Atletico Madrid,3,0,0,0,H
-1570370,La Liga,2026,2026-09-05,Rayo Vallecano,Racing Santander,3,2,2,2,H
-1570372,La Liga,2026,2026-09-05,Villarreal,Deportivo La Coruna,2,3,1,1,A
-1570371,La Liga,2026,2026-09-06,Valencia,Barcelona,0,5,0,2,A
-1570369,La Liga,2026,2026-09-06,Malaga,Levante,0,0,0,0,D
-1570363,La Liga,2026,2026-09-06,Alaves,Osasuna,5,2,2,0,H
-1570367,La Liga,2026,2026-09-06,Espanyol,Sevilla,1,1,0,0,D
-1570368,La Liga,2026,2026-09-07,Getafe,Celta Vigo,1,1,1,0,D
-1570366,La Liga,2026,2026-09-07,Elche,Real Sociedad,2,3,0,2,A
-1570381,La Liga,2026,2026-09-11,Sevilla,Valencia,1,0,0,0,H
-1570378,La Liga,2026,2026-09-12,Racing Santander,Alaves,2,1,1,1,H
-1570377,La Liga,2026,2026-09-12,Osasuna,Espanyol,0,2,0,2,A
-1570373,La Liga,2026,2026-09-12,Athletic Club,Elche,1,1,0,0,D
-1570379,La Liga,2026,2026-09-12,Real Madrid,Rayo Vallecano,4,1,3,0,H
-1570374,La Liga,2026,2026-09-13,Celta Vigo,Malaga,1,1,1,0,D
-1570376,La Liga,2026,2026-09-13,Levante,Barcelona,2,4,0,2,A
-1570375,La Liga,2026,2026-09-13,Getafe,Deportivo La Coruna,1,1,0,0,D
-1570380,La Liga,2026,2026-09-13,Real Sociedad,Atletico Madrid,0,3,0,0,A
-1570382,La Liga,2026,2026-09-14,Villarreal,Real Betis,1,2,1,2,A
-1570391,La Liga,2026,2026-09-15,Rayo Vallecano,Espanyol,2,1,2,0,H
-1570383,La Liga,2026,2026-09-15,Alaves,Valencia,0,1,0,0,A
-1570388,La Liga,2026,2026-09-15,Elche,Real Madrid,2,3,0,2,A
-1570384,La Liga,2026,2026-09-16,Atletico Madrid,Osasuna,4,0,1,0,H
-1570387,La Liga,2026,2026-09-16,Deportivo La Coruna,Sevilla,0,1,0,0,A
-1570385,La Liga,2026,2026-09-16,Barcelona,Racing Santander,7,2,4,1,H
-1570386,La Liga,2026,2026-09-17,Real Betis,Getafe,1,0,1,0,H
-1570390,La Liga,2026,2026-09-17,Malaga,Villarreal,1,3,1,2,A
-1570397,La Liga,2026,2026-09-18,Espanyol,Elche,1,3,0,2,A
-1570399,La Liga,2026,2026-09-19,Osasuna,Rayo Vallecano,1,1,1,0,D
-1570393,La Liga,2026,2026-09-19,Athletic Club,Alaves,0,0,0,0,D
-1570395,La Liga,2026,2026-09-19,Celta Vigo,Racing Santander,5,0,2,0,H
-1570400,La Liga,2026,2026-09-19,Sevilla,Barcelona,1,3,1,1,A
-1570398,La Liga,2026,2026-09-20,Getafe,Malaga,1,0,0,0,H
-1570394,La Liga,2026,2026-09-20,Atletico Madrid,Real Madrid,2,1,0,0,H
-1570402,La Liga,2026,2026-09-20,Villarreal,Levante,3,1,1,1,H
-1570396,La Liga,2026,2026-09-20,Deportivo La Coruna,Real Betis,1,1,0,1,D
-1570401,La Liga,2026,2026-09-20,Valencia,Real Sociedad,2,3,0,1,A
-1570408,La Liga,2026,2026-10-09,Malaga,Espanyol,1,1,0,1,D
-1570403,La Liga,2026,2026-10-10,Alaves,Atletico Madrid,1,2,1,1,A
-1570404,La Liga,2026,2026-10-10,Barcelona,Getafe,3,0,2,0,H
-1570411,La Liga,2026,2026-10-10,Real Madrid,Villarreal,1,0,0,0,H
-1570406,La Liga,2026,2026-10-11,Elche,Celta Vigo,0,0,0,0,D
-1570412,La Liga,2026,2026-10-11,Real Sociedad,Deportivo La Coruna,3,2,2,0,H
-1570405,La Liga,2026,2026-10-11,Real Betis,Osasuna,5,2,2,0,H
-1570409,La Liga,2026,2026-10-11,Racing Santander,Valencia,2,2,1,1,D
-1570407,La Liga,2026,2026-10-12,Levante,Sevilla,3,3,0,1,D
-1570415,La Liga,2026,2026-10-16,Deportivo La Coruna,Levante,1,1,0,0,D
-1570416,La Liga,2026,2026-10-17,Espanyol,Atletico Madrid,0,1,0,0,A
-1570422,La Liga,2026,2026-10-17,Villarreal,Elche,0,0,0,0,D
-1570413,La Liga,2026,2026-10-17,Real Betis,Barcelona,2,5,1,2,A
-1570421,La Liga,2026,2026-10-17,Valencia,Athletic Club,0,0,0,0,D
-1570419,La Liga,2026,2026-10-18,Osasuna,Racing Santander,2,0,1,0,H
-1570414,La Liga,2026,2026-10-18,Celta Vigo,Alaves,2,1,0,0,H
-1570418,La Liga,2026,2026-10-18,Malaga,Real Sociedad,2,5,0,2,A
-1570420,La Liga,2026,2026-10-18,Real Madrid,Sevilla,4,1,2,0,H
-1570417,La Liga,2026,2026-10-19,Getafe,Rayo Vallecano,1,1,0,1,D
-1570389,La Liga,2026,2026-10-21,Levante,Athletic Club,3,1,2,0,H
-1570423,La Liga,2026,2026-10-23,Alaves,Malaga,1,1,0,1,D
-1570429,La Liga,2026,2026-10-24,Rayo Vallecano,Elche,0,3,0,2,A
-1570428,La Liga,2026,2026-10-24,Racing Santander,Espanyol,2,1,0,0,H
-1570432,La Liga,2026,2026-10-24,Valencia,Villarreal,1,2,1,0,A
-1570425,La Liga,2026,2026-10-24,Atletico Madrid,Deportivo La Coruna,1,0,0,0,H
-1570424,La Liga,2026,2026-10-25,Athletic Club,Getafe,4,0,2,0,H
-1570427,La Liga,2026,2026-10-25,Celta Vigo,Real Betis,0,0,0,0,D
-1570430,La Liga,2026,2026-10-25,Real Sociedad,Levante,2,1,2,1,H
-1570426,La Liga,2026,2026-10-25,Barcelona,Real Madrid,1,2,0,1,A
-1570431,La Liga,2026,2026-10-26,Sevilla,Osasuna,2,0,1,0,H
-1570442,La Liga,2026,2026-10-30,Villarreal,Espanyol,0,1,0,0,A
-1570439,La Liga,2026,2026-10-31,Levante,Atletico Madrid,0,2,0,1,A
-1570441,La Liga,2026,2026-10-31,Rayo Vallecano,Celta Vigo,3,0,1,0,H
-1570435,La Liga,2026,2026-10-31,Real Betis,Malaga,2,1,2,0,H
-1570434,La Liga,2026,2026-10-31,Barcelona,Alaves,6,1,4,0,H
-1570438,La Liga,2026,2026-11-01,Getafe,Sevilla,3,1,0,1,H
-1570440,La Liga,2026,2026-11-01,Racing Santander,Real Madrid,0,3,0,3,A
-1570437,La Liga,2026,2026-11-01,Elche,Valencia,0,1,0,0,A
-1570433,La Liga,2026,2026-11-01,Athletic Club,Real Sociedad,2,1,2,1,H
-1570436,La Liga,2026,2026-11-02,Deportivo La Coruna,Osasuna,2,1,0,1,H
-1570450,La Liga,2026,2026-11-06,Sevilla,Alaves,0,0,0,0,D
-1570447,La Liga,2026,2026-11-07,Malaga,Racing Santander,1,2,1,0,A
-1570446,La Liga,2026,2026-11-07,Espanyol,Deportivo La Coruna,0,0,0,0,D
-1570448,La Liga,2026,2026-11-07,Osasuna,Athletic Club,1,1,0,0,D
-1570451,La Liga,2026,2026-11-07,Valencia,Real Madrid,0,3,0,2,A
-1570445,La Liga,2026,2026-11-08,Elche,Real Betis,0,2,0,0,A
-1570449,La Liga,2026,2026-11-08,Real Sociedad,Rayo Vallecano,1,0,0,0,H
-1570452,La Liga,2026,2026-11-08,Villarreal,Getafe,2,0,0,0,H
-1570444,La Liga,2026,2026-11-08,Celta Vigo,Levante,0,0,0,0,D
-1570443,La Liga,2026,2026-11-08,Atletico Madrid,Barcelona,1,2,1,1,A
+1550095,Serie A,2026,2026-08-22,Udinese,Como,1,1,1,0,D
+1550092,Serie A,2026,2026-08-22,Inter,Monza,4,1,1,1,H
+1550091,Serie A,2026,2026-08-22,Genoa,Napoli,0,2,0,0,A
+1550093,Serie A,2026,2026-08-22,Parma,Cagliari,0,1,0,0,A
+1550090,Serie A,2026,2026-08-23,Frosinone,Juventus,0,1,0,1,A
+1550096,Serie A,2026,2026-08-23,Venezia,Lecce,0,2,0,0,A
+1550088,Serie A,2026,2026-08-23,Atalanta,Sassuolo,2,1,1,0,H
+1550094,Serie A,2026,2026-08-23,Torino,AC Milan,1,2,0,0,A
+1550089,Serie A,2026,2026-08-24,Bologna,Lazio,0,1,0,0,A
+1550087,Serie A,2026,2026-08-24,AS Roma,Fiorentina,4,0,1,0,H
+1550097,Serie A,2026,2026-08-28,AC Milan,Venezia,2,0,0,0,H
+1550106,Serie A,2026,2026-08-29,Sassuolo,Torino,2,1,1,1,H
+1550100,Serie A,2026,2026-08-29,Fiorentina,Frosinone,0,3,0,2,A
+1550104,Serie A,2026,2026-08-29,Monza,Udinese,2,3,1,3,A
+1550101,Serie A,2026,2026-08-29,Juventus,Parma,2,0,0,0,H
+1550105,Serie A,2026,2026-08-30,Napoli,Como,1,2,1,2,A
+1550102,Serie A,2026,2026-08-30,Lazio,Genoa,1,0,1,0,H
+1550099,Serie A,2026,2026-08-30,Cagliari,Inter,0,1,0,1,A
+1550103,Serie A,2026,2026-08-31,Lecce,AS Roma,0,4,0,3,A
+1550098,Serie A,2026,2026-08-31,Atalanta,Bologna,1,0,0,0,H
+1550112,Serie A,2026,2026-09-04,Genoa,Como,1,4,1,3,A
+1550110,Serie A,2026,2026-09-05,Fiorentina,Torino,1,2,0,0,A
+1550113,Serie A,2026,2026-09-05,Inter,Napoli,3,2,0,0,H
+1550107,Serie A,2026,2026-09-05,AS Roma,Atalanta,2,1,0,0,H
+1550111,Serie A,2026,2026-09-06,Frosinone,Venezia,3,2,2,0,H
+1550115,Serie A,2026,2026-09-06,Parma,Monza,1,1,0,1,D
+1550108,Serie A,2026,2026-09-06,Bologna,Sassuolo,2,2,0,1,D
+1550114,Serie A,2026,2026-09-06,Juventus,AC Milan,1,1,0,0,D
+1550109,Serie A,2026,2026-09-07,Cagliari,Lecce,1,0,1,0,H
+1550116,Serie A,2026,2026-09-07,Udinese,Lazio,1,2,0,0,A
+1550126,Serie A,2026,2026-09-11,Venezia,Fiorentina,2,4,1,2,A
+1550119,Serie A,2026,2026-09-12,Genoa,Frosinone,1,1,0,1,D
+1550121,Serie A,2026,2026-09-12,Lazio,AC Milan,2,2,2,0,D
+1550117,Serie A,2026,2026-09-12,Atalanta,Cagliari,1,2,1,1,A
+1550122,Serie A,2026,2026-09-13,Lecce,Monza,3,2,3,1,H
+1550123,Serie A,2026,2026-09-13,Napoli,Bologna,1,0,0,0,H
+1550124,Serie A,2026,2026-09-13,Sassuolo,Juventus,3,2,0,0,H
+1550125,Serie A,2026,2026-09-14,Torino,AS Roma,0,2,0,1,A
+1550118,Serie A,2026,2026-09-14,Como,Parma,2,1,1,0,H
+1550120,Serie A,2026,2026-09-14,Inter,Udinese,5,3,2,2,H
+1550133,Serie A,2026,2026-09-18,Monza,Sassuolo,2,1,0,0,H
+1550135,Serie A,2026,2026-09-19,Udinese,Cagliari,0,1,0,0,A
+1550129,Serie A,2026,2026-09-19,Bologna,Torino,1,1,1,0,D
+1550128,Serie A,2026,2026-09-19,AS Roma,Inter,2,2,2,0,D
+1550136,Serie A,2026,2026-09-19,Venezia,Lazio,0,2,0,0,A
+1550130,Serie A,2026,2026-09-20,Fiorentina,Napoli,1,1,0,1,D
+1550131,Serie A,2026,2026-09-20,Frosinone,Como,2,0,2,0,H
+1550134,Serie A,2026,2026-09-20,Parma,Genoa,2,1,1,0,H
+1550132,Serie A,2026,2026-09-20,Juventus,Atalanta,2,0,1,0,H
+1550127,Serie A,2026,2026-09-20,AC Milan,Lecce,3,0,1,0,H
+1550140,Serie A,2026,2026-10-10,Genoa,Fiorentina,2,1,2,0,H
+1550141,Serie A,2026,2026-10-10,Inter,Parma,3,0,3,0,H
+1550144,Serie A,2026,2026-10-10,Napoli,Frosinone,3,0,2,0,H
+1550139,Serie A,2026,2026-10-11,Como,AS Roma,0,0,0,0,D
+1550142,Serie A,2026,2026-10-11,Lazio,Monza,3,1,2,0,H
+1550143,Serie A,2026,2026-10-11,Lecce,Bologna,1,2,0,1,A
+1550145,Serie A,2026,2026-10-11,Sassuolo,AC Milan,1,1,0,0,D
+1550138,Serie A,2026,2026-10-11,Cagliari,Juventus,1,1,1,0,D
+1550137,Serie A,2026,2026-10-12,Atalanta,Venezia,3,1,3,1,H
+1550146,Serie A,2026,2026-10-12,Torino,Udinese,2,1,1,1,H
+1550151,Serie A,2026,2026-10-16,Frosinone,Sassuolo,4,2,3,2,H
+1550156,Serie A,2026,2026-10-17,Venezia,Napoli,1,0,0,0,H
+1550149,Serie A,2026,2026-10-17,Bologna,Inter,1,3,1,1,A
+1550148,Serie A,2026,2026-10-17,AS Roma,Genoa,2,0,0,0,H
+1550155,Serie A,2026,2026-10-18,Udinese,Lecce,0,3,0,2,A
+1550150,Serie A,2026,2026-10-18,Fiorentina,Como,1,3,1,2,A
+1550147,Serie A,2026,2026-10-18,AC Milan,Atalanta,3,2,2,0,H
+1550152,Serie A,2026,2026-10-18,Juventus,Lazio,0,3,0,1,A
+1550153,Serie A,2026,2026-10-19,Monza,Cagliari,4,0,1,0,H
+1550154,Serie A,2026,2026-10-19,Parma,Torino,0,3,0,2,A
+1550165,Serie A,2026,2026-10-23,Torino,Monza,3,2,1,0,H
+1550158,Serie A,2026,2026-10-24,Cagliari,Bologna,0,2,0,0,A
+1550159,Serie A,2026,2026-10-24,Como,Sassuolo,2,0,0,0,H
+1550164,Serie A,2026,2026-10-24,Napoli,AS Roma,3,3,1,0,D
+1550162,Serie A,2026,2026-10-24,Lazio,Parma,2,1,0,0,H
+1550161,Serie A,2026,2026-10-25,Inter,Fiorentina,2,1,0,0,H
+1550160,Serie A,2026,2026-10-25,Genoa,Venezia,1,0,1,0,H
+1550157,Serie A,2026,2026-10-25,Atalanta,Frosinone,4,4,3,2,D
+1550163,Serie A,2026,2026-10-25,Lecce,Juventus,0,2,0,2,A
+1550166,Serie A,2026,2026-10-25,Udinese,AC Milan,0,2,0,1,A
+1550174,Serie A,2026,2026-10-27,Sassuolo,Lazio,2,6,2,4,A
+1550168,Serie A,2026,2026-10-27,AS Roma,Cagliari,4,2,2,1,H
+1550175,Serie A,2026,2026-10-27,Torino,Como,1,3,1,0,A
+1550167,Serie A,2026,2026-10-28,AC Milan,Bologna,2,4,2,1,A
+1550176,Serie A,2026,2026-10-28,Venezia,Inter,0,2,0,0,A
+1550173,Serie A,2026,2026-10-28,Parma,Udinese,0,0,0,0,D
+1550171,Serie A,2026,2026-10-28,Genoa,Juventus,2,0,2,0,H
+1550172,Serie A,2026,2026-10-28,Monza,Napoli,1,4,1,1,A
+1550170,Serie A,2026,2026-10-29,Frosinone,Lecce,5,1,2,0,H
+1550169,Serie A,2026,2026-10-29,Fiorentina,Atalanta,2,2,0,1,D
+1550179,Serie A,2026,2026-10-31,Bologna,Monza,2,1,1,1,H
+1550186,Serie A,2026,2026-10-31,Udinese,AS Roma,2,5,0,4,A
+1550177,Serie A,2026,2026-10-31,AC Milan,Inter,3,1,3,1,H
+1550180,Serie A,2026,2026-11-01,Como,Venezia,1,0,1,0,H
+1550183,Serie A,2026,2026-11-01,Lazio,Cagliari,2,1,1,1,H
+1550181,Serie A,2026,2026-11-01,Frosinone,Torino,2,0,0,0,H
+1550184,Serie A,2026,2026-11-01,Lecce,Genoa,1,2,1,2,A
+1550182,Serie A,2026,2026-11-01,Juventus,Napoli,2,0,0,0,H
+1550185,Serie A,2026,2026-11-02,Sassuolo,Fiorentina,2,4,1,1,A
+1550178,Serie A,2026,2026-11-02,Atalanta,Parma,0,3,0,1,A
+1550196,Serie A,2026,2026-11-06,Venezia,Udinese,2,1,0,0,H
+1550188,Serie A,2026,2026-11-07,Cagliari,Frosinone,1,0,1,0,H
+1550195,Serie A,2026,2026-11-07,Torino,Lecce,1,1,0,0,D
+1550194,Serie A,2026,2026-11-07,Parma,Bologna,1,2,0,0,A
+1550187,Serie A,2026,2026-11-07,AS Roma,Sassuolo,3,0,2,0,H
+1550193,Serie A,2026,2026-11-08,Napoli,Lazio,1,1,0,1,D
+1550190,Serie A,2026,2026-11-08,Genoa,AC Milan,1,2,0,2,A
+1550192,Serie A,2026,2026-11-08,Monza,Atalanta,0,1,0,0,A
+1550191,Serie A,2026,2026-11-08,Inter,Como,2,0,2,0,H
+1550189,Serie A,2026,2026-11-08,Fiorentina,Juventus,2,2,1,1,D
+1550202,Serie A,2026,2026-11-21,Lazio,Lecce,3,0,1,0,H
+1550200,Serie A,2026,2026-11-21,Como,Cagliari,2,0,1,0,H
+1550205,Serie A,2026,2026-11-21,Parma,AS Roma,1,5,0,1,A
+1550204,Serie A,2026,2026-11-21,Napoli,Torino,1,0,0,0,H
+1550201,Serie A,2026,2026-11-22,Juventus,Venezia,4,0,0,0,H
+1550206,Serie A,2026,2026-11-22,Sassuolo,Genoa,0,2,0,2,A
+1550199,Serie A,2026,2026-11-22,Bologna,Udinese,1,1,1,0,D
+1550197,Serie A,2026,2026-11-22,AC Milan,Frosinone,5,1,2,1,H
+1550198,Serie A,2026,2026-11-22,Atalanta,Inter,4,4,1,2,D
+1550203,Serie A,2026,2026-11-23,Monza,Fiorentina,3,0,1,0,H

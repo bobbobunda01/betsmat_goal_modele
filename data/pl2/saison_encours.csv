@@ -179,3 +179,23 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1563252,Championship,2026,2026-11-07,Blackburn,West Ham,2,1,0,0,H
 1563259,Championship,2026,2026-11-07,QPR,Lincoln,2,1,1,1,H
 1563255,Championship,2026,2026-11-07,Charlton,Sheffield Utd,2,1,1,1,H
+1563270,Championship,2026,2026-11-21,Southampton,Derby,2,0,0,0,H
+1563267,Championship,2026,2026-11-21,Millwall,QPR,0,1,0,1,A
+1563268,Championship,2026,2026-11-21,Norwich,Cardiff,2,1,0,0,H
+1563274,Championship,2026,2026-11-21,Wolves,Charlton,2,1,0,0,H
+1563273,Championship,2026,2026-11-21,West Ham,Preston,1,1,0,1,D
+1563269,Championship,2026,2026-11-21,Sheffield Utd,Watford,4,0,2,0,H
+1563263,Championship,2026,2026-11-21,Bolton,Portsmouth,1,1,1,1,D
+1563266,Championship,2026,2026-11-21,Middlesbrough,Bristol City,2,0,1,0,H
+1563271,Championship,2026,2026-11-21,Stoke City,Birmingham,1,0,0,0,H
+1563272,Championship,2026,2026-11-21,Swansea,West Brom,2,2,2,2,D
+1563265,Championship,2026,2026-11-21,Lincoln,Wrexham,0,1,0,0,A
+1563264,Championship,2026,2026-11-22,Burnley,Blackburn,2,2,1,1,D
+1563276,Championship,2026,2026-11-24,Cardiff,Preston,0,4,0,2,A
+1563275,Championship,2026,2026-11-24,Bristol City,Wrexham,1,1,0,1,D
+1563281,Championship,2026,2026-11-24,Sheffield Utd,Southampton,1,1,0,1,D
+1563278,Championship,2026,2026-11-24,Middlesbrough,Swansea,2,1,1,1,H
+1563279,Championship,2026,2026-11-24,Norwich,QPR,1,1,0,1,D
+1563277,Championship,2026,2026-11-24,Charlton,Lincoln,4,0,2,0,H
+1563280,Championship,2026,2026-11-24,Portsmouth,West Ham,1,0,1,0,H
+1563282,Championship,2026,2026-11-24,Wolves,Derby,3,0,1,0,H
