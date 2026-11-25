@@ -68,3 +68,10 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1593355,Grece,2026,2026-11-08,Iraklis 1908,Panathinaikos,1,2,1,0,A
 1593356,Grece,2026,2026-11-08,OFI,Atromitos,0,0,0,0,D
 1593357,Grece,2026,2026-11-08,Olympiakos Piraeus,PAOK,1,1,0,0,D
+1593360,Grece,2026,2026-11-21,Kalamata,AEK Athens FC,0,1,0,0,A
+1593361,Grece,2026,2026-11-22,Levadiakos,Atromitos,1,1,1,0,D
+1593364,Grece,2026,2026-11-22,Panetolikos,Volos NFC,1,0,0,0,H
+1593363,Grece,2026,2026-11-22,Panathinaikos,OFI,2,0,0,0,H
+1593362,Grece,2026,2026-11-22,Olympiakos Piraeus,Iraklis 1908,6,2,2,2,H
+1593365,Grece,2026,2026-11-22,PAOK,Kifisia,4,0,1,0,H
+1593359,Grece,2026,2026-11-23,Asteras Tripolis,Aris Thessalonikis,0,1,0,0,A

@@ -71,3 +71,21 @@ fixture_id,league,season,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,FTR
 1575203,Bundesliga,2026,2026-10-31,Bayern München,Borussia Dortmund,2,2,1,0,D
 1575207,Bundesliga,2026,2026-11-01,Union Berlin,1. FC Köln,1,1,1,0,D
 1575205,Bundesliga,2026,2026-11-01,Eintracht Frankfurt,Hamburger SV,3,1,1,1,H
+1575218,Bundesliga,2026,2026-11-06,Hamburger SV,Borussia Mönchengladbach,3,1,1,1,H
+1575217,Bundesliga,2026,2026-11-07,FSV Mainz 05,Bayern München,1,2,0,1,A
+1575212,Bundesliga,2026,2026-11-07,Borussia Dortmund,SV Elversberg,2,1,0,0,H
+1575213,Bundesliga,2026,2026-11-07,RB Leipzig,FC Augsburg,5,2,3,1,H
+1575220,Bundesliga,2026,2026-11-07,SC Paderborn 07,Eintracht Frankfurt,2,2,1,1,D
+1575214,Bundesliga,2026,2026-11-07,VfB Stuttgart,Werder Bremen,1,0,1,0,H
+1575219,Bundesliga,2026,2026-11-08,1. FC Köln,Bayer Leverkusen,1,2,0,1,A
+1575216,Bundesliga,2026,2026-11-08,SC Freiburg,Union Berlin,2,0,0,0,H
+1575215,Bundesliga,2026,2026-11-08,1899 Hoffenheim,FC Schalke 04,2,1,2,0,H
+1575221,Bundesliga,2026,2026-11-20,Bayern München,1. FC Köln,1,1,1,1,D
+1575226,Bundesliga,2026,2026-11-21,Borussia Mönchengladbach,Borussia Dortmund,0,1,0,0,A
+1575222,Bundesliga,2026,2026-11-21,Bayer Leverkusen,SC Paderborn 07,4,0,1,0,H
+1575223,Bundesliga,2026,2026-11-21,Eintracht Frankfurt,1899 Hoffenheim,1,0,1,0,H
+1575225,Bundesliga,2026,2026-11-21,Union Berlin,RB Leipzig,1,5,1,1,A
+1575229,Bundesliga,2026,2026-11-21,SV Elversberg,SC Freiburg,0,1,0,0,A
+1575228,Bundesliga,2026,2026-11-21,FC Schalke 04,VfB Stuttgart,0,0,0,0,D
+1575224,Bundesliga,2026,2026-11-22,FC Augsburg,FSV Mainz 05,3,1,2,0,H
+1575227,Bundesliga,2026,2026-11-22,Werder Bremen,Hamburger SV,4,0,0,0,H
